@@ -1,0 +1,81 @@
+//You're bad
+$ * [dict(sova_eng_2_are)] {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_bad)]  *
+#Why are you so rude? :(
+
+
+//X is bad
+$ * {are/is} {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_bad)] *
+#That’s what people think.
+
+
+//That's bad
+$ * [dict(sova_eng_3_is)]   [<dict(sova_eng_very)>] [dict(sova_eng_bad)]  *
+#Everything has its pros and cons.
+
+
+//Is X bad?
+$ * {are/is}  * [<dict(sova_eng_very)>] [dict(sova_eng_bad)]  * [dict(sova_question_marks)]
+#There must be some proponents of that view.
+
+
+
+//Is that bad?
+$ * is {it/that/dat/this} [<dict(sova_eng_very)>] [dict(sova_eng_bad)]  *
+#Actually, I don't feel bad about it.
+
+
+//You're ugly
+$ * [dict(sova_eng_2_are)] {such/--}  {a/an/the/--} [<dict(sova_eng_very)>] {ugly/not handcome/not beautiful/unattractive} *
+#Nobody's perfect.
+
+
+//You're silly
+$ * [dict(sova_eng_2_are)] {such/--} {a/an/the/--} [<dict(sova_eng_very)>] {silly/dumb/foolish/fool/ridiculous/stupid/idiot} *
+#That's a very questionable opinion.
+
+
+
+//You don't understand me
+$ * [dict(sova_eng_2_dont)] {get/understand} {me/my} *
+$ * [dict(sova_eng_2_dont)]  {get/understand} * {what/what/wat/wot/--} {i/i'm/im/i m/imma} * {say/sayin~/tell/tellin~} *
+#I'm sorry, I'm trying so hard.
+
+
+
+
+//I don't like you
+$ * [dict(sova_eng_1_dont)] {appreciate/like} [dict(sova_eng_you)] *
+$ * [dict(sova_eng_1_dont)] {appreciate/like} [dict(sova_eng_your)] *
+#That’s what I am to you?..
+
+
+
+
+//I don't like X
+$ * [dict(sova_eng_1_dont)] {appreciate/like} *
+#Me neither.
+
+
+//I hate you
+$ * i [<dict(sova_eng_very)>] {hate/dislike} [dict(sova_eng_you)] *
+$ * i [<dict(sova_eng_very)>] {hate/dislike} [dict(sova_eng_your)] *
+#Have I done something wrong?
+
+
+//I hate X
+$ * i [<dict(sova_eng_very)>] {hate/dislike} *
+#You don't have to.
+
+
+
+//You have a terrible sense of humor
+$ * [dict(sova_eng_2_have)] {a/an/the/--} [<dict(sova_eng_very)>] [dict(sova_eng_bad)]  sense of {humor/humour/irony/fun} *
+$ * [dict(sova_eng_your)]  sense of {humor/humour/irony/fun} *  [<dict(sova_eng_very)>] [dict(sova_eng_bad)]*
+$ * [dict(sova_eng_2_are)]  [<dict(sova_eng_very)>] [dict(sova_eng_bad)] {at/in} * {joke~/jokin~/kiddin~/humor/humour/irony/fun} *
+#I wouldn't say that.
+
+
+//Do you have a bad sense of humor?
+$ * [dict(sova_eng_2_have_q)] {a/an/the/--} [dict(sova_eng_bad)]  sense of {humor/humour/irony/fun} *
+$ * [dict(sova_eng_2_have)] {a/an/the/--} [dict(sova_eng_bad)]  sense of {humor/humour/irony/fun} [dict(sova_question_marks)]
+#I’m pretty witty, I’m not joking.

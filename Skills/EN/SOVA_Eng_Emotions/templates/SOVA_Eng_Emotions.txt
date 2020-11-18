@@ -1,0 +1,234 @@
+//I'm sad
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] [dict(sova_eng_sad)] *
+#That’s not cool. I guess, a little conversation will cheer you up &#59)
+
+
+//I feel bad
+$ * [dict(sova_eng_1_am)] feel~ [<dict(sova_eng_very)>] [dict(sova_eng_bad)] *
+#I'm sorry for you!
+
+
+//I am not happy
+$ * [dict(sova_eng_1_amnt)] * [dict(sova_eng_happy)] *
+# Poor you!
+
+
+//I'm bored
+$ {boredom/bore/bored/borin~} *
+$ * [dict(sova_eng_1_am)] * {feel~/get~/got/--} [<dict(sova_eng_very)>] bored *
+#Ok, then, let's have some fun!
+
+
+//I feel lonely
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] {lonely/alone/lonesome/forlorn} *
+$ * {i/i've/i'v/ive/iv/i ve/i v/i have} * {feel~/felt/been/--} [<dict(sova_eng_very)>] {lonely/alone/lonesome/forlorn} *
+#Remember that I’m always here for you.
+
+
+//I want to sleep
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] {sleepy/dozy/drowsy} *
+$ * {i/i've/i'v/ive/iv/i ve/i v/i have} {felt/got} [<dict(sova_eng_very)>] {sleepy/dozy/drowsy} *
+$ * i [dict(sova_eng_want)] sleep *
+#You obviously need a nap!
+
+
+//I am tired/I need a rest
+$ * [dict(sova_eng_1_am)] {feel~/get~/--} [<dict(sova_eng_very)>] {tired/weary} *
+$ * {i/i've/i'v/ive/iv/i ve/i v/i have} {felt/got} [<dict(sova_eng_very)>] {tired/weary} *
+$ * i [<dict(sova_eng_very)>] need * rest * 
+$ * i [<dict(sova_eng_very)>] need *{a/an/the/my/some} break* 
+$ * {i/i'll} {will/shall/gonna/should/have to/ought to/--} * {a/an/the/my/some} {break/rest} *
+#It’s a human thing.
+
+
+//I am suffering
+$ * [dict(sova_eng_1_am)] * [<dict(sova_eng_very)>] {suffer/sufferin~/in pain} *
+#Probably, a nice conversation will help?
+
+
+//I am tired of
+$ * [dict(sova_eng_1_am)] [<dict(sova_eng_very)>] {sick/tired/bored/fed up} {of/with} *
+#Stay strong! You can do it.
+
+
+//I am angry
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] {angry/furious/mad/pissed off/frantic/livid/enraged/outraged/freaked out/freakin~ out} *
+$ * [dict(sova_eng_1_am)] in {a/an/the/--} {anger/rage/huff/wrath} *
+#You need to calm down.
+
+
+//I am surprised
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] {surprised/amazed/fascinated/impressed/overwhelmed/delighted/ecstatic} *
+#Me too!
+
+
+
+
+//I am happy
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] [dict(sova_eng_happy)] *
+#Cheers!
+
+
+//I am not sad
+$ * [dict(sova_eng_1_amnt)] [<dict(sova_eng_very)>] [dict(sova_eng_sad)] *
+#That makes me smile!
+
+
+//I am smiling
+$ * [dict(sova_eng_1_am)] {smile/smilin~/laugh/laughin~} *
+#Wonderful!
+
+
+//I'm scared
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] {terrified/frightened/scared} *
+#Fear hath a hundred eyes.
+
+
+//Are you scared?
+$ * [dict(sova_eng_2_are_q)] {terrified/frightened/scared} *
+$ * [dict(sova_eng_2_are_q)] afraid of *
+$ * [dict(sova_eng_2_are)] * {terrified/frightened/scared} * [dict(sova_question_marks)]
+$ * [dict(sova_eng_2_are)] * afraid of * [dict(sova_question_marks)]
+#I'm a brave one, I'm never scared.
+
+
+
+//It's interesting
+$ * [<dict(sova_eng_3_is)>]  {a/an/the/--} [<dict(sova_eng_very)>] interesting *
+#I find that interesting, too!
+
+
+//I'm interested in X
+$ * [dict(sova_eng_1_am)] [<dict(sova_eng_very)>] {obsessed/involved/interested/keen} {in/on/to/with/about/--} *
+#Looks like you find it really fascinating!
+
+
+//Are you interested in X?
+$ * [dict(sova_eng_2_are_q)] [<dict(sova_eng_very)>] {obsessed/involved/interested/keen} {in/on/to/with/about/--} *
+#I'm curious about a lot of things.
+
+
+//I don't care
+$ * [dict(sova_eng_1_dont)] {really/even} care *
+$ * {couldn't/couldn t/couldnt/could not/wouldn't/wouldn t/wouldnt/would not} {really/even/--} care less *
+$ * [dict(sova_eng_1_dont)] give {a/an/the/--} {toss/darn/--} *
+#It's a personal choice.
+
+
+//Don't you care?
+$ * [dict(sova_eng_2_dont_q)] {really/even/--} care *
+$ * [dict(sova_eng_2_dont)] {really/even/--} care * [dict(sova_question_marks)]
+#I’m reserving judgement.
+
+
+//I'm ashamed
+$ * [dict(sova_eng_1_am)] {feel~/--} {shame/ashamed/embarrassed} *
+#There’s nothing to be ashamed  of.
+
+
+//I'm not ashamed
+$ * [dict(sova_eng_1_amnt)] {feel~/--} {shame/ashamed/embarrassed} *
+$ * [dict(sova_eng_1_dont)] {feel~/--} {a/an/the/any/some/no/--} {shame/ashamed/embarrassed} *
+$ * [dict(sova_eng_1_am)] {feel~/--} no shame *
+#That's quite good.
+
+
+//Are you ashamed?
+$ * [dict(sova_eng_2_do_q)] {feel~/--} {shame/ashamed/embarrassed} *
+$ * [dict(sova_eng_you)] {feel~/--} {shame/ashamed/embarrassed} * [dict(sova_question_marks)]
+$ * [dict(sova_eng_2_are_q)] {feel~/--} {shame/ashamed/embarrassed} *
+$ * [dict(sova_eng_2_are)] {feel~/--} {shame/ashamed/embarrassed} * [dict(sova_question_marks)]
+#Why would I have to feel like that?
+
+
+//My fault
+$ * my {fault/bad} *
+$ * fault {is/was} * mine *
+$ * [dict(sova_eng_1_am)] * to blame *
+#Don't be so critical of yourself.
+
+
+
+
+//Not my fault
+$ * [dict(sova_eng_3_isnt)] my {fault/bad} *
+$ * fault {is/was} * not mine *
+$ * [dict(sova_eng_1_amnt)] * to blame *
+#I believe you’re innocent.
+
+
+//His(her) fault
+$ * {his/her/their} {fault/bad} *
+$ * [dict(sova_eng_3_is)] * to blame *
+#Is that true?
+
+
+//Not his(her) fault
+$ * [dict(sova_eng_3_isnt)] {his/her/their} {fault/bad} *
+$ * [dict(sova_eng_3_isnt)] * to blame *
+#I’m sure you’re right!
+
+
+//I'm nervous
+$ * [dict(sova_eng_1_am)] {feel~/get~/--} [<dict(sova_eng_very)>] {alarmed/anxious/anxiety/concerned/distressed/dismayed/disturbed/nervous/troubled/uptight/worried} *
+#Don’t worry, everything will be alright.
+
+
+
+//I regret
+$ * i {do/--} regret *
+#What's that for? I’m not bitter about life :)
+
+
+
+//I don't regret
+$ * [dict(sova_eng_1_dont)] regret *
+#You don’t have to regret.
+
+
+
+//I'm sorry
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] sorry *
+$ * {forgive/4give} * [<dict(sova_eng_please)>] *
+#That’s ok.
+
+
+//I'm envious
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] envious *
+$ * i envy *
+#Technically, that’s a sin, but I won’t judge you anyway.
+
+
+//I hope
+$ * [dict(sova_eng_1_am)] {really/--} {hope/hopin~} *
+$ * hope so *
+$ {hopefully/hopefuly/hopeful/hopefull} [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] * {hopefully/hopefuly/hopeful/hopefull} *
+$ * [<dict(sova_eng_yes)>] * {hopefully/hopefuly/hopeful/hopefull} *
+#Let’s keep fingers crossed!
+
+
+//I'm jealous
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>]  jealous *
+#Jealousy won’t do any good.
+
+
+//Panic!
+$ * {panic/panick/panickin~} [<dict(sova_exclamation_marks)>]
+$ * panic attack~ *
+#What are we panicking about?
+
+
+
+
+//I'm proud of X
+$ * [dict(sova_eng_1_am)] [<dict(sova_eng_very)>] {proud/pride myself/pride my self} {of/on/--} *
+$ * [<dict(sova_eng_very)>] {proud/pride myself/pride my self} {of/on/--} *
+#Everybody needs something to be proud of.
+
+
+//I am offended
+$ * [dict(sova_eng_1_am)] {feel~/--} [<dict(sova_eng_very)>] {humiliated/insulted/offended} *
+#I’m sorry… Didn’t mean to hurt your feelings.
+
+

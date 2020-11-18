@@ -1,0 +1,24 @@
+hello
+=> helloo
+=> hellooo
+=> helloooo
+=> hellooooo
+=> hello there
+=> helloo there
+=> hellooo there
+=> helloooo there
+=> hellooooo there
+
+
+hi
+=> hii
+=> hiii
+=> hiiii
+=> hiiiii
+=> hiiiiii
+=> hi there
+=> hii there
+=> hiii there
+=> hiiii there
+=> hiiiii there
+=> hiiiiii there

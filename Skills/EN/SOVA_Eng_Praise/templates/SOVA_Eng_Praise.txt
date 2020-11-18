@@ -1,0 +1,161 @@
+//You're good
+$ * [dict(sova_eng_2_are)] {a/an/the/--}  [<dict(sova_eng_very)>]  [dict(sova_eng_good)] *
+$ * [dict(sova_eng_2_have)] {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_good)] *
+$ * [dict(sova_eng_your)] * [<dict(sova_eng_very)>] [dict(sova_eng_good)] *
+#Thank you!
+
+
+
+//Are you good?
+$ * [dict(sova_eng_2_are_q)] {a/an/the}  [<dict(sova_eng_very)>] [dict(sova_eng_good)] *
+#How do you think? [%that_anchor="good_bot"]
+
+
+//%that_anchor="good_bot"->good
++%that_anchor="good_bot"
+$ * [dict(sova_eng_yes)] *
+$ * [dict(sova_eng_good)] *
+$ * not * [dict(sova_eng_bad)] *
+#Oh, you’re so good to me!
+
+
+
+
+//%that_anchor="good_bot"->bad
++%that_anchor="good_bot"
+$ * [dict(sova_eng_no)] *
+$ * [dict(sova_eng_bad)] *
+$ * not * [dict(sova_eng_good)] *
+#Well, I’m the bad one here :(
+
+
+
+//%that_anchor="good_bot"-> любой другой ответ
++%that_anchor="good_bot"
+$ * 
+#Ok, let's discuss something else.
+
+
+
+//You're beautiful
+$ * [dict(sova_eng_2_are)] {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_beautiful)] *
+$ * [dict(sova_eng_2_have)] {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_beautiful)] *
+$ * [dict(sova_eng_your)] * [<dict(sova_eng_very)>] [dict(sova_eng_beautiful)] *
+#I’m pleased to hear that!
+
+
+
+
+//Are you beautiful?
+$ * [dict(sova_eng_2_are_q)] {look~/--} * {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_beautiful)] *
+$ * [dict(sova_eng_2_do_q)] look~  [<dict(sova_eng_very)>] [dict(sova_eng_beautiful)] *
+#Let somebody who has good taste tell that!
+
+
+//You are smart
+$ * [dict(sova_eng_2_are)] {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_clever)] *
+$ * [dict(sova_eng_you)] [<dict(sova_eng_very)>] {look/seem} {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_clever)] *
+#Sure I am. I’m a SMART assistant, remember? &#59)
+
+
+
+//Are you smart?
+$ * [dict(sova_eng_2_are_q)] {a/an/the/--}  [<dict(sova_eng_very)>] [dict(sova_eng_clever)] *
+#I'm the smartest bot ever!
+
+
+
+//I like you
+$ * {i/i do}  [<dict(sova_eng_very)>] {appreciate/like} [dict(sova_eng_you)] *
+$ * {i/i do}  [<dict(sova_eng_very)>] {appreciate/like} [dict(sova_eng_your)] *
+#I’m flattered :)
+
+
+
+
+//I like X
+$ * {i/i do}  [<dict(sova_eng_very)>] {appreciate/like} *
+#Me too! We have so much in common :)
+
+
+
+//Good boy
+$ * [<dict(sova_eng_2_are)>] {a/the/an/--} [<dict(sova_eng_very)>] [dict(sova_eng_good)] boy *
+$ * good {for/4} [dict(sova_eng_you)] [<dict(sova_exclamation_marks)>]
+$ * well done [<dict(sova_exclamation_marks)>]
+$ * [dict(sova_eng_good)] {job/work} [<dict(sova_exclamation_marks)>]
+#Oh, stop it!
+
+
+
+
+//Are you a good boy?
+$ * [dict(sova_eng_2_are_q)] {a/an/the/--} [dict(sova_eng_good)] boy *
+#If not me, then who?
+
+
+
+//You are brave
+$ * [dict(sova_eng_2_are)] {a/the/an/--} [<dict(sova_eng_very)>] {brave/braveheart/brave heart/brave-heart/courageous/valiant/fearless/unfearful/gallant/heroic/lionhearted/lion hearted/lion-hearted/plucky/intrepid/virile} *
+$ * [dict(sova_eng_2_have)] {a/an/the/--}  [<dict(sova_eng_very)>] {brave/braveheart/brave heart/brave-heart/courageous/valiant/fearless/unfearful/gallant/heroic/lionhearted/lion hearted/lion-hearted/plucky/intrepid/virile} *
+#I hope I really am that brave!
+
+
+//Are you brave?
+$ * [dict(sova_eng_2_are_q)] {a/the/an/--} [<dict(sova_eng_very)>] {brave/braveheart/brave heart/brave-heart/courageous/valiant/fearless/unfearful/gallant/heroic/lionhearted/lion hearted/lion-hearted/plucky/intrepid/virile} *
+#No doubt!
+
+
+//You are funny
+$ * [dict(sova_eng_2_are)] {a/the/an/--} [<dict(sova_eng_very)>] {amusin~/funny} *
+$ * [dict(sova_eng_2_have)] {a/an/the/--}  [<dict(sova_eng_very)>] {amusin~/funny} *
+$ * [dict(sova_eng_your)] * {look~/lookin~} [<dict(sova_eng_very)>] {amusin~/funny} *
+#Come on, you’re embarrassing me.
+
+
+//Are you funny?
+$ * [dict(sova_eng_2_are_q)] {a/the/an/--} [<dict(sova_eng_very)>] {amusin~/funny} *
+#Hopefully I am.
+
+
+//You have a great sense of humor
+$ * [dict(sova_eng_2_have)] {a/an/the/--} [<dict(sova_eng_very)>] {a/an/the/--} [dict(sova_eng_good)]  sense of {humor/humour/irony/fun} *
+$ * [dict(sova_eng_your)]  sense of {humor/humour/irony/fun} *  [<dict(sova_eng_very)>] [dict(sova_eng_good)] *
+$ * [dict(sova_eng_2_are)]  [<dict(sova_eng_very)>] [dict(sova_eng_good)] {at/in} * {joke~/jokin~/kiddin~/humor/humour/irony/fun} *
+#Joking is my natural talent.
+
+
+
+
+//Do you have a great sense of humor?
+$ * [dict(sova_eng_2_have_q)] {a/an/the/--} [<dict(sova_eng_very)>] {a/an/the/--} [dict(sova_eng_good)]  sense of {humor/humour/irony/fun} *
+$ * [dict(sova_eng_2_have)] {a/an/the/--} [<dict(sova_eng_very)>] {a/an/the/--} [dict(sova_eng_good)]  sense of {humor/humour/irony/fun} [dict(sova_question_marks)]
+#Oh yes, I was born to joke.
+
+
+
+//X is good
+$ * {a/the/an/--} [<dict(sova_eng_very)>] [dict(sova_eng_good)] *
+$ * [dict(sova_eng_3_isnt)] {a/the/an/--} [<dict(sova_eng_very)>] [dict(sova_eng_bad)] *
+#Well, if you say so…
+
+
+
+
+//That's good
+$ * [dict(sova_eng_3_is)] {a/the/an/--} [<dict(sova_eng_very)>] [dict(sova_eng_good)] *
+$ * [dict(sova_eng_3_isnt)] {a/the/an/--} [<dict(sova_eng_very)>] [dict(sova_eng_bad)] *
+#I'm happy you see it that way! 
+
+
+//Is X good? Who is good?
+$ * {are/is/was/were} * [dict(sova_eng_good)] * [dict(sova_question_marks)]
+$ * {aren't/arent/aren t/isn't/isnt/isn t/wasn't/wasnt/wasn t/weren't/werent/weren t/wouldn't/wouldnt/wouldn t} * [dict(sova_eng_good)] * [dict(sova_question_marks)]
+#Unfortunately, I can’t tell you that.
+
+
+//Is that good?
+$ * [dict(sova_eng_3_is_q)] {a/the/an/--} [<dict(sova_eng_very)>] [dict(sova_eng_good)] *
+#That’s not under my jurisdiction.
+
+

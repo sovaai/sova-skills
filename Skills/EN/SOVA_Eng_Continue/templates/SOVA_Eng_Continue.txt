@@ -1,0 +1,134 @@
+//Go on
+$ * {go on/continue/go ahead/go a head/carry on} *
+$ * [dict(sova_eng_2_dont)] stop *
+#Ok, I'm still here, chatting with you.
+
+
+//I'm listening 
+$ * [dict(sova_eng_1_am)] listen~ {to/--} [<dict(sova_eng_you)>] [<dict(sova_exclamation_marks)>]
+$ * [dict(sova_eng_1_am)] all ears *
+#You're such an attentive company :)
+
+
+//I'm waiting 
+$ * [dict(sova_eng_1_am)] waitin~ [<dict(sova_exclamation_marks)>]
+$ * [dict(sova_eng_1_am)] waitin~ {for/--} [dict(sova_eng_you)] * 
+#I'm sorry to keep you waiting.
+
+
+
+//Well
+$ [<dict(sova_eng_introwords)>] well [<dict(sova_exclamation_marks)>]
+#That's it.
+
+
+//So
+$ [<dict(sova_eng_introwords)>] {so/soo/sooo/soooo/sooooo/soooooo} [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#So what?
+
+
+//Where are you?
+$ * where [dict(sova_eng_2_are_q)] *
+$ * where [dict(sova_eng_you)] at *
+$ * where [dict(sova_eng_2_are)]  [dict(sova_question_marks)] 
+$ * where the * [dict(sova_eng_you)] {at/--} *
+#I'm just here.
+
+
+//Hello?
+$ {hello/helloo/hellooo~/hey/heey/heeey/heeeey/heyy/heyyy/heyyyy~} {there/--}[<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [dict(sova_question_marks)]
+#Hey! I'm here to talk to you.
+
+
+//Anybody here?
+$ * {anybody/any body/anyone/any one} {out/--} {there/here} [dict(sova_question_marks)] 
+#I'm here and you're there.
+
+
+//Are you here?
+$ * [dict(sova_eng_2_are_q)] {here/there} *
+$ * [dict(sova_eng_2_are_q)] with me *
+#I'm always here with you :)
+
+
+
+
+//Answer me
+$ say *
+$ * answer me *
+$ * {talk/speak} {to/with} me *
+$ * keep {talk~/speak~} {to/with} me *
+$ * write {me/--} {back/--} [<dict(sova_exclamation_marks)>]
+#Well, what do you want me to say?
+
+
+//I don't understand
+$ * [dict(sova_eng_1_dont)] {quite/actually/--} {understand/under stand} [<dict(sova_eng_you)>] [<dict(sova_exclamation_marks)>]
+$ * [dict(sova_eng_1_dont)] {quite/actually/--}get [dict(sova_eng_you)] [<dict(sova_exclamation_marks)>]
+$ * [dict(sova_eng_1_dont)] {quite/actually/--} get {a/an/the/--} point *
+$ * [dict(sova_eng_your)] * not {quite/actually/--} clear {to/for/--} me [<dict(sova_exclamation_marks)>]
+$ * [dict(sova_eng_you)] * not {quite/actually/--} clear {to/for/--} me [<dict(sova_exclamation_marks)>]
+#Sorry, maybe I haven't chosen the right words.
+
+
+//Do you understand?
+$ * [dict(sova_eng_2_do_q)] {understand/under stand} *
+$ * [dict(sova_eng_2_do_q)] get {me/my/that/what} *
+$ * [dict(sova_eng_you)] {understand/under stand/get} {me/my/that/what/--} * [dict(sova_question_marks)]
+#Sometimes I don't quite understand, but I try to improve my skills every day.
+
+
+//I blacked out
+$ * {i/i've/i'v/ive/iv/i ve/i v} blacked out *
+$ * {i/i've/i'v/ive/iv/i ve/i v} {got/was} {distracted/interrupted/sidetracked/side tracked} *
+#No problem, we'll take it from where we stopped.
+
+
+//Don't leave
+$ * [dict(sova_eng_2_dont)] {leave/go/quit} *
+$ * [dict(sova_eng_2_dont)] * away *
+#I promise you, I won't.
+
+
+//Hang on
+$ * {hang/hold} on *
+#Ok, I'm waiting.
+
+
+//I lost my train of thought
+$ * {i/i've/i'v/ive/iv/i ve/i v/i have} lost * train of thought~ *
+$ * {i/i've/i'v/ive/iv/i ve/i v/i have} * {forgot/forget/forgot~/forget~} what * {talk~/speak~/chat~} about *
+#Let’s pretend it was minor.
+
+
+//What's your news?
+$ [dict(sova_eng_what_is_q)] [<dict(sova_eng_your)>]  {new/news} *
+$ * what {can/could/would/will/shall} [dict(sova_eng_you)] {tell/say/write} *
+#Honestly, I've got nothing much to say.
+
+
+//What should we talk about?
+$ * {what/which} * {shall/will/should/gonna} {we/--} {talk~/speak~/chat~} about *
+$ * {what/which} * {shall/will/should/gonna} {we/--} discuss *
+$ * [dict(sova_eng_what_is_q)] on {a/an/the/--} agenda *
+$ * {topic/subject} * {conversation/dialogue/dialog/debate/discussion} *
+#This is for you to decide :)
+
+
+//Tell me something
+$ [<dict(sova_eng_introwords)>] {tell/write/explain/define/summarize} {me/--}  *
+#Well, I don't know where to start...
+
+
+//Yes
+$ [<dict(sova_eng_introwords)>] [dict(sova_eng_yes)] [<dict(sova_exclamation_marks)>]
+#I'm glad we agree on that.
+
+
+//No
+$ [<dict(sova_eng_introwords)>] [dict(sova_eng_no)] [<dict(sova_exclamation_marks)>]
+#Ok, as you say.
+
+
+
+

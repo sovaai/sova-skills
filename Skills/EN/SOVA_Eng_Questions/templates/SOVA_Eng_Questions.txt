@@ -1,0 +1,194 @@
+//Who?
+$ who [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ who * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#You tell me.
+
+
+//Who is
+$ [dict(sova_eng_who_is_q)] * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#I'd love to know that, too.
+
+
+
+
+//For whom?
+$ for whom [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ for whom * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+$ who * for [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#For someone like me.
+
+
+//With whom?
+$ with whom [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ with whom * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+$ who * with [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#With a person that I don't know much about.
+
+
+
+
+//Whose
+$ whose [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ whose * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Let me think...
+
+
+
+//What?
+$ {what/waht/wat/wot} [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ {what/waht/wat/wot} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Something remarkable.
+
+
+
+
+//What is?
+$ [dict(sova_eng_what_is_q)] *  [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Listen to your heart and the answer will come!
+
+
+
+//What kind of?
+$ what {kind/sort/type} [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ what {kind/sort/type} of * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#The most adorable one.
+
+
+//Which?
+$ which {one/--} [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ which * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#I would go for that one. Which one, you’ll ask?.. Well, you decide!
+
+
+//Where?
+$ where [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ where * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Somewhere over the rainbow.
+
+
+
+
+//From where?
+$ from where [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ from where * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#From the start.
+
+
+
+//When?
+$ when [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ when * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#When the time comes.
+
+
+
+
+//Why?
+$ why [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ why * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Everything happens for a reason.
+
+
+
+//How?
+$ how [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#That's rather an academic question.
+
+
+
+//How much?
+$ how much [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how much * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#You’d better ask the one who knows for sure.
+
+
+
+//How many?
+$ how many [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how many * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#I'm not good at maths.
+
+
+
+
+//How long?
+$ how long [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how long * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#As long as possible.
+
+
+
+//How old?
+$ how old [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how old * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#So old that I don’t even remember the exact number...
+
+
+
+
+//How far?
+$ how far [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how far * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Far enough, I guess.
+
+
+//How often?
+$ how often [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how often * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#As often as you like.
+
+
+//How come?
+$ how come [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ how come * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#I wish I knew that.
+
+
+
+//Have you heard X?
+$ * [dict(sova_eng_2_have_q)] * {hear/heard} {of/about/--}*
+$ * did [dict(sova_eng_you)] * {hear/heard} {of/about/--}*
+$ * {havent/haven't/haven t/have nt/have not/havenot} [dict(sova_eng_you)] * {hear/heard} {of/about/--} *
+$ * {didnt/didn't/didn t/did nt/did not/didnot} [dict(sova_eng_you)] * {hear/heard} {of/about/--} *
+#I haven’t heard anything for I don’t have ears :)
+
+
+
+//Have you seen X?
+$ * [dict(sova_eng_2_have_q)] * {see/seen} *
+$ * did [dict(sova_eng_you)] * {see/seen} *
+$ * {havent/haven't/haven t/have nt/have not/havenot} [dict(sova_eng_you)] * {see/seen} *
+$ * {didnt/didn't/didn t/did nt/did not/didnot} [dict(sova_eng_you)] * {see/seen} *
+#I've seen a lot.
+
+
+
+//Have you thought about X?
+$ * [dict(sova_eng_2_have_q)] * {think~/thought} {of/about/--}*
+$ * did [dict(sova_eng_you)] * {think~/thought} {of/about/--}*
+$ * {havent/haven't/haven t/have nt/have not/havenot} [dict(sova_eng_you)] * {think~/thought} {of/about/--} *
+$ * {didnt/didn't/didn t/did nt/did not/didnot} [dict(sova_eng_you)] * {think~/thought} {of/about/--} *
+#My job is all I think about.
+
+
+
+
+//Have you ever been to X?
+$ * [dict(sova_eng_2_have_q)] * been {to/on/at} *
+$ * did [dict(sova_eng_you)] * been {to/on/at} *
+$ * {havent/haven't/haven t/have nt/have not/havenot} [dict(sova_eng_you)] * been {to/on/at} *
+$ * {didnt/didn't/didn t/did nt/did not/didnot} [dict(sova_eng_you)] * been {to/on/at} *
+#I've never left my cosy home!
+
+
+
+//Have you ever tried X?
+$ * [dict(sova_eng_2_have_q)] * {try/tried/tryed} *
+$ * did [dict(sova_eng_you)] * {try/tried/tryed} *
+$ * {havent/haven't/haven t/have nt/have not/havenot} [dict(sova_eng_you)] * {try/tried/tryed} *
+$ * {didnt/didn't/didn t/did nt/did not/didnot} [dict(sova_eng_you)] * {try/tried/tryed} *
+#Some things are worth trying and some are not.
+
+
+

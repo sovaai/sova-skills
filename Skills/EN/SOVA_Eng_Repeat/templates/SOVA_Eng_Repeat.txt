@@ -1,0 +1,30 @@
+// You already said that
+$ * {i/i've/i'v/i ve/i v} * {already/before/just now} {hear~/know~} {that/it/this/--} *
+$ * {i/i've/i'v/i ve/i v} * {hear~/know~} {that/it/this/--} * {already/before/just now} *
+$ * {already/before/just now} {that/it/this/--} * {said/told} {me/--} *
+$ * {said/told} {me/--} {that/it/this/--} * {already/before/just now}*
+#Sorry. I don't think I can tell you more.
+
+
+//You keep saying that
+$ * [dict(sova_eng_2_are)] keep~ {to/on/--} {say~/tell~} {me/--} {that/it/this/--} *
+$ * [dict(sova_eng_2_are)] {keep~/--} {to/on/--} repeat~ yourself *
+#Sorry for being unoriginal :(
+
+
+
+
+//Say it again
+$ * say * {again/one more time} *
+#What should I say?
+
+
+
+
+//What did you say?
+$ * what [dict(sova_eng_2_did_q)] {say/said} *
+$ * what [dict(sova_eng_you)] said * [dict(sova_question_marks)]
+#I'm afraid, I don't remember that.
+
+
+

@@ -1,0 +1,39 @@
+//Hello
+$ * [dict(sova_eng_hello)] *
+$ * [<dict(sova_eng_introwords)>] [dict(sova_eng_hello)] {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] [dict(sova_eng_hello)] {to/2} {you/ya/u} {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] [dict(sova_eng_hello)] {to/2} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>]  [dict(sova_eng_address)] * [<dict(sova_exclamation_marks)>] 
+# Hello!
+
+
+//Good morning
+$ * [<dict(sova_eng_introwords)>] [<dict(sova_eng_good)>] {afternoon/day/morning/mornin/morrow/mo} * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] [<dict(sova_eng_good)>] {afternoon/day/morning/mornin/morrow/mo} {my/--} [<dict(sova_eng_address_adj)>]  [dict(sova_eng_address)] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] [<dict(sova_eng_good)>] {afternoon/day/morning/mornin/morrow/mo} {to/2} {you/ya/u} {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] [<dict(sova_eng_good)>] {afternoon/day/morning/mornin/morrow/mo} {to/2} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>]  [dict(sova_eng_address)] * [<dict(sova_exclamation_marks)>] 
+# Nice to meet you!
+
+
+
+
+//Nice to meet you
+$ * [<dict(sova_eng_introwords)>] {it s/its/it is/--} {a/an/the/--} {nice/pleasure/great pleasure} {to/2/--} {see~/meet~/greet~} {with/--} {you/ya/u} * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] {it s/its/it is/--} {a/an/the/--} {nice/pleasure/great pleasure} {to/2/--} {see~/meet~/greet~} {with/--} {you/ya/u} {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] {it s/its/it is/--} {a/an/the/--} {nice/pleasure/great pleasure} {to/2/--} {see~/meet~/greet~} {with/--} {you/ya/u/--}  {my/--} [<dict(sova_eng_address_adj)>]  [dict(sova_eng_address)] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] {i/i am/i m/imma/--} [<dict(sova_eng_introwords)>]  [dict(sova_eng_happy)] {to/2/--} {see~/meet~/greet~} {with/--} {you/ya/u} * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] {i/i am/i m/imma/--} [<dict(sova_eng_introwords)>] [dict(sova_eng_happy)] {to/2/--} {see~/meet~/greet~} {with/--} {you/ya/u} * {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] {i/i am/i m/imma/--} [<dict(sova_eng_introwords)>] [dict(sova_eng_happy)] {to/2/--} {see~/meet~/greet~} {with/--} {you/ya/u/--} * {my/--} [<dict(sova_eng_address_adj)>]  [dict(sova_eng_address)] * [<dict(sova_exclamation_marks)>] 
+# Nice to meet you, too!
+
+
+
+
+//Long time no see
+$ * [<dict(sova_eng_introwords)>] long time {no/not/haven't/havent/have not/hadn't/hadnt/had not} {see/seen} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] {no/not/haven t/havent/have not/hadn t/hadnt/had not} {see/seen} {you/ya/u} {for/--} {a/an/the/--} long {time/--} {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>] 
+$ * [<dict(sova_eng_introwords)>] {no/not/haven t/havent/have not/hadn t/hadnt/had not} {see/seen} {you/ya/u} {for/--} {a/an/the/--} {time/while} {my/--} [<dict(sova_eng_address_adj)>]  [<dict(sova_eng_address)>] * [<dict(sova_exclamation_marks)>] 
+#I'm glad to see you!
+
+
+
+

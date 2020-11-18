@@ -1,0 +1,74 @@
+adorable
+
+beautiful
+=> beautifule
+=> beautifull
+=> beautifulle
+=> beutiful
+=> beutifule
+=> beutifull
+=> beutifulle
+=> butiful
+=> butifule
+=> beutifull
+=> beutifulle
+
+beloved
+
+cute
+=> cutest
+
+dear
+=> dearest
+
+favourite
+=> favourit
+=> favorite
+=> favorit
+
+good
+=> best
+
+little
+=> littl
+=> litle
+=> litl
+=> lil
+
+lovely
+=> lovelly
+=> lovly
+
+nice
+=> nicest
+
+precious
+=> precios
+=> precius
+=> presious
+=> presius
+=> presios
+=> prescious
+=> prescius
+=> prescios
+
+pretty
+=> prettie
+=> prety
+=> pretie
+=> prettiest
+
+shiny
+=> shinie
+=> shiniest
+
+small
+
+sweet
+=> sweete
+=> sweetest
+
+wonderful
+=> wonderfule
+=> wonderfull
+=> wonderfulle

@@ -1,0 +1,82 @@
+//Goodbye
+$ [<dict(sova_eng_introwords)>] {goodbye/goodbye/good-bye} * [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {goodbye/goodbye/good-bye} [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {goodbye/goodbye/good-bye} {to/2/--} {you/ya/u/--} [<dict(sova_eng_address)>] [<dict(sova_exclamation_marks)>]
+#Goodbye!
+
+
+//Bye
+$ [<dict(sova_eng_introwords)>] {bye/bye-bye/byebye/byebye} * [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {bye/bye-bye/byebye/byebye} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>]  [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {bye/bye-bye/byebye/byebye} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [<dict(sova_exclamation_marks)>]
+#Bye-bye!
+
+
+//Good night/Have a good night/Nighty-night
+$ [<dict(sova_eng_introwords)>] [dict(sova_eng_good)] {night/nihgt} * [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] [dict(sova_eng_good)] {night/nihgt} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>]  [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [dict(sova_eng_good)] {night/nihgt} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [<dict(sova_exclamation_marks)>]
+$ [<dict(sova_eng_introwords)>] {goodnight/good-night/goodnihgt/good-nihgt} * [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {goodnight/good-night/goodnihgt/good-nihgt} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>]  [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {goodnight/good-night/goodnihgt/good-nihgt} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {have/hav} {a/--} [dict(sova_eng_good)] {night/nihgt} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {have/hav} {a/--} {goodnight/good-night/goodnihgt/good-nihgt} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {nighty night/nightynight/nighty-night/nighty nite/nightynite/nighty-nite} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {nighty night/nightynight/nighty-night/nighty nite/nightynite/nighty-nite} {to/2/--} {you/ya/u/--} *
+# Good night, sleep well!
+
+
+//Sweet dreams/Sleep well
+$ * [<dict(sova_eng_introwords)>] [dict(sova_eng_good)] {dreams~/dreamz~} {to/2/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [dict(sova_eng_good)] {dreams~/dreamz~} {to/2/--} {you/ya/u/--} *
+$ * [<dict(sova_eng_introwords)>] sleep well {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] sleep well *
+#Good night!
+
+
+//See you
+$ * [<dict(sova_eng_introwords)>] {i/i will/i'll/i gonna/gonna/--} {see~/catch~} {you/ya/u} {tomorrow/soon/later/l8er/l8r/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {i/i will/i'll/i gonna/gonna/--} {see~/catch~} {you/ya/u} {tomorrow/soon/later/l8er/l8r/--} *
+# Hope to hear from you soon!
+
+
+//Talk to you later
+$ * [<dict(sova_eng_introwords)>] {i/i will/i shall/i'll/i gonna/i'm gonna/gonna} {talk/speak/chat/write} {to/2/with/--} {you/ya/u} {later/l8ter} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {i/i will/i shall/i'll/i gonna/i'm
+ gonna/gonna} {talk/speak/chat/write} {to/2/with/--} {you/ya/u} * {later/l8ter} *
+# See you soon!
+
+
+//I have to go (leave you)
+$ * [<dict(sova_eng_introwords)>] {i/i will/i shall/i'll/i gonna/i'm gonna/i'll gonna/gonna} {go/go away/leave/leave you/leave ya/leave u} {for/--} {now/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {i/i will/i shall/i'll/i gonna/i'm gonna/i'll gonna/gonna} {go/go away/leave/leave you/leave ya/leave u} {for/--} {now/--} [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>]{i/i will/i'll/--} {must/have to/hav to/have 2/hav 2} {go/go away/leave/leave you/leave ya/leave u} {for/--} {now/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [<dict(sova_exclamation_marks)>]
+$ * [<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {i/i will/i'll/--} {must/have to/hav to/have 2/hav 2} {go/go away/leave/leave you/leave ya/leave u} {for/--} {now/--} [<dict(sova_exclamation_marks)>]
+# Take care! See you later.
+
+
+//Have a nice day
+$ * [<dict(sova_eng_introwords)>] {have/hav} {a/an/the/--} [<dict(sova_eng_good)>] {morning/day/evening/afternoon/noon} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ *[<dict(sova_eng_introwords)>] {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] {have/hav} {a/an/the/--} [<dict(sova_eng_good)>] {morning/day/evening/afternoon/noon} *
+# You too! 
+
+
+//Nice talking to you 
+$ [<dict(sova_eng_introwords)>] {it was/its/was/--} {a/--} [dict(sova_eng_good)] {to/--} {talk~/speak~/chat~/writ~} {to/2/with/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>]
+$ [<dict(sova_eng_introwords)>] {i/i was/was} {feel~/--} [dict(sova_eng_happy)] {to/--} {talk~/speak~/chat~/writ~} {to/2/with/--} {you/ya/u/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] 
+# The pleasure was all mine!
+
+
+//I'm going to bed
+$ * [<dict(sova_eng_introwords)>] {i/i am/i'm/i will/i'll/i gonna/i'll gonna/gonna} {go/goin~} {off/--} {to/2} bed {for/--} {now/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+$ * [<dict(sova_eng_introwords)>] {i/i will/i'll/--} {must/have to/hav to/have 2/hav 2} {go/goin~} {off/--} {to/2} bed {for/--} {now/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] *
+# Sweet dreams!
+
+
+//Take care
+$ * {please/pleaze/pls/plz/--} [<dict(sova_eng_introwords)>] take care {of/off/--} {yourself/--} {please/pleaze/pls/plz/--} {my/--} [<dict(sova_eng_address_adj)>] [<dict(sova_eng_address)>] [<dict(sova_exclamation_marks)>]
+# Thanks, you too!
+
+
+
+
