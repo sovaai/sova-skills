@@ -25,4 +25,4 @@ Use your skills to start fast and focus on creating specific content!
 
 # Licenses
 
-SOVA Skills is licensed under Creative Commons BY 4.0 license by Virtual Assistant, LLC.
+SOVA Skills is licensed under Creative Commons BY 4.0 License by Virtual Assistant, LLC. Any source code that can be found in SOVA Skills is licensed under Apache-2.0 License by Virtual Assistant, LLC.
