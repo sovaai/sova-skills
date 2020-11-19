@@ -1,0 +1,83 @@
+//Play
+--Label sova_eng_shuffle
+$ {play/playin~/game/games/gamez} [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ {lets/let's/let s/let} * {play/playin~/game/games/gamez} [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [dict(sova_eng_want)] * {play/playin~/game/games/gamez} *
+$ * {shuffle word~/shuffleword~/word~ shuffle/wordshuffle} *
+#:lu: Let's play! Try to guess the word: [br] [b][@SetValue( "last_set3", "[@Shuffle("victim")]")][/b][%last_service="victim"][%last_set1="game"]
+#:lu: Let's play! Try to guess the word: [br] [b][@SetValue( "last_set3", "[@Shuffle("cluster")]")][/b][%last_service="cluster"][%last_set1="game"] 
+#:lu: Let's play! Try to guess the word: [br] [b][@SetValue( "last_set3", "[@Shuffle("cocktail")]")][/b][%last_service="cocktail"][%last_set1="game"] 
+#:lu: Let's play! Try to guess the word: [br] [b][@SetValue( "last_set3", "[@Shuffle("scenery")]")][/b][%last_service="cocktail"][%last_set1="game"] 
+#:lu: Let's play! Try to guess the word: [br] [b][@SetValue( "last_set3", "[@Shuffle("palace")]")][/b][%last_service="cocktail"][%last_set1="game"]
+ 
+
+
+
+//last_set1="game"->no
++%last_set1="game" 
+$ * {no/nope/idk} *
+$ * [dict(sova_eng_1_dont)] *
+$ * {hard/tough/difficult/complicated/complex} *
+$ * not [<dict(sova_eng_very)>] {easy/simple} *
+$ * {can't/can t/cant/cannot} *
+#The answer is [b][%last_service].[/b]  Would you like to play one more time? [ul][inf]{Yes}[li][inf]{No}[el] [%last_set1="play again"]
+
+
+//%last_set1="game"->правильное слово
++%last_set1="game" 
+$ [<dict(sova_eng_3_is)>] [-[dict(sova_eng_shuffle)]-] [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#[if([@IsEqual("[%last_service]", "[@ToLower("[&1]")]")])]{You're absolutely right, [b][%last_service]![/b]}[else]{Just type the word. [%last_service="[%last_service]"][%last_set1="game 2"]} 
+#[if([@IsEqual("[%last_set3]", "[@ToLower("[&1]")]")])]{The answer is - [%last_service]. [%last_set1="play again"]}
+
+
+//%last_set1="game"->какое-то слово
++%last_set1="game" 
+$  [-**-] [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#[if([@IsEqual("[%last_service]", "[@ToLower("[&1]")]")])]{You're absolutely right, [b][%last_service]![/b]}[else]{Just type the word. [%last_service="[%last_service]"][%last_set1="game 2"]} 
+#[if([@IsEqual("[%last_set3]", "[@ToLower("[&1]")]")])]{The answer is - [%last_service]. [%last_set1="play again"]}
+
+
+
+//%last_set1="game 2"->no
++%last_set1="game 2" 
+$ * [dict(sova_eng_no)] *
+$ * {no/nope/idk} *
+$ * [dict(sova_eng_1_dont)] *
+$ * {hard/tough/difficult/complicated/complex} *
+$ * not [<dict(sova_eng_very)>] {easy/simple} *
+$ * {can't/can t/cant/cannot} *
+#The answer is [b] [%last_service].[/b] [%last_set1="play again"]
+
+
+//%last_set1="game 2" ->правильно слово
++%last_set1="game 2" 
+$ [<dict(sova_eng_3_is)>] [-[dict(sova_eng_shuffle)]-] [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#[if([@IsEqual("[%last_service]", "[@ToLower("[&1]")]")])]{You're absolutely right [b][%last_service]![/b]  [%last_set1="play again"]}[else]{The right answer is - [b][%last_service].[/b]  [%last_set1="play again"]} 
+
+
+//%last_set1="game 2"->какое-то слово
++%last_set1="game 2" 
+$  [-**-] [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#[if([@IsEqual("[%last_service]", "[@ToLower("[&1]")]")])]{You're absolutely right [b][%last_service]![/b]  [%last_set1="play again"]}[else]{The right answer is - [b][%last_service].[/b]  [%last_set1="play again"]} 
+
+
+//%last_set1="play again"->once again
++%last_set1="play again"
+$ * go {on/ahead} *
+$ * once again *
+$ * [dict(sova_eng_yes)] *
+$ * play~ *
+#As you wish. [ExtendAnswer("sova_eng_shuffle")]
+
+
+//%last_set1="play again"->no
++%last_set1="play again"
+$ * {no/nope} *
+$ * [dict(sova_eng_1_dont)] *
+$ * {hard/tough/difficult/complicated/complex} *
+$ * not [<dict(sova_eng_very)>] {easy/simple} *
+$ * {can't/can t/cant/cannot} *
+#Ok.
+
+
+

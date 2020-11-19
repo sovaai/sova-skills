@@ -1,0 +1,21 @@
+//Thank you
+$ * [dict(sova_eng_thanks)] *
+$ * [dict(sova_eng_1_am)] [<dict(sova_eng_very)>] {thankful/grateful} *
+#You're welcome!
+
+
+
+
+//Not at all
+$ [<dict(sova_eng_introwords)>] not at all *
+$ no {worries/worry/problem/problems/bother} *
+$ * [dict(sova_eng_2_are)] welcome *
+$ not to worry *
+$ * my pleasure *
+$ * [dict(sova_eng_3_is)] {a/the/my/--} pleasure *
+$ * {pleasure/pleasures/pleasure s/pleasure's} {was/is/s} all mine *
+# Alright :)
+
+
+
+
