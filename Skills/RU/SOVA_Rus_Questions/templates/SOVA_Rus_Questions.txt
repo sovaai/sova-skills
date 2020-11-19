@@ -1,0 +1,220 @@
+//Кто?
+$ [dict(sova_rus_who)] [<dict(sova_question_marks)>] 
+$ * [dict(sova_rus_who)] * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Конь в пальто.
+
+
+//Кто такой Х?
+$ [dict(sova_rus_who)] {такой/токой} [<dict(sova_question_marks)>] 
+$ [dict(sova_rus_who)] {такой/токой} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#В энциклопедии про него писали.
+
+
+//Кто такая Х?
+$ [dict(sova_rus_who)] {такая/токая} [<dict(sova_question_marks)>] 
+$ [dict(sova_rus_who)] {такая/токая} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Про неё все знают!
+
+
+//Кто такие Х?
+$ [dict(sova_rus_who)] {такие/токие} [<dict(sova_question_marks)>] 
+$ [dict(sova_rus_who)] {такие/токие} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Те, кого лучше не обсуждать.
+
+
+//Кого?
+$ {кого/каго/ково/каво} [<dict(sova_question_marks)>] 
+$ * {кого/каго/ково/каво} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Кое-кого.
+
+
+//Кому?
+$ {кому/каму} [<dict(sova_question_marks)>] 
+$ * {кому/каму} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Кое-кому.
+
+
+//Кем? 
+$ кем [<dict(sova_question_marks)>] 
+$ * кем * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Кое-кем.
+
+
+//О ком?
+$ {по/о/об/на/в/при} ком  [<dict(sova_question_marks)>] 
+$ * {по/о/об/на/в/при} ком * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Этого я не могу сказать.
+
+
+//Что?
+$ [dict(sova_rus_what)]  [<dict(sova_question_marks)>] 
+$ * [dict(sova_rus_what)]* [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Смотря о чём мы...
+
+
+//Что такое Х?
+$ [dict(sova_rus_what)] {такое/токое} [<dict(sova_question_marks)>] 
+$ * [dict(sova_rus_what)] {такое/токое} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Это вопрос философский.
+
+
+//Чему?
+$ {чему/чиму} [<dict(sova_question_marks)>] 
+$ * {чему/чиму} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Чему-то.
+
+
+//Чем?
+$ чем [dict(sova_question_marks)] 
+$ * чем * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#А вот тем, о чем вы сейчас подумали.
+
+
+//О чем?
+$ {по/о/об/на/в/при} чем [dict(sova_question_marks)] 
+$ * {по/о/об/на/в/при} чем * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#А мы о чем?
+
+
+//Какой?
+$ {какой/кокой/какои/кокои} [<dict(sova_question_marks)>] 
+$ * {какой/кокой/какои/кокои} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такой.
+
+
+//Какого?
+$ {какого/кокого/каково/коково} [<dict(sova_question_marks)>] 
+$ * {какого/кокого/каково/коково} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такого.
+
+
+//Какому?
+$ {какому/кокому/какому/кокому} [<dict(sova_question_marks)>] 
+$ * {какому/кокому/какому/кокому} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такому.
+
+
+//Каким?
+$ {каким/коким} [<dict(sova_question_marks)>] 
+$ * {каким/коким} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот таким.
+
+
+//Каком?
+$ {по/о/об/на/в/при/--} {каком/коком} [<dict(sova_question_marks)>] 
+$ * {по/о/об/на/в/при/--} {каком/коком} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот таком.
+
+
+//Какая?
+$ {какая/кокая} [<dict(sova_question_marks)>] 
+$ * {какая/кокая} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такая.
+
+
+//Какую?
+$ {какую/кокую} [<dict(sova_question_marks)>] 
+$ * {какую/кокую} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такую.
+
+
+//Какое?
+$ {какое/кокое} [<dict(sova_question_marks)>] 
+$ * {какое/кокое} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такое.
+
+
+//Какие?
+$ {какие/кокие} [<dict(sova_question_marks)>] 
+$ * {какие/кокие} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такие.
+
+
+//Каких?
+$ {каких/коких} [<dict(sova_question_marks)>] 
+$ * {каких/коких} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот таких.
+
+
+//Какими?
+$ {какими/кокими} [<dict(sova_question_marks)>] 
+$ * {какими/кокими} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Вот такими.
+
+
+//Который?
+$ {который/каторый/которыи/каторыи} [<dict(sova_question_marks)>] 
+$ * {который/каторый/которыи/каторыи} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Тот, который вам больше нравится.
+
+
+//Которая?
+$ {которая/каторая} [<dict(sova_question_marks)>] 
+$ * {которая/каторая} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Та, которая вам больше нравится.
+
+
+//Которое?
+$ {которое/каторое} [<dict(sova_question_marks)>] 
+$ * {которое/каторое} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#То, которое вам больше нравится.
+
+
+//Которые?
+$ {которые/каторые} [<dict(sova_question_marks)>] 
+$ * {которые/каторые} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Те, которые вам больше нравятся.
+
+
+//Где?
+$ {где/гыде/хьде/хде} [<dict(sova_question_marks)>] 
+$ * {где/гыде/хьде/хде} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#Там, где не ступала нога человека.
+
+
+//Когда?
+$ {когда/кагда/кохда/кахда/када} [<dict(sova_question_marks)>] 
+$ * {когда/кагда/кохда/кахда/када} * [dict(sova_question_marks)] [<dict(sova_exclamation_marks)>]
+#В самый подходящий момент.
+
+
+//Почему?
+$ {почему/пачему/почиму/пачиму/поч} [<dict(sova_question_marks)>] 
+$ * {почему/пачему/почиму/пачиму/поч} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Так получилось, а почему - никто не знает.
+
+
+//Отчего?
+$ {отчего/отчиго/отчево/отчиво/атчего/атчиго/атчево/атчиво}  [<dict(sova_question_marks)>] 
+$ * {отчего/отчиго/отчево/отчиво/атчего/атчиго/атчево/атчиво} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Оттого.
+
+
+//Зачем?
+$ {зачем/зочем} [<dict(sova_question_marks)>] 
+$ * {зачем/зочем} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Затем, что так нужно.
+
+
+//Куда?
+$ {куда/куды} [<dict(sova_question_marks)>] 
+$ * {куда/куды} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Туда, где хорошо.
+
+
+//Откуда?
+$ {откуда/аткуда/откуды/аткуды/откудова/аткудова/откудово/аткудово} [<dict(sova_question_marks)>] 
+$ * {откуда/аткуда/откуды/аткуды/откудова/аткудова/откудово/аткудово} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Оттуда, откуда ещё!
+
+
+//Сколько?
+$ {сколько/сколька/скольк/сколко/сколка/сколк/скока/скок} [<dict(sova_question_marks)>] 
+$ * {сколько/сколька/скольк/сколко/сколка/сколк/скока/скок}  * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Столько, сколько нужно.
+
+
+//Как?
+$ как [<dict(sova_question_marks)>] 
+$ * как * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+#Как-то, видимо, вот так, да никто не знает как.
