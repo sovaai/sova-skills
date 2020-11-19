@@ -1,22 +1,20 @@
-# SOVA Базовые модули интеллекта
+# SOVA Skills
 
-Готовые модули интеллекта для виртуальных ассистентов, созданных с помощью SOVA. 
+Ready for use skills (intelligence modules) for virtual assistants created in SOVA. 
 
-Модули позволяют быстро начать обучения виртуального ассистента и покрывают базовые тематики. После добавления, вы моете изменять и дополнять навык на ваше усмотрение. 
+These skills allow you to start learning virtual assistant as quickly as possible and cover basic topics. After adding, you can change and modified each skill. 
 
-Используйте навыки для быстрого старта и сфокусируйтесь на создании тематического контента.
+Use your skills to start fast and focus on creating specific content!
 
-# Список и состав навыков
+# List of skills
 
-|№|Названия модуля|Поддерживаемые языки|Категория|Описание
+|№|Skill name|Languages|Category|Description
 |---|---|---|---|---|
-|1|Приветствие|`RU` + `ENG`|Ведение диалога|Модуль содержит шаблоны и словари покрывающие приветствия. Добавьте его, чтобы виртуальный ассистент реагировал на сообщения пользователя с фразами типа добрый день, привет и т.д.|
-|2|Прощание|RU + ENG|Ведение диалога|Модуль содержит шаблоны и словари покрывающие приветствия. Добавьте его, чтобы виртуальный ассистент реагировал на сообщения пользователя с фразами типа добрый день, привет и т.д.|
+|1|Greetings|[RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)<br> [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Hello)|Сonversation|The skill contains templates and dictionaries covering greetings. After adding the skill, the virtual assistant will respond to the user's messages with phrases like good day, Hello, etc.|
+|2|Farewells|[RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Bye)<br> [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Bye)|Сonversation|The skill contains templates and dictionaries covering farewells. After adding the skill, the virtual assistant will respond to the user's messages with phrases like bye, good day, and so on.|
+|3|Question markers|[RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Questions)<br> [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Questions)|Сonversation|The skill contains markers for questions like Who? What? Why? What for? About whom? It is not a full-fledged skill. You can use parts of the skill when creating your virtual assistant.|
 
-# Updates
-
-ХХ/11/2020: Published first 12 skills.
 
 # Licenses
 
-The dataset is made available under Creative Commons BY 4.0 license by Virtual Assistant, LLC.
+SOVA Skills is licensed under Creative Commons BY 4.0 license by Virtual Assistant, LLC.
