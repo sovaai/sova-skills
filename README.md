@@ -1,10 +1,10 @@
 # SOVA Skills
 
-Ready for use skills (intelligence modules) for virtual assistants created in SOVA. 
+Ready-to-use skills (intelligence modules) for virtual assistants created in SOVA.
 
-These skills allow you to start learning virtual assistant as quickly as possible and cover basic topics. After adding, you can change and modified each skill. 
+These skills allow you to start training your virtual assistant as quickly as possible. They cover basic topics. You can modify the skills after adding them.
 
-Use your skills to start fast and focus on creating specific content!
+Use these skills to start training your virtual assistant now!
 
 # List of skills
 
