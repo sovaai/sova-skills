@@ -23,6 +23,11 @@ Use these skills to start training your virtual assistant now!
 |11|Guess the word|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_ShuffleGame)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_ShuffleGame)|Game|A game where a virtual assistant encrypts a word by swapping letters, and the user needs to guess it. Virtual assistant will not let you get bored!|
 |12|The personality of the Virtual assistant|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Inf)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Inf)|Сonversation|The skill contains templates and dictionaries that cover questions about virtual assistant. After adding the skill, the virtual assistant will respond to the user's messages with phrases like Who made you? What can you do? Why are you needed? etc.|
 
+|№|Skill name|Languages|Category|Description
+|---|---|---|---|---|
+|1|Test|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Hello)|Сonversation|The skill contains templates and dictionaries covering greetings. After adding the skill, the virtual assistant will respond to the user's messages with phrases like good day, Hello, etc.|
+
+
 # Licenses
 
 SOVA Skills is licensed under Creative Commons BY 4.0 License by Virtual Assistant, LLC. Any source code that can be found in SOVA Skills is licensed under Apache-2.0 License by Virtual Assistant, LLC.
