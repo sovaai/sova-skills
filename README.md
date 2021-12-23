@@ -25,7 +25,16 @@ Use these skills to start training your virtual assistant now!
 
 |№|Skill name|Languages|Category|Description
 |---|---|---|---|---|
-|1|Test|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Hello)|Сonversation|The skill contains templates and dictionaries covering greetings. After adding the skill, the virtual assistant will respond to the user's messages with phrases like good day, Hello, etc.|
+|13|Orders with verbs (movements and gestures)|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Hello)|Orders|The skill contains templates and dictionaries with various commands indicating movement or gestures, like, jump, dance, etc. It is not a full-fledged skill. You can use parts of the skill when creating your virtual assistant.|
+
+|14|Jokes|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Hello)|Entertainment|The skill contains templates and dictionaries with various jokes.|
+
+|15|Drinking toasts|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Hello)|Entertainment|The skill contains templates and dictionaries with various drinking toasts.|
+
+|16|Money transfer|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)|Сonversation|The skill contains templates and dictionaries with various money transfer commands. After adding the skill, the virtual assistant will respond to the user's messages with phrases like send money to mon, transfer money to... etc.|
+
+|17|Blonde|- [RU](https://github.com/sovaai/sova-skills/tree/main/Skills/RU/SOVA_Rus_Hello)<br>- [EN](https://github.com/sovaai/sova-skills/tree/main/Skills/EN/SOVA_Eng_Hello)|Entertainment|The skill contains templates and dictionaries with blonde personality. After adding the skill, the virtual assistant will respond to the user's messages like blonde.|
+
 
 
 # Licenses
