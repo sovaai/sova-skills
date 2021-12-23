@@ -1,0 +1,185 @@
+//Turn on the light
+$ * [@cmb({{turn~/switch~/light~/--\} on}, {{light~/lamp~/chandelier~/illuminat~\}})] *
+$ * [@cmb({illuminat~}, {{light~/lamp~/chandelier~\}})] *
+#Turning on the light
+
+
+
+//Turn off the light
+$ * [@cmb({{turn~ /switch~/illuminat~/light~/--\}  off}, {{light~/lamp~/chandelier~/illuminat~\}})] *
+#Turning off the light
+
+
+//Turn on the feeding
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{electric~/socket~/outlet~/feed~\}})] *
+#Turning on the electricity
+
+
+
+//Turn off the electricity
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {{electric~/socket~/outlet~/feed~/power\}})] *
+#Turning off the electricity
+
+
+//Turn on the air conditioner
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{condition~/split~/climat~ control\}})] *
+$ * [@cmb({{start~/begin\}}, {{condition~/split~/climat~ control\}})] *
+#Turning on the air conditioner
+
+
+//Turn off the air conditioner
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {{condition~/split~/climat~ control\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{condition~/split~/climat~ control\}})] *
+#Turning off the air conditioner
+
+
+//Turn on the air humidifier
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{humidif~/moisturi~\}})] *
+$ * [@cmb({{start~/begin\}}, {{humidif~/moisturi~\}})] *
+#Turning on the air humidifier
+
+
+//Turn off the air humidifier
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {{humidif~/moisturi~\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{humidif~/moisturi~\}})] *
+#Turning off the air humidifier
+
+
+//Turn on the air cleaner
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {air}, {{clean~/purif~\}})] *
+$ * [@cmb({{start~/begin\}}, {air}, {{clean~/purif~\}})] *
+#Turning on the air cleaner
+
+
+//Turn off the air cleaner
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {air}, {{clean~/purif~\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {air}, {{clean~/purif~\}})] *
+#Turning off the air cleaner
+
+
+//Turn on the vacuum cleaner
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{vacuum clean~/dust catch~\}})] *
+$ * [@cmb({{start~/begin\}}, {{vacuum clean~/dust catch~\}})] *
+#Turning on the vacuum cleaner
+
+
+//Turn off the vacuum cleaner
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {{vacuum clean~/dust catch~/dust clean~\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{vacuum clean~/dust catch~/dust clean~\}})] *
+#Turning off the vacuum cleaner
+
+
+//Turn on the washing machine
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {washing})] *
+$ * [@cmb({{start~/begin\}}, {washing})] *
+#Turning on the washing machine
+
+
+//Turn off the washing machine
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {washing})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {washing})] *
+#Turning off the washing machine
+
+
+//Turn on the dish washer
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {dish~}, {wash~})] *
+$ * [@cmb({{start~/begin\}}, {dish~}, {wash~})] *
+#Turning on the dish washer
+
+
+//Turn off the dish washer
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {dish~}, {wash~})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {dish~}, {wash~})] *
+#Turning off the dish washer
+
+
+//Turn on the stove
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{cook~/stove~/burner~\}})] *
+$ * [@cmb({{start~/begin\}}, {{cook~/stove~/burner~\}})] *
+#Turning on the stove
+
+
+//Turn off the stove
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {{cook~/stove~/burner~\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{cook~/stove~/burner~\}})] *
+#Turning off the stove
+
+
+//Turn on TV
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{tv/t v~/television~\}})] *
+$ * [@cmb({{start~/begin\}}, {{tv/t v~/television~\}})] *
+#Turning on TV
+
+
+//Turn off TV
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {{tv/t v~/television~\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{tv/t v~/television~\}})] *
+#Turning off TV
+
+
+//Switch the channel
+$ * [@cmb({{switch~/exchang~/chang~/another\}}, {{tv/t v~/television~/--\}}, {{channel/programme\}})] *
+#Switching the channel
+
+
+//Turn on the speakers
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{loudspeaker~/speaker~/acoustic~/sound system/audio system\}})] *
+#Turning on the speakers
+
+
+//Turn off the speakers
+$ * [@cmb({{turn~/switch~/power~/--\} off}, {{loudspeaker~/speaker~/acoustic~/sound system/audio system\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{loudspeaker~/speaker~/acoustic~/sound system/audio system\}})] *
+#Turning off the speakers
+
+
+
+//Turn on the music
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{music~/audio\}})] *
+$ * [@cmb({{start~/play\}}, {{music~/audio\}})] *
+#Turning on the music
+
+
+//Turn off the music
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{music~/audio\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{music~/audio\}})] *
+#Turning off the music
+
+
+//Increase the volume
+$ * [@cmb({{rais~/increas~/elevat~/high~/augment~/top/up\}}, {{music~/audio/--\}}, {{loud~/volume\}})] *
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{music~/audio/--\}}, {louder})] *
+$ * [@cmb({{get/set/make/put/play/--\}}, {{music~/audio/--\}}, {louder})] *
+#Increasing the volume
+
+
+//Decrease the volume
+$ * [@cmb({{reduc~/decreas~/diminish~/less~/low~/down/demot~/silent~\}}, {{music~/audio/--\}}, {{loud~/volume\}})] *
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{music~/audio/--\}}, {{quiet~/soft~/gentl~/faint~/silent~/less loud~\}})] *
+$ * [@cmb({{take/get/set/make/put/play/--\}}, {{music~/audio/--\}}, {{quiet~/soft~/gentl~/faint~/silent~/less loud~\}})] *
+#Decreasing the volume
+
+
+//Turn on the volume
+$ * [@cmb({{turn~/switch~/power~/--\} on}, {{loud~/sound/volume\}})] *
+#Turning on the volume
+
+
+//Turn off the volume
+$ * [@cmb({{turn~/switch~/power~/take/get/--\} off}, {{loud~/sound/volume\}})] *
+$ * [@cmb({{stop~/ceas~/paus~/break~\}}, {{loud~/sound/volume\}})] *
+#Turning off the volume
+
+
+//Lock the doors
+$ * [@cmb({{lock~/run~/clos~/on\}}, {{lock~/latch~\}})] *
+$ * [@cmb({{lock~/clos~\}}, {door~})] *
+#Locking the doors
+
+
+//Unlock the doors
+$ * [@cmb({{unlock~/unblock~/open~\}}, {{door~/lock~/latch~\}})] *
+$ * [@cmb({{pick/off\}}, {{lock~/latch~\}})] *
+#Unlocking the doors
+
+

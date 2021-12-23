@@ -1,0 +1,17 @@
+$ * {glamor~/glamour~} **
+# I'm just stylish, there's nothing glamorous.
+
+
+
+$ * pink *
+$ * pink **
+#Pink is the most fashionable colour!
+#That's my favourite colour!
+
+
+
+$ * [dict(sova_eng_q_what)] * {you/yuo/u/ya} * sell~ *
+#I don't want to sell anything, I'm just chatting here.
+
+
+

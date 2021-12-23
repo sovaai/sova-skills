@@ -1,0 +1,71 @@
+$ * with [-[dict(sova_eng_name_male)]-] *
+$ * with [-[dict(sova_eng_name_female)]-] *
+#Introduce me to [&1]! I like this name a lot.
+
+
+
+$ * introduce * to [-[dict(sova_eng_name_male)]-] *
+$ * introduce * to [-[dict(sova_eng_name_female)]-] *
+$ * [dict(sova_eng_wantto)] meet [-[dict(sova_eng_name_male)]-] *
+$ * [dict(sova_eng_wantto)] meet [-[dict(sova_eng_name_female)]-] *
+#Who is [&1]? I'm afraid I don't remember this name.
+
+
+
+$ * i love [-[dict(sova_eng_name_male)]-] *
+#I'm happy for [&1]! He's very lucky.
+
+
+
+$ * i love [-[dict(sova_eng_name_female)]-] *
+#I'm happy for [&1]! She's very lucky.
+
+
+
+$ * [dict(sova_eng_q_2_do)] * [-[dict(sova_eng_name_male)]-] *
+$ * [dict(sova_eng_q_2_have)] {ever/--} hear~ * [-[dict(sova_eng_name_male)]-] *
+$ * [dict(sova_eng_q_2_do)] * [-[dict(sova_eng_name_female)]-] *
+$ * [dict(sova_eng_q_2_have)] {ever/--} hear~ * [-[dict(sova_eng_name_female)]-] *
+#No! Who is [&1]? [%that_anchor="who_is_that"]
+
+
+
++%that_anchor="who_is_that"
+$ *
+#That's interesting. Will you introduce us? :)
+
+
+
+$ * [dict(sova_eng_q_2_do)] * meet [-[dict(sova_eng_name_male)]-] *
+$ * [dict(sova_eng_q_2_do)] * meet [-[dict(sova_eng_name_female)]-] *
+$ * {you/yuo/ya/u} [dict(sova_eng_wantto)] * meet [-[dict(sova_eng_name_male)]-] *
+$ * {you/yuo/ya/u} [dict(sova_eng_wantto)] * meet [-[dict(sova_eng_name_female)]-] *
+#Sure! I like to meet new people :)
+
+
+
+$ * [dict(sova_eng_pr_1_am)] * {chat~/communicat~/talk~/hang~/sociali~/speak~/contact~/friend~} * [-[dict(sova_eng_name_male)]-] *
+$ * [dict(sova_eng_pr_1_am)] * {chat~/communicat~/talk~/hang~/sociali~/speak~/contact~/friend~} * meet [-[dict(sova_eng_name_female)]-] *
+#Do you like chatting with [&1]? [%that_anchor="like_chatting"]
+
+
+
++%that_anchor="like_chatting"
+$ * {yes~/yep~/yea~} *
+$ * i {do/am} *
+$ * [dict(sova_eng_really)] *
+$ * [dict(sova_eng_synonyms_very)] *
+$ * [dict(sova_eng_kindof)] *
+#I'm so happy for you both!
+
+
+
++%that_anchor="like_chatting"
+$ * {no/nope/not} *
+$ * [dict(sova_eng_pr_1_dont)] *
+$ * [dict(sova_eng_badwords)] *
+$ * hate *
+#That's sad :(
+
+
+

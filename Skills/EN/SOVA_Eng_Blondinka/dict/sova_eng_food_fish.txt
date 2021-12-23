@@ -1,0 +1,65 @@
+fish
+Anchovies
+Anchovy
+Bass
+Bass
+Black cod
+Blowfish
+Bluefish
+Bombay duck
+Bream
+Brill
+Butter fish
+Carp
+Catfish
+Chilean Sea Bass
+Cod
+Crawfish
+Dogfish
+Eel
+Flounder
+Grouper
+Haddock
+Halibut
+Herring
+John Dory
+Kingfish
+Lamprey
+Lingcod
+Mackerel
+Mahi Mahi
+Marlin
+Monkfish
+Mullet
+Orange roughy
+Oyster
+Pacific sanddab
+Patagonian toothfish
+Perch
+Pike
+Pollock
+Pomfret
+Pompano
+Sablefish
+Salmon
+Sanddab
+Sardine
+Sea Bass
+Shark
+Snapper
+Snapper
+Sole
+Sturgeon
+Surimi
+Swordfish
+Tilapia
+Tilefish
+Trout
+Tuna
+Turbot
+hitefish
+
+
+
+
+

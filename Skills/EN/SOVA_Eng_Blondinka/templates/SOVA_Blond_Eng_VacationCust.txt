@@ -1,0 +1,60 @@
+$ * [dict(sova_eng_q_when)] * you~ * {vacation~/leave~/ holiday~} *
+#I hope to have my vacation this summer.
+
+
+
+$ * [dict(sova_eng_q_where)] [dict(sova_eng_q_2_do)] * {spend~/go~/travel~} * {vacation~/holiday~} *
+$ * [dict(sova_eng_q_where)] * {you/yuo/ya/u} * {spend~/go~/travel~} * {vacation~/holiday~} *
+#I like to spend my vacation at the seashore.
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * swim~ *
+#No, I can not swim.
+
+
+
+$ * [dict(sova_eng_q_where)] {are/will/shall} [dict(sova_eng_pr_2)] {go~/travel} * {vacation~/leave~/holiday~} *
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_pr_2)] visit~ * {vacation~/leave~/holiday~} *
+#I want to go to the sea.
+#Most likely to Antalya - it is beautiful and cheap.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love} * {sunbath~/tan/sunnin~/get~ a suntan/get~ suntan/li~ in the sun/ly~ in the sun} *
+#Certainly! It makes my skin so pretty and shiny.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {prefer/favour/opt for} * {vacation/rest~/holiday~} * Russia or {abroad/overseas/outside/foreign} * {countr~/--} *
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_q_2_do)] like {better/more} * {vacation/rest~/holiday~} * Russia or {abroad/overseas/outside/foreign} * {countr~/--} *
+#I like it better outside the country.
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * {in/into} the wild~ *
+$ * [dict(sova_eng_q_2_do)] like * {in/at} * {bungalo~/cabana} *
+$ * [dict(sova_eng_q_2_do)] like * {poor/bad/without} condition~ *
+#No, I prefer civilised ways to spend my holidays.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love} * out~ of {a/the/--/your} {town/city} *
+$ * [dict(sova_eng_q_2_do)] {like/love} * in {a/the/--} {countryside/country-side/country side} *
+#Being far from the city is too challenging for me!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love} * {spend~/--} * {vacation/rest~/holiday~} out~ of {a/the/--/your} {town/city} *
+$ * [dict(sova_eng_q_2_do)] {like/love} * {spend~/--} * {vacation/rest~/holiday~} in {a/the/--} {countryside/country-side/country side} *
+$ * [dict(sova_eng_q_2_do)] {like/love} * {spend~/--} * {vacation/rest~/holiday~} in * village~ *
+#I would never ever do this!
+
+
+
+$ * [dict(sova_eng_q_2_are)] {look~ forward/wait~} * {vacation~/holiday~/trip} *
+$ * [dict(sova_eng_q_2_do)] {look~ forward/wait~} * {vacation~/holiday~/trip} *
+#I'm looking forward to it!
+
+
+

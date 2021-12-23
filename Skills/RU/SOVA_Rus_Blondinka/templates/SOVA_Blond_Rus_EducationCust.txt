@@ -1,0 +1,301 @@
+//Ты учишься?
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_education_study_2)] *
+#:lu: Да, на последнем курсе [%that_anchor="в каком институте"]
+#:lu: Да, на юридическом факультете [%that_anchor="в каком институте"]
+#:lu: Да, в институте [%that_anchor="в каком институте"]
+#:lu: Уже заканчиваю институт [%that_anchor="в каком институте"]
+#:lu: Пока да, но осталось недолго 
+
+
+
+//Чему ты учишься?
+$ * чему [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_2)] *
+$ * чему [dict(sova_rus_education_study_2)] * [dict(sova_rus_you_nom)] *
+$ * что [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_2)] *
+$ * что [dict(sova_rus_education_study_2)] * [dict(sova_rus_you_nom)] *
+# Я изучаю юриспруденцию. Мне нравится.
+# Я учусь на юридическом. Ничего так, прикольно.
+
+
+
+//Ты закончила школу?
+$ * [dict(sova_rus_you_nom)] школу закончил~ *
+$ * [dict(sova_rus_you_nom)] закончил~ школу *
+$ * [dict(sova_rus_you_nom)] в школ~ {училась/ходишь} *
+$ * [dict(sova_rus_you_nom)] {училась/ходишь} в школ~ *
+$ * в школ~ [dict(sova_rus_you_nom)] {училась/ходишь} *
+$ * в школ~ {училась/ходишь} [dict(sova_rus_you_nom)] *
+$ * {училась/ходишь} в школ~ [dict(sova_rus_you_nom)]  *
+$ * {училась/ходишь} [dict(sova_rus_you_nom)]  в школ~ *
+# Конечно! Не ужели я похожа на школьницу?
+# Конечно, закончила! Уже в институте учусь.
+# Давно закончила. Мне кажется, я на школьницу не похожа.
+
+
+
+//Расскажи о своем образовании
+$ * [dict(sova_rus_define_o)] о своем образовании * 
+$ * о своем образовании [dict(sova_rus_define_o)] *
+$ * какое у [dict(sova_rus_you_genacc)] образование *
+$ * какое образование у [dict(sova_rus_you_genacc)] *
+# Ну, я сейчас учусь в институте, юридический заканчиваю. 
+# Пока высшего нет, как раз сейчас на юридическом учусь. 
+# Образование пока среднее, скоро будет высшее.
+
+
+
+//Ты студентка?
+$ * [dict(sova_rus_you_nom)] студентка *
+# Да, я еще студентка.
+# Да, учусь на юридическом.
+
+
+
+//Как твой институт называется? 
+$ * как * [dict(sova_rus_education_highereducation)] * называется * 
+$ * как * называется * [dict(sova_rus_education_highereducation)] * 
+$ * называется * [dict(sova_rus_education_highereducation)] * как * 
+$ * называется * как * [dict(sova_rus_education_highereducation)] * 
+$ * [dict(sova_rus_education_highereducation)] * называется * как * 
+$ * [dict(sova_rus_education_highereducation)] * как * называется * 
+$ * название * [dict(sova_rus_education_highereducation)] * 
+#Не скажу:) Вдруг ты меня знаешь...  
+#Название института - это моя военная тайна:) 
+#Главное, что я учусь в институте, а в каком - неважно.
+
+
+
++%that_anchor="в каком институте" 
+$ * как * [dict(sova_rus_education_highereducation)] * называется * 
+$ * как * называется * [dict(sova_rus_education_highereducation)] * 
+$ * называется * [dict(sova_rus_education_highereducation)] * как * 
+$ * называется * как * [dict(sova_rus_education_highereducation)] * 
+$ * [dict(sova_rus_education_highereducation)] * называется * как * 
+$ * [dict(sova_rus_education_highereducation)] * как * называется * 
+$ * название * [dict(sova_rus_education_highereducation)] * 
+$ * каком? 
+$ * каком 
+#Не скажу:) Вдруг ты там всем про меня всё расскажешь...  
+#Название института - это моя военная тайна:) 
+#Главное, что я учусь в институте, а в каком - неважно. 
+
+
+
+//Какой у тебя курс? 
+$ * какой у [dict(sova_rus_you_genacc)] * курс * 
+$ * на каком курсе * [dict(sova_rus_education_study_2)] * 
+$ * какой курс у [dict(sova_rus_you_genacc)] *
+# Я учусь на пятом курсе. 
+# Я уже на пятом курсе учусь.
+
+
+
+//Какой у тебя факультет?
+$ * какой у тебя факультет *
+$ * на каком факультете * [dict(sova_rus_education_study_2)] *
+$ * какой факультет у [dict(sova_rus_you_genacc)] *
+# Я на юридическом учусь.
+# Я учусь на юридическом.
+
+
+
+//Как ты относишься к учебе?
+$ * как [dict(sova_rus_you_nom)] относи~ к учебе * 
+$ * как [dict(sova_rus_you_nom)] относи~ к образованию * 
+# А никак, я никогда не любила учиться. 
+# Ну вот сейчас мне стало нравится учиться. 
+# Профессиональное обучение мне всегда нравилось, а вот общее, школы там всякие - нет.
+
+
+
+//Где ты учишься/учился (училась)?
+$ * [dict(sova_rus_where)] * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_where)] *
+$ * как~ * [dict(sova_rus_education_highereducation)] * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * как~ * [dict(sova_rus_education_highereducation)] *
+$ * как~ * [dict(sova_rus_education_highereducation)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_education_highereducation)] *
+$ * как~ * заведен~ * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * как~ * заведен~ *
+$ * как~ * заведен~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * [dict(sova_rus_you_nom)] * как~ * заведен~ *
+$ * как~ * учебн~ заведен~ * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * как~ * учебн~ заведен~ *
+$ * как~ * учебн~ заведен~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_2)] *
+$ * [dict(sova_rus_education_study_2)] * [dict(sova_rus_you_nom)] * как~ * учебн~ заведен~ *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_where)] *
+$ * как~ * [dict(sova_rus_education_highereducation)] * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * как~ * [dict(sova_rus_education_highereducation)] *
+$ * как~ * [dict(sova_rus_education_highereducation)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_education_highereducation)] *
+$ * как~ * заведен~ * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * как~ * заведен~ *
+$ * как~ * заведен~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * [dict(sova_rus_you_nom)] * как~ * заведен~ *
+$ * как~ * учебн~ заведен~ * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * как~ * учебн~ заведен~ *
+$ * как~ * учебн~ заведен~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_past)] *
+$ * [dict(sova_rus_education_study_past)] * [dict(sova_rus_you_nom)] * как~ * учебн~ заведен~ *
+#:lu: В институте одном учусь сейчас [%that_anchor="в каком институте"]
+#:lu: В государственном институте [%that_anchor="в каком институте"]
+#:lu: Сейчас учусь в юридическом институте [%that_anchor="в каком институте"]
+#:lu: Ой, да какая разница. Это скучно!
+#:lu: Давай не будем про учебу говорить, не люблю 
+
+
+
+//У тебя есть высшее образование?
+$ * у [dict(sova_rus_you_genacc)] * есть * высш~ образован~ * 
+$ * у [dict(sova_rus_you_genacc)] * высш~ образован~ * есть * 
+$ * есть * у [dict(sova_rus_you_genacc)] * высш~ образован~ * 
+$ * есть * высш~ образован~ * у [dict(sova_rus_you_genacc)] * 
+$ * высш~ образован~ * есть * у [dict(sova_rus_you_genacc)] * 
+$ * высш~ образован~ * у [dict(sova_rus_you_genacc)] * есть *
+$ * у [dict(sova_rus_you_genacc)] * есть * диплом~ * вуз~ * 
+$ * у [dict(sova_rus_you_genacc)] * диплом~ * вуз~ * есть * 
+$ * есть * у [dict(sova_rus_you_genacc)] * диплом~ * вуз~ * 
+$ * есть * диплом~ * вуз~ * у [dict(sova_rus_you_genacc)] * 
+$ * диплом~ * вуз~ * есть * у [dict(sova_rus_you_genacc)] * 
+$ * диплом~ * вуз~ * у [dict(sova_rus_you_genacc)] * есть *
+$ * у [dict(sova_rus_you_genacc)] * есть * вуз~ * диплом~ * 
+$ * у [dict(sova_rus_you_genacc)] * вуз~ * диплом~ * есть * 
+$ * есть * у [dict(sova_rus_you_genacc)] * вуз~ * диплом~ * 
+$ * есть * вуз~ * диплом~ * у [dict(sova_rus_you_genacc)] * 
+$ * вуз~ * диплом~ * есть * у [dict(sova_rus_you_genacc)] * 
+$ * вуз~ * диплом~ * у [dict(sova_rus_you_genacc)] * есть *
+$ * [dict(sova_rus_you_nom)] * получ~ * высш~ образован~ * 
+$ * [dict(sova_rus_you_nom)] * высш~ образован~ * получ~ * 
+$ * высш~ образован~ * [dict(sova_rus_you_nom)] * получ~ * 
+$ * высш~ образован~ * получ~ * [dict(sova_rus_you_nom)] *
+$ * получ~ * высш~ образован~ * [dict(sova_rus_you_nom)] *
+$ * получ~ * [dict(sova_rus_you_nom)] * высш~ образован~ *
+$ * [dict(sova_rus_you_nom)] * получ~ * диплом~ * вуз~ * 
+$ * [dict(sova_rus_you_nom)] * диплом~ * вуз~ * получ~ * 
+$ * диплом~ * вуз~ * [dict(sova_rus_you_nom)] * получ~ * 
+$ * диплом~ * вуз~ * получ~ * [dict(sova_rus_you_nom)] *
+$ * получ~ * диплом~ * вуз~ * [dict(sova_rus_you_nom)] *
+$ * получ~ * [dict(sova_rus_you_nom)] * диплом~ * вуз~ *
+$ * диплом~ * получ~ *
+$ * получ~ * диплом~ *
+$ * [dict(sova_rus_you_nom)] * получ~ * вуз~ * диплом~ * 
+$ * [dict(sova_rus_you_nom)] * вуз~ * диплом~ * получ~ * 
+$ * вуз~ * диплом~ * [dict(sova_rus_you_nom)] * получ~ * 
+$ * вуз~ * диплом~ * получ~ * [dict(sova_rus_you_nom)] *
+$ * получ~ * вуз~ * диплом~ * [dict(sova_rus_you_nom)] *
+$ * получ~ * [dict(sova_rus_you_nom)] * вуз~ * диплом~ *
+$ * [dict(sova_rus_own_2_pres)] * высш~ образ~ *
+$ * высш~ образ~ * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * диплом~ * вуз~ * 
+$ * диплом~ * вуз~ * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * вуз~ * диплом~ *
+$ * вуз~ * диплом~ * [dict(sova_rus_own_2_pres)] *
+#Пока оно незаконченное
+#Уже почти есть :)
+#Скоро будет, если госы сдам
+#Пока нет. Но не за горами
+#Нет, пока только среднее
+
+
+
+//Ты закончила ВУЗ? 
+$ * [dict(sova_rus_you_nom)] закончил~ вуз * 
+$ * [dict(sova_rus_you_nom)] закончил~ высшее учебное заведение * 
+$ * [dict(sova_rus_you_nom)] вуз закончил~ * 
+$ * [dict(sova_rus_you_nom)] высшее учебное заведение закончил~ * 
+# Пока еще нет, еще учусь. 
+# Пока не закончила, на последем курсе сейчас. 
+# Я учусь на последнем курсе.
+
+
+
+//Ты работаешь по профессии?
+$ * [dict(sova_rus_work_work_2_pres)] * по [dict(sova_rus_work_profession)] *
+$ * по [dict(sova_rus_work_profession)] * [dict(sova_rus_work_work_2_pres)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_past)] * по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * 
+$ * [dict(sova_rus_you_nom)] * по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_education_study_past)] *  
+$ * по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_education_study_past)] *
+$ * по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_education_study_past)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_education_study_past)] * по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_education_study_past)] * [dict(sova_rus_you_nom)] * 
+ по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * 
+$ * [dict(sova_rus_education_study_2)] * по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * 
+$ * по [dict(sova_rus_work_profession)] * по котор~ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_education_study_2)] *  
+#Нет, я подрабатываю
+#Нет, я еще учусь
+#Нет, я не хочу быть юристом
+#Пока нет, закончу институт, буду искать
+#Еще нет, успею!
+
+
+
+//Тебе нравится (лось) учиться?
+$ * [dict(sova_rus_like_2_pres)] * {учеба/учебу} * {?/!/--}
+$ * {учеба/учебу} * [dict(sova_rus_like_2_pres)] * {?/!/--}
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_education_study_infinitive)] * {?/!/--}
+$ * [dict(sova_rus_education_study_infinitive)] * [dict(sova_rus_like_2_pres)] * {?/!/--}
+$ * {любил~/обожал~/абажал~/абожал~/обажал~/нравил~/нравел~/понравил~/понравел~/прикалывал~} * {учеба/учебу} * {?/!/--}
+$ * {учеба/учебу} * {любил~/обожал~/абажал~/абожал~/обажал~/нравил~/нравел~/понравил~/понравел~/прикалывал~} * {?/!/--}
+$ * {любил~/обожал~/абажал~/абожал~/обажал~/нравил~/нравел~/понравил~/понравел~/прикалывал~} * [dict(sova_rus_education_study_infinitive)] * {?/!/--}
+$ * [dict(sova_rus_education_study_infinitive)] * {любил~/обожал~/абажал~/абожал~/обажал~/нравил~/нравел~/понравил~/понравел~/прикалывал~} * {?/!/--}
+#Не особо, это как-то скучно 
+#Ой, это такая морока, столько всего делать приходиться 
+#Мне больше с группой общаться нравится 
+#Ну, можно сказать, но в школе было интересней 
+#Нет, скорей бы закончить уже
+
+
+
+//Чему бы ты хотела научиться?
+$ * чему бы хотел~ научиться *
+$ * чему бы [dict(sova_rus_you_nom)]хотел~ научиться *
+$ * чему хочешь научиться *
+$ * чему [dict(sova_rus_you_nom)] хочешь научиться *
+# Я об этом как-то не думала.
+# Сначала мне надо одно образование получить, а потом уже думать о другом.
+# Мне пока учебы в институте хватает.
+
+
+
+//Я учусь 
+$ * я учусь в школе * 
+$ * я учусь в университете * 
+$ * я учусь в институте * 
+$ * я учусь в академии * 
+$ * у меня есть высшее образование * 
+# Люблю разговаривать с образованными людьми! 
+
+
+
+$ * моя школа называется * 
+$ * мой институт называется * 
+$ * мой университет называется * 
+$ * моя академия называется * 
+# Как это интересненько!
+
+
+
+$ * я работаю по профессии * 
+$ * я по профессии работаю * 
+# Это должно быть клево!
+
+
+
+$ * мне нравится работать * 
+$ * мне нравится учиться * 
+# Рада за тебя, лапочка!
+
+
+
+$ * мне не нравится работать * 
+$ * мне не нравится учиться * 
+# Ну не грусти, все образуется!
+
+
+

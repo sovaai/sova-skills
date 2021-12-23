@@ -1,0 +1,56 @@
+//Pizza
+$ * pizza *
+# We offer you the fresh and hot pizza made of high quality ingredients using traditional recipes with all our experience and passion. Buon appetito! Start with choosing your favourite: [br] [inf]{Margarita} [br] [inf]{Pepperoni} [br] [inf]{Four seasons} [br] [inf]{Hawaiian} [br] [inf]{Mediterranean} [br] [inf]{Salami} [br] [inf]{Quattro formaggi} [br] [inf]{Capricciosa} [br] [inf]{Diabolo} [%that_anchor="order"]
+
+
+//choose pizza
++%that_anchor="order"
+$ * [-[dict(sova_eng_pizza_names)]-] * {pizza/--} *
+$ * {pizza/--} * [-[dict(sova_eng_pizza_names)]-] *
+# Choose your preferable size of [@set("last_set1", "[&dict(1, norm)]")]: [br][inf]{large}[br][inf]{small}[%that_anchor="order_size"]
+
+
+
+//choose pizza size
++%that_anchor="order_size"
+$ * [-[dict(sova_eng_pizza_sizes)]-] *
+# You ordered [@set("last_set2", "[&dict(1, norm)]")] [%last_set1], right? [%that_anchor="order_confirm"]
+
+
+
+//confirm order - yes
++%that_anchor="order_confirm"
+$ * [dict(sova_eng_yes)] *
+# Great, thank you! Your order is being prepared.
+
+
+
+//confirm order - no
++%that_anchor="order_confirm"
+$ * [dict(sova_eng_no)] *
+# Sorry, can you repeate your choice?
+
+
+//Pizza size
+$ * [-[dict(sova_eng_pizza_sizes)]-] * pizza *
+$ * pizza * [-[dict(sova_eng_pizza_sizes)]-] *
+# Choose your preferable sort of [@set("last_set2", "[&dict(1, norm)]")] pizza: [br] [inf]{Margarita} [br] [inf]{Pepperoni} [br] [inf]{Four seasons} [br] [inf]{Hawaiian} [br] [inf]{Mediterranean} [br] [inf]{Salami} [br] [inf]{Quattro formaggi} [br] [inf]{Capricciosa} [br] [inf]{Diabolo}[%that_anchor="order_name"]
+
+
+
+//Pizza size-name
++%that_anchor="order_name"
+$ * [-[dict(sova_eng_pizza_names)]-] *
+# You ordered [%last_set2] [@set("last_set1", "[&dict(1, norm)]")], right? [%that_anchor="order_confirm"]
+
+
+//Pizza size - name
+$ * [-[dict(sova_eng_pizza_sizes)]-] * [-[dict(sova_eng_pizza_names)]-] *
+# You ordered [@set("last_set2", "[&dict(1, norm)]")] [@set("last_set1", "[&dict(2, norm)]")], right? [%that_anchor="order_confirm"]
+
+
+//Pizza name - size
+$ * [-[dict(sova_eng_pizza_names)]-] * [-[dict(sova_eng_pizza_sizes)]-] *
+# You ordered [@set("last_set2", "[&dict(2, norm)]")] [@set("last_set1", "[&dict(1, norm)]")], right? [%that_anchor="order_confirm"]
+
+

@@ -1,0 +1,15 @@
+//Tell me a riddle
+--Label sova_eng_riddles
+$ * {riddl~/ridl~/puzzl~/puzl~/enigm~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/say~/hav~/tell~/narrat~/giv~/mak~\}}, {{riddl~/ridl~/puzzl~/puzl~/enigm~\}})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {{riddl~/ridl~/puzzl~/puzl~/enigm~\}})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {{riddl~/ridl~/puzzl~/puzl~/enigm~\}})] *
+# [udict(sova_eng_riddles)][%that_anchor="eng_riddles_more"]
+
+
+//More riddles
++%that_anchor="eng_riddles_more"
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]}, {{riddl~/ridl~/puzzl~/puzl~/enigm~/--\}})] *
+# [udict(sova_eng_riddles)][%that_anchor="eng_riddles_more"]
+
+

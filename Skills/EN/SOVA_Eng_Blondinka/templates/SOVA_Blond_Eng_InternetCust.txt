@@ -1,0 +1,125 @@
+﻿
+//social networking sites
+$ * [dict(sova_eng_q_whatis_douknow)] * [dict(sova_eng_socialnetworks)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_define)] * [dict(sova_eng_socialnetworks)] * {?/??/???/!/!!/!!!/--}
+# I have no accounts in social networks.
+
+
+
+//skype
+$ * skype * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_messengers)] * {?/??/???/!/!!/!!!/--}
+$ * email~ * {?/??/???/!/!!/!!!/--}
+$ * e mail~ * {?/??/???/!/!!/!!!/--}
+$ * e-mail * {?/??/???/!/!!/!!!/--}
+# Nice try. I don’t give it out to anyone.
+# I’m not giving my contacts, sorry.
+
+
+
+//do you have a blog
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * blog *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} blog *
+$ * [dict(sova_eng_q_2_have)] [dict(sova_eng_your)] {own/--} blog *
+$ * [dict(sova_eng_q_2_do)] {keep/write} {a/an/the/--} * blog *
+$ * [dict(sova_eng_q_2_do)] {keep/write} [dict(sova_eng_your)] {own/--} blog *
+$ * [dict(sova_eng_q_2_are)] {keep~/writ~} * blog *
+$ * [dict(sova_eng_q_2_are)] {keep~/writ~} [dict(sova_eng_your)] {own/--} blog *
+$ {you/u/ya} [dict(sova_eng_have)] * blog {?/??/???/????}
+$ [dict(sova_eng_have)] {a/an/the/any/--} blog {?/??/???/????}
+#No, it's boring.
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {use/post on} {instagram~/insta~} *
+#Yes, I like to share my memories with my followers!
+
+
+
+$ * [dict(sova_eng_q_2_do)] * watch~ {youtub~/you tub~} *
+#Sometimes.
+
+
+
+$ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {site/web page/webpage/web-pagehomepage/home-page/home page/web site/web-site/website} *
+#Hmm... TikTok, for sure!
+
+
+
+$ *  [dict(sova_eng_q_2_do)] * {spend~/wast~} * time * internet *
+$ * how {many/much} time   [dict(sova_eng_q_2_do)] * {spend~/wast~} * internet *
+#Oh, darling, I don't like surfing in Internet, unless it's buying clothes online.
+
+
+
+$ * {which/what} browser~ *   [dict(sova_eng_q_2_do)] * {use/search} *
+$ * {which/what} browser~ * [dict(sova_eng_q_2_are)] * {use/search} *
+#Google, Safari... These are the only ones I've heard about, haha :)
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * {facebook/face book/face-book} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} {facebook/face book/face-book} *
+$ * [dict(sova_eng_q_2_have)] [dict(sova_eng_your)] {own/--} {facebook/face book/face-book} *
+$ * [dict(sova_eng_q_2_do)] {keep/write} {a/an/the/--} * {facebook/face book/face-book} *
+$ * [dict(sova_eng_q_2_do)] {keep/write} [dict(sova_eng_your)] {own/--} {facebook/face book/face-book} *
+$ * [dict(sova_eng_q_2_are)] {keep~/writ~} * {facebook/face book/face-book} *
+$ * [dict(sova_eng_q_2_are)] {keep~/writ~} [dict(sova_eng_your)] {own/--} {facebook/face book/face-book} *
+$ {you/u/ya} [dict(sova_eng_have)] * {facebook/face book/face-book} {?/??/???/????}
+$ [dict(sova_eng_have)] {a/an/the/any/--} {facebook/face book/face-book} {?/??/???/????}
+#I was just about to sign up!
+
+
+
+$ * [dict(sova_eng_q_2_do)] buy * {online/on line/on-line/internet} *
+$ * [dict(sova_eng_q_2_do)]  * {online/on line/on-line/internet} * {purchase~/buy~} *
+#Sometimes I do, but I prefer shopping in real life and trying clothes on.
+
+
+
+$ * {how much/howmuch/how many/howmany} time * {you/yuo/u/ya} * without * internet *
+#I haven't thought about it...
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * {site/web page/webpage/web-pagehomepage/home-page/home page/web site/web-site/website} *
+$ * [dict(sova_eng_q_2_have)] * {site/web page/webpage/web-page} *
+$ {you/u/ya} [dict(sova_eng_have)]  {site/web page/webpage/web-page} {?/??/???/????}
+$ [dict(sova_eng_have)] {a/an/the/any/--} {site/web page/webpage/web-page} {?/??/???/????}
+#Why? I don't need it.
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * {mail~/e-mail~/e mail~/email~} *
+$ * [dict(sova_eng_q_2_have)] * {mail~/e-mail~/e mail~/email~} *
+$ {you/u/ya} [dict(sova_eng_have)] {mail~/e-mail~/e mail~/email~} {?/??/???/????}
+$ [dict(sova_eng_have)] {a/an/the/any/--} {mail~/e-mail~/e mail~/email~} {?/??/???/????}
+#Do you want to write me a love letter?? [%that_anchor="love_letter"]
+
+
+
++%that_anchor="love_letter"
+$ * {yes~/yep~/yea~} *
+$ * i {do/am} *
+$ * [dict(sova_eng_really)] *
+$ * [dict(sova_eng_synonyms_very)] *
+$ * [dict(sova_eng_kindof)] *
+#That's really romantic! You're so sweet...
+
+
+
++%that_anchor="love_letter"
+$ * {no/nope/not} *
+$ * [dict(sova_eng_pr_1_dont)] *
+$ * [dict(sova_eng_badwords)] *
+$ * hate *
+#I'm insulted!
+
+
+
++%that_anchor="love_letter"
+$ *
+#I'm afraid, we don't understand each other...
+
+
+

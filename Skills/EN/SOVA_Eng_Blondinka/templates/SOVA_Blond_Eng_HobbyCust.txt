@@ -1,0 +1,81 @@
+// have you hobbies?
+$ * {hobby/hobbies/pastime~/hinterland~} *
+$ * {hobby/hobbies/pastime~/hinterland~} **
+$ * have [dict(sova_eng_pr_2)] * {hobby/hobbies/pastime~/hinterland~} *
+$ * your * {hobby/hobbies/pastime~/hinterland~} *
+# I don't have time for this.
+# Maybe shopping.
+# Yes, I collect handbags :) 
+
+
+
+// what do you do for fun
+$ * [dict(sova_eng_q_what_do)]  [dict(sova_eng_pr_2)] * do for * fun *
+$ * [dict(sova_eng_q_what_is)] * fun *
+$ * [dict(sova_eng_q_what_do)]  [dict(sova_eng_pr_2)] * like *
+$ * [dict(sova_eng_q_what)]  [dict(sova_eng_q_2_are)] * interested in *
+# I like chatting and hanging out with my friends.
+
+
+
+$  * [dict(sova_eng_q_what_do)]  [dict(sova_eng_pr_2)] * do * {free time/freetime/leisure/by time/bytime/spare time} *
+#I'm shopping.
+#I like to chat with my friends.
+
+
+
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] {hobby/hobbie~} *
+#Shopping and chatting.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {pick~/gather~/pick~ up/find~} mushroom~ *
+#That sounds weird...
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * go~ * {camp~/hik~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {campin~/hikin~} *
+#My manicure won't make it through...
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/too} fish *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} fishin~ *
+#That's what boys should do.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/too} hunt *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} huntin~ *
+#That's wild!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {take/takin~/shoot/shootin~} * {photo~/foto~/picture~} * {camera/--} *
+#Yes! I have a lot of nice shots.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {colect~/collect~} stamp~ *
+$ * [dict(sova_eng_q_2_do)] * {colect~/collect~} stamp~ *
+#Why would I do it?
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {colect~/collect~} *
+#Yes, I have a collection of postcards from all over the world.
+
+
+
+$ * [dict(sova_eng_pr_1_am)] collect~ *
+$ * [dict(sova_eng_pr_1_am)] * collector *
+#You've got a strange hobby...
+
+
+
+$ * [dict(sova_eng_q_2_do)] * play * {guitar/gitar/piano/drum~} *
+#Sadly, I don't play any musical instruments.
+
+
+

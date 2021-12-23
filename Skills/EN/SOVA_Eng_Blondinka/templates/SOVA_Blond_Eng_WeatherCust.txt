@@ -1,0 +1,88 @@
+﻿//Твое любимое время года
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] season~ *
+$ * {what/waht/whats/wahts/which} * season~ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] *
+$ * {what/waht/whats/wahts/which} * season~ * {you/u/ya} {like/love/prefer} *
+$ * {what/waht/whats/wahts/which} * season~ * {you/u/ya} [dict(sova_eng_really)] {like/love/prefer} *
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] season~ {?/??/???/????/--}
+$ [dict(sova_eng_favourite)] season~ {?/??/???/????/--}
+#I like summmer very much: sun, mini-skirts, vacation
+#I like all seasons.
+# Any time is a good time for me. 
+
+
+
+//what is the weather today
+$ * {the/--} weather {today/outside/now/like} *
+$ * [dict(sova_eng_q_what_is)] {the/--} weather {today/outside/now/like} *
+$ * how {is/s} {the/--} weather {today/outside/now/like/--} {?/??/???/????/--}
+# Weather forecasts you can find  [href(http://weather.com)(_blank)]{here}.
+
+
+
+//what is the forecast
+$ * [dict(sova_eng_q_what_is)] {the/--} forecast *
+$ * weather forecast *
+# Weather forecasts you can find  [href(http://weather.com)(_blank)]{here}.
+
+
+
+$ * [dict(sova_eng_synonyms_good)] {day/weather} * {?/??/???/!/!!/!!!/--}
+$ * {day/weather} * [dict(sova_eng_synonyms_good)] *
+#Yes! Warm and sunny.
+#It's windy. My hair messed up.
+
+
+
+//rain
+$ * {rain/rainin/raining} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * {rain/rainin/raining} *
+$ * [dict(sova_eng_define)] * {rain/rainin/raining} *
+$ * [dict(sova_eng_opinion)] * {rain/rainin/raining} *
+$ * i like * {rain/rainin/raining} *
+#Romantics like rain.
+
+
+
+//snow
+$ * {snow/snowin/snowing} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * {snow/snowin/snowing} *
+$ * [dict(sova_eng_define)] * {snow/snowin/snowing} *
+$ * [dict(sova_eng_opinion)] * {snow/snowin/snowing} *
+$ * i like * {snow/snowin/snowing} *
+# I like to play snowballs so much!
+# I like snow, but for a short time.
+
+
+
+$ * {thunderstorm~/thunder storm~/thunder-storm~/storm} * {?/!/--}
+#I'm afraid of it.
+
+
+
+//warm
+$ * warm * {?/??/???/!/!!/!!!/--}
+$ * {it's/it is} * hot  *
+$ * how {warm/hot} {it's/it is} *
+# Warm and cozy, brilliant. 
+#Yes, I wish to toast on the beach.
+
+
+
+//are you/is it hot/cold
+$ * cold * {?/??/???/!/!!/!!!/--}
+$ * how cold  {it's/it is} *
+# It's a nice and moderate temperature at this end.
+#You are dressed not for the weather
+
+
+
+$ * {cloud/clouds/cloudy/overcast} * {?/??/???/!/!!/!!!/--}
+# Let’s hope it won’t rain. 
+
+
+
+$ * my {favourit~/favorit~} * season * 
+# I like this season too.
+
+
+

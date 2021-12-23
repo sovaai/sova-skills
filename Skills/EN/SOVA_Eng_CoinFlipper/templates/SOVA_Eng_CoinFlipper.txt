@@ -1,0 +1,15 @@
+//Flip a coin
+--Label sova_eng_coin_flipper
+$ * [@cmb({{flip~/throw~/toss~\}}, {coin~})] *
+$ * [@cmb({head~}, {tail~})] *
+# The result of flipping: [udict(sova_eng_coin_flipper)] [%that_anchor="again_coin"]
+
+
+//Flip a coin again
++%that_anchor="again_coin"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)]} *
+$ * [<dict(sova_eng_thanks)>] *{redo~/retoss~/repeat~/iterat~} *
+#  [ExtendAnswer("sova_eng_coin_flipper")] [%that_anchor="again_coin"]
+
+
+

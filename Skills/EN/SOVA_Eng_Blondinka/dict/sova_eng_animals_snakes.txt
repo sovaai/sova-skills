@@ -1,0 +1,34 @@
+Adder
+Anaconda
+Asp
+snake
+Boiga
+Boomslang
+Brown snake
+Bushmaster
+Canebrake
+Cantil
+Cascabel
+Cascavel
+Cat-eyed snake
+Cobra
+Colubrine
+Congo snake
+Copperhead
+Dugite
+Keelback
+Krait
+Lancehead
+Mamba
+Mussurana
+Python
+Rattlesnake
+Urutu
+Viper
+Wutu
+Yarara
+
+
+
+
+

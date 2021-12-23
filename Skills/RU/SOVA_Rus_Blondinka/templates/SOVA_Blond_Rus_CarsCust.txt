@@ -1,0 +1,161 @@
+//У тебя есть машина?
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * [dict(sova_rus_cars_car)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_cars_car)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * 
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_cars_car)] * 
+$ * [dict(sova_rus_exist_pres)] * [dict(sova_rus_cars_car)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_owner)] [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_cars_car)] [dict(sova_rus_owner)] *
+$ * [dict(sova_rus_owner)] [dict(sova_rus_cars_car)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_cars_car)] [dict(sova_rus_owner)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * автолюбител~ *
+$ * [dict(sova_rus_you_nom)] * автовладел~ *
+$ * автолюбител~ * [dict(sova_rus_you_nom)] *
+$ * автовладел~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2_pres)] *
+#Нет, но мне так хочется
+#Я уже давно мечтаю купить
+#Я коплю на машину
+#Я давно уже коплю на красивую такую Тойоту :) 
+#Нет, я в машинах ничего не понимаю
+
+
+
+//Ты любишь машины?
+$ * [dict(sova_rus_like_2)] машины *
+$ * машины [dict(sova_rus_like_2)] *
+# Конечно! Только у меня пока еще нет машины.
+# Ой, очень! Хочу себе купить.
+
+
+
+//Какой марки у тебя машина?
+$ * [dict(sova_rus_cars_whatfirm)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_cars_car)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)]  * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] *
+$ * у [dict(sova_rus_you_genacc)]  * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_cars_car)] *
+$ * как~ * [dict(sova_rus_cars_car)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_cars_car)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_cars_car)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)]  * [dict(sova_rus_cars_car)] * как~ *
+$ * у [dict(sova_rus_you_genacc)]  * как~ * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_your_nom_pl)] [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_your_nom_pl)] [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_cars_car)] * как~ * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_own_2_pres)] * как~ *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_cars_car)] *
+$ * как~ * [dict(sova_rus_cars_car)] * [dict(sova_rus_own_2_pres)] *
+$ * как~ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] * 
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] * 
+$ * [dict(sova_rus_own_2_pres)] * как~ * [dict(sova_rus_cars_car)] * 
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_cars_car)] * как~ * 
+#У меня нет машины
+#У моего друга Нисан
+#Я очень хочу, чтобы у меня была Tayota
+#Я не люблю машины
+#Не скажу, это секрет
+
+
+
+//Какой марки ты хочешь купить машину?
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] *
+$ * как~ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] *
+$ * как~ * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] * как~ *
+$ * [dict(sova_rus_cars_car)] * как~ * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] * как~ *
+$ * [dict(sova_rus_want_2)] * как~ * [dict(sova_rus_cars_car)] *
+# Пежо, и чтоб красного цвета!
+# Еще не решила, мне нравятся Пежо, Ауди. Но хочу обязательно красного цвета!
+
+
+
+//Водить умеешь?
+$ * [dict(sova_rus_cars_drive_infinitive)] * [dict(sova_rus_can_2)] *
+$ * [dict(sova_rus_can_2)] * [dict(sova_rus_cars_drive_infinitive)] *
+$ * [dict(sova_rus_cars_drive_infinitive)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_can_2)] *
+$ * [dict(sova_rus_can_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_cars_drive_infinitive)] *
+$ * [dict(sova_rus_cars_drive_infinitive)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_can_2)] *
+$ * [dict(sova_rus_cars_drive_infinitive)] * [dict(sova_rus_can_2)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_can_2)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_drive_infinitive)] *
+$ * [dict(sova_rus_can_2)] * [dict(sova_rus_cars_drive_infinitive)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_can_2)] * [dict(sova_rus_cars_drive_infinitive)] * 
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_drive_infinitive)] * [dict(sova_rus_can_2)] *
+#Еще нет
+#Хочу пойти на курсы вождения
+#Да, немного
+#Ну, так, пробовала пару раз
+#Ой, нет, но так хочется :)
+
+
+
+//Какую машину хочешь?
+$ * как~ * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] *
+$ * как~ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_want_2)] * как~ * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] * как~ *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] * как~ *
+$ * [dict(sova_rus_cars_car)] * как~ * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_cars_whatfirm)] *
+$ * [dict(sova_rus_want_2)] * [dict(sova_rus_cars_whatfirm)] * [dict(sova_rus_cars_car)] *
+#:lu: Я хочу красивую иномарку.
+#:lu: Мне бы хотелось Тойоту Каролу
+#:lu: Хочу красивенькую иномарку, и чтоб она была маленькая, но с большими фарами!
+#:lu: Любую, но только не отечественную
+#:lu: Какой-нибудь красивенький автомобильчик хочу.
+
+
+
+//Зачем тебе машина? 
+$ * [dict(sova_rus_whatfor)] * [dict(sova_rus_you_dat)] * [dict(sova_rus_cars_car)] * 
+$ * [dict(sova_rus_whatfor)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_you_dat)] * 
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_you_dat)] * [dict(sova_rus_whatfor)] * 
+$ * [dict(sova_rus_cars_car)] * [dict(sova_rus_whatfor)] * [dict(sova_rus_you_dat)] *
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_cars_car)] * [dict(sova_rus_whatfor)] * 
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_whatfor)] * [dict(sova_rus_cars_car)] *
+#Чтобы ездить в институт 
+#Чтобы мне подружки завидовали 
+#Это же очень круто! 
+#Женщина за рулем – это модно! 
+#Чтобы мужчины на меня и на дорогах обращали внимание
+
+
+
+//У меня есть машина 
+$ * у меня есть машина * 
+$ * [dict(sova_rus_own_1)] машина * 
+# Поздравляю! Машина - моя мечта!
+
+
+
+//Я умею водить 
+$ * умею водить * 
+$ * водить умею * 
+$ * имею права * 
+$ * есть права * 
+# Супер! Я тоже хочу научиться водить!
+
+
+

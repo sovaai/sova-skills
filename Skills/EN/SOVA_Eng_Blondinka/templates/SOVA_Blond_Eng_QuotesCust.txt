@@ -1,0 +1,39 @@
+//tell me a quote
+$ {quote/quotation} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ * {favorite/favourite} quote *
+$ * tell me {a/an/the/--} {funny/nice/interesting/--} {movie/film/--} {quote/quotation} *
+#:lu: What we've got here is failure to communicate. 
+#:lu: Is it safe? 
+#:lu: Mama always said life was like a box of chocolates. You never know what you're gonna get. 
+#:lu: I see dead people. 
+#:lu: Houston, we have a problem. 
+#:lu: La-dee-da, la-dee-da. 
+#:lu: Toto, I've got a feeling we're not in Kansas anymore. 
+#:lu: May the Force be with you. 
+#:lu: Fasten your seatbelts. It's going to be a bumpy night. 
+#:lu: E.T. phone home. 
+#:lu: Show me the money! 
+#:lu: I want to be alone. 
+#:lu: Carpe diem. Seize the day, boys. Make your lives extraordinary. 
+#:lu: Keep your friends close, but your enemies closer.
+#:lu: You're waiting for a train. A train that will take you far away. You know where you hope this train will take you, but you can't be sure. Yet it doesn't matter, because we'll be together.
+#:lu: You mustn't be afraid to dream a little bigger, darling.
+#:lu: If I concentrate hard enough, I can make things move.
+#:lu: It's robots versus wrestlers!
+#:lu: Forget about it.
+#:lu: I know, you did send me back to the future, but I'm back! I'm back FROM the future... 
+#:lu: Why am I Mr. Pink?
+#:lu: I laugh in the face of danger! Then I hide until it goes away.
+#:lu: You talkin' to me?
+#:lu: Stop trying to control everything and just let go.
+#:lu: Run, Forrest, run! Run, Forrest!
+#:lu: Why so serious?
+#:lu: The night is darkest just before the dawn. I promise you, the dawn is coming.
+#:lu: And may the odds be ever in your favor.
+#:lu: Everything looks more beautiful in retrospect.
+#:lu: Practice makes perfect.
+#:lu: All that glitters is not gold.
+#:lu: There's no place like home.
+
+
+

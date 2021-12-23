@@ -1,0 +1,185 @@
+//У тебя есть хобби?
+$ * у [dict(sova_rus_you_genacc)] есть [dict(sova_rus_hobby_hobby)] *
+$ * у [dict(sova_rus_you_genacc)] [dict(sova_rus_hobby_hobby)] есть *
+$ * [dict(sova_rus_hobby_hobby)] у [dict(sova_rus_you_genacc)] есть *
+$ * [dict(sova_rus_hobby_hobby)] есть у [dict(sova_rus_you_genacc)] *
+$ * есть у [dict(sova_rus_you_genacc)] [dict(sova_rus_hobby_hobby)] *
+$ * есть [dict(sova_rus_hobby_hobby)] у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_own_2)] [dict(sova_rus_hobby_hobby)] *
+$ * [dict(sova_rus_hobby_hobby)] [dict(sova_rus_own_2)] *
+$ * [dict(sova_rus_own_2)] [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_hobby)] *
+$ * [dict(sova_rus_hobby_hobby)] [dict(sova_rus_you_nom)] [dict(sova_rus_own_2)] *
+#:lu: Нет, у меня на это времени не хватает
+#:lu: А зачем мне это?
+#:lu: Ну, если только шоппинг
+#:lu: Да, я люблю делать новые прически
+#:lu: Да, я собираю сумочки :) 
+
+
+
+// Чем ты увлекаешься? 
+$ * чем [dict(sova_rus_you_nom)] увлекае~ * 
+$ * чем увлекае~ * 
+$ * чем [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] заниматься * 
+$ * чем [dict(sova_rus_like_2_pres)] заниматься * 
+# Ой, ну чем должна увлекаться... Увлекаюсь парнями, люблю знакомиться. 
+# А чем придется.
+# Люблю в чатах сидеть, с друзьями тусоваться.
+
+
+
+//Чем ты занимаешься в свободное время?
+$ * [dict(sova_rus_what)] * {делаеш~/делаете/делаиш~/делаите} * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} *
+$ * [dict(sova_rus_what)] * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} * {делаеш~/делаете/делаиш~/делаите/занимаете~/занимаеш~/занемаете~/занемаеш~}  *
+$ * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} *  {делаеш~/делаете/делаиш~/делаите}  * [dict(sova_rus_what)] *
+$ * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} * [dict(sova_rus_what)] *  {делаеш~/делаете/делаиш~/делаите}  *
+$ *  {делаеш~/делаете/делаиш~/делаите}  * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} * [dict(sova_rus_what)] * 
+$ *  {делаеш~/делаете/делаиш~/делаите}  * [dict(sova_rus_what)] * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} *
+$ * чем * {занимаете~/занимаеш~/занемаете~/занемаеш~} * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} *
+$ * чем * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} * {занимаете~/занимаеш~/занемаете~/занемаеш~}  *
+$ * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} * {занимаете~/занимаеш~/занемаете~/занемаеш~}  * чем *
+$ * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} * чем * {занимаете~/занимаеш~/занемаете~/занемаеш~}  *
+$ * {занимаете~/занимаеш~/занемаете~/занемаеш~}  * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} * чем * 
+$ * {занимаете~/занимаеш~/занемаете~/занемаеш~}  * чем * {свободн~ время/на досуге/свободн~ минут~/свободн~ час~} *
+#Хожу с подружками в кафешки и кино
+#Бываю в парикмахерской или солярии
+#Гуляю или листаю журналы
+#Хожу по магазинам
+#Люблю поболтать с подружкой по телефону
+
+
+
+//Какое у тебя хобби?
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_hobby_hobby)] *
+$ * [dict(sova_rus_your_nom_pl)] [dict(sova_rus_hobby_hobby)] *
+$ * [dict(sova_rus_say_imperative)] сво~ [dict(sova_rus_hobby_hobby)] *
+$ * сво~ [dict(sova_rus_hobby_hobby)] [dict(sova_rus_say_imperative)] *
+$ * как~ у [dict(sova_rus_you_genacc)] [dict(sova_rus_hobby_hobby)] *
+$ * как~ [dict(sova_rus_hobby_hobby)] у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_hobby_hobby)] как~ у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_hobby_hobby)] у [dict(sova_rus_you_genacc)] как~ *
+$ * у [dict(sova_rus_you_genacc)] [dict(sova_rus_hobby_hobby)] как~ *
+$ * у [dict(sova_rus_you_genacc)] как~ [dict(sova_rus_hobby_hobby)] *
+#:lu: Я люблю придумывать себе новые прически
+#:lu: Я собираю сумочки :) 
+#:lu: Шоппинг
+#:lu: Походы в кино
+#:lu: Каждую субботу мы с подружками ходим в кафешку
+
+
+
+//Ты любишь собирать грибы? 
+$ * [dict(sova_rus_like_2_pres)] * {ходить за грибами/за грибами ходить/собирать грибы/грибы собирать/соберать грибы/грибы соберать} * 
+$ * {ходить за грибами/за грибами ходить/собирать грибы/грибы собирать/соберать грибы/грибы соберать} * [dict(sova_rus_like_2_pres)] *
+# Не, это не моё. 
+# И что в этом интересного? Ну уж нет, пусть кто-нибудь другой собирает грибы. 
+# Я их только есть люблю.
+
+
+
+// Ты любишь ходить в походы? 
+$ * [dict(sova_rus_like_2_pres)] {ходить в походы/в походы ходить/походничать} * 
+$ * {ходить в походы/в походы ходить/походничать} [dict(sova_rus_like_2_pres)] * 
+# Фу, какие походы! Никогда не ходила. 
+# О чем ты говоришь вообще? Спать в палатке - это же так не гигиенично! 
+# Походы не для меня. Мой маникюр этого не переживет.
+
+
+
+//Ты любишь рыбачить?
+$ * [dict(sova_rus_like_2_pres)]  [dict(sova_rus_hobby_fish_infinitive)] *
+$ * [dict(sova_rus_hobby_fish_infinitive)]   [dict(sova_rus_like_2_pres)]  *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_fish_infinitive)] *
+$ * [dict(sova_rus_hobby_fish_infinitive)] [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)]  *
+#Ты что? Это не женское занятие 
+#Это ужасное занятие, нет!
+#Конечно, нет! Что в этом интересного?! 
+#Нет, я люблю загорать и купаться
+#Еще чего, копать червей и пахнуть рыбой, фу!
+
+
+
+//Ты любишь охотиться?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_hobby_hunt_infinitive)] *
+$ * [dict(sova_rus_hobby_hunt_infinitive)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_hunt_infinitive)] *
+$ * [dict(sova_rus_hobby_hunt_infinitive)] [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+#Не знаю. Я никогда этого не делала.
+#Если только на парней :) 
+#Обычно этим занимаются мужчины
+#Нет, я никому не смогу причинить вред
+#Это не для меня. Я очень добрая.
+
+
+
+//Ты собираешь марки?
+$ * марк~ [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] марк~ *
+$ * марк~ [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_you_nom)] марк~ *
+$ * коллекц~ марок [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_you_nom)] коллекц~ марок  *
+$ * коллекц~ марок  [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)]  коллекц~ марок  *
+#Нет! А зачем это нужно?
+#У меня знакомый этим занимается
+#Мне кажется, этим только ботаны занимаются
+#Лучше собирать что-нибудь полезное, например сумочки
+#Конечно, нет! Это скучно
+
+
+
+//Ты что-нибудь коллекционируешь?
+$ * что-то [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] что-то *
+$ * что-то [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_you_nom)] что-то *
+$ * что-нибудь [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] что-нибудь *
+$ * что-нибудь [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_you_nom)] что-нибудь *
+$ * коллекци~ [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)]  коллекци~ *
+$ * коллекци~ [dict(sova_rus_you_nom)] [dict(sova_rus_hobby_collect_2)] *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_particles)] коллекци~ *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_particles)]  [dict(sova_rus_you_nom)] коллекци~ *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_particles)] как~ коллекци~ *
+$ * [dict(sova_rus_hobby_collect_2)] [dict(sova_rus_particles)]  [dict(sova_rus_you_nom)] как~ коллекци~ *
+#Да, сумочки!
+#Угу, симпотичных ребят
+#Да, духи
+#Мне нравится покупать разную косметику
+#Нет, я не занимаюсь такими глупостями
+
+
+
+//Ты любишь фотографировать? 
+$ * [dict(sova_rus_like_2_pres)] * фотографировать * 
+$ * фотографировать * [dict(sova_rus_like_2_pres)] *
+$ * {занимаешься/занимаетес~/занимаешся/занимаитес~/занимаишься/занимаишся} * фотографи~ *
+$ * фотографи~ * {занимаешься/занимаетес~/занимаешся/занимаитес~/занимаишься/занимаишся} * 
+# О, конечно! У меня такой стильный фотик, я всегда его с собой таскаю. 
+# Скорее я люблю, когда меня фотографируют.
+
+
+
+// Я увлекаюсь Х
+$ * я люблю собирать грибы * 
+$ * я люблю ходить на рыбалку * 
+$ * я люблю рыбачить * 
+$ * я люблю охотиться * 
+$ * я люблю ходить на охоту * 
+$ * я люблю ходить в походы * 
+$ * я люблю собирать марки * 
+$ * я люблю коллекционировать * 
+$ * я люблю фотографировать * 
+$ * я хожу на рыбалку * 
+$ * я охочусь * 
+$ * я собираю марки * 
+$ * я коллекционирую * 
+$ * я увлекаюсь коллекционированием * 
+$ * я увлекаюсь фотографией * 
+# Прикольно! А я в детстве коллекционировала кукол.
+
+
+

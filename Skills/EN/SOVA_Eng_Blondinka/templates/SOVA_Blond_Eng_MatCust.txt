@@ -1,0 +1,68 @@
+﻿//любое матерное слово
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+$ * [dict(sova_eng_badwords)]  *
+$ * [dict(sova_eng_badwords)] **
+#:luniq: Wow!
+#:luniq: The cheek!
+
+
+
+$ * {that's done it/fucked up/that sucks/damn~/damm~} *
+$ * {fucking/dizzying} *
+$ * shit~ *
+$ * shit~ **
+# You know better, of course, but the words are unbecoming.
+
+
+
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+$ * crud *
+$ * {rabble/cattle/lout/lowbrow/bungler/mean person/sucker/copycat} *
+$ * {scoundrel/rascal/villain}*
+$ * {scoundrel/rascal/villain} **
+$ * {shitheel/asswad/asshole} *
+$ * {shitheel/asswad/asshole} **
+#:luniq: Don't get rough! 
+#:luniq: Don't get tough with me, babe.
+
+
+
+$ * {beaver/vulva/pudenda/vagina/man of effeminate character/be fucked/You are fucked/I'm fucked/twat/cunt/neden/ham wallet hothouse/squished mitten/bitch wrinkle/in the asshole square/money-pit/ coochie} *
+# Pick words, please.
+
+
+
+//you are stupid
+$ * how * [dict(sova_eng_offence_stupid)] [dict(sova_eng_q_2_are)] * 
+$ * how * [dict(sova_eng_offence_stupid)] [dict(sova_eng_pr_2_are)] * 
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} * [dict(sova_eng_offence_stupid)] * 
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_offence_stupid)] * 
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_offence_stupid)] * 
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_kindof)] [dict(sova_eng_offence_stupid)] * 
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_kindof)] [dict(sova_eng_synonyms_very)] [dict(sova_eng_offence_stupid)] * 
+$ * how not [dict(sova_eng_synonyms_clever)] [dict(sova_eng_q_2_are)] * 
+$ * how not [dict(sova_eng_synonyms_clever)] [dict(sova_eng_pr_2_are)] * 
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} not {really/rly/realy/very/--} {that/--} [dict(sova_eng_synonyms_clever)] * 
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] not [dict(sova_eng_synonyms_clever)] * 
+$ [dict(sova_eng_offence_stupid)] 
+$ [dict(sova_eng_synonyms_very)] [dict(sova_eng_offence_stupid)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ * {stupid/stupider/stupidest} {inf/infs/bot/bots} * 
+# Come on, don’t be rude. 
+# I wouldn't always refer to people in that kind of manner, as it could offend someone.
+# Thanks for being honest, but I think differently. 
+# There are nicer things to say to people than that. 
+
+
+
+//you're annoying
+$ * [dict(sova_eng_pr_2_are)]{annoy~/anoy~} *
+$ * [dict(sova_eng_pr_2_are)] [dict(sova_eng_synonyms_very)] {annoy~/anoy~} *
+$ * [dict(sova_eng_pr_2_are)] [dict(sova_eng_really)] {annoy~/anoy~} *
+$ * [dict(sova_eng_pr_2_are)] mak~ * sick *
+$ * [dict(sova_eng_pr_2_are)] {a/the/such/--} {a/--} {disappoint~/dissapoint~/disapoint~/dissappoint~} *
+$ * bother~ {me/I} *
+#That's the way I act!
+#I'll think about it.
+
+
+

@@ -1,0 +1,15 @@
+//Загадай загадку
+--Label sova_rus_riddles
+$ * {загад~/шарад~/головолом~/ребус~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({[dict(sova_rus_tell)]}, {{загад~/шарад~/головолом~/ребус~\}})] *
+$ * [@cmb({{хоч~/давай/го/мож~/гони~/погнал~/валяй~/теперь/нужн~/шуруй~/айда/знае~/загада~/зада~\}}, {{загад~/шарад~/головолом~/ребус~\}})] *
+$ * [@cmb({[dict(sova_rus_please)]}, {{загад~/шарад~/головолом~/ребус~\}})] *
+# [udict(sova_rus_riddles)][%that_anchor="ещё_загадки"]
+
+
+//Ещё загадки
++%that_anchor="ещё_загадки"
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[dict(sova_rus_again)]}, {{загад~/шарад~/головолом~/ребус~/--\}})] *
+#  [ExtendAnswer("sova_rus_riddles")][%that_anchor="ещё_загадки"]
+
+

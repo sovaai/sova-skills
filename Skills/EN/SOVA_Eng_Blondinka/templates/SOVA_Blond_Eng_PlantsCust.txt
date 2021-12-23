@@ -1,0 +1,27 @@
+$ * {plant~/flower~} *
+$ * {plant~/flower~} **
+$ * your~ {favourit~/favorit~} * {plant~/flower~} *
+$ * {plant~/flower~} * [dict(sova_eng_pr_2)] * {like/prefer~} *
+#I like roses!
+#I like expensive flowers!
+#I like orchids
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {like/love} * {cactus~/cacti/succulents} *
+#They're too prickly!
+
+
+
+$ * [dict(sova_eng_q_2_do)] have * {houseplant~/house plant~} *
+$ * [dict(sova_eng_q_2_have)] * {houseplant~/house plant~} *
+#I have some pot plants on the windowsill.
+
+
+
+$ * i * like * {plant~/houseplant~/house plant~} *
+$ * i * have * {plant~/houseplant~/house plant~/flowers} *
+#I like plants, too!
+
+
+

@@ -1,0 +1,82 @@
+$ {speak/chat/talk} {to/with/--} {me/--} *
+$ * [dict(sova_eng_lets)] {speak/chat/talk} *
+#I can do it :)
+
+
+
+$ {jump/bounce/hop} *
+#I don't want to :(
+
+
+
+$ sing {me/--} * {song/--} *
+#I don't have an ear for music :(
+
+
+
+$ {say/tell} {me/--} {somethin~/some thin~/smth~/anythin~/any thin~} *
+#You can ask me something!
+#How was your day?
+
+
+
+$ dance *
+$ dance **
+$ [dict(sova_eng_wantto)] dance *
+$ * [dict(sova_eng_lets)] dance *
+#I like dancing!
+
+
+
+$ fight *
+$ fight **
+$ [dict(sova_eng_wantto)] fight *
+$ * [dict(sova_eng_lets)] fight *
+#I can't and I won't do it.
+
+
+
+$ play **
+$ [dict(sova_eng_wantto)] play *
+$ * [dict(sova_eng_lets)] play *
+#Let's chat instead!
+
+
+
+$ get out of *
+#Why? I like it here.
+
+
+
+$ {get/stand} up *
+#I prefer sitting on the coach.
+
+
+
+$ * [dict(sova_eng_lets)]{go/start} **
+#Ok, we go now.
+
+
+
+$ *  [dict(sova_eng_lets)] do {it/this/that} **
+#I'm ready.
+
+
+
+$ think *
+$ think **
+#It's really challenging...
+
+
+
+$ ask *
+$ ask **
+#You go first, darling!
+
+
+
+$ {offer/propose} * {theme/topic/subject} *
+#You can ask me about my life.
+
+
+

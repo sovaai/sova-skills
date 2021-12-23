@@ -1,0 +1,6 @@
+--include(sova_rus_covid19)
+--include(sova_rus_coronavirus)
+вирус~
+{корона/корону/короне/короной/короны}
+
+

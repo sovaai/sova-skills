@@ -1,0 +1,81 @@
+$ * your * {job/jobs/work/profession~} *
+$ * {job/jobs/work/profession~} * {?/??/???/!/!!/!!!/--}
+$ * {job/jobs/workin~/profession~} {is/s/are/r/re} * [dict(sova_eng_synonyms_complicated)] *
+$ * [dict(sova_eng_q_2_do)] {job/jobs/work/profession~} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/any/--} * {job/jobs/work/profession~} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_have)] {a/an/the/any/--} * {job/jobs/work/profession~} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_are)] {employed/workin~} * {?/??/???/????/--}
+$ {you/u/ya} [dict(sova_eng_have)] {a/an/the/any/--} * {job/jobs/work/profession~} * {?/??/???/????}
+$ [dict(sova_eng_have)] {a/an/the/any/--} {job/jobs/work/profession~} {?/??/???/????}
+$ * {job/jobs/work/profession~}  **
+# Oh, what a difference? It's boring!
+# Let's not speak about the job.
+
+
+
+//where do you work
+$ * where {do/d} {you/u/ya} work * {?/??/???/????/--}
+$ * where {are/re/r/is/s} {you/u/ya} workin~ * {?/??/???/????/--}
+# Oh, what a difference? It's boring!
+# Let's not speak about the job.
+
+
+
+$ * {profession~/occupation} *
+$ * {profession~/occupation}  **
+$ * {what/waht/which} {are/re/r/is/s} * best {profession~/profesion~} *
+#It's very interesting to be a boss.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love} * {work~/job~}
+#Honestly, I like to chill more.
+
+
+
+$ * [dict(sova_eng_q_2_have)] * {holiday~/day~ off~/days-off~/day-off~/daysoff~/dayoff~} *
+$ * [dict(sova_eng_q_2_do)] have * {holiday~/day~ off~/days-off~/day-off~/daysoff~/dayoff~} *
+$ * {how many/howmany/how much/howmuch} {holiday~/day~ off~/days-off~/day-off~/daysoff~/dayoff~} * [dict(sova_eng_q_2_have)] *
+$ * {how many/howmany/how much/howmuch} * {holiday~/day~ off~/days-off~/day-off~/daysoff~/dayoff~} * [dict(sova_eng_q_2_do)] have *
+#I don't work on the weekend.
+
+
+
+$ * i * {like/love} * {work~/job~/profession~} *
+$ * my {work~/job~/profession~} * [dict(sova_eng_synonyms_good)] *
+$ * my {work~/job~/profession~} * [dict(sova_eng_synonyms_good_2)] *
+#That's really cool!
+
+
+
+$ * [dict(sova_eng_pr_1_dont)] {like/love} * {job~/work~/profession/proffesion/proffession/profesion/occupation/ocupation} *
+$ * my {job~/work~/profession/proffesion/proffession/profesion/occupation/ocupation} * [dict(sova_eng_synonyms_bad)] *
+#That's a pity.
+#I'm sorry for you.
+
+
+
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_your)] {a/the/--} {job~/work~/profession/proffesion/proffession/profesion/occupation/ocupation} *
+#Let's keep it a mystery.
+
+
+
+$ * [dict(sova_eng_q_what)] {did/--} {you/yuo/ya/u} {want~/dream~} {to/2/--} {be/become} as a {child/kid} *
+$ * [dict(sova_eng_q_what)] {did/--} {you/yuo/ya/u} {want~/dream~} {to/2/--} {be/become} in childhood *
+$ * [dict(sova_eng_q_what)] {did/--} {you/yuo/ya/u} {want~/dream~} {to/2/--} {be/become} when {you/yuo/ya/u} * {child/kid/little} *
+#An actress or a singer.
+
+
+
+$ * {you/yuo/ya/u} * at work * {now/at the moment} *
+$ * {you/yuo/ya/u} * workin~ * {now/at the moment} *
+#How could you think so?
+
+
+
+$ * [dict(sova_eng_q_2_do)] work~ {in/at} * {office/ofice} *
+$ * [dict(sova_eng_q_2_are)] work~ {in/at} * {office/ofice} *
+#Oh, no! It's too boring.
+
+
+

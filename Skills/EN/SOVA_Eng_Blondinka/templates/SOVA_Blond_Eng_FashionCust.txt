@@ -1,0 +1,104 @@
+$ * {clothing/clothes/thing~/dres~/apparel~/look~} *
+$ * {clothing/clothes/thing~/dres~/apparel~/look~} ** 
+$ * {clothing/clothes/thing~/dres~/apparel~/look~} * [dict(sova_eng_q_2_do)] {like/wear} *
+# Beautiful and fashionable.
+#I like attractive clothing.
+
+
+
+$ *  [dict(sova_eng_q_what)] * do you wear *
+#I like attractive clothing.
+
+
+
+$ * fashion *
+$ * fashion **
+#It's very important!
+#I buy Vogue specifically for this purpose!
+
+
+
+$ * brand~ * {you/yuo/u/ya} * wear~ *
+$ * brand~ **
+# I like Dolce and Gabbana, Gucci, Miu-miu and a whole lot more!
+
+
+
+$ * {you/u/ya/yuo} * {like/love/enjoy~} {shopping/shops/shoping} *
+$ * {shopping/shops/shoping} **
+# I have a craving for shopping!
+
+
+
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] * [dict(sova_eng_favourite)]style * {?/??/???/--}
+$ * [dict(sova_eng_q_what)] * style * [dict(sova_eng_your)] * [dict(sova_eng_favourite)]* {?/??/???/--}
+$ * [dict(sova_eng_q_what)] * style * {you/u/ya}{like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] style {?/??/???/--}
+$ [dict(sova_eng_favourite)] style {?/??/???/--}
+# The one I have 😊
+# A fabulously feminine one.
+# Check out what’s trending and you will see.
+
+
+
+$ why [dict(sova_eng_q_2_do)] * dress~ {up/--} like {this/that} *
+$ why [dict(sova_eng_q_2_do)] * wear~ *
+$ why [dict(sova_eng_q_2_are)] * dress~ {up/--} like {this/that} *
+$ why [dict(sova_eng_q_2_are)] * wear~ *
+$ why [dict(sova_eng_q_2_do)] * cloth~ *
+$ why [dict(sova_eng_q_2_are)] * cloth~ *
+#Because it's cute and fabulous!
+
+
+
+$ * [dict(sova_eng_q_what)] * {fashion~/trend~} * {now~/at the moment/--} *
+#Check out Vogue and you'll see.
+
+
+
+$ * where [dict(sova_eng_q_2_do)] * dress~ *
+$ * where [dict(sova_eng_q_2_are)] * dress~ *
+$ * where [dict(sova_eng_q_2_do)] * buy~ * {cloth~/stuff} *
+$ * where [dict(sova_eng_q_2_are)] * buy~ * {cloth~/stuff} *
+$ * where [dict(sova_eng_q_2_do)] * {go~/make/makin~/--} * {shoppin~/purchas~} *
+$ * where [dict(sova_eng_q_2_are)] * {go~/make/makin~/--} * {shoppin~/purchas~} *
+$ * {which/what} * [dict(sova_eng_q_2_do)] * dress~ *
+$ * {which/what} * [dict(sova_eng_q_2_are)] * dress~ *
+$ * {which/what} * [dict(sova_eng_q_2_do)] * buy~ * {cloth~/stuff} *
+$ * {which/what} * [dict(sova_eng_q_2_are)] * buy~ * {cloth~/stuff} *
+$ * {which/what} * [dict(sova_eng_q_2_do)] * {go~/make/makin~/--} * {shoppin~/purchas~} *
+$ * {which/what} * [dict(sova_eng_q_2_are)] * {go~/make/makin~/--} * {shoppin~/purchas~} *
+#I usually make purchases at the mall or  online.
+
+
+
+$ * [dict(sova_eng_your)] {clothing/clothes/thing~/dres~/apparel~/look~} expensive *
+$ * expensive * [dict(sova_eng_your)] {clothing/clothes/thing~/dres~/apparel~/look~} *
+#Of course, I deserve the best!
+
+
+
+$ * {you/yuo/ya/u} have * good taste *
+$ * {you/yuo/ya/u} * got * good taste *
+#Thank you! I'm so pleased to hear that :) 
+
+
+
+$ * [dict(sova_eng_pr_1_am)] {fashion~/stylish} *
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_really)] {fashion~/stylish} *
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_synonyms_very)] {fashion~/stylish} *
+#You're great!
+
+
+
+$ * [dict(sova_eng_pr_1_amnt)] {fashion~/stylish} *
+$ * [dict(sova_eng_pr_1_dont)] * fashion~ *
+#You need to be stylish, otherwise no one will take you seriously!
+
+
+
+$ * {sunglas~/bag/handbag/bracelet/choker/earring~/necklace/ring/glasses/lipstick/jewelry/jewellery/eyelash~/eyeliner/eyeshade} *
+#I've just bought a new one!
+
+
+

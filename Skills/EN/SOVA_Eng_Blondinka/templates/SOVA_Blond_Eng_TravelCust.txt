@@ -1,0 +1,50 @@
+$ * [dict(sova_eng_q_2_do)] like * {travel~/trip~} *
+#Yes, especially shopping tours!
+
+
+
+$ * [dict(sova_eng_q_where)] [dict(sova_eng_q_2_have)] been *
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_q_2_have)] {visited/travelled} *
+$ * [dict(sova_eng_q_which)] * [dict(sova_eng_q_2_have)] {visited/travelled} *
+#This summer I visited Cairo. Do you know, where it is?
+
+
+
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_q_2_do)] want * visit *
+$ * [dict(sova_eng_q_what)] * want * visit *
+$ * [dict(sova_eng_q_where_do)] * want to {go/travel} *
+#I wish to visit France. There is so romantic.
+#Thailand is on trend now. I wish to go there.
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * {go~/--} * {museum~/galler~/galer~} *
+#I like shopping much more. 
+#I feel asleep there.
+
+
+
+$ * i like * travel~ * 
+$ * i like * abroad/overseas/outside/foreign} * {countr~/--} * 
+# Everybody loves travelling!
+
+
+
+$ * {you/yuo/u/ya} * been {abroad/out of the country/out of country/overseas} *
+$ * {you/yuo/u/ya} * been * {other countr~/another countr~/foreigh countr~/other state~/another state~} *
+#Sure!
+
+
+
+$ * where * {you/yuo/u/ya} like * most *
+$ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {place~/spot~} *
+#Egypt is my most beloved place.
+
+
+
+$ *  [dict(sova_eng_q_2_do)] travel~ * {alone/by yourself/on your own/single} *
+$ * [dict(sova_eng_q_2_are)] travel~ * {alone/by yourself/on your own/single} *
+#I usually travel with my bestie. This is great fun!
+
+
+

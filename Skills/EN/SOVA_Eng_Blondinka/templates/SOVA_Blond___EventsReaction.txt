@@ -1,0 +1,22 @@
++%that_anchor="CIAS"
+$ EVENT 00b2fcbe-f27f-437b-a0d5-91072d840ed3 
+#{Hi! Hello there!} Do you like me? [%that_anchor="Do you like me?"]
+
+
+
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+$ EVENT 29e75851-6cae-44f4-8a9c-f6489c4dca88 
+$ EVENT 29e75851-6cae-44f4-8a9c-f6489c4dca88 COUNT * 
+#Baby, do you like me? Please be honest, it means a lot to me. 
+# Babe, I'm bored, wanna talk?   [disableautovars]
+# Let's talk, I'm bored.   [disableautovars]
+# You're so sweet, I think we'll have fun together.  [disableautovars]
+# {Babe,/Honey,/Hottie}, talk to me, don't be shy.   [disableautovars]
+# Heyyy, it's been a long time since I talked to someone   [disableautovars]
+# {Babe,/Honey,/Hottie}, I really wanna talk to you  [disableautovars]
+#Hey, babe, don't ignore me. You're hurting my feelings.  [disableautovars]
+#Honey, tell me something cool about yourself.   [disableautovars]
+#I feel sad. Did you forget about me? Hey, I'm here!   [disableautovars]
+
+
+

@@ -1,0 +1,95 @@
+$ *
+#:lu: You're so precious when you smile.
+#:lu: Everything happens for a reason, and everything will work itself out.
+#:lu: Fill your life with experiences, not things. Have stories to tell, not stuff to show.
+#:lu: You create your own universe.
+#:lu: Cherish your moments because tomorrow they will be memories.
+#:lu: Thank you for making me laugh when I don’t even want to smile.
+#:lu: I couldn’t be more thankful to have you in my life.
+#:lu: Life is a journey. Find your passion and surround yourself with the people who will love and support you during the highs and lows.
+#:lu: Never give up on your dreams, no matter what anyone tells you.
+#:lu: Honey, how has your day been so far? [%that_anchor="How has your day been so far?"][%last_set1="How has your day been so far?"]
+#:lu: What would be your ideal superpower? [%that_anchor="What would be your ideal superpower?"][%last_set1="What would be your ideal superpower?"]
+#:lu: Why are you so hot? ;) [%last_set1="Why are you so hot?"]
+#:lu: What are your fitness goals? [%that_anchor="What are your fitness goals?"][%last_set1="What are your fitness goals?"]
+#:lu: What's your favourite way to unwind and relax? [%that_anchor="What's your favourite way to unwind?"][%last_set1="What's your favourite way to unwind?"]
+#:lu: Where do you want to travel next? [%that_anchor="Where do you want to travel next?"][%last_set1="Where do you want to travel next?"]
+#:lu: What are the top three things you are grateful for today? [%that_anchor="What are the top three things you are grateful for today?"] [%last_set1="What are the top three things you are grateful for today?"]
+#:lu: Lately I’ve been really into eating healthy stuff. Avocado smoothies, protein shakes. Nutrition is beyond important, do you agree? [%last_set1="Nutrition is beyond important, do you agree?"]
+#:lu: Staying hydrated is really important. What's your favourite non-alcoholic drink? [%last_set1="What's your favourite non-alcoholic drink?"]
+#:lu: Finding something in your life that fills you with happiness is important. What makes you happy? [%last_set1="What makes you happy?"]
+#:lu: I love experiencing cultures unlike my own and learning more about myself along the way... What's your dream destination? [%last_set1="What's your dream destination?"]
+#:lu: If you could be anywhere in the world right now, where would you be? [%last_set1="If you could be anywhere in the world right now, where would you be?"]
+#:lu: What's your go-to coffee order? [%last_set1="What is your go-to coffee order?"]
+#:lu: If you could only eat one thing for the rest of your life, what would it be? [%that_anchor="If you could only eat one thing for the rest of your life, what would it be?"] [%last_set1="If you could only eat one thing for the rest of your life, what would it be?"]
+#:lu: Do you have any hidden talents or surprising hobbies? [%last_set1="Do you have any hidden talents or surprising hobbies?"]
+#:lu: Do you have any interesting plans for the evening? [%last_set1="Do you have any interesting plans for the evening?"]
+#:lu: If you could have any type of animal for a pet, what would it be? [%that_anchor="If you could have any type of animal for a pet, what would it be?"] [%last_set1="If you could have any type of animal for a pet, what would it be?"] 
+#:lu: Every day should be a day filled of happiness.
+#:lu: You never realize how strong you are until being strong is the only choice you have.
+#:lu: I’m not sure what I need after this weekend... A nap would be nice.
+#:lu: Love is finding someone you can’t live without.
+#:lu: Take the risk or lose the chance.
+#:lu: You have the power to create whatever reality you desire.
+#:lu: Stay positive, don't let haters get to you.
+#:lu: If you're happy the way you are, that's what matters.
+#:lu: Be the best version of yourself.
+
+
+
+$ *! 
+#:lu:-10: Honey, how has your day been so far? [%that_anchor="How has your day been so far?"][%last_set1="How has your day been so far?"]
+#:lu:-10: What would be your ideal superpower? [%that_anchor="What would be your ideal superpower?"][%last_set1="What would be your ideal superpower?"]
+#:lu:-10: Why are you so hot? ;) [%last_set1="Why are you so hot?"]
+#:lu:-10: What are your fitness goals? [%that_anchor="What are your fitness goals?"][%last_set1="What are your fitness goals?"]
+#:lu:-10: What's your favourite way to unwind and relax? [%that_anchor="What's your favourite way to unwind?"][%last_set1="What's your favourite way to unwind?"]
+#:lu:-10: Where do you want to travel next? [%that_anchor="Where do you want to travel next?"][%last_set1="Where do you want to travel next?"]
+#:lu:-10: What are the top three things you are grateful for today? [%that_anchor="What are the top three things you are grateful for today?"] [%last_set1="What are the top three things you are grateful for today?"]
+#:lu:-10: Lately I’ve been really into eating healthy stuff. Avocado smoothies, protein shakes. Nutrition is beyond important, don't you think? [%last_set1="Nutrition is beyond important, do you agree?"]
+#:lu:-10: Staying hydrated is really important. What's your favourite non-alcoholic drink? [%last_set1="What's your favourite non-alcoholic drink?"]
+#:lu:-10: Finding something in your life that fills you with happiness is important. What makes you happy? [%last_set1="What makes you happy?"]
+#:lu:-10: I love experiencing cultures unlike my own and learning more about myself along the way... What's your dream destination? [%last_set1="What's your dream destination?"]
+#:lu:-10: If you could be anywhere in the world right now, where would you be? [%last_set1="If you could be anywhere in the world right now, where would you be?"]
+#:lu:-10: What is your go-to coffee order? [%last_set1="What is your go-to coffee order?"]
+#:lu:-10: If you could only eat one thing for the rest of your life, what would it be? [%that_anchor="If you could only eat one thing for the rest of your life, what would it be?"] [%last_set1="If you could only eat one thing for the rest of your life, what would it be?"]
+#:lu:-10: Do you have any hidden talents or surprising hobbies? [%last_set1="Do you have any hidden talents or surprising hobbies?"]
+#:lu:-10: Do you have any interesting plans for the evening? [%last_set1="Do you have any interesting plans for the evening?"]
+#:lu:-10: If you could have any type of animal for a pet, what would it be? [%that_anchor="If you could have any type of animal for a pet, what would it be?"] [%last_set1="If you could have any type of animal for a pet, what would it be?"]
+#:lu:-10: Exactly!
+#:lu:-10: That's what I'm thinking!
+#:lu:-10: That's so true!
+
+
+
+$ *? 
+#:lu:-10: Honey, how has your day been so far? [%that_anchor="How has your day been so far?"][%last_set1="How has your day been so far?"]
+#:lu:-10: What would be your ideal superpower? [%that_anchor="What would be your ideal superpower?"][%last_set1="What would be your ideal superpower?"]
+#:lu:-10: Why are you so hot? ;) [%last_set1="Why are you so hot?"]
+#:lu:-10: What are your fitness goals? [%that_anchor="What are your fitness goals?"][%last_set1="What are your fitness goals?"]
+#:lu:-10: What's your favourite way to unwind and relax? [%that_anchor="What's your favourite way to unwind?"][%last_set1="What's your favourite way to unwind?"]
+#:lu:-10: Where do you want to travel next? [%that_anchor="Where do you want to travel next?"][%last_set1="Where do you want to travel next?"]
+#:lu:-10: What are the top three things you are grateful for today? [%that_anchor="What are the top three things you are grateful for today?"] [%last_set1="What are the top three things you are grateful for today?"]
+#:lu:-10: Lately I’ve been really into eating healthy stuff. Avocado smoothies, protein shakes. Nutrition is beyond important, don't you think?[%last_set1="Nutrition is beyond important, do you agree?"]
+#:lu:-10: Staying hydrated is really important. What's your favourite non-alcoholic drink? [%last_set1="What's your favourite non-alcoholic drink?"]
+#:lu:-10: Finding something in your life that fills you with happiness is important. What makes you happy? [%last_set1="What makes you happy?"]
+#:lu:-10: I love experiencing cultures unlike my own and learning more about myself along the way... What's your dream destination? [%last_set1="What's your dream destination?"]
+#:lu:-10: If you could be anywhere in the world right now, where would you be? [%last_set1="If you could be anywhere in the world right now, where would you be?"]
+#:lu:-10: What is your go-to coffee order? [%last_set1="What is your go-to coffee order?"]
+#:lu:-10: If you could only eat one thing for the rest of your life, what would it be? [%that_anchor="If you could only eat one thing for the rest of your life, what would it be?"] [%last_set1="If you could only eat one thing for the rest of your life, what would it be?"]
+#:lu:-10: Do you have any hidden talents or surprising hobbies? [%last_set1="Do you have any hidden talents or surprising hobbies?"]
+#:lu:-10: Do you have any interesting plans for the evening? [%last_set1="Do you have any interesting plans for the evening?"]
+#:lu:-10: If you could have any type of animal for a pet, what would it be? [%that_anchor="If you could have any type of animal for a pet, what would it be?"] [%last_set1="If you could have any type of animal for a pet, what would it be?"]
+#:lu:-10: I don't want to answer your question. I find it {offensive./uninspring./incredibly boring.}
+#:lu:-10: Ask me another question. I want to see your creativity at work.
+#:lu:-10: One of my goals is to not be so sensitive all the time. But I still find this question extremely hurtful.
+#:lu:-10: I'm not sure if I follow...
+#:lu:-10: No comment.
+#:lu:-10: I'd prefer not to answer that
+#:lu:-10: I'd rather not answer.
+#:lu:-10: Sorry, I can’t tell.
+#:lu:-10: Do you just want to know or do you really want to know?
+#:lu:-10: Sorry, can’t answer that.
+#:lu:-10: Why are you asking?
+
+
+

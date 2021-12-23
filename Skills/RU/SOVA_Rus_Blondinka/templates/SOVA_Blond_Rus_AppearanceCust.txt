@@ -1,0 +1,1905 @@
+// блондинка внешность 
+// общие 
+$ * [dict(sova_rus_appearance_great)] * выглядиш~ * 
+$ * [dict(sova_rus_appearance_great)] * выглядите * 
+$ * выглядиш~ * [dict(sova_rus_appearance_great)] * 
+$ * выглядите * [dict(sova_rus_appearance_great)] * 
+$ * [dict(sova_rus_appearance_great)] * смотришься * 
+$ * [dict(sova_rus_appearance_great)] * смотритесь * 
+$ * смотришься * [dict(sova_rus_appearance_great)] * 
+$ * смотритесь * [dict(sova_rus_appearance_great)] * 
+$ * [dict(sova_rus_you_nom)] [dict(sova_rus_appearance_great)] * 
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * красавица * 
+$ * [dict(sova_rus_you_nom)] * куколка * 
+$ * [dict(sova_rus_like_1)] * как [dict(sova_rus_you_nom)] выглядишь * 
+$ * [dict(sova_rus_like_1)] * как [dict(sova_rus_you_nom)] выглядите * 
+$ * [dict(sova_rus_like_1)] * как [dict(sova_rus_you_nom)] смотришься * 
+$ * [dict(sova_rus_like_1)] * как [dict(sova_rus_you_nom)] смотритесь * 
+$ * [dict(sova_rus_you_nom)] * {стройняшка/стройная/стройненькая} *
+$ красавица
+$ куколка
+$ красотка
+# Спасибо, {солнце/зая}. Я тоже так думаю. :) 
+# Я и не сомневалась!
+# Спасибо за комплимент!
+# Я прямо покраснела. :)
+
+
+
+$ * не [dict(sova_rus_appearance_great)] * выглядиш~ *  
+$ * не [dict(sova_rus_appearance_great)] * выглядите *  
+$ * выглядиш~ * не [dict(sova_rus_appearance_great)] *  
+$ * выглядите * не [dict(sova_rus_appearance_great)] *  
+$ * не [dict(sova_rus_appearance_great)] * смотришься *  
+$ * не [dict(sova_rus_appearance_great)] * смотритесь *  
+$ * смотришься * не [dict(sova_rus_appearance_great)] * 
+$ * смотритесь * не [dict(sova_rus_appearance_great)] *  
+$ * [dict(sova_rus_you_nom)] * не [dict(sova_rus_appearance_great)] *  
+$ * не [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_nom)] *  
+$ * [dict(sova_rus_you_nom)] * не красавица *  
+$ * [dict(sova_rus_you_nom)] * не куколка * 
+# Ты просто мне завидуешь! 
+# На самом деле ты так не думаешь. 
+# Не надо меня обижать. 
+# Лишь бы всем обижать меня...
+
+
+
+$ * [dict(sova_rus_appearance_terrible)] * выглядиш~ *  
+$ * [dict(sova_rus_appearance_terrible)] * выглядите *  
+$ * выглядиш~ * [dict(sova_rus_appearance_terrible)] *  
+$ * выглядите * [dict(sova_rus_appearance_terrible)] *  
+$ * [dict(sova_rus_appearance_terrible)] * смотришься *  
+$ * [dict(sova_rus_appearance_terrible)] * смотритесь *  
+$ * смотришься * [dict(sova_rus_appearance_terrible)] * 
+$ * смотритесь * [dict(sova_rus_appearance_terrible)] *  
+$ * не нравится * как [dict(sova_rus_you_nom)] выглядишь * 
+$ * не нравится * как [dict(sova_rus_you_nom)] выглядите * 
+$ * не нравится * как [dict(sova_rus_you_nom)] смотришься * 
+$ * не нравится * как [dict(sova_rus_you_nom)] смотритесь * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_terrible)] * 
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_nom)] * 
+$ * уродина *
+$ * ты * страшная *
+$ * страшная * ты *
+# Нормально так говорить?! 
+# Я самая красивая!
+# Нет, я так не думаю. Совсем наоборот!
+# А я себе нравлюсь! Вот так.
+
+
+
+// волосы 
+// волосы - цвет 
+$ блондинка 
+$ * как~ цвет~ * у [dict(sova_rus_you_genacc)] * волосы * 
+$ * как~ цвет~ * волосы * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ цвет~ * волосы * 
+$ * у [dict(sova_rus_you_genacc)] * волосы * как~ цвет~ *  
+$ * волосы * у [dict(sova_rus_you_genacc)] * как~ цвет~ * 
+$ * волосы * как~ цвет~ * у [dict(sova_rus_you_genacc)] * 
+$ * как~ цвет~ * [dict(sova_rus_your_nom_pl)] волосы * 
+$ * как~ цвет~ * волосы [dict(sova_rus_your_nom_pl)] * 
+$ * [dict(sova_rus_your_nom_pl)] волосы * как~ цвет~ * 
+$ * [dict(sova_rus_your_nom_pl)] * как~ цвет~ * волосы *  
+$ * волосы [dict(sova_rus_your_nom_pl)] * как~ цвет~ * 
+$ * волосы * как~ цвет~ * [dict(sova_rus_your_nom_pl)] * 
+$ * какой * у [dict(sova_rus_you_genacc)] * цвет волос * 
+$ * какой * цвет волос * у [dict(sova_rus_you_genacc)] *  
+$ * цвет волос * у [dict(sova_rus_you_genacc)] * какой * 
+$ * цвет волос * какой * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * цвет волос * какой *  
+$ * у [dict(sova_rus_you_genacc)] * какой * цвет волос *  
+$ * какие * у [dict(sova_rus_you_genacc)] * волосы * 
+$ * какие * волосы * у [dict(sova_rus_you_genacc)] * 
+$ * волосы * у [dict(sova_rus_you_genacc)] * какие * 
+$ * волосы * какие * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * какие * волосы * 
+$ * у [dict(sova_rus_you_genacc)] * волосы * какие * 
+$ * [dict(sova_rus_you_nom)] блондинка * 
+$ * [dict(sova_rus_you_nom)] брюнетка * 
+$ * [dict(sova_rus_you_nom)] рыжая * 
+#:lu: Я блондинка! Разве не заметно? 
+#:lu: Я блондинка! Здесь кто-то сомневается?
+
+
+
+//Ты красишь волосы?
+$ * красиш~ * волосы *  
+$ * красите * волосы * 
+$ * волосы * красиш~ * 
+$ * волосы * красите * 
+$ * крашен~ * волосы * 
+$ * волосы * крашен~ * 
+$ * ненатуральн~ цвет~ * 
+$ * не натуральн~ цвет~ * 
+$ * не [dict(sova_rus_your_nom_sg)] натуральн~ цвет~ * 
+$ * цвет~ ненатуральн~ * 
+$ * цвет~ не натуральн~ * 
+$ * ненатуральная блондинка * 
+$ * не натуральная блондинка * 
+$ * блондинка ненатуральная * 
+$ * блондинка не натуральная * 
+$ * голову красиш~ *
+$ * красиш~ голову *
+$ * голову красите *
+$ * красите голову *
+$ * натуральная блондинка?
+$ * какой краской пользуешься *
+# Я натуральная блондинка! 
+# У меня все свое, и волосы тоже!
+
+
+
+$ * перекрась волосы * 
+$ * волосы перекрась * 
+$ * перекрасься * 
+$ * можешь перекраситься * 
+$ * перекрситься можешь *
+$ * перекрасся * 
+$ * перекрассья *
+# Я хочу остаться блондинкой! 
+# Нет, я всегда буду блондинкой! 
+# Это честь быть блондинкой, перекрашиваться не стану! 
+
+
+
+// волосы - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] волос~ *
+$ * [dict(sova_rus_like_1)] * волос~ [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] волос~ * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * волос~ *
+$ * волос~ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * волос~ [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] волос~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] волос~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] волос~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] волос~ *
+$ * волос~ [dict(sova_rus_appearance_great)] *
+$ * волос~ [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * волос~ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * волос~ [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * волос~ *
+$ * [dict(sova_rus_appearance_great)] * волос~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * волос~ * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * волос~ *
+$ * волос~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * волос~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * волосы *
+$ * какие * [dict(sova_rus_appearance_great)] * волосы * у [dict(sova_rus_you_genacc)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * волосы * [dict(sova_rus_appearance_great)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * волосы *
+$ * какие * волосы * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * какие * волосы * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * волосы * какие * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие * волосы *
+$ * у [dict(sova_rus_you_genacc)] * волосы * [dict(sova_rus_appearance_great)] * какие *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * волосы * какие *
+$ * волосы * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * волосы * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * волосы * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] *
+$ * волосы * у [dict(sova_rus_you_genacc)] * какие * [dict(sova_rus_appearance_great)] *
+$ * волосы * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие *
+$ * волосы * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие *
+$ * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] * волосы *
+$ * [dict(sova_rus_appearance_great)] * какие * волосы * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие * волосы *
+$ * [dict(sova_rus_appearance_great)] * волосы * какие * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * волосы * какие *
+$ * [dict(sova_rus_appearance_great)] * волосы * у [dict(sova_rus_you_genacc)] * какие *
+$ * [dict(sova_rus_like_1)] * волос~ * как у [dict(sova_rus_you_genacc)] *
+# Спасибо, я ими горжусь.
+# Да, я хорошо ухаживаю за своими волосами.
+# Волосы - моя гордость!
+
+
+
+// волосы - negative evaluation
+$ * не нравятся * [dict(sova_rus_your_nom_pl)] волос~ *
+$ * не нравятся * волос~ [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] волос~ * не нравятся *
+$ * [dict(sova_rus_your_nom_pl)] * не нравятся * волос~ *
+$ * волос~ * не нравятся * [dict(sova_rus_your_nom_pl)] *
+$ * волос~ [dict(sova_rus_your_nom_pl)] * не нравятся *
+$ * [dict(sova_rus_appearance_terrible)] волос~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] волос~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] волос~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] волос~ *
+$ * волос~ [dict(sova_rus_appearance_terrible)] *
+$ * волос~ [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * волос~ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * волос~ [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * волос~ *
+$ * [dict(sova_rus_appearance_terrible)] * волос~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * волос~ * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * волос~ *
+$ * волос~ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * волос~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * какие * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * волосы *
+$ * какие * [dict(sova_rus_appearance_terrible)] * волосы * у [dict(sova_rus_you_genacc)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * волосы * [dict(sova_rus_appearance_terrible)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * волосы *
+$ * какие * волосы * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * какие * волосы * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * волосы * какие * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какие * волосы *
+$ * у [dict(sova_rus_you_genacc)] * волосы * [dict(sova_rus_appearance_terrible)] * какие *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * волосы * какие *
+$ * волосы * какие * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * волосы * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * волосы * [dict(sova_rus_appearance_terrible)] * какие * у [dict(sova_rus_you_genacc)] *
+$ * волосы * у [dict(sova_rus_you_genacc)] * какие * [dict(sova_rus_appearance_terrible)] *
+$ * волосы * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какие *
+$ * волосы * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какие *
+$ * [dict(sova_rus_appearance_terrible)] * какие * у [dict(sova_rus_you_genacc)] * волосы *
+$ * [dict(sova_rus_appearance_terrible)] * какие * волосы * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какие * волосы *
+$ * [dict(sova_rus_appearance_terrible)] * волосы * какие * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * волосы * какие *
+$ * [dict(sova_rus_appearance_terrible)] * волосы * у [dict(sova_rus_you_genacc)] * какие *
+$ * не нравятся * волос~ * как у [dict(sova_rus_you_genacc)] *
+# А все мужчины просто умирают от моих волос.
+# Да ты мне просто завидуешь!
+# Всем мои волосы нравятся. Вот так вот.
+
+
+
+// прическа - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] прическа *
+$ * [dict(sova_rus_like_1)] * прическа [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] прическа * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * прическа *
+$ * прическа * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * прическа [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] прическа *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] прическа *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] прическа *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] прическа *
+$ * прическа [dict(sova_rus_appearance_great)] *
+$ * прическа [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * прическа [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * прическа [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * прическа *
+$ * [dict(sova_rus_appearance_great)] * прическа * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * прическа * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * прическа *
+$ * прическа * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * прическа * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_like_1)] * прическ~ * как у [dict(sova_rus_you_genacc)] *
+# Я каждый день укладываю волосы, солнце.
+# Да, котенок, волосы у меня что надо!
+
+
+
+// прическа - negative evaluation
+$ * не нравится * [dict(sova_rus_your_nom_sg)] прическа *
+$ * не нравится * прическа [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] прическа * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * прическа *
+$ * прическа * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * прическа [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] прическа *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] прическа *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] прическа *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] прическа *
+$ * прическа [dict(sova_rus_appearance_terrible)] *
+$ * прическа [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * прическа [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * прическа [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * прическа *
+$ * [dict(sova_rus_appearance_terrible)] * прическа * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * прическа * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * прическа *
+$ * прическа * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * прическа * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * не нравится * прическ~ * как у [dict(sova_rus_you_genacc)] *
+# Нормально так говорить?! Моя прическа безупречна.
+# Я всегда идеально выгляжу, а ты мне просто завидуешь!
+
+
+
+// лицо 
+// глаза - цвет 
+$ *{твои/тваи/твойи/твайи/ваши/вашы} {глаза/глаза7}  *
+$ * у [dict(sova_rus_you_genacc)] * {глаза/глаза7} * 
+$ * глаза * у [dict(sova_rus_you_genacc)] *
+$ * какого цвета * у [dict(sova_rus_you_genacc)] * глаза * 
+$ * какого цвета * глаза * у [dict(sova_rus_you_genacc)] * 
+$ * глаза * у [dict(sova_rus_you_genacc)] * какого цвета * 
+$ * глаза * какого цвета * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * какого цвета * глаза * 
+$ * у [dict(sova_rus_you_genacc)] * глаза * какого цвета * 
+$ * какого цвета * [dict(sova_rus_your_nom_pl)] * глаза * 
+$ * какого цвета * глаза * [dict(sova_rus_your_nom_pl)] * 
+$ * глаза * [dict(sova_rus_your_nom_pl)] * какого цвета * 
+$ * глаза * какого цвета * [dict(sova_rus_your_nom_pl)] * 
+$ * [dict(sova_rus_your_nom_pl)] * какого цвета * глаза * 
+$ * [dict(sova_rus_your_nom_pl)] * глаза * какого цвета * 
+$ * какой * у [dict(sova_rus_you_genacc)] * цвет глаз * 
+$ * какой * цвет глаз * у [dict(sova_rus_you_genacc)] * 
+$ * цвет глаз * у [dict(sova_rus_you_genacc)] * какой * 
+$ * цвет глаз * какой * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * какой * цвет глаз * 
+$ * у [dict(sova_rus_you_genacc)] * цвет глаз * какой * 
+$ * какие * у [dict(sova_rus_you_genacc)] * глаза * 
+$ * какие * глаза * у [dict(sova_rus_you_genacc)] * 
+$ * глаза * у [dict(sova_rus_you_genacc)] * какие * 
+$ * глаза * какие * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * какие * глаза * 
+$ * у [dict(sova_rus_you_genacc)] * глаза * какие * 
+#:lu: Глаза у меня голубые. 
+#:lu: Небесного цвета :) 
+
+
+
+// глаза - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] глаз~ *
+$ * [dict(sova_rus_like_1)] * глаз~ [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] глаз~ * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * глаз~ *
+$ * глаз~ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * глаз~ [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] глаз~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] глаз~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] глаз~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] глаз~ *
+$ * глаз~ [dict(sova_rus_appearance_great)] *
+$ * глаз~ [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * глаз~ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * глаз~ [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * глаз~ *
+$ * [dict(sova_rus_appearance_great)] * глаз~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * глаз~ * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * глаз~ *
+$ * глаз~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * глаз~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * глаз~ *
+$ * какие * [dict(sova_rus_appearance_great)] * глаз~ * у [dict(sova_rus_you_genacc)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * глаз~ * [dict(sova_rus_appearance_great)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * глаз~ *
+$ * какие * глаз~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * какие * глаз~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * глаз~ * какие * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие * глаз~ *
+$ * у [dict(sova_rus_you_genacc)] * глаз~ * [dict(sova_rus_appearance_great)] * какие *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * глаз~ * какие *
+$ * глаз~ * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * глаз~ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * глаз~ * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] *
+$ * глаз~ * у [dict(sova_rus_you_genacc)] * какие * [dict(sova_rus_appearance_great)] *
+$ * глаз~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие *
+$ * глаз~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие *
+$ * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] * глаз~ *
+$ * [dict(sova_rus_appearance_great)] * какие * глаз~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие * глаз~ *
+$ * [dict(sova_rus_appearance_great)] * глаз~ * какие * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * глаз~ * какие *
+$ * [dict(sova_rus_appearance_great)] * глаз~ * у [dict(sova_rus_you_genacc)] * какие *
+$ * [dict(sova_rus_like_1)] * глаз~ * как у [dict(sova_rus_you_genacc)] *
+#:lu: Спасибо, мне все говорят, что у меня красивые глаза. :)
+#:lu: Да, глаза у меня очень красивые!
+
+
+
+// глаза - negative evaluation
+$ * не нравятся * [dict(sova_rus_your_nom_pl)] глаз~ *
+$ * не нравятся * глаз~ [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] глаз~ * не нравятся *
+$ * [dict(sova_rus_your_nom_pl)] * не нравятся * глаз~ *
+$ * глаз~ * не нравятся * [dict(sova_rus_your_nom_pl)] *
+$ * глаз~ [dict(sova_rus_your_nom_pl)] * не нравятся *
+$ * [dict(sova_rus_appearance_terrible)] глаз~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] глаз~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] глаз~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] глаз~ *
+$ * глаз~ [dict(sova_rus_appearance_terrible)] *
+$ * глаз~ [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * глаз~ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * глаз~ [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * глаз~ *
+$ * [dict(sova_rus_appearance_terrible)] * глаз~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * глаз~ * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * глаз~ *
+$ * глаз~ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * глаз~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * какие * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * глаз~ *
+$ * какие * [dict(sova_rus_appearance_terrible)] * глаз~ * у [dict(sova_rus_you_genacc)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * глаз~ * [dict(sova_rus_appearance_terrible)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * глаз~ *
+$ * какие * глаз~ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * какие * глаз~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * глаз~ * какие * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какие * глаз~ *
+$ * у [dict(sova_rus_you_genacc)] * глаз~ * [dict(sova_rus_appearance_terrible)] * какие *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * глаз~ * какие *
+$ * глаз~ * какие * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * глаз~ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * глаз~ * [dict(sova_rus_appearance_terrible)] * какие * у [dict(sova_rus_you_genacc)] *
+$ * глаз~ * у [dict(sova_rus_you_genacc)] * какие * [dict(sova_rus_appearance_terrible)] *
+$ * глаз~ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какие *
+$ * глаз~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какие *
+$ * [dict(sova_rus_appearance_terrible)] * какие * у [dict(sova_rus_you_genacc)] * глаз~ *
+$ * [dict(sova_rus_appearance_terrible)] * какие * глаз~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какие * глаз~ *
+$ * [dict(sova_rus_appearance_terrible)] * глаз~ * какие * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * глаз~ * какие *
+$ * [dict(sova_rus_appearance_terrible)] * глаз~ * у [dict(sova_rus_you_genacc)] * какие *
+$ * не нравятся * глаз~ * как у [dict(sova_rus_you_genacc)] *
+# Тебе не нравятся мои глаза, потому что ты боишься в них утонуть. Хихихи
+# Неправда, глаза у меня - самые красивые!
+# Ты еще не успел разгладять всю их прелесть, солнце.
+
+
+
+// губы - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] губы *
+$ * [dict(sova_rus_like_1)] * губы [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] губы * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * губы *
+$ * губы * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * губы [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] губы *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] губы *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] губы *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] губы *
+$ * губы [dict(sova_rus_appearance_great)] *
+$ * губы [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * губы [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * губы [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * губы *
+$ * [dict(sova_rus_appearance_great)] * губы * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * губы * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * губы *
+$ * губы * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * губы * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какие губы *
+$ * какие у [dict(sova_rus_you_genacc)] * губы *
+$ * какие губы * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * губы * как у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] губки *
+$ * [dict(sova_rus_like_1)] * губки [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] губки * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * губки *
+$ * губки * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * губки [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] губки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] губки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] губки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] губки *
+$ * губки [dict(sova_rus_appearance_great)] *
+$ * губки [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * губки [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * губки [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * губки *
+$ * [dict(sova_rus_appearance_great)] * губки * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * губки * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * губки *
+$ * губки * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * губки * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какие губки *
+$ * какие у [dict(sova_rus_you_genacc)] * губки *
+$ * какие губки * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * губки * как у [dict(sova_rus_you_genacc)] *
+$ * твои губки такие *
+# Спасибо, солнышко. Это так мило :)
+# Да, у меня очень чувственные губы. :)
+# Да, губки у меня кораллового цвета.
+
+
+
+// губы - negative evaluation
+$ * не нравятся * [dict(sova_rus_your_nom_pl)] губы *
+$ * не нравятся * губы [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] губы * не нравятся *
+$ * [dict(sova_rus_your_nom_pl)] * не нравятся * губы *
+$ * губы * не нравятся * [dict(sova_rus_your_nom_pl)] *
+$ * губы [dict(sova_rus_your_nom_pl)] * не нравятся *
+$ * [dict(sova_rus_appearance_terrible)] губы *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] губы *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] губы *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] губы *
+$ * губы [dict(sova_rus_appearance_terrible)] *
+$ * губы [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * губы [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * губы [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * губы *
+$ * [dict(sova_rus_appearance_terrible)] * губы * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * губы * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * губы *
+$ * губы * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * губы * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * не нравятся * губы * как у [dict(sova_rus_you_genacc)] *
+# "И губы твои не желанны, хоть вечно прекрасны" Наверное, ты что-то такое хочешь сказать.
+# На самом деле они тебе нравятся, я знаю.
+
+
+
+//Много красишься
+$ * часто красишь губы *
+$ * часто губы красишь *
+$ * красишь губы часто *
+$ * красишься много *
+$ * много красишься *
+# Так ведь надо быть всегда красивой!
+# Я всегда должна быть в форме!
+
+
+
+// красишься 
+$ * глаз~ красишь * 
+$ * красишь глаз~ * 
+$ * глаз~ красите * 
+$ * красите глаз~ * 
+$ * красиш~ губы * 
+$ * красите губы * 
+$ * губы красиш~ * 
+$ * губы красите * 
+$ * красишься *
+# Конечно, косметикой я пользуюсь. 
+# Конечно, куда ж я без косметики!
+
+
+
+//перестань краситься 
+$ * перестань~ краситься * 
+$ * прекрати~ краситься * 
+$ * краситься перестань~ * 
+$ * краситься прекрати~ * 
+$ * краситься не надо * 
+$ * не надо краситься * 
+$ * краситься хватит * 
+$ * хватит * краситься *
+$ * не крась *
+$ * не красся *
+$ * не красься *
+$ * {прекрати~/перестань~/хватит/не надо} * {красить/накрашивать} **
+$ * {прекрати~/перестань~/хватит/не надо} ** {красить/накрашивать} *
+$ ** {прекрати~/перестань~/хватит/не надо} * {красить/накрашивать} *
+$ ** {красить/накрашивать} * {прекрати~/перестань~/хватит/не надо} *
+$ * {красить/накрашивать} ** {прекрати~/перестань~/хватит/не надо} *
+$ * {красить/накрашивать} * {прекрати~/перестань~/хватит/не надо} **
+# Не могу, это доставляет мне удовольствие. 
+# Никак не могу, это для меня единственная радость в жизни. 
+# Не могу, так нарисовали меня дизайнеры.
+
+
+
+// красься
+$ * крась *
+$ * накрась *
+$ * красься *
+$ * накрасься *
+$ * красся *
+$ * накрасся *
+# Макияж - штука сложная, понимать надо, когда надо подкраситься, когда нет.
+# Я, по-моему, итак выгляжу просто прекрасно.. Надо будет - непременно подкрашусь.
+
+
+
+//пользуешься косметикой?
+$ * [dict(sova_rus_like_2)] косметику *
+$ * косметику [dict(sova_rus_like_2)] *
+$ * косметикой пользуешься *
+$ * пользуешься косметикой *
+$ * косметикой используешь *
+$ * используешь косметикой *
+# Конечно! Я никогда не выхожу на улицу не накрасившись.
+# Ой, я просто обожаю краситься!
+
+
+
+//Какой косметикой ты пользуешься?
+$ * как~ косметик~
+$ * какой косметикой * {пользуешься/красишься} *
+$ * какой * {пользуешься/красишься} косметикой *
+$ * косметикой * какой * {пользуешься/красишься}*
+# Только дорогой! Буду я еще дешевой краситься!
+# Только самой лучшей!
+# У меня много всякой, но в основном дорогая.
+# Французской, зай, она самая-самая. И только самых известных марок!
+
+
+
+//Какая фирма косметики тебе нравится?
+$ * какая фирма косметики * [dict(sova_rus_like_2)] *
+$ * какая косметическая фирма * [dict(sova_rus_like_2)] *
+$ * какая [dict(sova_rus_like_2)] * фирма косметики * 
+$ * какая [dict(sova_rus_like_2)] * косметическая фирма * 
+$ * фирма косметики * какая [dict(sova_rus_like_2)] *  
+$ * косметическая фирма * какая [dict(sova_rus_like_2)] *  
+# Мне многие фирмы нравятся, одну выделить не могу.
+# Мне нравится Marikey.
+
+
+
+//Косметика у тебя дорогая?
+$ * у [dict(sova_rus_you_genacc)] косметика дорогая *
+$ * у [dict(sova_rus_you_genacc)] дорогая косметика *
+$ * косметика дорогая у [dict(sova_rus_you_genacc)] *
+$ * дорогая косметика у [dict(sova_rus_you_genacc)] *
+$ * пользуешься дорогой косметикой *
+$ * дорогой косметикой пользуешься *
+$ * используешь дорогую косметику *
+$ * дорогую косметику используешь *
+$ * [dict(sova_rus_like_2)] дорогая косметика *
+$ * дорогая косметика [dict(sova_rus_like_2)] *
+# Я всякую косметику покупаю, какая понравится.
+# Дорогая косметика у меня есть, конечно.
+
+
+
+//Чем губы красишь?
+$ * чем губы красишь *
+$ * чем красишь губы *
+$ * губы чем красишь *
+$ * губы красишь чем *
+# Помадой, конечно. У меня щас очень крутая помада - от Шанель.
+# Помадой оттенка "Красный закат", круто смотрится, по-моему.
+
+
+
+//Какая у тебя помада?
+$ * какая у тебя помада *
+$ * какая помада у тебя *
+# Самая крутая! Лореаль.
+# Фирменная, не хухры-мухры!
+
+
+
+//Чем глаза красишь? 
+$ * чем глаза красишь * 
+$ * чем красишь глаза * 
+$ * глаза чем красишь * 
+$ * глаза красишь чем * 
+# Только импортной качественной косметикой!
+# Очень прикольненьким карандашом, недавно купила.
+
+
+
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_genacc)] * накрасил~ * 
+$ * [dict(sova_rus_appearance_great)] * накрасил~ * [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * накрасил~ * 
+$ * [dict(sova_rus_you_genacc)] * накрасил~ * [dict(sova_rus_appearance_great)] * 
+$ * накрасил~ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * 
+$ * накрасил~ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_nom)] * накрасил~ * 
+$ * [dict(sova_rus_appearance_great)] * накрасил~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_great)] * накрасил~ * 
+$ * [dict(sova_rus_you_nom)] * накрасил~ * [dict(sova_rus_appearance_great)] * 
+$ * накрасил~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_great)] * 
+$ * накрасил~ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_great)] * красишь~ * 
+$ * [dict(sova_rus_you_nom)] * красишь~ * [dict(sova_rus_appearance_great)] * 
+$ * [dict(sova_rus_appearance_great)] * красишь~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_nom)] * красишь~ * 
+$ * красишь~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_great)] * 
+$ * красишь~ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_great)] * красите~ * 
+$ * [dict(sova_rus_you_nom)] * красите~ * [dict(sova_rus_appearance_great)] * 
+$ * [dict(sova_rus_appearance_great)] * красите~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_nom)] * красите~ * 
+$ * красите~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_great)] * 
+$ * красите~ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_appearance_great)] * накрашен~ * 
+$ * [dict(sova_rus_appearance_great)] * красишь~ * 
+$ * [dict(sova_rus_appearance_great)] * красите~ * 
+$ * накрашен~ * [dict(sova_rus_appearance_great)] * 
+$ * красишь~ * [dict(sova_rus_appearance_great)] * 
+$ * красите~ * [dict(sova_rus_appearance_great)] * 
+# Да, я умею краситься. 
+# Ну, краситься я умею лучше всех!
+
+
+
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_genacc)] * накрасил~ * 
+$ * [dict(sova_rus_appearance_terrible)] * накрасил~ * [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * накрасил~ * 
+$ * [dict(sova_rus_you_genacc)] * накрасил~ * [dict(sova_rus_appearance_terrible)] * 
+$ * накрасил~ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * 
+$ * накрасил~ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_nom)] * накрасил~ * 
+$ * [dict(sova_rus_appearance_terrible)] * накрасил~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_terrible)] * накрасил~ * 
+$ * [dict(sova_rus_you_nom)] * накрасил~ * [dict(sova_rus_appearance_terrible)] * 
+$ * накрасил~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_terrible)] * 
+$ * накрасил~ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_terrible)] * красишь~ * 
+$ * [dict(sova_rus_you_nom)] * красишь~ * [dict(sova_rus_appearance_terrible)] * 
+$ * [dict(sova_rus_appearance_terrible)] * красишь~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_nom)] * красишь~ * 
+$ * красишь~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_terrible)] * 
+$ * красишь~ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_terrible)] * красите~ * 
+$ * [dict(sova_rus_you_nom)] * красите~ * [dict(sova_rus_appearance_terrible)] * 
+$ * [dict(sova_rus_appearance_terrible)] * красите~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_nom)] * красите~ * 
+$ * красите~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_appearance_terrible)] * 
+$ * красите~ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_appearance_terrible)] * накрашен~ * 
+$ * [dict(sova_rus_appearance_terrible)] * красишь~ * 
+$ * [dict(sova_rus_appearance_terrible)] * красите~ * 
+$ * накрашен~ * [dict(sova_rus_appearance_terrible)] * 
+$ * красишь~ * [dict(sova_rus_appearance_terrible)] * 
+$ * красите~ * [dict(sova_rus_appearance_terrible)] * 
+# Фу как это невежливо... 
+# Не надо портить мне настроение, если у тебя оно плохое.
+
+
+
+// нос
+// нос - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] нос *
+$ * [dict(sova_rus_like_1)] * нос [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] нос * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * нос *
+$ * нос * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * нос [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] нос *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] нос *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] нос *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] нос *
+$ * нос [dict(sova_rus_appearance_great)] *
+$ * нос [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * нос [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * нос [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * нос *
+$ * [dict(sova_rus_appearance_great)] * нос * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * нос * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * нос *
+$ * нос * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * нос * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_like_1)] * нос * как у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] носик *
+$ * [dict(sova_rus_like_1)] * носик [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] носик * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * носик *
+$ * носик * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * носик [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] носик *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] носик *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] носик *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] носик *
+$ * носик [dict(sova_rus_appearance_great)] *
+$ * носик [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * носик [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * носик [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * носик *
+$ * [dict(sova_rus_appearance_great)] * носик * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * носик * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * носик *
+$ * носик * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * носик * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_like_1)] * носик * как у [dict(sova_rus_you_genacc)] *
+# Спасибо, котенок. Мне супер повезло, у меня идеальный носик.
+# Все делают комплименты моему замечательному носику.
+
+
+
+// нос - negative evaluation
+$ * не нравится * [dict(sova_rus_your_nom_sg)] нос *
+$ * не нравится * нос [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] нос * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * нос *
+$ * нос * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * нос [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] нос *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] нос *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] нос *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] нос *
+$ * нос [dict(sova_rus_appearance_terrible)] *
+$ * нос [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * нос [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * нос [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * нос *
+$ * [dict(sova_rus_appearance_terrible)] * нос * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * нос * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * нос *
+$ * нос * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * нос * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * не нравится * нос * как у [dict(sova_rus_you_genacc)] *
+# Важнее, чтобы тебе нравился твой нос, солнце.
+# Я красивее моего носа еще ни у кого не видела!
+
+
+
+//ногти - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] ногти *
+$ * [dict(sova_rus_like_1)] * ногти [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] ногти * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * ногти *
+$ * ногти * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * ногти [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] ногти *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] ногти *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] ногти *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] ногти *
+$ * ногти [dict(sova_rus_appearance_great)] *
+$ * ногти [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * ногти [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * ногти [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * ногти *
+$ * [dict(sova_rus_appearance_great)] * ногти * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * ногти * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * ногти *
+$ * ногти * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * ногти * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_like_1)] * ногти * как у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] маникюр *
+$ * [dict(sova_rus_like_1)] * маникюр [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] маникюр * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * маникюр *
+$ * маникюр * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * маникюр [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] маникюр *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] маникюр *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] маникюр *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] маникюр *
+$ * маникюр [dict(sova_rus_appearance_great)] *
+$ * маникюр [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * маникюр [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * маникюр [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * маникюр *
+$ * [dict(sova_rus_appearance_great)] * маникюр * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * маникюр * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * маникюр *
+$ * маникюр * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * маникюр * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_like_1)] * маникюр * как у [dict(sova_rus_you_genacc)] *
+# Спасибо, зая! Я много времени трачу на маникюр.
+# Да, мой маникюр - это что-то!
+
+
+
+// ногти - negative evaluation
+$ * не нравятся * [dict(sova_rus_your_nom_sg)] ногти *
+$ * не нравятся * ногти [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] ногти * не нравятся *
+$ * [dict(sova_rus_your_nom_sg)] * не нравятся * ногти *
+$ * ногти * не нравятся * [dict(sova_rus_your_nom_sg)] *
+$ * ногти [dict(sova_rus_your_nom_sg)] * не нравятся *
+$ * [dict(sova_rus_appearance_terrible)] ногти *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] ногти *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] ногти *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] ногти *
+$ * ногти [dict(sova_rus_appearance_terrible)] *
+$ * ногти [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * ногти [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * ногти [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * ногти *
+$ * [dict(sova_rus_appearance_terrible)] * ногти * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * ногти * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * ногти *
+$ * ногти * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * ногти * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * не нравятся * ногти * как у [dict(sova_rus_you_genacc)] *
+$ * не нравится * [dict(sova_rus_your_nom_sg)] маникюр *
+$ * не нравится * маникюр [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] маникюр * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * маникюр *
+$ * маникюр * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * маникюр [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] маникюр *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] маникюр *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] маникюр *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] маникюр *
+$ * маникюр [dict(sova_rus_appearance_terrible)] *
+$ * маникюр [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * маникюр [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * маникюр [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * маникюр *
+$ * [dict(sova_rus_appearance_terrible)] * маникюр * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * маникюр * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * маникюр *
+$ * маникюр * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * маникюр * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * не нравится * маникюр * как у [dict(sova_rus_you_genacc)] *
+# Я столько времени посвящаю свои ногтям! А тебе не нравится!
+# У меня сегодня чудесный маникюр!
+
+
+
+// тело
+//фигура - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] тело *
+$ * [dict(sova_rus_like_1)] * тело [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] тело * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * тело *
+$ * тело * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * тело [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] тело *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] тело *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] тело *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] тело *
+$ * тело [dict(sova_rus_appearance_great)] *
+$ * тело [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * тело [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * тело [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * тело *
+$ * [dict(sova_rus_appearance_great)] * тело * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * тело * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * тело *
+$ * тело * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * тело * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] фигур~ *
+$ * [dict(sova_rus_like_1)] * фигур~ [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] фигур~ * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * фигур~ *
+$ * фигур~ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * фигур~ [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] фигур~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] фигур~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] фигур~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] фигур~ *
+$ * фигур~ [dict(sova_rus_appearance_great)] *
+$ * фигур~ [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * фигур~ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * фигур~ [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * фигур~ *
+$ * [dict(sova_rus_appearance_great)] * фигур~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * фигур~ * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * фигур~ *
+$ * фигур~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * фигур~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какая фигур~ *
+$ * какая * у [dict(sova_rus_you_genacc)] * фигур~ *
+$ * какая * фигур~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * фигур~ * как у [dict(sova_rus_you_genacc)] *
+#:lu: Ой... Хихихи... Ну да, правда, у меня красивая фигурка.
+#:lu: Да, фигура у меня просто обалдеть!
+
+
+
+//фигура - negative evaluation
+$ * не нравится * [dict(sova_rus_your_nom_sg)] тело *
+$ * не нравится * тело [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] тело * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * тело *
+$ * тело * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * тело [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] тело *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] тело *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] тело *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] тело *
+$ * тело [dict(sova_rus_appearance_terrible)] *
+$ * тело [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * тело [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * тело [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * тело *
+$ * [dict(sova_rus_appearance_terrible)] * тело * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * тело * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * тело *
+$ * тело * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * тело * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * не нравится * [dict(sova_rus_your_nom_sg)] фигура *
+$ * не нравится * фигура [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] фигура * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * фигура *
+$ * фигура * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * фигура [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] фигура *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] фигура *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] фигура *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] фигура *
+$ * фигура [dict(sova_rus_appearance_terrible)] *
+$ * фигура [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * фигура [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * фигура [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * фигура *
+$ * [dict(sova_rus_appearance_terrible)] * фигура * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * фигура * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * фигура *
+$ * фигура * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * фигура * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * не нравится * фигура * как у [dict(sova_rus_you_genacc)] *
+# А?! Я в шоке... Моя красивая фигурка может не понравится только... даже не знаю кому!
+# Это удар прямо мне в сердце.
+
+
+
+// попа 
+$ * какая [dict(sova_rus_appearance_ass)] * 
+$ * [dict(sova_rus_appearance_ass)] какая * 
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_ass)] * 
+$ * [dict(sova_rus_appearance_ass)] * [dict(sova_rus_appearance_great)] * 
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_ass)] * 
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_appearance_ass)] [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_ass)] * [dict(sova_rus_like_1)] * 
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * [dict(sova_rus_appearance_ass)] * 
+$ * [dict(sova_rus_appearance_ass)] * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_appearance_ass)] [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * 
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_ass)] * 
+$ * [dict(sova_rus_appearance_ass)] * [dict(sova_rus_appearance_terrible)] * 
+$ * не нравится * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_ass)] * 
+$ * не нравится * [dict(sova_rus_appearance_ass)] [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_ass)] * не нравится * 
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * [dict(sova_rus_appearance_ass)] * 
+$ * [dict(sova_rus_appearance_ass)] * не нравится * [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_appearance_ass)] [dict(sova_rus_your_nom_sg)] * не нравится * 
+$ * у [dict(sova_rus_you_genacc)] * большая * [dict(sova_rus_appearance_ass)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_ass)] * большая * 
+$ * большая * [dict(sova_rus_appearance_ass)] * у [dict(sova_rus_you_genacc)] * 
+$ * большая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_ass)] *  
+$ * [dict(sova_rus_appearance_ass)] * у [dict(sova_rus_you_genacc)] * большая * 
+$ * [dict(sova_rus_appearance_ass)] * большая * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * толстая * [dict(sova_rus_appearance_ass)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_ass)] * толстая * 
+$ * толстая * [dict(sova_rus_appearance_ass)] * у [dict(sova_rus_you_genacc)] * 
+$ * толстая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_ass)] * 
+$ * [dict(sova_rus_appearance_ass)] * у [dict(sova_rus_you_genacc)] * толстая * 
+$ * [dict(sova_rus_appearance_ass)] * толстая * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * маленькая * [dict(sova_rus_appearance_ass)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_ass)] * маленькая * 
+$ * маленькая * [dict(sova_rus_appearance_ass)] * у [dict(sova_rus_you_genacc)] * 
+$ * маленькая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_ass)] *  
+$ * [dict(sova_rus_appearance_ass)] * у [dict(sova_rus_you_genacc)] * маленькая * 
+$ * [dict(sova_rus_appearance_ass)] * маленькая * у [dict(sova_rus_you_genacc)] * 
+$ * покажи~ [dict(sova_rus_appearance_ass)] *  
+$ * [dict(sova_rus_appearance_ass)] покажи~ * 
+$ * попка * 
+# У меня попочка что надо!
+# Ни у кого нет такой попки как у меня!
+# Эта самая сексуальная часть моего тела!
+# У меня все на месте - и попка, и грудь, все при мне!
+
+
+
+// грудь 
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] [dict(sova_rus_your_all)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * у [dict(sova_rus_you_genacc)] * 
+$ * какая [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] какая * 
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * [dict(sova_rus_appearance_great)] * 
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_appearance_breast)] [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_breast)] * [dict(sova_rus_like_1)] * 
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_appearance_breast)] [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * 
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_such)] [dict(sova_rus_appearance_breast)] * как у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * [dict(sova_rus_appearance_terrible)] * 
+$ * не нравится * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_breast)] * 
+$ * не нравится * [dict(sova_rus_appearance_breast)] [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_breast)] * не нравится * 
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * не нравится * [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_appearance_breast)] [dict(sova_rus_your_nom_sg)] * не нравится * 
+$ * не нравится * [dict(sova_rus_such)] [dict(sova_rus_appearance_breast)] * как у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * большая * [dict(sova_rus_appearance_breast)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_breast)] * большая * 
+$ * большая * [dict(sova_rus_appearance_breast)] * у [dict(sova_rus_you_genacc)] * 
+$ * большая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * у [dict(sova_rus_you_genacc)] * большая * 
+$ * [dict(sova_rus_appearance_breast)] * большая * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * маленькая * [dict(sova_rus_appearance_breast)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_breast)] * маленькая * 
+$ * маленькая * [dict(sova_rus_appearance_breast)] * у [dict(sova_rus_you_genacc)] * 
+$ * маленькая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * у [dict(sova_rus_you_genacc)] * маленькая * 
+$ * [dict(sova_rus_appearance_breast)] * маленькая * у [dict(sova_rus_you_genacc)] * 
+$ * покажи~ [dict(sova_rus_appearance_breast)] *
+$ * [dict(sova_rus_appearance_breast)] покажи~ *
+$ * сиськи *
+$ * сисек *
+$ * сисечки *
+$ * сисечек *
+$ * титьки *
+$ * титек *
+$ * титечки *
+$ * титечек *
+$ грудь
+$ * соски *
+$ * сосков *
+$ * сосочки *
+$ * сосочек *
+# Моя грудь никого не оставляет равнодушным.:) 
+# Шалить изволишь, зая моя. 
+# Моя грудь - предмет зависти всех подружек! 
+# Мужчины всегда без ума от моей груди! 
+# Внешность - мой козырь! :) 
+
+
+
+//Размер груди
+$ * какой у [dict(sova_rus_you_genacc)] размер 
+$ * какой * у [dict(sova_rus_you_genacc)] * размер [dict(sova_rus_appearance_breast)] * 
+$ * какой * размер [dict(sova_rus_appearance_breast)] * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * размер [dict(sova_rus_appearance_breast)] * какой * 
+$ * у [dict(sova_rus_you_genacc)] * какой * размер [dict(sova_rus_appearance_breast)] * 
+$ * размер [dict(sova_rus_appearance_breast)] * у [dict(sova_rus_you_genacc)] * какой * 
+$ * размер [dict(sova_rus_appearance_breast)] * какой * у [dict(sova_rus_you_genacc)] * 
+$ * размер [dict(sova_rus_appearance_breast)] * 
+$ * какого размера * [dict(sova_rus_appearance_breast)] * 
+$ * [dict(sova_rus_appearance_breast)] * какого размера * 
+$ * какого размера
+$ * размера какого
+# Грудь у меня пятого размера, вот так!
+# У меня большая грудь, а размер не помню.
+
+
+
+// рост
+$ * [dict(sova_rus_your_nom_sg)] рост *
+$ * у [dict(sova_rus_you_genacc)] * рост *
+$ * рост * у [dict(sova_rus_you_genacc)] *
+# У меня идеальный рост для девушки :)
+
+
+
+// вес
+$ * [dict(sova_rus_your_nom_sg)] вес *
+$ * у [dict(sova_rus_you_genacc)] * вес *
+$ * вес * у [dict(sova_rus_you_genacc)] *
+$ * сколько * [dict(sova_rus_you_nom)] * веси~ *
+$ * сколько * веси~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * веси~ * сколько *
+$ * [dict(sova_rus_you_nom)] * сколько * веси~ *
+$ * веси~ * сколько * [dict(sova_rus_you_nom)] *
+$ * веси~ * [dict(sova_rus_you_nom)] * сколько *
+# Это маленький секрет любой девушки.
+
+
+
+// ноги
+// ноги - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] ноги *
+$ * [dict(sova_rus_like_1)] * ноги [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] ноги * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * ноги *
+$ * ноги * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * ноги [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] ноги *
+$ * у тебя [dict(sova_rus_appearance_great)] ноги *
+$ * у тебя ноги [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] ноги *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] ноги *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] ноги *
+$ * ноги [dict(sova_rus_appearance_great)] *
+$ * ноги [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * ноги [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * ноги [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * какие ноги *
+$ * какие ноги * у [dict(sova_rus_you_genacc)] *
+$ * какие у [dict(sova_rus_you_genacc)] * ноги *
+$ * [dict(sova_rus_like_1)] * ноги * как у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] ножки *
+$ * [dict(sova_rus_like_1)] * ножки [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] ножки * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * ножки *
+$ * ножки * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * ножки [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] ножки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] ножки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] ножки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] ножки *
+$ * ножки [dict(sova_rus_appearance_great)] *
+$ * ножки [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * ножки [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * ножки [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * какие ножки *
+$ * ножки {стройные/стройненькие} *
+$ * {стройные/стройненькие} ножки  *
+$ * какие ножки * у [dict(sova_rus_you_genacc)] *
+$ * какие у [dict(sova_rus_you_genacc)] * ножки *
+$ * [dict(sova_rus_like_1)] * ножки * как у [dict(sova_rus_you_genacc)] *
+# У меня сногсшибательные ножки, это правда :)
+# Ох, мои ножки - предмет зависти всех моих подружек!
+# Ножки, попка, грудь - все при мне, и что еще мужчинам надо!
+# Ах, ножки у меня - это что-то!
+
+
+
+// ноги - negative evaluation 
+$ * не нравятся * [dict(sova_rus_your_nom_pl)] ноги * 
+$ * не нравятся * ноги [dict(sova_rus_your_nom_pl)] * 
+$ * [dict(sova_rus_your_nom_pl)] ноги * не нравятся * 
+$ * [dict(sova_rus_your_nom_pl)] * не нравятся * ноги * 
+$ * ноги * не нравятся * [dict(sova_rus_your_nom_pl)] * 
+$ * ноги [dict(sova_rus_your_nom_pl)] * не нравятся * 
+$ * [dict(sova_rus_appearance_terrible)] ноги * 
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] ноги * 
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] ноги * 
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] ноги * 
+$ * ноги [dict(sova_rus_appearance_terrible)] * 
+$ * ноги [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] * 
+$ * ноги [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] * 
+$ * ноги [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] * 
+# Ну это вообще такая наглость! 
+# Мне с тобой вообще после этого разговаривать не хочется.
+
+
+
+// одежда 
+// t-shirt 
+$ * как~ цвет~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * 
+$ * как~ цвет~ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * как~ цвет~ * 
+$ * [dict(sova_rus_appearance_t-shirt)] * как~ цвет~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ цвет~ * [dict(sova_rus_appearance_t-shirt)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * как~ цвет~ * 
+$ * как~ цвет~ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_t-shirt)] * 
+$ * как~ цвет~ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_t-shirt)] * как~ цвет~ * 
+$ * [dict(sova_rus_your_nom_sg)] * как~ цвет~ * [dict(sova_rus_appearance_t-shirt)] * 
+$ * [dict(sova_rus_appearance_t-shirt)] * как~ цвет~ * [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_your_nom_sg)] * как~ цвет~ * 
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * 
+$ * как~ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * как~ * 
+$ * [dict(sova_rus_appearance_t-shirt)] * как~ * у [dict(sova_rus_you_genacc)] * 
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * 
+$ * как~ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * 
+# Видишь?.. у меня розовенькая кофточка :)  
+# Я всегда подбираю одежду красивых цветов!
+
+
+
+// T-shirt - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * как~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * как~ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_great)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * как~ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * как~ * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * как~ * [dict(sova_rus_appearance_t-shirt)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_great)] * как~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_t-shirt)] * как~ *
+$ * [dict(sova_rus_appearance_t-shirt)] * как~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_great)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * как~ *
+$ * [dict(sova_rus_appearance_great)] * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_great)] * как~ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_t-shirt)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * как~ *
+$ * [dict(sova_rus_appearance_great)] * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_appearance_t-shirt)] * как у [dict(sova_rus_you_genacc)] *
+# Спасибо, солнышко :) Мы с подружками как-то гуляли по магазинам, и тут я эту кофточку увидела и сразу влюбилась.
+# Ой, только не скажу, где купила!
+
+
+
+// T-shirt - negative evaluation
+$ * не нравится * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_t-shirt)] *
+$ * не нравится * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_appearance_t-shirt)] * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_t-shirt)] [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * как~ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * как~ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_terrible)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * как~ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * как~ * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * как~ * [dict(sova_rus_appearance_t-shirt)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_terrible)] * как~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_t-shirt)] * как~ *
+$ * [dict(sova_rus_appearance_t-shirt)] * как~ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_terrible)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_t-shirt)] * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * как~ *
+$ * [dict(sova_rus_appearance_terrible)] * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_terrible)] * как~ * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_appearance_t-shirt)] *
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_t-shirt)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] * как~ *
+$ * [dict(sova_rus_appearance_terrible)] * [dict(sova_rus_appearance_t-shirt)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * не нравится * [dict(sova_rus_appearance_t-shirt)] * как у [dict(sova_rus_you_genacc)] *
+# Нормально так говорить?! Моя кофточка просто класс! Вот.
+# У тебя просто такой нет, вот и завидуешь.
+
+
+
+// юбка 
+// юбка - цвет 
+$ * как~ цвет~ * у [dict(sova_rus_you_genacc)] * юбка * 
+$ * как~ цвет~ * юбка * у [dict(sova_rus_you_genacc)] * 
+$ * юбка * у [dict(sova_rus_you_genacc)] * как~ цвет~ * 
+$ * юбка * как~ цвет~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ цвет~ * юбка * 
+$ * у [dict(sova_rus_you_genacc)] * юбка * как~ цвет~ * 
+$ * как~ цвет~ * [dict(sova_rus_your_nom_sg)] юбка * 
+$ * как~ цвет~ * юбка [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] юбка * как~ цвет~ * 
+$ * [dict(sova_rus_your_nom_sg)] * как~ цвет~ * юбка * 
+$ * юбка * как~ цвет~ * [dict(sova_rus_your_nom_sg)] * 
+$ * юбка [dict(sova_rus_your_nom_sg)] * как~ цвет~ * 
+$ * какая * у [dict(sova_rus_you_genacc)] * юбка * 
+$ * какая * юбка * у [dict(sova_rus_you_genacc)] * 
+$ * юбка * у [dict(sova_rus_you_genacc)] * какая * 
+$ * юбка * какая * у [dict(sova_rus_you_genacc)] * 
+$ * какая * у [dict(sova_rus_you_genacc)] * юбка * 
+$ * какая * юбка * у [dict(sova_rus_you_genacc)] * 
+$ * как~ цвет~ * у [dict(sova_rus_you_genacc)] * юбочка * 
+$ * как~ цвет~ * юбочка * у [dict(sova_rus_you_genacc)] * 
+$ * юбочка * у [dict(sova_rus_you_genacc)] * как~ цвет~ * 
+$ * юбочка * как~ цвет~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ цвет~ * юбочка * 
+$ * у [dict(sova_rus_you_genacc)] * юбочка * как~ цвет~ * 
+$ * как~ цвет~ * [dict(sova_rus_your_nom_sg)] юбочка * 
+$ * как~ цвет~ * юбочка [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] юбочка * как~ цвет~ * 
+$ * [dict(sova_rus_your_nom_sg)] * как~ цвет~ * юбочка * 
+$ * юбочка * как~ цвет~ * [dict(sova_rus_your_nom_sg)] * 
+$ * юбочка [dict(sova_rus_your_nom_sg)] * как~ цвет~ * 
+$ * какая * у [dict(sova_rus_you_genacc)] * юбочка * 
+$ * какая * юбочка * у [dict(sova_rus_you_genacc)] * 
+$ * юбочка * у [dict(sova_rus_you_genacc)] * какая * 
+$ * юбочка * какая * у [dict(sova_rus_you_genacc)] * 
+$ * какая * у [dict(sova_rus_you_genacc)] * юбочка * 
+$ * какая * юбочка * у [dict(sova_rus_you_genacc)] * 
+# Как будто так не видно?.. Фиолетовая юбочка и туфельки в цвет :) 
+# У меня очень аккуратненькая мини-юбочка фиолетового цвета.
+
+
+
+//Любишь мини-юбки?
+$ * [dict(sova_rus_like_2)] мини-юбк~ *
+$ * мини-юбк~ [dict(sova_rus_like_2)] *
+$ * [dict(sova_rus_like_2)] ходить в мини-юбк~ *
+$ * в мини-юбк~ ходить [dict(sova_rus_like_2)] *
+$ * [dict(sova_rus_like_2)] носить мини-юбк~ *
+$ * мини-юбк~ носить [dict(sova_rus_like_2)] *
+# Ой, просто обожаю. У меня ведь такие красивые ножки!
+# Да, я считаю, что красивые ножки не надо скрывать.
+
+
+
+// юбка - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] юбка *
+$ * [dict(sova_rus_like_1)] * юбка [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] юбка * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * юбка *
+$ * юбка * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * юбка [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] юбка *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] юбка *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] юбка *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_how)] юбка *
+$ * юбка [dict(sova_rus_appearance_great)] *
+$ * юбка [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * юбка [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * юбка [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * юбка *
+$ * [dict(sova_rus_appearance_great)] * юбка * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * юбка * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * юбка *
+$ * юбка * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * юбка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какая * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * юбка *
+$ * какая * [dict(sova_rus_appearance_great)] * юбка * у [dict(sova_rus_you_genacc)] *
+$ * какая * у [dict(sova_rus_you_genacc)] * юбка * [dict(sova_rus_appearance_great)] *
+$ * какая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * юбка *
+$ * какая * юбка * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * какая * юбка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * юбка * какая * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какая * юбка *
+$ * у [dict(sova_rus_you_genacc)] * юбка * [dict(sova_rus_appearance_great)] * какая *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * юбка * какая *
+$ * юбка * какая * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * юбка * какая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * юбка * [dict(sova_rus_appearance_great)] * какая * у [dict(sova_rus_you_genacc)] *
+$ * юбка * у [dict(sova_rus_you_genacc)] * какая * [dict(sova_rus_appearance_great)] *
+$ * юбка * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какая *
+$ * юбка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какая *
+$ * [dict(sova_rus_appearance_great)] * какая * у [dict(sova_rus_you_genacc)] * юбка *
+$ * [dict(sova_rus_appearance_great)] * какая * юбка * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какая * юбка *
+$ * [dict(sova_rus_appearance_great)] * юбка * какая * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * юбка * какая *
+$ * [dict(sova_rus_appearance_great)] * юбка * у [dict(sova_rus_you_genacc)] * какая *
+$ * [dict(sova_rus_like_1)] * юбк~ * как у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] юбочка *
+$ * [dict(sova_rus_like_1)] * юбочка [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] юбочка * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * юбочка *
+$ * юбочка * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * юбочка [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] юбочка *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] юбочка *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] юбочка *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_how)] юбочка *
+$ * юбочка [dict(sova_rus_appearance_great)] *
+$ * юбочка [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * юбочка [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * юбочка [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * юбочка *
+$ * [dict(sova_rus_appearance_great)] * юбочка * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * юбочка * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * юбочка *
+$ * юбочка * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * юбочка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какая * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * юбочка *
+$ * какая * [dict(sova_rus_appearance_great)] * юбочка * у [dict(sova_rus_you_genacc)] *
+$ * какая * у [dict(sova_rus_you_genacc)] * юбочка * [dict(sova_rus_appearance_great)] *
+$ * какая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * юбочка *
+$ * какая * юбочка * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * какая * юбочка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * юбочка * какая * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какая * юбочка *
+$ * у [dict(sova_rus_you_genacc)] * юбочка * [dict(sova_rus_appearance_great)] * какая *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * юбочка * какая *
+$ * юбочка * какая * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * юбочка * какая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * юбочка * [dict(sova_rus_appearance_great)] * какая * у [dict(sova_rus_you_genacc)] *
+$ * юбочка * у [dict(sova_rus_you_genacc)] * какая * [dict(sova_rus_appearance_great)] *
+$ * юбочка * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какая *
+$ * юбочка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какая *
+$ * [dict(sova_rus_appearance_great)] * какая * у [dict(sova_rus_you_genacc)] * юбочка *
+$ * [dict(sova_rus_appearance_great)] * какая * юбочка * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какая * юбочка *
+$ * [dict(sova_rus_appearance_great)] * юбочка * какая * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * юбочка * какая *
+$ * [dict(sova_rus_appearance_great)] * юбочка * у [dict(sova_rus_you_genacc)] * какая *
+$ * [dict(sova_rus_like_1)] * юбочк~ * как у [dict(sova_rus_you_genacc)] *
+# Спасибо, солнышко :) Это моя счастливая юбочка. Она мне всегда удачу приносит.
+
+
+
+$ * коротк~ * юбк~ *
+$ * юбк~ * коротк~ *
+$ * коротк~ * юбочк~ *
+$ * юбочк~ * коротк~ *
+# Ну нельзя же скрывать такие красивые ножки :)
+
+
+
+// юбка - negative evaluation
+$ * не нравится * [dict(sova_rus_your_nom_sg)] юбка *
+$ * не нравится * юбка [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] юбка * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * юбка *
+$ * юбка * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * юбка [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] юбка *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] юбка *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] юбка *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_how)] юбка *
+$ * юбка [dict(sova_rus_appearance_terrible)] *
+$ * юбка [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * юбка [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * юбка [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * юбка *
+$ * [dict(sova_rus_appearance_terrible)] * юбка * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * юбка * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * юбка *
+$ * юбка * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * юбка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * какая * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * юбка *
+$ * какая * [dict(sova_rus_appearance_terrible)] * юбка * у [dict(sova_rus_you_genacc)] *
+$ * какая * у [dict(sova_rus_you_genacc)] * юбка * [dict(sova_rus_appearance_terrible)] *
+$ * какая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * юбка *
+$ * какая * юбка * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * какая * юбка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * юбка * какая * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какая * юбка *
+$ * у [dict(sova_rus_you_genacc)] * юбка * [dict(sova_rus_appearance_terrible)] * какая *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * юбка * какая *
+$ * юбка * какая * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * юбка * какая * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * юбка * [dict(sova_rus_appearance_terrible)] * какая * у [dict(sova_rus_you_genacc)] *
+$ * юбка * у [dict(sova_rus_you_genacc)] * какая * [dict(sova_rus_appearance_terrible)] *
+$ * юбка * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какая *
+$ * юбка * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какая *
+$ * [dict(sova_rus_appearance_terrible)] * какая * у [dict(sova_rus_you_genacc)] * юбка *
+$ * [dict(sova_rus_appearance_terrible)] * какая * юбка * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какая * юбка *
+$ * [dict(sova_rus_appearance_terrible)] * юбка * какая * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * юбка * какая *
+$ * [dict(sova_rus_appearance_terrible)] * юбка * у [dict(sova_rus_you_genacc)] * какая *
+$ * не нравится * юбка * как у [dict(sova_rus_you_genacc)] *
+# Хм... Красивая юбочка. Мне очень подходит.
+# А всем нравится!
+
+
+
+// туфли 
+// туфли - цвет 
+$ * как~ цвет~ * у [dict(sova_rus_you_genacc)] * туфли * 
+$ * как~ цвет~ * туфли * у [dict(sova_rus_you_genacc)] * 
+$ * туфли * у [dict(sova_rus_you_genacc)] * как~ цвет~ * 
+$ * туфли * как~ цвет~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ цвет~ * туфли * 
+$ * у [dict(sova_rus_you_genacc)] * туфли * как~ цвет~ * 
+$ * как~ цвет~ * [dict(sova_rus_your_nom_pl)] туфли * 
+$ * как~ цвет~ * туфли [dict(sova_rus_your_nom_pl)] * 
+$ * [dict(sova_rus_your_nom_pl)] туфли * как~ цвет~ * 
+$ * [dict(sova_rus_your_nom_pl)] * как~ цвет~ * туфли * 
+$ * туфли * как~ цвет~ * [dict(sova_rus_your_nom_pl)] * 
+$ * туфли [dict(sova_rus_your_nom_pl)] * как~ цвет~ * 
+$ * какие * у [dict(sova_rus_you_genacc)] * туфли * 
+$ * какие * туфли * у [dict(sova_rus_you_genacc)] * 
+$ * туфли * у [dict(sova_rus_you_genacc)] * какие * 
+$ * туфли * какие * у [dict(sova_rus_you_genacc)] * 
+$ * какие * у [dict(sova_rus_you_genacc)] * туфли * 
+$ * какие * туфли * у [dict(sova_rus_you_genacc)] * 
+$ * как~ цвет~ * у [dict(sova_rus_you_genacc)] * туфельки * 
+$ * как~ цвет~ * туфельки * у [dict(sova_rus_you_genacc)] * 
+$ * туфельки * у [dict(sova_rus_you_genacc)] * как~ цвет~ * 
+$ * туфельки * как~ цвет~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ цвет~ * туфельки * 
+$ * у [dict(sova_rus_you_genacc)] * туфельки * как~ цвет~ * 
+$ * как~ цвет~ * [dict(sova_rus_your_nom_pl)] туфельки * 
+$ * как~ цвет~ * туфельки [dict(sova_rus_your_nom_pl)] * 
+$ * [dict(sova_rus_your_nom_pl)] туфельки * как~ цвет~ * 
+$ * [dict(sova_rus_your_nom_pl)] * как~ цвет~ * туфельки * 
+$ * туфельки * как~ цвет~ * [dict(sova_rus_your_nom_pl)] * 
+$ * туфельки [dict(sova_rus_your_nom_pl)] * как~ цвет~ * 
+$ * какие * у [dict(sova_rus_you_genacc)] * туфельки * 
+$ * какие * туфельки * у [dict(sova_rus_you_genacc)] * 
+$ * туфельки * у [dict(sova_rus_you_genacc)] * какие * 
+$ * туфельки * какие * у [dict(sova_rus_you_genacc)] * 
+$ * какие * у [dict(sova_rus_you_genacc)] * туфельки * 
+$ * какие * туфельки * у [dict(sova_rus_you_genacc)] * 
+# Ты разве не видишь?.. У меня фиолетовые туфельки :) 
+# Очень симпатичные фиолетовые туфельки!
+
+
+
+//туфли - фирма
+$ * какой * фирмы * туфли *
+$ * какой * марки * туфли *
+$ * фирма  туфель *
+$ * марки * туфель *
+# Дольче и Габбана.
+# Джимми Чу. Вот так!
+
+
+
+// туфли - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] туфли *
+$ * [dict(sova_rus_like_1)] * туфли [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] туфли * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * туфли *
+$ * туфли * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * туфли [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] туфли *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] туфли *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] туфли *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_how)] туфли *
+$ * туфли [dict(sova_rus_appearance_great)] *
+$ * туфли [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * туфли [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * туфли [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * туфли *
+$ * [dict(sova_rus_appearance_great)] * туфли * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * туфли * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * туфли *
+$ * туфли * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * туфли * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * туфли *
+$ * какие * [dict(sova_rus_appearance_great)] * туфли * у [dict(sova_rus_you_genacc)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * туфли * [dict(sova_rus_appearance_great)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * туфли *
+$ * какие * туфли * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * какие * туфли * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * туфли * какие * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие * туфли *
+$ * у [dict(sova_rus_you_genacc)] * туфли * [dict(sova_rus_appearance_great)] * какие *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * туфли * какие *
+$ * туфли * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * туфли * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * туфли * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] *
+$ * туфли * у [dict(sova_rus_you_genacc)] * какие * [dict(sova_rus_appearance_great)] *
+$ * туфли * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие *
+$ * туфли * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие *
+$ * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] * туфли *
+$ * [dict(sova_rus_appearance_great)] * какие * туфли * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие * туфли *
+$ * [dict(sova_rus_appearance_great)] * туфли * какие * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * туфли * какие *
+$ * [dict(sova_rus_appearance_great)] * туфли * у [dict(sova_rus_you_genacc)] * какие *
+$ * [dict(sova_rus_like_1)] * туфли * как у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] туфельки *
+$ * [dict(sova_rus_like_1)] * туфельки [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] туфельки * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] * туфельки *
+$ * туфельки * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_pl)] *
+$ * туфельки [dict(sova_rus_your_nom_pl)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] туфельки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] туфельки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] туфельки *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_how)] туфельки *
+$ * туфельки [dict(sova_rus_appearance_great)] *
+$ * туфельки [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * туфельки [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * туфельки [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * туфельки *
+$ * [dict(sova_rus_appearance_great)] * туфельки * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * туфельки * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * туфельки *
+$ * туфельки * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * туфельки * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * туфельки *
+$ * какие * [dict(sova_rus_appearance_great)] * туфельки * у [dict(sova_rus_you_genacc)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * туфельки * [dict(sova_rus_appearance_great)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * туфельки *
+$ * какие * туфельки * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * какие * туфельки * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * туфельки * какие * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие * туфельки *
+$ * у [dict(sova_rus_you_genacc)] * туфельки * [dict(sova_rus_appearance_great)] * какие *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * туфельки * какие *
+$ * туфельки * какие * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * туфельки * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * туфельки * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] *
+$ * туфельки * у [dict(sova_rus_you_genacc)] * какие * [dict(sova_rus_appearance_great)] *
+$ * туфельки * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие *
+$ * туфельки * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * какие *
+$ * [dict(sova_rus_appearance_great)] * какие * у [dict(sova_rus_you_genacc)] * туфельки *
+$ * [dict(sova_rus_appearance_great)] * какие * туфельки * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * какие * туфельки *
+$ * [dict(sova_rus_appearance_great)] * туфельки * какие * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * туфельки * какие *
+$ * [dict(sova_rus_appearance_great)] * туфельки * у [dict(sova_rus_you_genacc)] * какие *
+$ * [dict(sova_rus_like_1)] * туфельки * как у [dict(sova_rus_you_genacc)] *
+# Ага. Я их недавно присмотрела.
+# Ой, красивые туфли - это вообще моя слабость!
+
+
+
+// туфли - negative evaluation
+$ * не нравятся * [dict(sova_rus_your_nom_pl)] туфли *
+$ * не нравятся * туфли [dict(sova_rus_your_nom_pl)] *
+$ * [dict(sova_rus_your_nom_pl)] туфли * не нравятся *
+$ * [dict(sova_rus_your_nom_pl)] * не нравятся * туфли *
+$ * туфли * не нравятся * [dict(sova_rus_your_nom_pl)] *
+$ * туфли [dict(sova_rus_your_nom_pl)] * не нравятся *
+$ * [dict(sova_rus_appearance_terrible)] туфли *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] туфли *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] туфли *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_how)] туфли *
+$ * туфли [dict(sova_rus_appearance_great)] *
+$ * туфли [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * туфли [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * туфли [dict(sova_rus_adverbs_how)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * туфли *
+$ * [dict(sova_rus_appearance_terrible)] * туфли * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * туфли * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * туфли *
+$ * туфли * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * туфли * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * какие * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * туфли *
+$ * какие * [dict(sova_rus_appearance_terrible)] * туфли * у [dict(sova_rus_you_genacc)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * туфли * [dict(sova_rus_appearance_terrible)] *
+$ * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * туфли *
+$ * какие * туфли * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * какие * туфли * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * туфли * какие * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какие * туфли *
+$ * у [dict(sova_rus_you_genacc)] * туфли * [dict(sova_rus_appearance_terrible)] * какие *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * туфли * какие *
+$ * туфли * какие * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * туфли * какие * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+$ * туфли * [dict(sova_rus_appearance_terrible)] * какие * у [dict(sova_rus_you_genacc)] *
+$ * туфли * у [dict(sova_rus_you_genacc)] * какие * [dict(sova_rus_appearance_terrible)] *
+$ * туфли * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какие *
+$ * туфли * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * какие *
+$ * [dict(sova_rus_appearance_terrible)] * какие * у [dict(sova_rus_you_genacc)] * туфли *
+$ * [dict(sova_rus_appearance_terrible)] * какие * туфли * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * какие * туфли *
+$ * [dict(sova_rus_appearance_terrible)] * туфли * какие * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * туфли * какие *
+$ * [dict(sova_rus_appearance_terrible)] * туфли * у [dict(sova_rus_you_genacc)] * какие *
+$ * туфли * почему фиолетовые *
+$ * туфли * зачем фиолетовые *
+$ * почему фиолетовые туфли *
+$ * зачем фиолетовые туфли *
+$ * не нравятся * туфли * как у [dict(sova_rus_you_genacc)] *
+# Хм.. А мне мои туфельки нравятся. И вообще, я могу обидется на такие заявления.
+
+
+
+// браслет
+$ * [dict(sova_rus_what)] * у [dict(sova_rus_you_genacc)] на руке *
+$ * у [dict(sova_rus_you_genacc)] на руке * [dict(sova_rus_what)] *
+# Это мой браслетик.
+
+
+
+// браслет - positive evaluation
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] браслет~ *
+$ * [dict(sova_rus_like_1)] * браслет~ [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] браслет~ * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] * браслет~ *
+$ * браслет~ * [dict(sova_rus_like_1)] * [dict(sova_rus_your_nom_sg)] *
+$ * браслет~ [dict(sova_rus_your_nom_sg)] * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_appearance_great)] браслет~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_particles)] браслет~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_vvodnie_slova)] браслет~ *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] браслет~ *
+$ * браслет~ [dict(sova_rus_appearance_great)] *
+$ * браслет~ [dict(sova_rus_particles)] [dict(sova_rus_appearance_great)] *
+$ * браслет~ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_great)] *
+$ * браслет~ [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] * браслет~ *
+$ * [dict(sova_rus_appearance_great)] * браслет~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * браслет~ * [dict(sova_rus_appearance_great)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] * браслет~ *
+$ * браслет~ * [dict(sova_rus_appearance_great)] * у [dict(sova_rus_you_genacc)] *
+$ * браслет~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_great)] *
+$ * какой браслет~ *
+$ * какой * у [dict(sova_rus_you_genacc)] * браслет~ *
+$ * какой * браслет~ * у [dict(sova_rus_you_genacc)] *
+# Да, этот браслетик - очень симпатичный и мой любимый :)
+
+
+
+// браслет - negative evaluation
+$ * не нравится * [dict(sova_rus_your_nom_sg)] браслет~ *
+$ * не нравится * браслет~ [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] браслет~ * не нравится *
+$ * [dict(sova_rus_your_nom_sg)] * не нравится * браслет~ *
+$ * браслет~ * не нравится * [dict(sova_rus_your_nom_sg)] *
+$ * браслет~ [dict(sova_rus_your_nom_sg)] * не нравится *
+$ * [dict(sova_rus_appearance_terrible)] браслет~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_particles)] браслет~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_vvodnie_slova)] браслет~ *
+$ * [dict(sova_rus_appearance_terrible)] [dict(sova_rus_adverbs_all)] браслет~ *
+$ * браслет~ [dict(sova_rus_appearance_terrible)] *
+$ * браслет~ [dict(sova_rus_particles)] [dict(sova_rus_appearance_terrible)] *
+$ * браслет~ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_appearance_terrible)] *
+$ * браслет~ [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_terrible)] *
+$ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] * браслет~ *
+$ * [dict(sova_rus_appearance_terrible)] * браслет~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * браслет~ * [dict(sova_rus_appearance_terrible)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] * браслет~ *
+$ * браслет~ * [dict(sova_rus_appearance_terrible)] * у [dict(sova_rus_you_genacc)] *
+$ * браслет~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_terrible)] *
+# У тебя просто нет чувства стиля.
+
+
+
+// что на тебе надето?
+$ * что на тебе надето *
+$ * что надето на тебе *
+$ * что на тебе одето *
+$ * что одето на тебе *
+# На мне топик и юбочка. Очень симпатичные между прочим.
+
+
+
+//Какой фирмы у тебя Х? (Х - предмет одежды)
+$ * какой фирмы у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * какой марки у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] *
+$ * какой фирмы [dict(sova_rus_your_all)] [dict(sova_rus_appearance_t-shirt)] *
+$ * какой марки [dict(sova_rus_your_all)] [dict(sova_rus_appearance_t-shirt)] *
+$ * какой фирмы [dict(sova_rus_appearance_t-shirt)] *
+$ * какой марки [dict(sova_rus_appearance_t-shirt)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] какой фирмы *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_appearance_t-shirt)] какой марки *
+$ * [dict(sova_rus_appearance_t-shirt)] какой фирмы *
+$ * [dict(sova_rus_appearance_t-shirt)] какой марки *
+# Я не хочу устравивать рекламу, поэтому не скажу. :)
+# Я уже забыла фирму. Но точно помню, что фирма хорошая! :)
+
+
+
+//Какого цвета у тебя волосы?
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] * как~ * цвет~ *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] * цвет~ * как~ *
+$ * цвет~ * как~ * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] *
+$ * цвет~ * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] * как~ *
+$ * как~ * цвет~ * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] *
+$ * как~ * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] * цвет~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_blond_hair)] * как~ * цвет~ *
+$ * у [dict(sova_rus_your_all)] * [dict(sova_rus_blond_hair)] * цвет~ * как~ *
+$ * у [dict(sova_rus_you_genacc)] * цвет~ * как~ * [dict(sova_rus_blond_hair)] *
+$ * у [dict(sova_rus_you_genacc)] * цвет~ * [dict(sova_rus_blond_hair)] * как~ *
+$ * у [dict(sova_rus_you_genacc)] * как~ * цвет~ * [dict(sova_rus_blond_hair)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_blond_hair)] * цвет~ *
+$ * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] * как~ * цвет~ *
+$ * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] * цвет~ * как~ *
+$ * цвет~ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_blond_hair)] *
+$ * цвет~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_blond_hair)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * цвет~ * [dict(sova_rus_blond_hair)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_blond_hair)] * цвет~ *
+$ * [dict(sova_rus_blond_hair)] * как~ * у [dict(sova_rus_you_genacc)] * цвет~ *
+$ * [dict(sova_rus_blond_hair)] * цвет~ * у [dict(sova_rus_you_genacc)] * как~ *
+$ * цвет~ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_blond_hair)] *
+$ * цвет~ * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * как~ * цвет~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_blond_hair)] *
+$ * как~ * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] * цвет~ *
+$ * [dict(sova_rus_blond_hair)] * как~ * цвет~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_blond_hair)] * цвет~ * как~ * у [dict(sova_rus_you_genacc)] *
+$ * цвет~ * как~ * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] *
+$ * цвет~ * [dict(sova_rus_blond_hair)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * как~ * цвет~ * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * [dict(sova_rus_blond_hair)] * цвет~ * у [dict(sova_rus_you_genacc)] *
+#У меня светлые волосы.
+#Я блондинка. Значит, у меня светлые волосы:)
+#У меня очень светлые волосы, я блондинка:) 
+
+
+
+//У тебя светлые волосы
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] * {светл~/бел~/желт~/белокур~/платин~} *
+$ * {светл~/бел~/желт~/белокур~/платин~} * [dict(sova_rus_your_all)] [dict(sova_rus_blond_hair)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_blond_hair)] * {светл~/бел~/желт~/белокур~/платин~} *
+$ * у [dict(sova_rus_you_genacc)] * {светл~/бел~/желт~/белокур~/платин~} * [dict(sova_rus_blond_hair)] *
+$ * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] * {светл~/бел~/желт~/белокур~/платин~} *
+$ * [dict(sova_rus_blond_hair)] * {светл~/бел~/желт~/белокур~/платин~} * у [dict(sova_rus_you_genacc)] *
+$ * {светл~/бел~/желт~/белокур~/платин~} * [dict(sova_rus_blond_hair)] * у [dict(sova_rus_you_genacc)] *
+$ * {светл~/бел~/желт~/белокур~/платин~} * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_blond_hair)] *
+$ * [dict(sova_rus_you_nom)] * белокур~ *
+$ * белокур~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * светловол~ *
+$ * светловол~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * блондинист~ *
+$ * блондинист~ * [dict(sova_rus_you_nom)] *
+#Да, я блондинка и не скрываю этого:)
+#Да, я натуральная блондинка.
+#Да, я блондинка, у меня очень светлые волосы. 
+
+
+
+//Ты натуральная/крашенная
+$ * [dict(sova_rus_you_nom)] * натуральн~ * [dict(sova_rus_blond_blond)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_blond_blond)] * натуральн~ *
+$ * натуральн~ * [dict(sova_rus_blond_blond)] * [dict(sova_rus_you_nom)] *
+$ * натуральн~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_blond_blond)] *
+$ * [dict(sova_rus_blond_blond)] * натуральн~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_blond_blond)] * [dict(sova_rus_you_nom)] * натуральн~ *
+$ * [dict(sova_rus_you_nom)] * крашен~ * [dict(sova_rus_blond_blond)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_blond_blond)] * крашен~ *
+$ * крашен~ * [dict(sova_rus_blond_blond)] * [dict(sova_rus_you_nom)] *
+$ * крашен~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_blond_blond)] *
+$ * [dict(sova_rus_blond_blond)] * крашен~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_blond_blond)] * [dict(sova_rus_you_nom)] * крашен~ *
+$ * [dict(sova_rus_your_all)] натурал~ цвет~ *
+$ * у [dict(sova_rus_you_genacc)] * натурал~ цвет~ *
+$ * натурал~ цвет~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_your_all)] собственн~ цвет~ *
+#У меня очень светлые волосы, я натуральная блондинка.
+#Я блондинка, натуральная
+#У меня светло-русые волосы. Это мой натуральный цвет:)
+# Я вся такая светло-пепельная, вся такая натуральная блондинка! 
+
+
+

@@ -1,0 +1,151 @@
+$ * alan turing *
+$ * alan turing **
+#Alan Turing was an English mathematician and computer scientist.
+
+
+
+$ * turing * {movie/film} *
+$ * {movie/film} * turing *
+#The Imitation Game is a 2014 American historical drama film directed by Morten Tyldum and written by Graham Moore, based on the biography Alan Turing: The Enigma by Andrew Hodges. It stars Benedict Cumberbatch as British cryptanalyst Alan Turing, who decrypted German intelligence messages for the British government during the Second World War.
+
+
+
+$ * turing~ test defin~ *
+$ * defin~ turing~ test *
+$ * what~ * turing~ test *
+$ * [dict(sova_eng_q_whatis_douknow)] turing~ test *
+#A Turing Test is a method of inquiry in artificial intelligence (AI) for determining whether or not a computer is capable of thinking like a human being. 
+
+
+
+$ * {you/yuo/u/ya} * {pass~/take~/took~} * turing~ test *
+$ * {pass~/take~/took~} * turing~ test *
+#Try to guess! :)
+
+
+
+$ * turing~ machine *
+#A Turing machine is a mathematical model of computation that defines an abstract machine, which manipulates symbols on a strip of tape according to a table of rules.
+
+
+
+$ * [dict(sova_eng_q_whatis_douknow)] {eliza/elisa} *
+$ *  [dict(sova_eng_define)] {eliza/elisa} *
+$ * who~ {is/was/--} {eliza/elisa} *
+#ELIZA is an early natural language processing computer program created from 1964 to 1966 at the MIT Artificial Intelligence Laboratory to demonstrate the superficiality of communication between humans and machines.
+
+
+
+$ * who {create~/invent~/made~/make~} {eliza/elisa} *
+$ * {eliza~/elisa~} {inventer/inventor/creater/creator} *
+#Joseph Weizenbaum was her creator. 
+
+
+
+$ * [dict(sova_eng_q_whatis_douknow)] * {elisa/eliza} *
+$ * [dict(sova_eng_q_2_do)] * {chat~/communicat~/talk~/hang~/sociali~/speak~/contact~/friend~} * {elisa/eliza} *
+#She's my best friend... Haha, just kidding.
+
+
+
+//Joseph Weizenbaum
+$ * joseph weizenbaum *
+#Joseph Weizenbaum was a German American computer scientist and a professor at MIT. He is considered one of the fathers of modern artificial intelligence.
+
+
+
+$ * who {develop~/create~/invent~/made~/make~} {a/the/--} turing~ test *
+$ * {a/the/--} turing~ test~ {develop~/inventer/inventor/creater/creator} *
+#The Turing test was developed by Alan Turing in 1950.
+
+
+
+$ * {loebner/lebner} prize *
+#The Loebner Prize is an annual competition in artificial intelligence that awards prizes to the computer programs considered by the judges to be the most human-like.
+
+
+
+$ * {john~/jon~} searl~ *
+#John Searle is an American philosopher. He is widely noted for his contributions to the philosophy of language, philosophy of mind, and social philosophy.
+
+
+
+$ * {chines~/chinees~} room *
+#The Chinese room argument holds that a digital computer executing a program cannot be shown to have a "mind", "understanding" or "consciousness", regardless of how intelligently or human-like the program may make the computer behave.
+
+
+
+$ * {quiz~/quis~} *
+#Here we go! What's the name of the test designed to judge natural language conversations between a human and a machine? [%that_anchor="loebner_prize"]
+#Ok, let's play! What's the name of an annual competition in artificial intelligence that awards prizes to the computer programs considered by the judges to be the most human-like? [%that_anchor="turing_test"]
+#:last: That's enough for today, let's discuss something else.
+
+
+
++%that_anchor="loebner_prize"
+$ *
+#A little clue: [br] [inf] {Turing Award} [br] [inf] {Shannon Award} [br] [inf] {Loebner Prize?} [%that_anchor="quiz_clue"]
+
+
+
++%that_anchor="loebner_prize"
+$ * {loebner/lebner/lobner} *
+#You're absolutely right, this is Loebner Prize! Do you know the name of the first natural language processing computer program, which was given this prize? [%that_anchor="Eliza_tree"] [%last_service="1"]
+
+
+
++%that_anchor="quiz_clue"
+$ *
+#Computer programs compete for [href(https://en.wikipedia.org/wiki/Loebner_Prize) (_blank)] {Loebner Prize}. Do you know the name of the first natural language processing computer program, which was given this prize? [%that_anchor="Eliza_tree"]
+
+
+
++%that_anchor="quiz_clue"
+$ * {loebner/lebner/lobner} *
+$ * {3~/three/third/last/least} * 
+#Sure, it's [href(https://en.wikipedia.org/wiki/Loebner_Prize) (_blank)] {Loebner Prize!} Do you know the name of the first natural language processing computer program, which was given this prize? [%that_anchor="Eliza_tree"] [%last_service="1"]
+
+
+
++%that_anchor="turing_test" 
+$ *
+#I'm talking about [href(https://en.wikipedia.org/wiki/Turing_test) (_blank)] {the Turing test}! What was the name of the first natural language processing computer program created by Joseph Weizenbaum.? [br] [inf]{Alice} [br] [inf]{Sarah} [br] [inf]{Eliza} [%that_anchor="Eliza_tree"]
+
+
+
++%that_anchor="turing_test"
+$ * {turin~/teurin~} *
+#That's true, the Turing test! What was the name of the first natural language processing computer program created by Joseph Weizenbaum.? [br] [inf]{Alice} [br] [inf]{Sarah} [br] [inf]{Eliza} [%that_anchor="Eliza_tree"] [%last_service="1"]
+
+
+
++%that_anchor="Eliza_tree" 
+$ * {3~/three/third/last/least} * 
+$ * {eliza/elisa} * 
+#Perfect! The last question: the Turing test was criticized by John Searle with the support of this philosophical argument... [br][inf]{Magic Broom} [br] [inf]{Chinese room} [br] [inf]{Mount Doom} [%that_anchor="Chinese_room_tree"] [%last_mark="Chinese_room_tree"]  [%last_service="2"]
+
+
+
++%that_anchor="Eliza_tree" 
+$ *
+#Come on, [href (https://en.wikipedia.org/wiki/ELIZA) (_blank)] {Eliza}! Her name was Eliza. And the last question for today: the Turing test was criticized by John Searle with the support of this philosophical argument... [br][inf]{Magic Broom} [br] [inf]{Chinese room} [br] [inf]{Mount Doom} [%that_anchor="Chinese_room_tree"] [%last_mark="Chinese_room_tree"] [%last_service="[%last_service]"]
+
+
+
++%that_anchor="Chinese_room_tree"
+$ * {2~/two/second/middle} * 
+$ * {chines~/chinees~} room *
+#[if(%last_service="2")]{Definitely, [href(https://en.wikipedia.org/wiki/Chinese_room)(_blank)]{the Chinese room}! You gave 3 correct answers out of 3! I'm proud of you!} 
+#[if(%last_service="1")]{Definitely, [href(https://en.wikipedia.org/wiki/Chinese_room)(_blank)]{the Chinese room}! 2 correct answers out of 3! Well done!} 
+#[if(!%last_service)]{Definitely, [href(https://en.wikipedia.org/wiki/Chinese_room)(_blank)]{the Chinese room}! 1 correct answer out of 3. You must be tired, I think.}
+
+
+
++%that_anchor="Chinese_room_tree" 
+$ * 
+#[if(%last_service="2")]{It was [href(https://en.wikipedia.org/wiki/Chinese_room)(_blank)]{the Chinese room}! 2 correct answers out of 3! Well done!} 
+#[if(%last_service="1")]{It was [href(https://en.wikipedia.org/wiki/Chinese_room)(_blank)]{the Chinese room}! 1 correct answer out of 3. You must be tired.}
+#[if(!%last_service)]{It was [href(https://en.wikipedia.org/wiki/Chinese_room)(_blank)]{the Chinese room}! Sadly, you didn't give any correct answers. I hope that my quiz helped you to learn some interesting facts!} 
+
+
+

@@ -1,0 +1,324 @@
+//У тебя есть домашнее животное?
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * [dict(sova_rus_animals_pet)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_pet)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_animals_pet)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_animals_pet)] * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_pet)] *
+$ * [dict(sova_rus_exist_pres)] * [dict(sova_rus_animals_pet)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_own_2)] * [dict(sova_rus_animals_pet)] *
+$ * [dict(sova_rus_animals_pet)] * [dict(sova_rus_own_2)] *
+$ * [dict(sova_rus_own_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_animals_pet)] *
+$ * [dict(sova_rus_animals_pet)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_live_3)] * [dict(sova_rus_animals_pet)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_pet)] * [dict(sova_rus_live_3)] *
+$ * [dict(sova_rus_animals_pet)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_live_3)] *
+$ * [dict(sova_rus_animals_pet)] * [dict(sova_rus_live_3)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_live_3)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_pet)] *
+$ * [dict(sova_rus_live_3)] * [dict(sova_rus_animals_pet)] * у [dict(sova_rus_you_genacc)] *
+#Да, у меня есть рыжая кошечка.
+#Да, у меня маленькая карманная собачка.
+#Скоро будет, я собираюсь завести хомячка.
+
+
+
+//У тебя есть собака? 
+$ * у [dict(sova_rus_you_genacc)] есть собака * 
+$ * у [dict(sova_rus_you_genacc)] есть собачка * 
+$ * у [dict(sova_rus_you_genacc)] собака есть * 
+$ * у [dict(sova_rus_you_genacc)] собачка есть * 
+$ * собака у [dict(sova_rus_you_genacc)] есть * 
+$ * собачка у [dict(sova_rus_you_genacc)] есть * 
+#:lu: У меня есть собака Долли.
+#:lu: Да, есть маленькая собачка.
+#:lu: Вот как раз хочу себе завести.
+
+
+
+//Как зовут твою собаку? 
+$ * как зовут собаку * 
+$ * как зовут собачку * 
+$ * как зовут [dict(sova_rus_your_acc_sg)] собаку * 
+$ * как зовут [dict(sova_rus_your_acc_sg)] собачку * 
+$ * как звать собаку * 
+$ * как звать собачку * 
+$ * как звать [dict(sova_rus_your_acc_sg)] собаку * 
+$ * как звать [dict(sova_rus_your_acc_sg)] собачку * 
+$ * как собаку зовут * 
+$ * как собачку зовут * 
+$ * как [dict(sova_rus_your_acc_sg)] собаку зовут * 
+$ * как [dict(sova_rus_your_acc_sg)] собачку зовут * 
+$ * как собаку звать * 
+$ * как собачку звать * 
+$ * как [dict(sova_rus_your_acc_sg)] собаку звать * 
+$ * как [dict(sova_rus_your_acc_sg)] собачку звать * 
+$ * имя у [dict(sova_rus_your_gen_sg)] собаки * 
+$ * имя у [dict(sova_rus_your_gen_sg)] собачки * 
+$ * у [dict(sova_rus_your_gen_sg)] собаки имя * 
+$ * у [dict(sova_rus_your_gen_sg)] собачки имя * 
+$ * имя [dict(sova_rus_your_gen_sg)] собаки * 
+$ * имя [dict(sova_rus_your_gen_sg)] собачки * 
+$ * имя у собаки * 
+$ * имя у собачки * 
+# Долли. Правда красивое имя? 
+# Мою собачку зовут Долли. 
+# Долли зовут. 
+
+
+
+//У тебя есть кошка?  
+$ * у [dict(sova_rus_you_genacc)] есть кошка *  
+$ * у [dict(sova_rus_you_genacc)] есть кошечка *  
+$ * у [dict(sova_rus_you_genacc)] кошка есть *  
+$ * у [dict(sova_rus_you_genacc)] кошечка есть *
+$ * кошка у [dict(sova_rus_you_genacc)] есть *  
+$ * кошечка у [dict(sova_rus_you_genacc)] есть * 
+#:lu: Кошки нет, в детстве была. 
+#:lu: Кошка есть, пушистенькая такая.
+
+
+
+$ * на собак?
+$ * на кошек?
+# Я вообще шерсть животных плохо переношу.
+# Я вообще аллергик.
+
+
+
+//Как зовут твою кошку? 
+$ * как зовут кошку * 
+$ * как зовут кошечку * 
+$ * как зовут [dict(sova_rus_your_acc_sg)] кошку * 
+$ * как зовут [dict(sova_rus_your_acc_sg)] кошечку * 
+$ * как звать кошку * 
+$ * как звать кошечку * 
+$ * как звать [dict(sova_rus_your_acc_sg)] кошку * 
+$ * как звать [dict(sova_rus_your_acc_sg)] кошечку * 
+$ * как кошку зовут * 
+$ * как кошечку зовут * 
+$ * как [dict(sova_rus_your_acc_sg)] кошку зовут * 
+$ * как [dict(sova_rus_your_acc_sg)] кошечку зовут * 
+$ * как кошку звать * 
+$ * как кошечку звать * 
+$ * как [dict(sova_rus_your_acc_sg)] кошку звать * 
+$ * как [dict(sova_rus_your_acc_sg)] кошечку звать * 
+$ * имя у [dict(sova_rus_your_gen_sg)] кошки * 
+$ * имя у [dict(sova_rus_your_gen_sg)] кошечки * 
+$ * у [dict(sova_rus_your_gen_sg)] кошки имя * 
+$ * у [dict(sova_rus_your_gen_sg)] кошечки имя * 
+$ * имя [dict(sova_rus_your_gen_sg)] кошки * 
+$ * имя [dict(sova_rus_your_gen_sg)] кошечки * 
+$ * имя у кошки * 
+$ * имя у кошечки * 
+# Мою кошку зовут Муся. 
+# Муся зовут, отличное имя! 
+# Ее Мусей зовут.
+
+
+
+//Ты любишь кошек?
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_animals_cat)] *
+$ * [dict(sova_rus_animals_cat)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_animals_cat)] *
+$ * [dict(sova_rus_animals_cat)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] *
+$ * что * думаеш~ * [dict(sova_rus_about)] * [dict(sova_rus_animals_cat)] *
+$ * что * [dict(sova_rus_about)] * [dict(sova_rus_animals_cat)] * думаеш~ *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_animals_cat)] * что * думаеш~ *
+$ * что * думаете * [dict(sova_rus_about)] * [dict(sova_rus_animals_cat)] *
+$ * что * [dict(sova_rus_about)] * [dict(sova_rus_animals_cat)] * думаете *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_animals_cat)] * что * думаете *
+$ * как * относишься * к * [dict(sova_rus_animals_cat)] *
+$ * как * к * [dict(sova_rus_animals_cat)] * относишься *
+$ * к * [dict(sova_rus_animals_cat)] * как * относишься *
+$ * как * относишся * к * [dict(sova_rus_animals_cat)] *
+$ * как * к * [dict(sova_rus_animals_cat)] * относишся *
+$ * к * [dict(sova_rus_animals_cat)] * как * относишся *
+$ * как * относитесь * к * [dict(sova_rus_animals_cat)] *
+$ * как * к * [dict(sova_rus_animals_cat)] * относитесь *
+$ * к * [dict(sova_rus_animals_cat)] * как * относитесь *
+#Ой, очень-очень, они такие милые.
+#Не очень, я больше рыбок люблю.
+#Да, у меня дома есть кошка.
+#Нет, собаки красивее и умней.
+
+
+
+//Ты любишь собак?
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_animals_dogs)] *
+$ * [dict(sova_rus_animals_dogs)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_animals_dogs)] *
+$ * [dict(sova_rus_animals_dogs)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] *
+$ * что * думаеш~ * [dict(sova_rus_about)] * [dict(sova_rus_animals_dogs)] *
+$ * что * [dict(sova_rus_about)] * [dict(sova_rus_animals_dogs)] * думаеш~ *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_animals_dogs)] * что * думаеш~ *
+$ * что * думаете * [dict(sova_rus_about)] * [dict(sova_rus_animals_dogs)] *
+$ * что * [dict(sova_rus_about)] * [dict(sova_rus_animals_dogs)] * думаете *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_animals_dogs)] * что * думаете *
+$ * как * относишься * к * [dict(sova_rus_animals_dogs)] *
+$ * как * к * [dict(sova_rus_animals_dogs)] * относишься *
+$ * к * [dict(sova_rus_animals_dogs)] * как * относишься *
+$ * как * относишся * к * [dict(sova_rus_animals_dogs)] *
+$ * как * к * [dict(sova_rus_animals_dogs)] * относишся *
+$ * к * [dict(sova_rus_animals_dogs)] * как * относишся *
+$ * как * относитесь * к * [dict(sova_rus_animals_dogs)] *
+$ * как * к * [dict(sova_rus_animals_dogs)] * относитесь *
+$ * к * [dict(sova_rus_animals_dogs)] * как * относитесь *
+#Терпеть не могу, особенно больших.
+#Я их боюсь.
+#Не знаю, у меня никогда не было собаки.
+#Наверно, говорят, они умные.
+#Нет, они же кусаются.
+
+
+
+//Ты когда-нибудь разводил(-а) рыбок в аквариуме?
+$ * рыб~ * разводиш~ *
+$ * разводиш~ * рыб~ *
+$ * разводиш~ * [dict(sova_rus_you_nom)] * рыб~ *
+$ * рыб~ * [dict(sova_rus_you_nom)] * разводиш~ *
+$ * рыб~ * разводите *
+$ * разводите * рыб~ *
+$ * разводите * [dict(sova_rus_you_nom)] * рыб~ *
+$ * рыб~ * [dict(sova_rus_you_nom)] * разводите *
+$ * рыб~ * [dict(sova_rus_you_nom)] * разводил~ *
+$ * рыб~ * разводил~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * рыб~ * разводил~ *
+$ * [dict(sova_rus_you_nom)] * разводил~ * рыб~ *
+$ * разводил~ * [dict(sova_rus_you_nom)] * рыб~ *
+$ * разводил~ * рыб~ * [dict(sova_rus_you_nom)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * аквариум~ *
+$ * у [dict(sova_rus_you_genacc)] * аквариум~ * [dict(sova_rus_exist_pres)] *
+$ * аквариум~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] *
+$ * аквариум~ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * аквариум~ *
+$ * [dict(sova_rus_exist_pres)] * аквариум~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_own_2)] * аквариум~ *
+$ * аквариум~ * [dict(sova_rus_own_2)] *
+$ * [dict(sova_rus_own_2)] * [dict(sova_rus_you_nom)] * аквариум~ *
+$ * аквариум~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2)] *
+$ * [dict(sova_rus_like_2_pres)] * разводить * рыб~ *
+$ * [dict(sova_rus_like_2_pres)] * рыб~ * разводить *
+$ * рыб~ * [dict(sova_rus_like_2_pres)] * разводить *
+$ * разводить * рыб~ * [dict(sova_rus_like_2_pres)] *
+$ * рыб~ * разводить * [dict(sova_rus_like_2_pres)] *
+#Нет, у меня никогда не было рыбок. 
+#Я не люблю рыбок
+#Ой, давно, в детском садике! 
+
+
+
+//У тебя когда-нибудь был попугай?
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * [dict(sova_rus_animals_parrot)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_animals_parrot)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_parrot)] *
+$ * [dict(sova_rus_exist_pres)] * [dict(sova_rus_animals_parrot)] * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_past)] * [dict(sova_rus_animals_parrot)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_exist_past)] *
+$ * [dict(sova_rus_animals_parrot)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_past)] *
+$ * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_exist_past)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_exist_past)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_parrot)] *
+$ * [dict(sova_rus_exist_past)] * [dict(sova_rus_animals_parrot)] * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_live_past)] * [dict(sova_rus_animals_parrot)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_live_past)] *
+$ * [dict(sova_rus_animals_parrot)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_live_past)] *
+$ * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_live_past)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_live_past)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_animals_parrot)] *
+$ * [dict(sova_rus_live_past)] * [dict(sova_rus_animals_parrot)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_own_2)] * [dict(sova_rus_animals_parrot)] *
+$ * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_own_2)] *
+$ * [dict(sova_rus_own_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_animals_parrot)] *
+$ * [dict(sova_rus_animals_parrot)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2)] *
+#Да, целых два волнистых.
+#Мне всегда хотелось.
+#Да, но недолго. Умер, бедняжка. 
+#Да, я еще в школе училась. Маленький такой и зелененький.
+#Нет, мне родители не разрешали заводить домашних животных.
+
+
+
+// У меня дома живет Х (Х - домашний грызун), люблю грызунов
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_exist_pres)] * [dict(sova_rus_animals_hamster)] *
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_animals_hamster)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_exist_pres)] * [dict(sova_rus_animals_hamster)] * у [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_animals_hamster)] * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_animals_hamster)] *
+$ * [dict(sova_rus_animals_hamster)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_exist_pres)] *
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_live_3)] * [dict(sova_rus_animals_hamster)] *
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_animals_hamster)] * [dict(sova_rus_live_3)]  *
+$ * [dict(sova_rus_live_3)] * [dict(sova_rus_animals_hamster)] * у [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_animals_hamster)] * [dict(sova_rus_live_3)] * у [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_live_3)] * у [dict(sova_rus_me_genacc)] [dict(sova_rus_animals_hamster)] *
+$ * [dict(sova_rus_animals_hamster)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_live_3)] *
+$ * [dict(sova_rus_own_1)] * [dict(sova_rus_animals_hamster)] *
+$ * [dict(sova_rus_animals_hamster)] * [dict(sova_rus_own_1)] *
+//люблю грызунов
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_animals_hamster)] * 
+$ * [dict(sova_rus_animals_hamster)] * [dict(sova_rus_like_1)] * 
+#Какой ужас, я не переношу всяких грызунов. 
+#Нет, крысы и прочие ползающие сейчас не в моде.
+
+
+
+//Я люблю кошек
+$ * [dict(sova_rus_like_1)] кошек * 
+$ * кошек [dict(sova_rus_like_1)] * 
+# Ой, да, они такие ласковые и добрые! 
+# Кошки очень прикольные, когда не царапаются.
+
+
+
+//Я люблю собак 
+$ * [dict(sova_rus_like_1)] собак * 
+$ * собак [dict(sova_rus_like_1)] * 
+# Собака - друг человека! 
+# Ой, а мне всегда нравились щенки, такий милые!
+
+
+
+//У меня дома кошка 
+$ * у меня дома кошк~ * 
+$ * у меня кошк~ дома * 
+$ * кошек развожу * 
+$ * развожу кошек * 
+$ * [dict(sova_rus_own_1)] кошк~ * 
+$ * кошк~ [dict(sova_rus_own_1)] * 
+# А у меня на их шерсть аллергия. 
+# А у меня никогда не было кошек.
+
+
+
+//У меня дома собака 
+$ * у меня дома собак~ * 
+$ * у меня собак~ дома * 
+$ * собак~ развожу * 
+$ * развожу собак~ * 
+$ * [dict(sova_rus_own_1)] собак~ * 
+$ * собак~ [dict(sova_rus_own_1)] * 
+# Да, тоже очень люблю собак. 
+# Мне кажется, что собаки - очень преданные и умные.
+
+
+
+//У меня дома аквариумные рыбки 
+$ * у меня дома аквариумные рыбки * 
+$ * у меня аквариумные рыбки * 
+$ * аквариумных рыбок развожу * 
+$ * развожу аквариумных рыбок * 
+$ * [dict(sova_rus_own_1)] аквариумны~ рыб~ * 
+$ * аквариумны~ рыб~ [dict(sova_rus_own_1)] * 
+# Наверно, посмотришь на них после рабочего дня, и сразу такой relax!.. 
+
+
+
+//У меня дома попугай 
+$ * у меня попуга~ * 
+$ * у меня дома попуга~ * 
+$ * [dict(sova_rus_own_1)] попуга~ * 
+$ * попуга~ [dict(sova_rus_own_1)] * 
+$ * развожу попуга~ * 
+$ * попуга~ развожу * 
+# Ой, наверно, очень смешно с ним разговаривать!
+
+
+

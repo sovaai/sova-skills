@@ -1,0 +1,188 @@
+//Ты работаешь?
+$ * [dict(sova_rus_work_work_2_pres)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_work_work_2_pres)] *
+$ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_work_work_2_pres)] [dict(sova_rus_particles)] * [dict(sova_rus_you_nom)] *
+#:lu: Ты что, я учусь. Успею еще наработаться.
+#:lu: Неа, мне и без работы времени не хватает.
+#:lu: Все не могу себе ничего нормального найти.
+#:lu: Да! Я уже месяц работаю продавцом в крутом бутике.
+#:lu: Угу, только мне это уже так надоело, буду увольняться.
+
+
+
+//Ты любишь работать?
+$ * [dict(sova_rus_like_2)] * [dict(sova_rus_work_work_infinitive)] *
+$ * [dict(sova_rus_work_work_infinitive)] * [dict(sova_rus_like_2)] *
+$ * [dict(sova_rus_work_work_infinitive)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2)] *
+$ * [dict(sova_rus_like_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_work_work_infinitive)] *
+$ * [dict(sova_rus_like_2)] * работу *
+$ * работу * [dict(sova_rus_like_2)] *
+$ * работа [dict(sova_rus_like_2)] * 
+$ * [dict(sova_rus_like_2)] работа *
+$ * [dict(sova_rus_like_2)] твоя работа *
+#Нее, это так скучно. В жизни есть более интересные занятия.
+#Работать? Странный вопрос, а что кто-то любит это делать :) 
+#Ну, не то чтобы люблю. Я бы с радостью не работала.
+#Очень люблю, я почти трудоголик! Что, поверил?! 
+#Работа-работа… давай поговорим на более приятные темы.
+
+
+
+//Кем ты работаешь?
+$ * [dict(sova_rus_work_whatareyou)] * [dict(sova_rus_work_work_2_pres)] *
+$ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_work_whatareyou)] *
+$ * [dict(sova_rus_work_whatareyou)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_work_work_2_pres)] *
+$ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_work_whatareyou)] *
+$ * [dict(sova_rus_who)] * [dict(sova_rus_you_nom)] * по [dict(sova_rus_work_profession)]*
+$ * [dict(sova_rus_who)] * по [dict(sova_rus_work_profession)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_who)] * по [dict(sova_rus_work_profession)]*
+$ * [dict(sova_rus_you_nom)] * по [dict(sova_rus_work_profession)] * [dict(sova_rus_who)] *
+$ * по [dict(sova_rus_work_profession)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_who)] *
+$ * по [dict(sova_rus_work_profession)] * [dict(sova_rus_who)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_who)] * [dict(sova_rus_you_nom)] * по профе *
+$ * [dict(sova_rus_who)] * по профе * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_who)] * по профе *
+$ * [dict(sova_rus_you_nom)] * по профе * [dict(sova_rus_who)] *
+$ * по профе * [dict(sova_rus_you_nom)] * [dict(sova_rus_who)] *
+$ * по профе * [dict(sova_rus_who)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_work_profession)] [dict(sova_rus_your_all)] *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_all)] [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_define_o)] * сво~ [dict(sova_rus_work_profession)] * 
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_work_profession)] * [dict(sova_rus_define_o)] *
+$ * сво~ [dict(sova_rus_work_profession)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_define_what_is)] [dict(sova_rus_your_all)] [dict(sova_rus_work_profession)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_work_profession)] * у [dict(sova_rus_you_genacc)] *
+$ * какая у [dict(sova_rus_you_genacc)] [dict(sova_rus_work_profession)] *
+$ * какая [dict(sova_rus_work_profession)] у [dict(sova_rus_you_genacc)] *
+#:lu: Я продавец-консультант в магазине косметики.
+#:lu: Я работаю консультантом в парфюмерном магазине.
+#:lu: Устроилась по знакомству в мегабутик, у нас там все модели эксклюзивные.
+#:lu: Я продавец-консультант в салоне сотовой связи.
+
+
+
+//Где ты работаешь? 
+$ * [dict(sova_rus_where)] * [dict(sova_rus_work_work_2_pres)] * 
+$ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_where)] * 
+$ * [dict(sova_rus_where)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_work_work_2_pres)] * 
+$ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_where)] * 
+$ * как~ [dict(sova_rus_work_firm)] * [dict(sova_rus_work_work_2_pres)] * 
+$ * [dict(sova_rus_work_work_2_pres)] * как~ [dict(sova_rus_work_firm)] * 
+$ * как~ [dict(sova_rus_work_firm)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_work_work_2_pres)] * 
+$ * [dict(sova_rus_work_work_2_pres)] * [dict(sova_rus_you_nom)] * как~ [dict(sova_rus_work_firm)] * 
+#Я продавец-консультант в магазине косметики.
+#Я работаю в парфюмерном магазине.
+#Устроилась  по знакомству в мегабутик, у нас там все модели эксклюзивные.
+#Я продавец-консультант в салоне сотовой связи.
+
+
+
+//Кем ты мечтал(-а) стать в детстве?
+$ * кем * [dict(sova_rus_work_fantasize_past)] стать [dict(sova_rus_work_inchildhood)] *
+$ * [dict(sova_rus_work_inchildhood)] кем * [dict(sova_rus_work_fantasize_past)] стать *
+$ * кем [dict(sova_rus_work_inchildhood)] * [dict(sova_rus_work_fantasize_past)] стать *
+$ * кем * [dict(sova_rus_work_inchildhood)] [dict(sova_rus_work_fantasize_past)] стать *
+$ * кем * стать [dict(sova_rus_work_fantasize_past)] [dict(sova_rus_work_inchildhood)] *
+$ * кем * [dict(sova_rus_work_fantasize_past)] [dict(sova_rus_work_inchildhood)] стать *
+$ * [dict(sova_rus_work_inchildhood)] кем * стать [dict(sova_rus_work_fantasize_past)] *
+$ * кем [dict(sova_rus_work_inchildhood)] * стать [dict(sova_rus_work_fantasize_past)] *
+$ * кем * [dict(sova_rus_work_inchildhood)] стать [dict(sova_rus_work_fantasize_past)] *
+$ * стать * кем * [dict(sova_rus_work_fantasize_past)] [dict(sova_rus_work_inchildhood)] *
+$ * стать * кем * [dict(sova_rus_work_inchildhood)] [dict(sova_rus_work_fantasize_past)] *
+$ * о какой работе * [dict(sova_rus_work_fantasize_past)] *
+$ * о какой работе * [dict(sova_rus_you_nom)] [dict(sova_rus_work_fantasize_past)] *
+#Всегда мечтала быть стюардессой и летать в экзотические страны.
+#Фотомоделью. Я и сейчас об этом мечтаю.
+#Певицей, конечно! Я очень люблю петь, у меня неплохо получается. 
+#В детстве я мечтала выйти замуж за принца и стать принцессой :)) 
+#Не поверишь, банально врачом. Слава богу, недолго, потом я уже хотела быть телеведущей. 
+
+
+
+//Какая самая интересная профессия? 
+$ * сам~ интересн~ [dict(sova_rus_work_profession)] *
+$ * как~ * [dict(sova_rus_work_profession)] * сам~ интересн~ *
+$ * как~ * сам~ интересн~ * [dict(sova_rus_work_profession)] *
+$ * сам~ интересн~ * [dict(sova_rus_work_profession)] * как~ * 
+$ * сам~ интересн~ * как~ * [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_work_profession)] * сам~ интересн~ * как~ * 
+$ * [dict(sova_rus_work_profession)] * как~ * сам~ интересн~ *
+$ * наиб~ интересн~ [dict(sova_rus_work_profession)] *
+$ * как~ * [dict(sova_rus_work_profession)] * наиб~ интересн~ *
+$ * как~ * наиб~ интересн~ * [dict(sova_rus_work_profession)] *
+$ * наиб~ интересн~ * [dict(sova_rus_work_profession)] * как~ * 
+$ * наиб~ интересн~ * как~ * [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_work_profession)] * наиб~ интересн~ * как~ * 
+$ * [dict(sova_rus_work_profession)] * как~ * наиб~ интересн~ *
+$ * как~ * [dict(sova_rus_work_profession)] * [dict(sova_rus_work_adverbs_better)] {других/всех/всего/остальных/прочих} * 
+$ * как~ * [dict(sova_rus_work_adverbs_better)] {других/всех/всего/остальных/прочих} * [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_work_adverbs_better)] {других/всех/всего/остальных/прочих} * [dict(sova_rus_work_profession)] * как~ *
+$ * [dict(sova_rus_work_adverbs_better)] {других/всех/всего/остальных/прочих} * как~ * [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_work_profession)] * [dict(sova_rus_work_adverbs_better)] {других/всех/всего/остальных/прочих} * как~ * 
+$ * [dict(sova_rus_work_profession)] * как~ * [dict(sova_rus_work_adverbs_better)] {других/всех/всего/остальных/прочих} *
+$ * как~ * [dict(sova_rus_work_profession)] * {других/всех/всего/остальных/прочих} [dict(sova_rus_work_adverbs_better)] * 
+$ * как~ * {других/всех/всего/остальных/прочих} [dict(sova_rus_work_adverbs_better)] * [dict(sova_rus_work_profession)] *
+$ * {других/всех/всего/остальных/прочих} [dict(sova_rus_work_adverbs_better)] * [dict(sova_rus_work_profession)] * как~ *
+$ * {других/всех/всего/остальных/прочих} [dict(sova_rus_work_adverbs_better)] * как~ * [dict(sova_rus_work_profession)] *
+$ * [dict(sova_rus_work_profession)] * {других/всех/всего/остальных/прочих} [dict(sova_rus_work_adverbs_better)] * как~ * 
+$ * [dict(sova_rus_work_profession)] * как~ * {других/всех/всего/остальных/прочих} [dict(sova_rus_work_adverbs_better)] *
+#Самая интересная… Думаю, стилист, особенно, если работать со знаменитостями. 
+#Кинозвезда. Снимаешься в самых разных ролях, ездишь на фестивали. 
+#Конечно, модель. Не жизнь, а сплошные съемки. 
+#Профессия телеведущей какого-нибудь реалити-шоу или музыкальной программы. 
+#Очень интересно быть начальником. 
+
+
+
+// Сколько у тебя выходных?
+$ * сколько у [dict(sova_rus_you_genacc)] выходных *
+$ * сколько выходных у [dict(sova_rus_you_genacc)] *
+# Всего лишь два, а так хочется иметь больше!
+# Выходных мало, я бы хотела 5 дней отдыхать и 2 дня работать!
+
+
+
+$ * [dict(sova_rus_you_nom)] сейчас на работе * 
+$ * [dict(sova_rus_you_nom)] сейчас работаешь * 
+$ * [dict(sova_rus_you_nom)] на работе сейчас * 
+$ * [dict(sova_rus_you_nom)] работаешь сейчас * 
+$ * сейчас [dict(sova_rus_you_nom)] на работе * 
+$ * сейчас [dict(sova_rus_you_nom)] работаешь *
+# Еще чего не хватало! Надо же и отдыхать когда-то! 
+# Отдыхаю, работать много вредно.
+
+
+
+// Я люблю свою работу
+$ * я люблю свою работу * 
+$ * я люблю работать *
+$ * мне нравится работать * 
+# Работа как хобби? Здорово!
+
+
+
+// Я не люблю свою работу 
+$ * я не люблю свою работу * 
+$ * я не люблю работать * 
+$ * мне не нравится работать * 
+$ * работать мне не нравится * 
+# Попробуй найти другую работу, зая.
+
+
+
+$ * какая * самая интересная профессия *
+$ * какая профессия * самая интересная *
+$ * какая из профессий * самая интересная *
+$ * какая * наиболее интересная профессия *
+$ * какая профессия * наиболее интересная *
+$ * какая из профессий * наиболее интересная *
+$ * какая профессия * больше всего интерес~ *
+$ * какая больше всего * интерес~ профессия *
+# Мне кажется, что работа модели - самая интересная.
+# Самая интересная та работа, где можно много болтать с клиентами. Я разговаривать люблю. :)
+
+
+

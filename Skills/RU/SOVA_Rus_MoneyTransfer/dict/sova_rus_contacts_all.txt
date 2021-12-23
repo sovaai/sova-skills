@@ -1,0 +1,8 @@
+--include(sova_rus_contacts_names)
+--include(sova_rus_contacts_patronymic)
+--include(sova_rus_contacts_places)
+--include(sova_rus_contacts_professions)
+--include(sova_rus_contacts_relatives)
+--include(sova_rus_contacts_surnames)
+
+

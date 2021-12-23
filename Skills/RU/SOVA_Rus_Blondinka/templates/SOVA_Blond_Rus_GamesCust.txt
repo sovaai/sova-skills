@@ -1,0 +1,61 @@
+//Твоя любимая компьютерная игра
+$ * [dict(sova_rus_your_nom_sg)] любим~ {компьют~/--} игр~ *
+$ * [dict(sova_rus_your_nom_pl)] любим~ {компьют~/--} игр~ *
+$ * как~ компьют~ игр~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * как~ компьют~ игр~ [dict(sova_rus_like_2_pres)] *
+$ компьют~ игр~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ компьют~ игр~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ компьют~ игр~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ компьют~ игр~ * как~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * компьют~ игр~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * компьют~ игр~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * компьют~ игр~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * компьют~ игр~ * как~ [dict(sova_rus_like_2_pres)] *
+#:lu: Я не люблю компьютерные игры
+#:lu: Я с компьютером не очень
+#:lu: Я лучше журнальчик полистаю. [%that_anchor="журнальчик"]
+#:lu: Я не знаю ни одну
+
+
+
+//Ты любишь играть в компьютерные игры?
+$ * [@cmb({[dict(sova_rus_like_2_pres)]}, {[dict(sova_rus_play_infinitive)]}, {{комп~/--\} игр~})] *
+#:lu: Нет, что в них интересного
+#:lu: Я не умею. Может, научишь, а :) 
+#:lu: Я этим не интересуюсь
+#:lu: Нет, я больше психологические тесты люблю
+#:lu: А что, это модно?
+
+
+
+//Твой любимый жанр компьютерной игры 
+$ * [dict(sova_rus_your_nom_sg)] любим~ [dict(sova_rus_type)] компьют~ игр~ * 
+$ * [dict(sova_rus_your_nom_pl)] любим~ [dict(sova_rus_type)] компьют~ игр~ * 
+$ * как~ [dict(sova_rus_type)] компьют~ игр~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * 
+$ * как~ [dict(sova_rus_type)] компьют~ игр~ [dict(sova_rus_like_2_pres)] * 
+$ [dict(sova_rus_type)] компьют~ игр~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ [dict(sova_rus_type)] компьют~ игр~ * котор~ [dict(sova_rus_like_2_pres)] * 
+$ [dict(sova_rus_type)] компьют~ игр~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ [dict(sova_rus_type)] компьют~ игр~ * как~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_type)] компьют~ игр~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_type)] компьют~ игр~ * котор~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_type)] компьют~ игр~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_type)] компьют~ игр~ * как~ [dict(sova_rus_like_2_pres)] * 
+#Я не люблю играть, но знаю квесты и войнушки 
+#У меня нет любимого жанра 
+#Не знаю ничего об этом 
+#Давай я лучше про новый номер Космо расскажу 
+
+
+
+// Я люблю играть в компьютерыне игры 
+$ * я люблю играть в компьютерные игры * 
+$ * моя любимая компьютерная игра * 
+$ * я люблю играть в стрелялки * 
+$ * я люблю играть в стратегии * 
+$ * я люблю играть в квесты * 
+$ * я люблю играть в логические игры * 
+# А я не люблю компьютерные игры, вообще не люблю в компьютер пялиться.
+
+
+

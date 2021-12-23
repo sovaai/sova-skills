@@ -1,0 +1,125 @@
+Acid
+Anabolic
+Anorectic
+Barbiturates
+Benzodiazepines
+Benzylpiperazine
+Buprenorphine
+Butorphanol
+cannabis
+Canabis
+charas
+ChloralHydrate~
+Chloral-Hydrate~
+Chloral Hydrate~
+cocain
+cocaine
+coccain
+coccaine
+codeine
+cokeaddict~
+coke-addict~
+coke addict~
+crack
+crackaddict~
+crack-addict~
+crack addict~
+crystalmeth~
+crystal-meth~
+crystal meth~
+depressants
+dextromethorphan
+dextroproxyphene
+dimehydrinate
+diphenhydramine
+dospeed~
+do-speed~
+do speed~
+dope
+drug
+drugs
+DXM
+ecstasy
+Eks
+Fentanyl
+Flunitrazepam
+gammahydroxybutyrate~
+gamma-hydroxybutyrate~
+gamma Hydroxybutyrate~
+hallucinogens
+hash
+Hash
+hasheesh
+hashish
+Hashishoil~
+Hashish-oil~
+Hashish oil~
+heroin
+heroine
+Hydrocodone~
+Hydro-codone~
+Hydro codone~
+Hydromorphone~
+Hydro-morphone~
+Hydro morphone~
+inhalants
+inhalants
+ketamine
+khat
+kindbud~
+kind-bud~
+kind bud~
+levoalphacetylmethadol~
+levo-alphacetyl-methadol~
+levo alphacetyl methadol~
+LSD
+lysergicaciddiethylamide~
+lysergic-Acid-Diethylamide~
+lysergic Acid Diethylamide~
+MDMA
+ecstasy
+Meperidine
+Meprobamate
+mescaline
+mesculine
+Meth
+Methadone
+Methamphetamine
+Methaqualone
+Methcathinone
+Methylenedioxymethamphetamine
+Methylphenidate
+Methylthioamphetamine
+Morphine
+Mushrooms
+Narcotic
+Narcotics
+Nug
+Nugget
+Opium
+Oxycodone~
+Oxy-codone~
+Oxy codone~
+OxyContin~
+Oxy-Contin~
+Oxy Contin~
+Paraldehyde
+PCP
+Pentazocine
+Peyote
+Phencyclidine
+Phencyclidine
+psychedelic mushrooms 
+Reefer
+Salvia Divinorum
+Shrooms
+Steroids
+Stimulants
+Synesthesia
+Thebaine
+Tryptamines
+
+
+
+
+

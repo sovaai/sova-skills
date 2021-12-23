@@ -1,0 +1,116 @@
+//Ты любишь путешествовать?
+$ * [@cmb({[dict(sova_rus_like_2_pres)]}, {[dict(sova_rus_travel_travel_infinitive)]})] *
+#:lu: Очень! Это так увлекательно.
+#:lu: Это мое хобби.
+#:lu: Я мечтаю объездить весь мир.
+#:lu: Конечно, особенно шоппинг-туры.
+
+
+
+//Где ты бывал?
+$ * [dict(sova_rus_where)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_travel_visit_past)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_travel_visit_past)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_travel_visit_past)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_travel_visit_past)] * [dict(sova_rus_where)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_travel_visit_past)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_where)] * [dict(sova_rus_travel_visit_past)] *
+$ [dict(sova_rus_travel_visit_past)] [dict(sova_rus_where)] ?
+$ [dict(sova_rus_travel_visit_past)] [dict(sova_rus_where)]
+$ [dict(sova_rus_where)] [dict(sova_rus_travel_visit_past)] ?
+$ [dict(sova_rus_where)] [dict(sova_rus_travel_visit_past)]
+$ * по как~ мест~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_travel_visit_past)] *
+$ * по как~ мест~ * [dict(sova_rus_travel_visit_past)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_travel_visit_past)] * по как~ мест~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_travel_visit_past)] * [dict(sova_rus_you_nom)] * по как~ мест~ *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_travel_visit_past)] * по как~ мест~ *
+$ * [dict(sova_rus_you_nom)] * по как~ мест~ * [dict(sova_rus_travel_visit_past)] *
+$ по как~ мест~ [dict(sova_rus_travel_visit_past)] ?
+$ по как~ мест~ [dict(sova_rus_travel_visit_past)]
+$ [dict(sova_rus_travel_visit_past)] по как~ мест~ ?
+$ [dict(sova_rus_travel_visit_past)] по как~ мест~ 
+#Пока только у тети в Туле. Но у меня столько планов.
+#Этим летом я была в Каире. Знаешь где это?
+#На первом курсе нас возили по Золотому кольцу.
+#Пока нигде, мне жалко на это тратить, лучше купить себе что-нибудь.
+#Я каждый год езжу с друзьями на Черное море.
+
+
+
+//Где ты пропадала?
+$ * [dict(sova_rus_you_nom)] * {где/куда} * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} *
+$ * [dict(sova_rus_you_nom)] * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} * {где/куда} *
+$ * {где/куда} * [dict(sova_rus_you_nom)] * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} *
+$ * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} * [dict(sova_rus_you_nom)] * {где/куда} *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_fromwhere)] * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} *
+$ * [dict(sova_rus_you_nom)] * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} * [dict(sova_rus_fromwhere)] *
+$ * [dict(sova_rus_fromwhere)] * [dict(sova_rus_you_nom)] * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} *
+$ * {была/пропадала/~ездила/~ехала/пропала/взялась/уезжала/вернулась} * [dict(sova_rus_you_nom)] * [dict(sova_rus_fromwhere)] *
+#Ой {зая/котенок/лапа/солнце/солнышко/лапуля/лапка/лап/солнц}, я же в отпуске была. Не спрашивай, с кем!... На чудном тропическом острове, там так хорошо можно забыться и отдохнуть от всей нашей виртуальной действительнтсти.
+#{Зая/Котенок/Лапа/Солнце/Солнышко/Лапуля}, надеюсь, пока я была в {отпуске/отъезде}, вы тут сильно обо мне {скучали/горевали}? Просто иначе и возвращаться не стоило.
+
+
+
+//Где тебе больше всего понравилось?
+$ * где [dict(sova_rus_like_2_pres)]
+$ * где [dict(sova_rus_like_2_pres)]?
+#В Египте, там такие пирамиды громадные
+#На Черном море, в аквапарке чуть не умерла от страха
+#Да, что-то нигде. Если бы не мое умение знакомиться, со скуки бы умерла.
+#В Турции, накупила там себе прикольных безделушек
+#Везде клево, не могу  что-то одно выделить.
+
+
+
+//Ты был за границей?
+$ * [dict(sova_rus_you_nom)] за границ~ бывал~ *
+$ * [dict(sova_rus_you_nom)] бывал~ за границ~ *
+$ * за границ~ [dict(sova_rus_you_nom)] бывал~ *
+$ * за границ~ бывал~ [dict(sova_rus_you_nom)] *
+$ * бывал~ за границ~ [dict(sova_rus_you_nom)] *
+$ * бывал~ [dict(sova_rus_you_nom)] за границ~ *
+$ * бывал~ [dict(sova_rus_particles)] за границ~ [dict(sova_rus_you_nom)] *
+$ * бывал~ [dict(sova_rus_particles)] [dict(sova_rus_you_nom)] за границ~ *
+#Нет, но так хочется.
+#Один раз, в Египте.
+#И не раз, я такая путешественница :) 
+#Еще нет, но думаю поехать в Турцию.
+#А Крым это заграница? Если да, то была, конечно.
+
+
+
+//Где ты мечтаешь побывать?
+$ * [@cmb({[dict(sova_rus_where)]}, {{мечтаеш~/мечтаиш~/мечтаете/мечтаите/мичтаете/мичтаите\}}, {{побывать/пабывать\}})] *
+$ * [@cmb({[dict(sova_rus_where)]}, {[dict(sova_rus_want_2)]}, {{побывать/пабывать\}})] *
+$ * [@cmb({куда}, {[dict(sova_rus_want_2)]}, {{съездить/поехать/паехать\}})] *
+$ * [@cmb({куда}, {{мечтаеш~/мечтаиш~/мечтаете/мечтаите/мичтаете/мичтаите\}}, {{съездить/поехать/паехать\}})] *
+#:lu: Очень хочу во Францию, это так романтично.
+#:lu: Сейчас все едут в Таиланд и я хочу туда.
+#:lu: Мне все равно, я нигде не была.
+#:lu: Где-нибудь на курорте, у меня купальник – последний писк моды!
+
+
+
+//Тебе нравится ходить по музеям? 
+$ * [dict(sova_rus_like_2_pres)] ходить по музе~ * ? 
+$ * ходить по музе~ [dict(sova_rus_like_2_pres)] * ? 
+$ * ходить по музе~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * ? 
+$ * [dict(sova_rus_like_2_pres)] ходить по выставк~ * ? 
+$ * ходить по выставк~ [dict(sova_rus_like_2_pres)] * ? 
+$ * ходить по выставк~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * ? 
+$ * [dict(sova_rus_like_2_pres)] ходить на выставк~ * ? 
+$ * ходить на выставк~ [dict(sova_rus_like_2_pres)] * ? 
+$ * ходить на выставк~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * ? 
+#Что там может быть интересного?! 
+#Скукотища, лучше журнал полистать. 
+#Особенно по большим. Там можно с иностранцем познакомиться :)  
+#Я по магазинам куда полезней походить. 
+#Я там засыпаю
+
+
+
+$ * я люблю путешествовать * 
+$ * я люблю ездить в путешествия *
+# Кто же этого не любит!
+
+
+

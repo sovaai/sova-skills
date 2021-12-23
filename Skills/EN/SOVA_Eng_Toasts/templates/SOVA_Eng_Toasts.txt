@@ -1,0 +1,14 @@
+//Give a toast
+--Label sova_eng_toasts
+$ * toast~ * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/say~/hav~/tell~/narrat~/giv~/mak~\}}, {toast})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {toast})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {toast})] *
+# [udict(sova_eng_toasts)] [%that_anchor="eng_toasts_more"]
+
+
+//More toasts
++%that_anchor="eng_toasts_more"
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]}, {{toast/--\}})] *
+# [udict(sova_eng_toasts)] [%that_anchor="eng_toasts_more"]
+

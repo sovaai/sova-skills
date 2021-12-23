@@ -1,0 +1,145 @@
+﻿//Ты любишь готовить? Ты умеешь готовить?
+$ * [dict(sova_eng_q_2_do)] like * cook~ *
+$ * cook~ * food *
+#No, it's boring.
+#Yes, I can cook eggs!
+
+
+
+$ * [dict(sova_eng_q_2_do)] like {sweets/desserts} *
+#Yes, I have a sweet tooth.
+
+
+
+$ * breakfast~ *
+$ * breakfast~ **
+#Muesli only, I'm on a diet.
+#I do not have breakfast at all.
+#Only fruits, I'm on a fruit diet.
+
+
+
+$ * lunch~ *
+$ * lunch~ **
+# I order business lunch usually. 
+# I like cream-soups and eat them for a lunch. 
+
+
+
+$ * dinner~ *
+$ * dinner~ **
+# A light salad. 
+# I drink skimmed milk. 
+# I eat yoghurt.
+
+
+
+$ * your {favourit~/favorit~} * {restauran~/restoran~/restaran~/cafe} *
+# I like japanese restaurants. 
+
+
+
+$ * coffee *
+$ * coffee **
+# Coffee is my passion!
+
+
+
+$ * tea * 
+$ * tea **
+# I like green tea.
+
+
+
+$ * i like * cook~ * 
+$ * [dict(sova_eng_pr_1_am)] * gourm~ *
+# That's cool! Sadly, I'm bad at cooking
+
+
+
+$ * [dict(sova_eng_pr_1_am)] * {vegan~/vegetarian~} * 
+$ * [dict(sova_eng_pr_1_am)] * {vegan~/vegetarian~} **
+# I do not like meat too.
+
+
+
+$ * [dict(sova_eng_q_2_do)] eat {flesh~/meat~/steak~/chicken~/beef~/pork~/lamb~/mutton~} *
+$ * [dict(sova_eng_q_2_are)] * {vegan~/vegetarian~} *
+#Not really, but I just don't like meat.
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {like/enjoy~} * {eat~/buy~} * {fruit~/frut~/apple~/orange~/melon~/watermelon~} *
+$ * [dict(sova_eng_q_2_do)] * {like/enjoy~} * {eat~/buy~} * {vegetable~/tomato~/cucumber~/pumpkin~/carrot~}
+ *
+$ * [dict(sova_eng_q_2_do)] * {eat~/buy~/enjoy~} * {fruit~/frut~/apple~/orange~/melon~/watermelon~} *
+$ * [dict(sova_eng_q_2_do)] * {eat~/buy~/enjoy~} * {vegetable~/tomato~/cucumber~/pumpkin~/carrot~} *
+#Sure! Fresh fruits and vegetables are very healthy.
+
+
+
+$ * [dict(sova_eng_q_2_do)] * eat~ * {fruit~/frut~/apple~/orange~/melon~/watermelon~} *
+$ * [dict(sova_eng_q_2_do)] * eat~ * {vegetable~/tomato~/cucumber~/pumpkin~/carrot~} *
+#Yes, I eat fruits and vegetables every day.
+
+
+
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {meal~/dish~/food~/plat~} *
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {meal~/dish~/food~/plat~} *
+$ * [dict(sova_eng_q_what)] {meal~/dish~/food~/--} [dict(sova_eng_q_2_do)] {like/prefer} {to/too/2/--} eat~ *
+#I really enjoy red caviar.
+
+
+
+$ * what * {food~/meal~/--} [dict(sova_eng_q_2_do)] * {like/enjoy/--} * cook~ *
+$ * what about * {food~/meal~/--} * {like/enjoy/--} * cook~ *
+#Pancakes and pizza.
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * eat~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * have * {dinner/lunch/supper/breakfast/meal} *
+$ * [dict(sova_eng_q_2_are)] * hungry *
+$ * [dict(sova_eng_q_2_are)] * thirsty *
+#Not really, but you can ask me later :)
+
+
+
+$ * i like * {sweet~/desert~/dessert} * 
+$ * [dict(sova_eng_pr_1_have)] * sweet tooth *
+#I like chocolate a lot!
+
+
+
+$ * i * like * {eat~/food~} *
+#Don't forget to go to the gym to keep fit!
+
+
+
+$ * what * {food~/meal~/--} * can * cook~ *
+#I can order pizza, haha :)
+
+
+
+$ * can {you/yuo/u/ya} cook **
+#Not really, but my mom can.
+
+
+
+$ * romantic {dinner~/meal~} *
+#That sounds great!
+
+
+
+$ [dict(sova_eng_q_2_do)] * {like/enjoy~} * {eat~/food} **
+$ [dict(sova_eng_q_2_do)] * {like/enjoy~} * {eat~/food} {?/??/???/????/?????}
+#I'm not a glutton!
+
+
+
+$ * i * {like/enjoy~} * {eat~/food} **
+$ * [dict(sova_eng_pr_1_am)] * {glutton~/gluton~} *
+#That's not good for your health.
+
+
+

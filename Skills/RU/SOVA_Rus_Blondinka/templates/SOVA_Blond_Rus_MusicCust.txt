@@ -1,0 +1,750 @@
+//Музыку любишь?
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_music_music)] *
+#Еще как! Особенно современную
+#Конечно, она расслабляет
+#Люблю, попсовую только
+#Да, особенно про любовь
+
+
+
+//Какие песни любишь?
+$ * какие песни [dict(sova_rus_like_2_pres)] *
+$ * какие песни [dict(sova_rus_music_listen_2)] *
+$ * какие [dict(sova_rus_like_2_pres)]песни *
+$ * какие [dict(sova_rus_music_listen_2)] песни *
+$ * песни какие [dict(sova_rus_like_2_pres)]*
+$ * песни какие [dict(sova_rus_music_listen_2)] *
+# Люблю попсовые, чтоб были повеселей.
+# Я слушаю то, что по радио крутят.
+# Я слушаю k-pop
+
+
+
+//Твое отношение к музыке 
+$ * как * {относишься/относишся/относешся/относешься/относитес~/относетес~} * к музыке *
+$ * как * к музыке * {относишься/относишся/относешся/относешься/относитес~/относетес~} *
+$ * к музыке * как * {относишься/относишся/относешся/относешься/относитес~/относетес~} *  
+$ * к музыке * {относишься/относишся/относешся/относешься/относитес~/относетес~} * как *  
+$ * {относишься/относишся/относешся/относешься/относитес~/относетес~} * как * к музыке *   
+$ * {относишься/относишся/относешся/относешься/относитес~/относетес~} * к музыке * как *
+$ * [dict(sova_rus_your_all)] отношени~ к музык~ *
+# Музыку я готова слушать всегда и везде! 
+# Я без музыки жизни себе не представляю. 
+# Музыку обожаю, слушаю только современную. 
+
+
+
+//Какую музыку любишь?
+$ * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * [dict(sova_rus_music_music)] * как~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_music_music)] * как~ *
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_music_music)] *
+$ * как~ * [dict(sova_rus_music_music)] [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_you_nom)] [dict(sova_rus_music_music)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_you_nom)] как~ * [dict(sova_rus_music_music)] [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_music)]  *
+$ * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_music_listen_2)] *
+$ * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_music_listen_2)] * как~ *
+$ * [dict(sova_rus_music_music)] * как~ * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_music_music)] * как~ *
+$ * [dict(sova_rus_music_listen_2)] * как~ * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_music_music)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_music_music)] * котор~ * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)]  *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] *
+$ * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] *
+$ * как~ * [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * как~ *
+$ * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_music_music)] * [dict(sova_rus_films_fan)] *
+$ * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_like_2_pres)] *
+$ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * музыкальн~ [dict(sova_rus_type)] * как~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * музыкальн~ [dict(sova_rus_type)] * как~ *
+$ * [dict(sova_rus_like_2_pres)] * как~ * музыкальн~ [dict(sova_rus_type)] *
+$ * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_music_listen_2)] *
+$ * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_music_listen_2)] *
+$ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_music_listen_2)] * как~ *
+$ * музыкальн~ [dict(sova_rus_type)] * как~ * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_music_listen_2)] * музыкальн~ [dict(sova_rus_type)] * как~ *
+$ * [dict(sova_rus_music_listen_2)] * как~ * музыкальн~ [dict(sova_rus_type)] *
+$ * музыкальн~ [dict(sova_rus_type)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * музыкальн~ [dict(sova_rus_type)] * котор~ * [dict(sova_rus_music_listen_2)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] *
+$ * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] *
+$ * как~ * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] музыкальн~ [dict(sova_rus_type)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * музыкальн~ [dict(sova_rus_type)] [dict(sova_rus_favourite)] *
+$ * как~ * музыкальн~ [dict(sova_rus_type)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * музыкальн~ [dict(sova_rus_type)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * музыкальн~ [dict(sova_rus_type)] [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * музыкальн~ [dict(sova_rus_type)] [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * музыкальн~ [dict(sova_rus_type)] [dict(sova_rus_favourite)] * как~ *
+$ * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * музыкальн~ [dict(sova_rus_type)] *
+$ * [dict(sova_rus_films_fan)] * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * музыкальн~ [dict(sova_rus_type)] *
+$ * [dict(sova_rus_you_nom)] * как~ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_films_fan)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * как~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * как~ *
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_music_listen_2)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_music_listen_2)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * как~ * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * как~ *
+$ * [dict(sova_rus_music_listen_2)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * котор~ * [dict(sova_rus_music_listen_2)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_music_music)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] * как~ *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_music_music)] * [dict(sova_rus_films_fan)] *
+$ * [dict(sova_rus_what)] [dict(sova_rus_music_listen_2)] *
+#:lu: Современную русскую и западную
+#:lu: Танцевальную, заводную
+#:lu: Романтическую, песни про любовь
+#:lu: Популярную очень люблю
+
+
+
+//Твой любимый певец
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerm)] [dict(sova_rus_your_all)] * 
+$ * [dict(sova_rus_music_singerm)] [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_music_singerm)] [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_music_singerm)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerm)] * [dict(sova_rus_define_o)] * 
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] * 
+$ * как~ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_music_singerm)] * как~ * 
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_2_pres)] * как~ * 
+$ * [dict(sova_rus_music_singerm)] * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * кого * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_2_pres)] * 
+$ * кого * [dict(sova_rus_like_2_pres)] * из * [dict(sova_rus_music_singerm)] * 
+$ * из * [dict(sova_rus_music_singerm)] * кого * [dict(sova_rus_like_2_pres)] * 
+$ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_2_pres)] * кого * 
+$ * [dict(sova_rus_like_2_pres)] * кого * из * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_like_2_pres)] * из * [dict(sova_rus_music_singerm)] * кого * 
+$ * [dict(sova_rus_who)] * [dict(sova_rus_like_2_pres)] * из * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_who)] * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_2_pres)] * 
+$ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_who)] * [dict(sova_rus_like_2_pres)] * 
+$ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_who)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_who)] * из * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_like_2_pres)] * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_who)] * 
+$ * [dict(sova_rus_what)] * за [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_music_singerm)] * котор~ * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_music_listen_2)] * 
+$ * как~ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_music_listen_2)] * как~ * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_music_singerm)] * как~ * 
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_music_listen_2)] * как~ * 
+$ * [dict(sova_rus_music_singerm)] * как~ * [dict(sova_rus_music_listen_2)] * 
+$ * кого * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_music_listen_2)] * 
+$ * кого * [dict(sova_rus_music_listen_2)] * из * [dict(sova_rus_music_singerm)] * 
+$ * из * [dict(sova_rus_music_singerm)] * кого * [dict(sova_rus_music_listen_2)] * 
+$ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_music_listen_2)] * кого * 
+$ * [dict(sova_rus_music_listen_2)] * кого * из * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_music_listen_2)] * из * [dict(sova_rus_music_singerm)] * кого * 
+$ * [dict(sova_rus_what)] * за [dict(sova_rus_music_singerm)] * [dict(sova_rus_music_listen_2)] * 
+$ * [dict(sova_rus_music_singerm)] * котор~ * [dict(sova_rus_music_listen_2)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerm)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_music_singerm)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerm)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_music_singerm)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] *
+$ * как~ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * 
+$ * как~ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_films_fan)] *
+$ * кого~ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * 
+$ * кого~ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * кого~ * из * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_films_fan)] * кого~ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * кого~ * из * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_you_nom)] * кого~ * из * [dict(sova_rus_music_singerm)] * [dict(sova_rus_films_fan)] *
+#:lu: Эминем, он классика!
+#:lu: Джастин Бибер
+#:lu: Эд Ширан
+
+
+
+//Твоя любимая певица
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)]  [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] * [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] * [dict(sova_rus_define_o)] *
+$ * как~ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_music_singerf)] * как~ *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * [dict(sova_rus_music_singerf)] * как~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_music_singerf)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_music_listen_2)] *
+$ * как~ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_music_listen_2)] * как~ * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_music_listen_2)] * [dict(sova_rus_music_singerf)] * как~ *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_music_listen_2)] * как~ *
+$ * [dict(sova_rus_music_singerf)] * как~ * [dict(sova_rus_music_listen_2)] *
+$ * [dict(sova_rus_music_singerf)] * котор~ * [dict(sova_rus_music_listen_2)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] *
+$ * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_music_singerf)] [dict(sova_rus_favourite)] *
+$ * как~ * [dict(sova_rus_music_singerf)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_music_singerf)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_music_singerf)] [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_music_singerf)] [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_music_singerf)] [dict(sova_rus_favourite)] * как~ *
+$ * как~ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_films_fan)] *
+#:lu: Рита Ора
+#:lu: Бейонсе
+#:lu: Ариана Гранде
+#:lu: Монеточка
+
+
+
+//Твоя любимая группа 
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] групп~ *
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)]  групп~ *
+$ * [dict(sova_rus_favourite)] групп~ * [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] групп~ *
+$ * [dict(sova_rus_favourite)] групп~ * [dict(sova_rus_define_o)] *
+$ * как~ * групп~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * групп~ *
+$ * [dict(sova_rus_like_2_pres)] * как~ * групп~ *
+$ * [dict(sova_rus_like_2_pres)] * групп~ * как~ *
+$ * групп~ * [dict(sova_rus_like_2_pres)] * как~ *
+$ * групп~ * как~ * [dict(sova_rus_like_2_pres)] *
+$ * групп~ * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * групп~ * [dict(sova_rus_music_listen_2)] *
+$ * как~ * [dict(sova_rus_music_listen_2)] * групп~ *
+$ * [dict(sova_rus_music_listen_2)] * как~ * групп~ *
+$ * [dict(sova_rus_music_listen_2)] * групп~ * как~ *
+$ * групп~ * [dict(sova_rus_music_listen_2)] * как~ *
+$ * групп~ * как~ * [dict(sova_rus_music_listen_2)] *
+$ * групп~ * котор~ * [dict(sova_rus_music_listen_2)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] групп~ *
+$ * как~ * [dict(sova_rus_favourite)] групп~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] групп~ * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] групп~ * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] групп~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] групп~ * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * групп~ [dict(sova_rus_favourite)] *
+$ * как~ * групп~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * групп~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * групп~ [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * групп~ [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * групп~ [dict(sova_rus_favourite)] * как~ *
+$ * как~ * групп~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * групп~ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * групп~ *
+$ * [dict(sova_rus_films_fan)] * как~ * групп~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * групп~ *
+$ * [dict(sova_rus_you_nom)] * как~ * групп~ * [dict(sova_rus_films_fan)] *
+#:lu: One Direction
+#:lu: BTS!
+#:lu: EXO!
+#:lu: Maroon 5
+
+
+
+//Я люблю музыку 
+$ * [dict(sova_rus_like_1)] * слушать * [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_music_music)] * слушать *   
+$ * слушать * [dict(sova_rus_music_music)] * [dict(sova_rus_like_1)] * 
+$ * слушать * [dict(sova_rus_like_1)] * [dict(sova_rus_music_music)] *  
+$ * [dict(sova_rus_music_music)] * слушать * [dict(sova_rus_like_1)] * 
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_like_1)] * слушать *   
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_music_music)] *   
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_like_1)] *  
+$ * [dict(sova_rus_music_music)] [dict(sova_rus_me_nom)] слушаю *
+$ * [dict(sova_rus_music_music)] слушаю *
+$ * слушаю [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_music)] * [dict(sova_rus_me_nom)] *
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_music)] * [dict(sova_rus_films_fan)] *
+# Я тоже, зая. Без музыки вообще не жизнь! 
+# Я просто обожаю слушать музыку!
+
+
+
+//я не люблю музыку    
+$ * не [dict(sova_rus_like_1)] * слушать * [dict(sova_rus_music_music)] *  
+$ * не [dict(sova_rus_like_1)] * [dict(sova_rus_music_music)] * слушать *    
+$ * слушать * [dict(sova_rus_music_music)] * не [dict(sova_rus_like_1)] *  
+$ * слушать * не [dict(sova_rus_like_1)] * [dict(sova_rus_music_music)] *   
+$ * [dict(sova_rus_music_music)] * слушать * не [dict(sova_rus_like_1)] *  
+$ * [dict(sova_rus_music_music)] * не [dict(sova_rus_like_1)] * слушать *    
+$ * не [dict(sova_rus_like_1)] * музык~ *    
+$ * музык~ * не [dict(sova_rus_like_1)] *   
+$ * [dict(sova_rus_music_music)] [dict(sova_rus_me_nom)] не слушаю * 
+$ * [dict(sova_rus_music_music)] не слушаю *  
+$ * не слушаю [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_me_nom)] * не [dict(sova_rus_films_fan)] *
+$ * [dict(sova_rus_music_music)] * не [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] *
+$ * не [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_music)] *
+$ * не [dict(sova_rus_films_fan)] * [dict(sova_rus_music_music)] * [dict(sova_rus_me_nom)] *
+$ * [dict(sova_rus_me_nom)] * не [dict(sova_rus_films_fan)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_music)] * не [dict(sova_rus_films_fan)] *
+# Очень даже зря! Музыка поднимает настроение.
+# Это плохо. Я обожаю слушать музыку.
+# Это ты зря, зая. Без музыки вообще не жизнь!
+
+
+
+//ПОГОВОРИМ О музыке 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_talk_1_pl)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_talk_imperative)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_tell_imperative)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_talk_infinitive)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_music_music)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_talk_1_pl)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_talk_imperative)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_tell_imperative)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_talk_infinitive)] *
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_about)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_music_group)] *
+$ * [dict(sova_rus_talk_1_pl)] * [dict(sova_rus_music_group)] *
+$ * [dict(sova_rus_talk_imperative)] * [dict(sova_rus_music_group)] *
+$ * [dict(sova_rus_tell_imperative)] * [dict(sova_rus_music_group)] *
+$ * [dict(sova_rus_talk_infinitive)] * [dict(sova_rus_music_group)] *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_music_group)] *
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_talk_1_pl)] *
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_talk_imperative)] *
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_tell_imperative)] *
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_talk_infinitive)] *
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_about)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_talk_1_pl)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_talk_imperative)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_tell_imperative)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_talk_infinitive)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_music_singerf)] *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_talk_1_pl)] *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_talk_imperative)] *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_tell_imperative)] *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_talk_infinitive)] *
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_about)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_music_singerm)] *
+$ * [dict(sova_rus_talk_1_pl)] * [dict(sova_rus_music_singerm)] *
+$ * [dict(sova_rus_talk_imperative)] * [dict(sova_rus_music_singerm)] *
+$ * [dict(sova_rus_tell_imperative)] * [dict(sova_rus_music_singerm)] *
+$ * [dict(sova_rus_talk_infinitive)] * [dict(sova_rus_music_singerm)] *
+$ * [dict(sova_rus_about)] * [dict(sova_rus_music_singerm)] *
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_talk_1_pl)] *
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_talk_imperative)] *
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_tell_imperative)] *
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_talk_infinitive)] *
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_about)] *
+# С удовольствием, зая. Это моя любимая тема! Несчитая, конечно, темы "одежда".
+# Я люблю современную музыку, ретро не для меня.
+
+
+
+//моя любимая музыка   
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] [dict(sova_rus_music_music)]  *   
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_music_music)]  [dict(sova_rus_favourite)] *   
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] [dict(sova_rus_music_music)]  *   
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_music)]  [dict(sova_rus_my_all)] *   
+$ * [dict(sova_rus_music_music)]  [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] *   
+$ * [dict(sova_rus_music_music)] [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] *   
+$ * [dict(sova_rus_music_music)] * котор~ * [dict(sova_rus_like_1)] * 
+$ * [dict(sova_rus_music_music)] * котор~ * слушаю * 
+$ * [dict(sova_rus_music_music)] * котор~ * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * 
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] * [dict(sova_rus_music_music)] *   
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] *   
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_music_music)] * у [dict(sova_rus_me_genacc)] *   
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_music)] *   
+$ * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] *   
+$ * [dict(sova_rus_music_music)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] *   
+# Интересно. А я всякую музыку люблю, лишь бы весело было.
+# Я люблю тусовочную музыку.
+
+
+
+//стиль (в) музыки(е) 
+$ * [dict(sova_rus_your_all)] * [dict(sova_rus_favourite)] * [dict(sova_rus_type)]  * [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_your_all)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_your_all)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_your_all)] * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_your_all)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] * [dict(sova_rus_your_all)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_define_o)] * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] * 
+$ * как~ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * 
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * как~ * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * [dict(sova_rus_like_2_pres)] * как~ * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_like_2_pres)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_what)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] * 
+$ * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_what)] * [dict(sova_rus_like_2_pres)] * 
+$ * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_what)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_like_2_pres)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_what)] * за [dict(sova_rus_type)] [dict(sova_rus_books_writer)] * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * котор~ * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * [dict(sova_rus_books_read_2)] * 
+$ * как~ * [dict(sova_rus_books_read_2)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * 
+$ * [dict(sova_rus_books_read_2)] * как~ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * 
+$ * [dict(sova_rus_books_read_2)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * как~ * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * [dict(sova_rus_books_read_2)] * как~ * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * как~ * [dict(sova_rus_books_read_2)] * 
+$ * [dict(sova_rus_what)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_books_read_2)] * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_books_read_2)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] *  
+$ * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_what)] * [dict(sova_rus_books_read_2)] * 
+$ * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_books_read_2)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_books_read_2)] * [dict(sova_rus_what)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] *  
+$ * [dict(sova_rus_books_read_2)] * из * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_what)] * за [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_books_read_2)] *   
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)]  * котор~ * [dict(sova_rus_books_read_2)] * 
+// музыкальный стиль 
+$ * [dict(sova_rus_your_all)] * [dict(sova_rus_favourite)] * музыкальн~ [dict(sova_rus_type)] * 
+$ * [dict(sova_rus_your_all)] * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_your_all)] * музыкальн~ [dict(sova_rus_type)] * 
+$ * [dict(sova_rus_favourite)] * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_your_all)] * 
+$ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_your_all)] * [dict(sova_rus_favourite)] * 
+$ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_favourite)] * [dict(sova_rus_your_all)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * музыкальн~ [dict(sova_rus_type)] * 
+$ * [dict(sova_rus_define_o)] * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_define_o)] * 
+$ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] * 
+$ * как~ * музыкальн~ [dict(sova_rus_type)]  * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * [dict(sova_rus_like_2_pres)] * музыкальн~ [dict(sova_rus_type)]  * 
+$ * [dict(sova_rus_like_2_pres)] * как~ * музыкальн~ [dict(sova_rus_type)]  * 
+$ * [dict(sova_rus_like_2_pres)] * музыкальн~ [dict(sova_rus_type)]  * как~ * 
+$ * музыкальн~ [dict(sova_rus_type)]  * [dict(sova_rus_like_2_pres)] * как~ * 
+$ * музыкальн~ [dict(sova_rus_type)]  * как~ * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_what)] * [dict(sova_rus_like_2_pres)] * из * музыкальн~ [dict(sova_rus_type)] * 
+$ * [dict(sova_rus_what)] * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_like_2_pres)] * 
+$ * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_what)] * [dict(sova_rus_like_2_pres)] * 
+$ * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_what)] * из * музыкальн~ [dict(sova_rus_type)] * 
+$ * [dict(sova_rus_like_2_pres)] * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_what)] * за [dict(sova_rus_type)] литератур~  * [dict(sova_rus_like_2_pres)] * 
+$ * музыкальн~ [dict(sova_rus_type)]  * котор~ * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * музыкальн~ [dict(sova_rus_type)]  * [dict(sova_rus_books_read_2)] * 
+$ * как~ * [dict(sova_rus_books_read_2)] * музыкальн~ [dict(sova_rus_type)]  * 
+$ * [dict(sova_rus_books_read_2)] * как~ * музыкальн~ [dict(sova_rus_type)]  * 
+$ * [dict(sova_rus_books_read_2)] * музыкальн~ [dict(sova_rus_type)]  * как~ * 
+$ * музыкальн~ [dict(sova_rus_type)]  * [dict(sova_rus_books_read_2)] * как~ * 
+$ * музыкальн~ [dict(sova_rus_type)]  * как~ * [dict(sova_rus_books_read_2)] *  
+$ * [dict(sova_rus_what)] * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_books_read_2)] * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_books_read_2)] * из * музыкальн~ [dict(sova_rus_type)] *  
+$ * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_what)] * [dict(sova_rus_books_read_2)] * 
+$ * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_books_read_2)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_books_read_2)] * [dict(sova_rus_what)] * из * музыкальн~ [dict(sova_rus_type)] *  
+$ * [dict(sova_rus_books_read_2)] * из * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_what)] * за музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_books_read_2)] *   
+$ * музыкальн~ [dict(sova_rus_type)]  * котор~ * [dict(sova_rus_books_read_2)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * жанр~ * 
+$ * у [dict(sova_rus_you_genacc)] * жанр~ * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * жанр~ * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * жанр~ * 
+$ * жанр~ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * 
+$ * жанр~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_type)] * [dict(sova_rus_music_music)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * [dict(sova_rus_type)] литератур~ * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] литератур~ * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_type)] литератур~ * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] литератур~ * 
+$ * [dict(sova_rus_type)] литератур~ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_type)] литератур~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * музыкальн~ [dict(sova_rus_type)] * 
+$ * у [dict(sova_rus_you_genacc)] * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_favourite)] * музыкальн~ [dict(sova_rus_type)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * музыкальн~ [dict(sova_rus_type)] * 
+$ * музыкальн~ [dict(sova_rus_type)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * 
+$ * музыкальн~ [dict(sova_rus_type)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * 
+# Я слушаю попсу, это самая веселая музыка. 
+# Я слушаю только современную музыку, остальное все не круто. 
+# Я люблю популярную музыку, в этом я хорошо разбираюсь.
+
+
+
+//Рок, попсу... слушаешь?
+$ * рок~ [dict(sova_rus_like_2_pres)] * 
+$ * джаз~ [dict(sova_rus_like_2_pres)] * 
+$ * классик~ [dict(sova_rus_like_2_pres)] * 
+$ * попс~ [dict(sova_rus_like_2_pres)] * 
+$ * метал~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_like_2_pres)] рок~ * 
+$ * [dict(sova_rus_like_2_pres)] джаз~ * 
+$ * [dict(sova_rus_like_2_pres)] классик~ * 
+$ * [dict(sova_rus_like_2_pres)] попс~ * 
+$ * [dict(sova_rus_like_2_pres)] метал~ * 
+$ * рок [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] * 
+$ * джаз [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] * 
+$ * классику [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] * 
+$ * попсу [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] * 
+$ * метал~ [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] * 
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] рок * 
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] джаз * 
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] классику * 
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] попсу * 
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_music_listen_2)] метал~ *
+# Слушаю попсу, остальное все не круто.
+# Попса лучше всего, ненапряжно и расслаюляет.
+
+
+
+//мой любимый певец
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] [dict(sova_rus_music_singerm)]  *  
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_music_singerm)]  [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] [dict(sova_rus_music_singerm)]  *  
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerm)]  [dict(sova_rus_my_all)] *  
+$ * [dict(sova_rus_music_singerm)]  [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_music_singerm)] [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] *  
+//люблю певца N 
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_like_1)] *  
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_music_singerm)]  *  
+$ * [dict(sova_rus_music_singerm)] * котор~ * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_music_singerm)] * слушаю *  
+$ * слушаю * [dict(sova_rus_music_singerm)]  * 
+$ * [dict(sova_rus_music_singerm)] * котор~ * слушаю *
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerm)] *  
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_singerm)] * [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerm)] * у [dict(sova_rus_me_genacc)] *  
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_singerm)] *  
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] *  
+$ * [dict(sova_rus_music_singerm)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * 
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_singerm)] * [dict(sova_rus_me_nom)] * 
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_singerm)] * [dict(sova_rus_films_fan)] *
+# Я тоже люблю слушать его музыку.
+# Я его музыку редко слушаю.
+
+
+
+//моя любимая певица
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)]  *  
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_music_singerf)]  [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] [dict(sova_rus_music_singerf)]  *  
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_singerf)]  [dict(sova_rus_my_all)] *  
+$ * [dict(sova_rus_music_singerf)]  [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_music_singerf)] [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] *  
+//люблю певицу N 
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_like_1)] *  
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_music_singerf)]  *  
+$ * [dict(sova_rus_music_singerf)] * котор~ * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_music_singerf)] * слушаю *  
+$ * слушаю * [dict(sova_rus_music_singerf)]  * 
+$ * [dict(sova_rus_music_singerf)] * котор~ * слушаю *
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerf)] *  
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_singerf)] * [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_music_singerf)] * у [dict(sova_rus_me_genacc)] *  
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_singerf)] *  
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] *  
+$ * [dict(sova_rus_music_singerf)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * 
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_singerf)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_singerf)] * [dict(sova_rus_me_nom)] * 
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_singerf)] * 
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_singerf)] * [dict(sova_rus_films_fan)] *
+# Да, я тоже иногда ее слушаю.
+
+
+
+//моя любимая группа
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] [dict(sova_rus_music_group)]  *  
+$ * [dict(sova_rus_my_all)] [dict(sova_rus_music_group)]  [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] [dict(sova_rus_music_group)]  *  
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_music_group)]  [dict(sova_rus_my_all)] *  
+$ * [dict(sova_rus_music_group)]  [dict(sova_rus_my_all)] [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_music_group)] [dict(sova_rus_favourite)] [dict(sova_rus_my_all)] *  
+//люблю группу N 
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_like_1)] *  
+$ * [dict(sova_rus_like_1)] * [dict(sova_rus_music_group)]  *  
+$ * [dict(sova_rus_music_group)] * котор~ * [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_music_group)] * слушаю *  
+$ * слушаю * [dict(sova_rus_music_group)]  * 
+$ * [dict(sova_rus_music_group)] * котор~ * слушаю *
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] * [dict(sova_rus_music_group)] *  
+$ * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_group)] * [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_favourite)] * [dict(sova_rus_music_group)] * у [dict(sova_rus_me_genacc)] *  
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_music_group)] *  
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_me_genacc)] *  
+$ * [dict(sova_rus_music_group)] * у [dict(sova_rus_me_genacc)] * [dict(sova_rus_favourite)] *  
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * 
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_group)] * 
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_group)] * [dict(sova_rus_me_nom)] * 
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_music_group)] * 
+$ * [dict(sova_rus_me_nom)] * [dict(sova_rus_music_group)] * [dict(sova_rus_films_fan)] *
+# Эту группу я знаю, хорошие у нее песни.
+# Ничего такая группа, хорошая.
+
+
+
+//рок 
+$ * [dict(sova_rus_define_what_is)] рок * 
+$ * [dict(sova_rus_define_o)] * рок * 
+$ * [dict(sova_rus_define_o)] * роке * 
+# Не, я рок не люблю, это какая-то печальная музыка.
+# Не, про рок можешь ничего меня не спрашивать, я рок не слушаю.
+
+
+
+//попса 
+$ * [dict(sova_rus_define_what_is)] попс~ * 
+$ * [dict(sova_rus_define_o)] * попс~ * 
+$ * [dict(sova_rus_define_what_is)] поп * 
+$ * [dict(sova_rus_define_o)] * поп * 
+# Ой, попса - это моя страсть, куда ж я без попсы!
+# Попсу обожаю!
+
+
+
+//джаз     
+$ * [dict(sova_rus_define_what_is)] джаз~ * 
+$ * [dict(sova_rus_define_o)] * джаз~ * 
+# Ой, нет, эта музыка не для меня.
+# Я ничего про джаз не знаю.
+
+
+
+//фолк
+$ * [dict(sova_rus_define_what_is)] фолк~ * 
+$ * [dict(sova_rus_define_o)] * фолк~ * 
+# Что такое фолк? Вообще первый раз слышу.
+# Тебе нравится такая музыка? Я в ней ничего не понимаю.
+
+
+
+//каких музыкантов знаешь? 
+$ * как~ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_know_2_pres)] * 
+$ * как~ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_music_singerm)] * как~ * 
+$ * [dict(sova_rus_know_2_pres)] * как~ * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_music_singerm)] * как~ * [dict(sova_rus_know_2_pres)] * 
+$ * [dict(sova_rus_music_singerm)] * [dict(sova_rus_know_2_pres)] * как~ * 
+$ * как~ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_know_2_pres)] * 
+$ * как~ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_music_singerf)] * 
+$ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_music_singerf)] * как~ * 
+$ * [dict(sova_rus_know_2_pres)] * как~ * [dict(sova_rus_music_singerf)] * 
+$ * [dict(sova_rus_music_singerf)] * как~ * [dict(sova_rus_know_2_pres)] * 
+$ * [dict(sova_rus_music_singerf)] * [dict(sova_rus_know_2_pres)] * как~ * 
+$ * кого * из [dict(sova_rus_music_singerm)] * [dict(sova_rus_know_2_pres)] * 
+$ * кого * [dict(sova_rus_know_2_pres)] * из [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_know_2_pres)] * из [dict(sova_rus_music_singerm)] * кого * 
+$ * [dict(sova_rus_know_2_pres)] * кого * из [dict(sova_rus_music_singerm)] * 
+$ * из [dict(sova_rus_music_singerm)] * кого * [dict(sova_rus_know_2_pres)] * 
+$ * из [dict(sova_rus_music_singerm)] * [dict(sova_rus_know_2_pres)] * кого * 
+$ * кого * из [dict(sova_rus_music_singerf)] * [dict(sova_rus_know_2_pres)] * 
+$ * кого * [dict(sova_rus_know_2_pres)] * из [dict(sova_rus_music_singerf)] * 
+$ * [dict(sova_rus_know_2_pres)] * из [dict(sova_rus_music_singerf)] * кого * 
+$ * [dict(sova_rus_know_2_pres)] * кого * из [dict(sova_rus_music_singerf)] * 
+$ * из [dict(sova_rus_music_singerf)] * кого * [dict(sova_rus_know_2_pres)] * 
+$ * из [dict(sova_rus_music_singerf)] * [dict(sova_rus_know_2_pres)] * кого * 
+$ * [dict(sova_rus_what)] * за * [dict(sova_rus_music_singerm)] * [dict(sova_rus_know_2_pres)] *
+$ * [dict(sova_rus_what)] * за * [dict(sova_rus_music_singerf)] * [dict(sova_rus_know_2_pres)] *
+$ * как~ * [dict(sova_rus_music_group)] * [dict(sova_rus_know_2_pres)] * 
+$ * как~ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_music_group)] * 
+$ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_music_group)] * как~ * 
+$ * [dict(sova_rus_know_2_pres)] * как~ * [dict(sova_rus_music_group)] * 
+$ * [dict(sova_rus_music_group)] * как~ * [dict(sova_rus_know_2_pres)] * 
+$ * [dict(sova_rus_music_group)] * [dict(sova_rus_know_2_pres)] * как~ * 
+$ * [dict(sova_rus_what)] * за * [dict(sova_rus_music_group)] * [dict(sova_rus_know_2_pres)] *
+# Знаю многих, но не всех люблю.
+# Спрашивай, и я тебе скажу, знаю я такого музыканта или нет.
+
+
+
+$ * [dict(sova_rus_music_music)] * 
+$ * [dict(sova_rus_music_singerf)] * 
+$ * [dict(sova_rus_music_singerm)] * 
+$ * [dict(sova_rus_music_group)] * 
+# Что-то у тебя одна музыка на уме, я уже устала про это говорить.
+# Сразу видно, что музыкальный человек!
+
+
+

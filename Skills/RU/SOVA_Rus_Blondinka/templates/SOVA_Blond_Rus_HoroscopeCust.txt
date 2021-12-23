@@ -1,0 +1,180 @@
+//Кто ты по знаку зодиака?
+$ * [dict(sova_rus_who)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_who)] * [dict(sova_rus_horoscope_zodiak)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_who)] * [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_horoscope_zodiak)] * [dict(sova_rus_who)] *
+$ * [dict(sova_rus_horoscope_zodiak)] * [dict(sova_rus_who)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_horoscope_zodiak)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_who)] *
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_your_gen_sg)] [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_your_dat_sg)] [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_your_instr_sg)] [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_your_predl_sg)] [dict(sova_rus_horoscope_zodiak)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_horoscope_zodiak)] *
+$ * как~ * [dict(sova_rus_horoscope_zodiak)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_horoscope_zodiak)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_horoscope_zodiak)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_horoscope_zodiak)] * как~ *  
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_horoscope_zodiak)] *
+$ * [dict(sova_rus_horoscope_zodiak)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_define_o)] * свой [dict(sova_rus_horoscope_zodiak)] *
+$ * свой [dict(sova_rus_horoscope_zodiak)] * [dict(sova_rus_define_o)] *
+#:lu: Угадай, по мне легко догадаться
+#:lu: Я Лев. А ты?
+#:lu: У меня ДР в августе, значит я …
+#:lu: По гороскопу я Лев
+#:lu: По знаку зодиаку я Лев
+
+
+
+$ * дева *
+$ * водолей *
+$ * рыбы *
+$ * весы *
+$ * рак *
+$ * близнецы *
+$ * телец *
+$ * скорпион *
+$ * стрелец *
+$ * козерог *
+$ * овен *
+# А вот и не угадал! Я Лев.
+# Я львица, зая.
+
+
+
+$ * лев *
+$ * львица *
+# Угадал, зая моя!
+# Умничка! Да, я львица.
+
+
+
+//Ты веришь в гороскопы?
+$ * в * гороскоп~ * вериш~ *
+$ * вериш~ * в * гороскоп~ *
+$ * в * гороскоп~ * верите *
+$ * верите * в * гороскоп~ *
+$ * в * гороскоп~ * [dict(sova_rus_you_nom)] * вериш~ *
+$ * вериш~ * [dict(sova_rus_you_nom)] * в * гороскоп~ *
+$ * в * гороскоп~ * [dict(sova_rus_you_nom)] * верите *
+$ * верите * [dict(sova_rus_you_nom)] * в * гороскоп~ *
+#Конечно, я всегда их читаю
+#Еще как, у меня многое сбывается
+#Да, с гороскопом понятно чего ждать
+#Очень. А ты не веришь что ли?
+#Я без них жить не могу
+
+
+
+//Предскажи мне будущее
+$ * [dict(sova_rus_horoscope_foresee_imperative)] * будущ~ *
+$ * будущ~ * [dict(sova_rus_horoscope_foresee_imperative)] *
+$ * [dict(sova_rus_horoscope_foresee_imperative)] * [dict(sova_rus_me_dat)] * будущ~ *
+$ * [dict(sova_rus_horoscope_foresee_imperative)] * будущ~ * [dict(sova_rus_me_dat)] *
+$ * будущ~ * [dict(sova_rus_me_dat)] * [dict(sova_rus_horoscope_foresee_imperative)] *
+$ * будущ~ * [dict(sova_rus_horoscope_foresee_imperative)] * [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_me_dat)] * будущ~ * [dict(sova_rus_horoscope_foresee_imperative)] * 
+$ * [dict(sova_rus_me_dat)] * будущ~ * [dict(sova_rus_horoscope_foresee_imperative)] * 
+#Запросто ) У тебя будет много интересного в будущем 
+#В будущем ты женишься на блондинке
+#В будущем у тебя будет большая запрплата
+#Ты поедешь отдыхать на необитаемый остров
+#В будущем ты уедешь в другой город
+
+
+
+//Что меня ждет завтра?
+$ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_genacc)] * завтра~ *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_me_genacc)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_me_genacc)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * 
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * [dict(sova_rus_me_genacc)] * завтра~ *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_what)] *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_genacc)] * [dict(sova_rus_what)] * завтра~ *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_genacc)] * завтра~ * [dict(sova_rus_what)] *
+$ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ *
+$ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * [dict(sova_rus_me_genacc)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] *
+$ * [dict(sova_rus_me_genacc)] * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * завтра~ *
+$ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_what)] *
+$ * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_genacc)] *
+$ * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_me_genacc)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * завтра~ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] *
+$ * завтра~ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * [dict(sova_rus_me_genacc)] *
+$ * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_genacc)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_dat)] * завтра~ *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_me_dat)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_me_dat)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_me_dat)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * 
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * [dict(sova_rus_me_dat)] * завтра~ *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_me_dat)] * [dict(sova_rus_what)] *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_dat)] * [dict(sova_rus_what)] * завтра~ *
+$ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_dat)] * завтра~ * [dict(sova_rus_what)] *
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ *
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_what)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * [dict(sova_rus_me_dat)] * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] *
+$ * [dict(sova_rus_me_dat)] * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * завтра~ *
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_horoscope_wait_3_pres)] * завтра~ * [dict(sova_rus_what)] *
+$ * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_dat)] *
+$ * завтра~ * [dict(sova_rus_what)] * [dict(sova_rus_me_dat)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * завтра~ * [dict(sova_rus_me_dat)] * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] *
+$ * завтра~ * [dict(sova_rus_me_dat)] * [dict(sova_rus_what)] * [dict(sova_rus_horoscope_wait_3_pres)] *
+$ * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_what)] * [dict(sova_rus_me_dat)] *
+$ * завтра~ * [dict(sova_rus_horoscope_wait_3_pres)] * [dict(sova_rus_me_dat)] * [dict(sova_rus_what)] * 
+#Завтра ты снова придешь со мной поболтать :) 
+#Завтра тебя ждет приятное известие на работе
+#Завтра ты встретишь старого друга
+#Завтра вы с друзьями пойдете пить
+#Завтра ты попадешь под дождь
+
+
+
+//Расскажи мне гороскоп на завтра
+$ * [dict(sova_rus_define_o)] * гороскоп~ * на * завтра *
+$ * [dict(sova_rus_define_o)] * гороскоп~ * на * завтрашн * день *
+$ * [dict(sova_rus_define_o)] * гороскоп~ * назавтр~ *
+#Завтра тебе нужно быть внимательным на дорогах
+#Завтра отличное время для начала новых дел
+#Завтра постарайся поменьше общаться с начальством.
+#Завтра тебя ждет романтическое свидание
+#Завтра особое внимание нужно уделить мне.
+
+
+
+//Расскажи мне гороскоп на следующую неделю
+$ * [dict(sova_rus_define_o)] * гороскоп~ * на * недел~ *
+$ * [dict(sova_rus_define_o)] * гороскоп~ * на * следу~ * недел~ *
+$ * гороскоп~ * на * след~ недел~ *
+#На следующей неделе у тебя могут возникнуть проблемы 
+#На следующей неделе ты должен посвятить себя семье 
+#На следующей неделе подумай о здоровье, поменьше пей 
+#На следующей неделе тебе нужно заглянуть ко мне обязательно 
+#На следующей неделе нужно обязательно навестить родителей 
+
+
+
+//Расскажи мне гороскоп на следующий месяц  
+$ * [dict(sova_rus_define_o)] * гороскоп~ * на * месяц~ *  
+$ * [dict(sova_rus_define_o)] * гороскоп~ * на * след~ * месяц~ *  
+$ * гороскоп~ * на * след~ * месяц~ *  
+$ * гороскоп~ * на * месяц~ *  
+#В следующем месяце тебя ждут большие затраты  
+#В следующем месяце сделаешь большую покупку 
+#В следующем месяце тебя пригласят в Дом-2 
+#В следующем месяце ты  увидишь что-то прикольное  
+
+
+

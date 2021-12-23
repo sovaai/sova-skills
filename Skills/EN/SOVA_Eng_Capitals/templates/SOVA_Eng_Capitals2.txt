@@ -1,0 +1,1018 @@
+//Capital of Abkhazia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {sukhum~}, {{abkhaz~/--\}})] *
+# Sukhum is the capital of Abkhazia.
+
+
+//Capital of Afghanistan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kabul}, {{afghan~/--\}})] *
+# Kabul is the capital of Afghanistan.
+
+
+//Capital of Albania
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tirana}, {{alban~/--\}})] *
+# Tirana is the capital of Albania.
+
+
+//Capital of Algeria
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {algier~}, {{algeria~/--\}})] *
+# Algiers is the capital of Algeria.
+
+
+//Capital of Andorra
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {andorra la vella}, {{andorr~/--\}})] *
+# Andorra La Vella is the capital of Andorra.
+
+
+//Capital of Angola
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {luanda}, {{angol~/--\}})] *
+# Luanda is the capital of Angola.
+
+
+//Capital of Antigua and Barbuda
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {saint jones}, {{antigua~ and barbuda~/--\}})] *
+# Saint Jones is the capital of Antigua and Barbuda.
+
+
+//Capital of Argentina
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {buenos aires}, {{argentin~/--\}})] *
+# Buenos Aires is the capital of Argentina.
+
+
+//Capital of Armenia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {yerevan}, {{armenia~/--\}})] *
+# Yerevan is the capital of Armenia.
+
+
+//Capital of Australia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {canberra}, {{australia~/--\}})] *
+# Canberra is the capital of Australia.
+
+
+//Capital of Austria
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {vienna}, {{austria~/--\}})] *
+# Vienna is the capital of Austria.
+
+
+//Capital of Azerbaijan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {baku}, {{azerbaijan~/--\}})] *
+# Baku is the capital of Azerbaijan.
+
+
+//Capital of Bahamas
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {nassau}, {{baham~/--\}})] *
+# Nassau is the capital of Bahamas.
+
+
+//Capital of Bahrain
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {manama}, {{bahrain/--\}})] *
+# Manama is the capital of Bahrain.
+
+
+//Capital of Bangladesh
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {dhaka}, {{bangladesh/--\}})] *
+# Dhaka is the capital of Bangladesh.
+
+
+//Capital of Barbados
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {Bridgetown}, {{barbados/--\}})] *
+# Bridgetown is the capital of Barbados.
+
+
+//Capital of Belarus
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {minsk}, {{belarus~/--\}})] *
+# Minsk is the capital of Belarus.
+
+
+//Capital of Belgium
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {brussels}, {{belgi~/--\}})] *
+# Brussels is the capital of Belgium.
+
+
+//Capital of Belize
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {belmopan}, {{belize/--\}})] *
+# Belmopan is the capital of Belize.
+
+
+//Capital of Benin
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{porto-novo/porto novo/portonovo\}}, {{benin/--\}})] *
+# Porto-Novo is the capital of Benin.
+
+
+//Capital of Bhutan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {thimphu}, {{bhutan/--\}})] *
+# Thimphu is the capital of Bhutan.
+
+
+//Capital of Bolivia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {sucre}, {{bolivia/--\}})] *
+# Sucre is the capital of Bolivia.
+
+
+//Capital of Bosnia and Herzegovina
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {sarajevo}, {{bosnia and Herzegovina/--\}})] *
+# Sarajevo is the capital of Bosnia and Herzegovina.
+
+
+//Capital of Botswana
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {gaborone}, {{botswana/--\}})] *
+# Gaborone is the capital of Botswana.
+
+
+//Capital of Brasíl
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {brasília}, {{brasil/brasíl/--\}})] *
+# Brasília is the capital of Brasíl.
+
+
+//Capital of Brunei
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bandar seri begawan}, {{brunei/--\}})] *
+# Bandar Seri Begawan is the capital of Brunei.
+
+
+//Capital of Bulgaria
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {sofia}, {{bulgaria/--\}})] *
+# Sofia is the capital of Bulgaria.
+
+
+//Capital of Burkina Faso
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {ouagadougou}, {{burkina faso/--\}})] *
+# Ouagadougou is the capital of Burkina Faso.
+
+
+//Capital of Burundi
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bujumbura}, {{burundi/--\}})] *
+# Bujumbura is the capital of Burundi.
+
+
+//Capital of Cambodia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {phnom penh}, {{cambodia/--\}})] *
+# Phnom Penh is the capital of Cambodia.
+
+
+//Capital of Cameroon
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {yaound~}, {{cameroon/--\}})] *
+# Yaoundé is the capital of Cameroon.
+
+
+//Capital of Canada
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {ottawa}, {{canada/--\}})] *
+# Ottawa is the capital of Canada.
+
+
+//Capital of Cape Verde
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {praia}, {{cape verde/--\}})] *
+# Praia is the capital of Cape Verde.
+
+
+//Capital of Central African Republic
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bangui}, {{central african republic/car/--\}})] *
+# Bangui is the capital of Central African Republic.
+
+
+//Capital of Chad
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{djamena/n'djamena/ndjamena\}}, {{chad/--\}})] *
+# N'Djamena is the capital of Chad.
+
+
+//Capital of Chile
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {santiago}, {{chil~/--\}})] *
+# Santiago is the capital of Chile.
+
+
+//Capital of China
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {beijing}, {{china/chinese/peopl~ republic~ of china/prc/--\}})] *
+# Beijing is the capital of China.
+
+
+//Capital of Colombia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bogot~}, {{colombia~/--\}})] *
+# Bogotá is the capital of Colombia.
+
+
+//Capital of Comoros
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {moroni}, {{comor~/--\}})] *
+# Moroni is the capital of Comoros.
+
+
+//Capital of Costa Rica
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {san jos~},{{costa rica~/costarica~/--\}})] *
+# San José is the capital of Costa Rica.
+
+
+//Capital of Croatia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {zagreb}, {{croatia~/--\}})] *
+# Zagreb is the capital of Croatia.
+
+
+//Capital of Cuba
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {havana}, {{cuba~/--\}})] *
+# Havana is the capital of Cuba.
+
+
+//Capital of Cyprus
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {nicosia}, {{cypr~/--\}})] *
+# Nicosia is the capital of Cyprus.
+
+
+//Capital of Czech Republic
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {prague}, {{czech/chechi/--\}})] *
+# Prague is the capital of Czech republic.
+
+
+//Capital of D.R. Congo
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kinshasa}, {{dr/d. r./d.r./d r/d.r~/democratic/--\}}, {{republic/--\}}, {{congo~/--\}})] *
+# Kinshasa is the capital of D.R. Congo.
+
+
+//Capital of Denmark
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {copenhagen}, {{denmark/danish/--\}})] *
+# Copenhagen is the capital of Denmark.
+
+
+//Capital of Dominica
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {Roseau}, {{dominica/--\}})] *
+# Roseau is the capital of Dominica.
+
+
+//Capital of Dominican Republic
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {santo domingo}, {{dominican~/--\}})] *
+# Santo Domingo is the capital of Dominican Republic.
+
+
+//Capital of East Timor
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {dili}, {{timor~/--\}})] *
+# Dili is the capital of East Timor.
+
+
+//Capital of Ecuador
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {quito}, {{ecuador~/--\}})] *
+# Quito is the capital of Ecuador.
+
+
+//Capital of Egypt
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {cairo}, {{egypt~/--\}})] *
+# Cairo is the capital of Egypt.
+
+
+//Capital of El Salvador
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {san salvador}, {{salvador~/--\}})] *
+# San Salvador is the capital of El Salvador.
+
+
+//Capital of Equatorial Guinea
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {malabo}, {{equator~ guinea/--\}})] *
+# Malabo is the capital of Equatorial Guinea.
+
+
+//Capital of Eritrea
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {asmara}, {{eritrea~/--\}})] *
+# Asmara is the capital of Eritrea.
+
+
+//Capital of Estonia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tallin~}, {{estonia~/--\}})] *
+# Tallinn is the capital of Estonia.
+
+
+//Capital of Ethiopia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {addis ababa}, {{ethiopia~/--\}})] *
+# Addis Ababa is the capital of Ethiopia.
+
+
+//Capital of Fiji
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {suva}, {{fiji~/--\}})] *
+# Suva is the capital of Fiji.
+
+
+//Capital of Finland
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {helsinki}, {{finland~/finn~/--\}})] *
+# Helsinki is the capital of Finland.
+
+
+//Capital of France
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {paris}, {{fran~/--\}})] *
+# Paris is the capital of France.
+
+
+//Capital of Gabon
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {libreville}, {{gabon~/--\}})] *
+# Libreville is the capital of Gabon.
+
+
+//Capital of Gambia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {banjul}, {{gambia~/--\}})] *
+# Banjul is the capital of Gambia.
+
+
+//Capital of Georgia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tbilisi}, {{georgia~/--\}})] *
+# Tbilisi is the capital of Georgia.
+
+
+//Capital of Germany
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {berlin}, {{german~/--\}})] *
+# Berlin is the capital of Germany.
+
+
+//Capital of Ghana
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {accra}, {{ghan~/--\}})] *
+# Accra is the capital of Ghana.
+
+
+//Capital of Greece
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {athens}, {{greece~/greek/--\}})] *
+# Athens is the capital of Greece.
+
+
+//Capital of Grenada
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{st~ george~/saint georg~\}}, {{grenada/grenade/--\}})] *
+# St. George's is the capital of Grenada.
+
+
+//Capital of Guatemala
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {guatemal~ city}, {{guatemal~/--\}})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {guatemal~ {city/--\}}, {{guatemal~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {guatemal~ {city/--\}}, {{what/which/--\} {countr~/state/land\}}, {{guatemal~/--\}})] *
+# Guatemala City is the capital of Guatemala.
+
+
+//Capital of Guinea
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {conakry}, {{guinea~/--\}})] *
+# Conakry is the capital of Guinea.
+
+
+//Capital of Guinea-Bissau
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bissau}, {{guinea bissau/--\}})] *
+# Bissau is the capital of Guinea-Bissau.
+
+
+//Capital of Guyana
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {georgetown}, {{guyana~/--\}})] *
+# Georgetown is the capital of Guyana.
+
+
+//Capital of Haiti
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{port-au-prince/port au prince/portauprince\}}, {{haiti~/--\}})] *
+# Port-au-prince is the capital of Haiti.
+
+
+//Capital of Honduras
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tegucigalpa} {{honduras~/--\}})] *
+# Tegucigalpa is the capital of Honduras.
+
+
+//Capital of Hungary
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {budapest}, {{hungar~/--\}})] *
+# Budapest is the capital of Hungary.
+
+
+//Capital of Iceland
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {reykjavík}, {{iceland~/--\}})] *
+# Reykjavík is the capital of Iceland.
+
+
+//Capital of India
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {new delhi}, {{india~/--\}})] *
+# New Delhi is the capital of India.
+
+
+//Capital of Indonesia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {jakarta}, {{indonesia~/--\}})] *
+# Jakarta is the capital of Indonesia.
+
+
+//Capital of Iran
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tehran}, {{iran~/--\}})] *
+# Tehran is the capital of Iran.
+
+
+//Capital of Iraq
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {baghdad}, {{iraq~/--\}})] *
+# Baghdad is the capital of Iraq.
+
+
+//Capital of Ireland
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {dublin}, {{ireland/irish/--\}})] *
+# Dublin is the capital of Ireland.
+
+
+//Capital of Israel
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {jerusalem}, {{israel~/--\}})] *
+# Jerusalem is the capital of Israel.
+
+
+//Capital of Italy
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {rome}, {{ital~/--\}})] *
+# Rome is the capital of Italy.
+
+
+//Capital of Ivory Coast
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {yamoussoukro}, {{ivory coast/--\}})] *
+# Yamoussoukro is the capital of Ivory Coast.
+
+
+//Capital of Jamaica
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kingston}, {{jamaic~/--\}})] *
+# Kingston is the capital of Jamaica.
+
+
+//Capital of Japan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tokio}, {{japan/--\}})] *
+# Tokio is the capital of Japan.
+
+
+//Capital of Jordan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {amman}, {{jordan~/--\}})] *
+# Amman is the capital of Jordan.
+
+
+//Capital of Kazakhstan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{nur-sultan/nur sultan/nursultan\}}, {{kazakh~/--\}})] *
+# Nur-Sultan is the capital of Kazakhstan.
+
+
+//Capital of Kenya
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {nairobi}, {{kenya~/--\}})] *
+# Nairobi is the capital of Kenya.
+
+
+//Capital of Kiribati
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tarawa}, {{kiribati~/--\}})] *
+# Tarawa is the capital of Kiribati.
+
+
+//Capital of Kuwait
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kuwait~ city}, {{kuwait~/--\}})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {kuwait~ {city/--\}}, {{kuwait~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kuwait~ {city/--\}}, {{what/which/--\} {countr~/state/land\}}, {{kuwait~/--\}})] *
+# Kuwait City is the capital of Kuwait.
+
+
+//Capital of Kyrgyzstan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bishkek}, {{kyrgyz~/kirgiz~/--\}})] *
+# Bishkek is the capital of Kyrgyzstan.
+
+
+//Capital of Laos
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {vientiane}, {{laos~/--\}})] *
+# Vientiane is the capital of Laos.
+
+
+//Capital of Latvia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {riga}, {{latvia~/--\}})] *
+# Riga is the capital of Latvia.
+
+
+//Capital of Lebanon
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {beirut}, {{leban~/--\}})] *
+# Beirut is the capital of Lebanon.
+
+
+//Capital of Lesotho
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {maseru}, {{lesoth~/--\}})] *
+# Maseru is the capital of Lesotho.
+
+
+//Capital of Liberia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {monrovia}, {{liberia~/--\}})] *
+# Monrovia is the capital of Liberia.
+
+
+//Capital of Libya
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tripoli}, {{libya~/--\}})] *
+# Tripoli is the capital of Libya.
+
+
+//Capital of Liechtenstein
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {vaduz}, {{liechtenstein/--\}})] *
+# Vaduz is the capital of Liechtenstein.
+
+
+//Capital of Lithuania
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {vilnius}, {{lithuania~/--\}})] *
+# Vilnius is the capital of Lithuania.
+
+
+//Capital of Luxembourg
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {luxembourg~}, {{luxembourg~\}})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {luxembourg~}, {{luxembourg~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {luxembourg~}, {{what/which/--\} {countr~/state/land\}}, {{luxembourg~/--\}})] *
+# Luxembourg is the capital of Luxembourg.
+
+
+//Capital of Macedonia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {skopje}, {{macedonia~/--\}})] *
+# Skopje is the capital of Macedonia.
+
+
+//Capital of Madagascar
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {antananarivo}, {{madagascar~/--\}})] *
+# Antananarivo is the capital of Madagascar.
+
+
+//Capital of Malawi
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {lilongwe}, {{malawi~/--\}})] *
+# Lilongwe is the capital of Malawi.
+
+
+//Capital of Malaysia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kuala lumpur}, {{malaysia~/--\}})] *
+# Kuala Lumpur is the capital of Malaysia.
+
+
+//Capital of Maldives
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{malé/male\}}, {{maldiv~/--\}})] *
+# Malé is the capital of Maldives.
+
+
+//Capital of Mali
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bamako}, {{mali~/--\}})] *
+# Bamako is the capital of Mali.
+
+
+//Capital of Malta
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {valletta}, {{Malt~/--\}})] *
+# Valletta is the capital of Malta.
+
+
+//Capital of Marshall Islands
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {majuro}, {{marshall~/--\}})] *
+# Majuro is the capital of Marshall Islands.
+
+
+//Capital of Mauritania
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {nouakchot~}, {{mauritania~/--\}})] *
+# Nouakchott is the capital of Mauritania.
+
+
+//Capital of Mauritius
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {port loui~}, {{mauriti~/--\}})] *
+# Port Louis is the capital of Mauritius.
+
+
+//Capital of Mexico
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {mexico city},{{mexic~/--\}})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {mexico {city/--\}}, {{mexic~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {mexico {city/--\}}, {{what/which/--\} {countr~/state/land\}}, {{mexic~/--\}})] *
+# Mexico City is the capital of Mexico.
+
+
+//Capital of Micronesia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {palikir}, {{micronesia~/--\}})] *
+# Palikir is the capital of Micronesia.
+
+
+//Capital of Moldova
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {chisinau}, {{moldov~/moldav~/--\}})] *
+# Chisinau is the capital of Moldova.
+
+
+//Capital of Monaco
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {monac~},{monac~})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {monac~}, {{monac~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {monac~}, {{what/which/--\} {countr~/state/land\}}, {{monac~/--\}})] *
+# Monaco is the capital of Monaco.
+
+
+//Capital of Mongolia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {ulan bator}, {{mongolia~/--\}})] *
+# Ulan Bator is the capital of Mongolia.
+
+
+//Capital of Montenegro
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {podgorica}, {{montenegr~/monte negr~/--\}})] *
+# Podgorica is the capital of Montenegro.
+
+
+//Capital of Morocco
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {rabat}, {{moroc~/maroc~/marac~/--\}})] *
+# Rabat is the capital of Morocco.
+
+
+//Capital of Mozambique
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {maputo}, {{mozambi~/--\}})] *
+# Maputo is the capital of Mozambique.
+
+
+//Capital of Myanmar
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {naypyidaw}, {{myanmar~/--\}})] *
+# Naypyidaw is the capital of Myanmar.
+
+
+//Capital of Namibia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {windhoek}, {{namibia~/--\}})] *
+# Windhoek is the capital of Namibia.
+
+
+//Capital of Nauru
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {yaren}, {{naur~/--\}})] *
+# Yaren is the capital of Nauru (de facto).
+
+
+//Capital of Nepal
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kathmandu}, {{nepal~/--\}})] *
+# Kathmandu is the capital of Nepal.
+
+
+//Capital of Netherlands
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {amsterdam}, {{netherland~/holland~/--\}})] *
+# Amsterdam is the capital of Netherlands.
+
+
+//Capital of New Zealand
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {wellington}, {{new zealand~/--\}})] *
+# Wellington is the capital of New Zealand.
+
+
+//Capital of Nicaragua
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {Managua}, {nicaragua~})] *
+# Managua is the capital of Nicaragua.
+
+
+//Capital of Niger
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {niamey}, {{niger/--\}})] *
+# Niamey is the capital of Niger.
+
+
+//Capital of Nigeria
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {abuja}, {{nigeria~/--\}})] *
+# Abuja is the capital of Nigeria.
+
+
+//Capital of North Korea
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {pyongyang}, {{north~ korea~/demo~ people~ republic of korea/demo~ people~ s republic of korea/korea~ demo~ people~ republic/korea~ demo~ people~ s republic/dprk/--\}})] *
+# Pyongyang is the capital of Democratic People's Republic of Korea.
+
+
+//Capital of Norway
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {oslo}, {{norway~/norweg~/--\}})] *
+# Oslo is the capital of Norway.
+
+
+//Capital of Oman
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {muscat}, {{oman~/--\}})] *
+# Muscat is the capital of Oman.
+
+
+//Capital of Pakistan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {islamabad}, {{pakistan~/--\}})] *
+# Islamabad is the capital of Pakistan.
+
+
+//Capital of Palau
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {Ngerulmud}, {{palau/--\}})] *
+# Ngerulmud is the capital of Palau.
+
+
+//Capital of Palestine
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {ramallah}, {{palestin~/--\}})] *
+# Ramallah is the capital of Palestine.
+
+
+//Capital of Panama
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {panam~ city},{{panam~/--\}})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {panam~ {city/--\}}, {{panam~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {panam~ {city/--\}}, {{what/which/--\} {countr~/state/land\}}, {{panam~/--\}})] *
+# Panama City is the capital of Panama.
+
+
+//Capital of Papua New Guinea
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {port moresby}, {{papua new guinea~/--\}})] *
+# Port Moresby is the capital of Papua New Guinea.
+
+
+//Capital of Paraguay
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {asunc~}, {{paragua~/--\}})] *
+# Asunción is the capital of Paraguay.
+
+
+//Capital of Peru
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {lima}, {{peru/--\}})] *
+# Lima is the capital of Peru.
+
+
+//Capital of Philippines
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {manila}, {{philippin~/philipin~/--\}})] *
+# Manila is the capital of Philippines.
+
+
+//Capital of Poland
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {warsaw}, {{poland/polish/--\}})] *
+# Warsaw is the capital of Poland.
+
+
+//Capital of Portugal
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {lisbon}, {{portug~/--\}})] *
+# Lisbon is the capital of Portugal.
+
+
+//Capital of Qatar
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {doha}, {{qatar~/--\}})] *
+# Doha is the capital of Qatar.
+
+
+//Capital of Republic of the Congo
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {brazzaville}, {{republic/--\}}, {{congo~/--\}})] *
+# Brazzaville is the capital of Republic of the Congo.
+
+
+//Capital of Romania
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bucharest}, {{romania~/--\}})] *
+# Bucharest is the capital of Romania.
+
+
+//Capital of Russia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {moscow}, {{rus~/--\}})] *
+# Moscow is the capital of Russia.
+
+
+//Capital of Rwanda
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kigali}, {{rwand~/ruand~/--\}})] *
+# Kigali is the capital of Rwanda.
+
+
+//Capital of Saint Kitts and Nevis
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {basseterre}, {{saint kit~ and nevis~/--\}})] *
+# Basseterre is the capital of Saint Kitts and Nevis.
+
+
+//Capital of Saint Lucia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {castries}, {{saint lucia~/--\}})] *
+# Castries is the capital of Saint Lucia.
+
+
+//Capital of Saint Vincent and the Grenadines
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kingstown}, {{saint vincent/--\} * {grenadin~/--\}})] *
+# Kingstown is the capital of Saint Vincent and the Grenadines.
+
+
+//Capital of Samoa
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {apia}, {{samoa~/--\}})] *
+# Apia is the capital of Samoa.
+
+
+//Capital of San Marino
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {san marin~}, {san marin~})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {san marin~}, {{san marin~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {san marin~}, {{what/which/--\} {countr~/state/land\}}, {{san marin~/--\}})] *
+# San Marino is the capital of San Marino.
+
+
+//Capital of São Tomé and Príncipe
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{sa~ tome/s~ tomé\}}, {{san tome/são tomé\} * {princip~/príncip~\}})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {{sa~ tome/s~ tomé\}}, {{san tome/são tomé/--\} * {princip~/príncip~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{sa~ tome/s~ tomé\}}, {{what/which/--\} {countr~/state/land\}}, {{san tome/são tomé/--\} * {princip~/príncip~/--\}})] *
+# São Tomé is the capital of São Tomé and Príncipe.
+
+
+//Capital of Saudi Arabia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {riyadh}, {{saudi arabia~/--\}})] *
+# Riyadh is the capital of Saudi Arabia.
+
+
+//Capital of Senegal
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {dakar}, {{senegal~/--\}})] *
+# Dakar is the capital of Senegal.
+
+
+//Capital of Serbia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {belgrade}, {{serbia~/--\}})] *
+# Belgrade is the capital of Serbia.
+
+
+//Capital of Seychelles
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {victoria}, {{seychel~/--\}})] *
+# Victoria is the capital of Seychelles.
+
+
+//Capital of Sierra Leone
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {freetown}, {{sierra leon~/--\}})] *
+# Freetown is the capital of Sierra Leone.
+
+
+//Capital of Singapore
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {singapor~}, {singapor~})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {singapor~}, {{singapor~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {singapor~}, {{what/which/--\} {countr~/state/land\}}, {{singapor~/--\}})] *
+# Singapore is the capital of Singapore.
+
+
+//Capital of Slovakia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bratislava}, {{slovak~/--\}})] *
+# Bratislava is the capital of Slovakia.
+
+
+//Capital of Slovenia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {ljubljana}, {{sloven~/--\}})] *
+# Ljubljana is the capital of Slovenia.
+
+
+//Capital of Solomon Islands
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {honiara}, {{solomon~ island~/--\}})] *
+# Honiara is the capital of Solomon Islands.
+
+
+//Capital of Somalia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {mogadishu}, {{somali~/--\}})] *
+# Mogadishu is the capital of Somalia.
+
+
+//Capital of South Africa
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {cape town}, {{south~ afric~/--\}})] *
+# Cape Town is the capital of South Africa.
+
+
+//Capital of South Korea
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {seul}, {{south~ korea~/republic of korea/korea~ republic/rok/--\}})] *
+# Seul is the capital of South Korea.
+
+
+//Capital of South Ossetia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tskhinval}, {{south~ oseti~/south~ osseti~/--\}})] *
+# Tskhinval is the capital of South Ossetia.
+
+
+//Capital of South Sudan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {juba}, {{south~ sudan~/--\}})] *
+# Juba is the capital of South Sudan.
+
+
+//Capital of Spain
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {madrid}, {{spain/spanish/--\}})] *
+# Madrid is the capital of Spain.
+
+
+//Capital of Sri Lanka
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{sri jayawardenapura-kotte/sri jayawardenapura kotte\}}, {{sri lanka/--\}})] *
+# Sri Jayawardenapura-kotte is the capital of Sri Lanka.
+
+
+//Capital of Sudan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {khartoum}, {{sudan~/--\}})] *
+# Khartoum is the capital of Sudan.
+
+
+//Capital of Suriname
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {paramaribo}, {{surinam~/--\}})] *
+# Paramaribo is the capital of Suriname.
+
+
+//Capital of Eswatini (Swaziland)
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {mbabane}, {{eswatini/swaziland/--\}})] *
+# Mbabane is the capital of Eswatini (Swaziland).
+
+
+//Capital of Sweden
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {stockholm}, {{swed~/--\}})] *
+# Stockholm is the capital of Sweden.
+
+
+//Capital of Switzerland
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bern}, {{switzerland/swiss/--\}})] *
+# Bern is the capital of Switzerland.
+
+
+//Capital of Syria
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {damasc~}, {{syria~/--\}})] *
+# Damascus is the capital of Syria.
+
+
+//Capital of Taiwan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {taipei}, {{taiwan/thaiwan/republic~ of china/roc/--\}})] *
+# Taipei is the capital of Taiwan.
+
+
+//Capital of Tajikistan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {dushanbe}, {{tajik~/tadzhik~/tadzhyk~/--\}})] *
+# Dushanbe is the capital of Tajikistan.
+
+
+//Capital of Tanzania
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {dodoma}, {{tanzan~/--\}})] *
+# Dodoma is the capital of Tanzania.
+
+
+//Capital of Thailand
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {bangkok}, {{thai~/--\}})] *
+# Bangkok is the capital of Thailand.
+
+
+//Capital of Togo
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{lomé/lome\}}, {{tog~/--\}})] *
+# Lomé is the capital of Togo.
+
+
+//Capital of Tonga
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{nuku'alofa/nuku alofa/nukualofa\}}, {{tong~/--\}})] *
+# Nuku'alofa is the capital of Tonga.
+
+
+//Capital of Trinidad and Tobago
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {port of spain}, {{trinidad~/--\} * {tobag~/--\}})] *
+# Port of Spain is the capital of Trinidad and Tobago.
+
+
+//Capital of Tunisia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tunis}, {{tunisia~/--\}})] *
+# Tunis is the capital of Tunisia.
+
+
+//Capital of Turkey
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {ankara}, {{turk~/--\}})] *
+# Ankara is the capital of Turkey.
+
+
+//Capital of Turkmenistan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {ashgabat}, {{turkmen~/--\}})] *
+# Ashgabat is the capital of Turkmenistan.
+
+
+//Capital of Tuvalu
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {funafuti}, {{tuvalu~/--\}})] *
+# Funafuti is the capital of Tuvalu.
+
+
+//Capital of Uganda
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kampala}, {{ugand~/--\}})] *
+# Kampala is the capital of Uganda.
+
+
+//Capital of Ukraine
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {kiev}, {{ukrain~/--\}})] *
+# Kiev is the capital of Ukraine.
+
+
+//Capital of the United Arab Emirates
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {abu dhabi}, {{uae/emirates/--\}})] *
+# Abu Dhabi is the capital of the United Arab Emirates.
+
+
+//Capital of the United Kingdom
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {london}, {{united kingdom/brit~/uk/engl~/--\}})] *
+# London is the capital of the United Kingdom (and England).
+
+
+//Capital of Scotland
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {edinburg}, {{scot~/--\}})] *
+# Edinburg is the capital of Scotland.
+
+
+//Capital of Wales
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {cardif~}, {{wales/welsh/--\}})] *
+# Cardiff is the capital of Wales.
+
+
+//Capital of Nothern Ireland
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {belfast}, {{north~ ir~/--\}})] *
+# Belfast is the capital of Northen Ireland.
+
+
+//Capital of the United States
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {washington}, {{united states/us/usa/america~/--\}})] *
+# Washington D.C. is the capital of the United States.
+
+
+//Capital of Uruguay
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{montevideo/monte video\}}, {{urugua~/--\}})] *
+# Montevideo is the capital of Uruguay.
+
+
+//Capital of Uzbekistan
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {tashkent}, {{uzbek~/--\}})] *
+# Tashkent is the capital of Uzbekistan.
+
+
+//Capital of Vanuatu
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {port vila}, {{vanuatu/--\}})] *
+# Port Vila is the capital of Vanuatu.
+
+
+//Capital of Vatican City
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {vatican~}, {vatican~})] *
+$ * [@cmb({{who~/where\}}, {{capital/metropolis/major city/main city\}}, {vatican~}, {{vatican~/--\}})] *
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {vatican~}, {{what/which/--\} {countr~/state/land\}}, {{vatican~/--\}})] *
+# Vatican City is the capital of Vatican City.
+
+
+//Capital of Venezuela
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {caracas}, {{venezuel~/--\}})] *
+# Caracas is the capital of Venezuela.
+
+
+//Capital of Vietnam
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {hanoi}, {{vietnam~/--\}})] *
+# Hanoi is the capital of Vietnam.
+
+
+//Capital of Yemen
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {{sana'a/sana a/sanaa\}}, {{yemen~/--\}})] *
+# Sana'a is the capital of Yemen.
+
+
+//Capital of Zambia
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {lusaka}, {{zambia~/--\}})] *
+# Lusaka is the capital of Zambia.
+
+
+//Capital of Zimbabwe
+$ * [@cmb({{capital/metropolis/major city/main city\}}, {harare}, {{Zimbabw~/--\}})] *
+# Harare is the capital of Zimbabwe.

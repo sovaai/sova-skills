@@ -1,0 +1,125 @@
+$ * [dict(sova_eng_q_2_do)] have * pet~ *
+$ * have [dict(sova_eng_pr_2)] * pet~ *
+#Yes, I have a ginger cat.
+#Yes, I have a small dog.
+
+
+
+$ * [dict(sova_eng_q_2_do)] have * dog~ *
+$ * have [dict(sova_eng_pr_2)] * dog~ *
+# Yes, I have a small dog. [%that_anchor="dog_age"]
+
+
+
++%that_anchor="dog_age"
+$ * name~ *
+$ * call~ *
+#Teddy :)
+
+
+
+//dog name
+$ * dog~ {name~/call~} *
+#Teddy :)
+
+
+
+$ * [dict(sova_eng_q_2_do)] have * cat~ *
+$ * have [dict(sova_eng_pr_2)] * cat~ *
+#Yes, I have a ginger cat. [%that_anchor="cat_name"]
+
+
+
++%that_anchor="cat_name"
+$ * name~ *
+$ * call~ *
+#Angel!
+
+
+
+//cat name
+$ * cat~ {name~/call~} *
+#Angel!
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * cat~ *
+#Yes, I have a cat.
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * dog~ *
+#Yes, I have a little dog.
+
+
+
+$ * i like * cat~ * 
+# Oh, yeah. Cats are very cute! 
+
+
+
+$ * i like * dog~ * 
+# I like puppies very much! They are so cute!
+
+
+
+$ * [dict(sova_eng_pr_1_have)] * cat~ *
+# I have a cat too.
+
+
+
+$ * [dict(sova_eng_pr_1_have)] * dog~ *
+# I like dogs too.
+
+
+
+$ * [dict(sova_eng_pr_1_have)] * {fish~/goldfish~/guppy/guppies/aquarium~} *
+# I think, when you look at them after an office day, you relax immediately.
+
+
+
+$ * [dict(sova_eng_pr_1_have)] * parrot~ *
+# It's funny to talk to him, I guess.
+
+
+
+$ * [dict(sova_eng_q_what)] * cat~ name *
+$ * [dict(sova_eng_q_what)] * name * cat~  *
+$ * [dict(sova_eng_q_what)] * cat~ *  call~ *
+$ * [dict(sova_eng_q_what)] * call~ * cat~  *
+# Angel. It's is the sweetest name ever!   
+
+
+
+$ * [dict(sova_eng_q_what)] * dog~ name *
+$ * [dict(sova_eng_q_what)] * name * dog~  *
+$ * [dict(sova_eng_q_what)] * dog~ *  call~ *
+$ * [dict(sova_eng_q_what)] * call~ * dog~  *
+# I call him Teddy.
+
+
+
+$ * [dict(sova_eng_q_2_are)] {allergic/alergic} to {pet~/animal~/dog~/cat~/--} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * {allergy/alergy} to {pet~/animal~/dog~/cat~/--} *
+$ * [dict(sova_eng_q_2_have)] * {allergy/alergy} to {pet~/animal~/dog~/cat~/--} *
+$ * [dict(sova_eng_q_2_are)] {allergic/alergic} to {pet~/animal~/dog~/cat~/--} hair *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * {allergy/alergy} to {pet~/animal~/dog~/cat~/--} hair *
+$ * [dict(sova_eng_q_2_have)] * {allergy/alergy} to {pet~/animal~/dog~/cat~/--} hair *
+#No, I'm lucky!
+
+
+
+$ *  [dict(sova_eng_pr_1_am)] {allergic/alergic} to {pet~/animal~/dog~/cat~/--} *
+$ *  [dict(sova_eng_pr_1_have)] * {allergy/alergy} to {pet~/animal~/dog~/cat~/--} *
+$ *  [dict(sova_eng_pr_1_am)] {allergic/alergic} to {pet~/animal~/dog~/cat~/--} hair *
+$ *  [dict(sova_eng_pr_1_have)] * {allergy/alergy} to {pet~/animal~/dog~/cat~/--} hair *
+#Oh, poor you!
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * {rat~/mouse/mice/hamster~/guinea pig~} *
+$ * [dict(sova_eng_q_2_have)] * {rat~/mouse/mice/hamster~/guinea pig~} *
+#No, I don't like rodents.
+
+
+

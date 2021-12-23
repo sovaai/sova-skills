@@ -1,0 +1,311 @@
+//законы робототехники 
+$ * [dict(sova_rus_law)] [dict(sova_rus_robotech)] *
+$ [dict(sova_rus_what)]{такое/токое} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$ [dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$*[dict(sova_rus_what)]{такое/токое}* [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)] 
+# 3 закона роботехники: [br] 1. Робот не может причинить вред человеку или своим бездействием допустить, чтобы человеку был причинён вред. [br] 2. Робот должен повиноваться всем приказам, которые дает человек, кроме тех случаев, когда эти приказы противоречат Первому Закону. [br] 3. Робот должен заботиться о своей безопасности в той мере, в которой это не противоречит Первому и Второму Законам. 
+
+
+
+//1-й закон робототехники
+$ * {1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] *
+$ [dict(sova_rus_what)]{такое/токое} {1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$ [dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое} {1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$*[dict(sova_rus_what)]{такое/токое}* {1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)]{такое/токое}*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{1-й/1-ый/1~/перв~/1-го/1-ого/1-во/1-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)] 
+#1-й закон роботехники гласит: "Робот не может причинить вред человеку или своим бездействием допустить, чтобы человеку был причинён вред".
+
+
+
+//2-й закон робототехники
+$ * {2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] *
+$ [dict(sova_rus_what)]{такое/токое} {2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$ [dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое} {2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$*[dict(sova_rus_what)]{такое/токое}* {2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)]{такое/токое}*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{2-й/2-ой/2~/втор~/2-го/2-ого/2-во/2-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)] 
+#2-й закон роботехники гласит: "Робот должен повиноваться всем приказам, которые дает человек, кроме тех случаев, когда эти приказы противоречат Первому Закону". 
+
+
+
+//3-й закон робототехники
+$ * {3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)] *
+$ [dict(sova_rus_what)]{такое/токое} {3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$ [dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое} {3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$*[dict(sova_rus_what)]{такое/токое}* {3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)]{такое/токое}*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{3-й/2-ий/3~/трет~/3-го/3-его/3-во/3-ево} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)] 
+#3-й закон роботехники гласит: "Робот должен заботиться о своей безопасности в той мере, в которой это не противоречит Первому и Второму Законам". 
+
+
+
+//нулевой закон робототехники
+$ * {нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] *
+$ [dict(sova_rus_what)]{такое/токое} {нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$ [dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое} {нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)] {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$*[dict(sova_rus_what)]{такое/токое}* {нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)]{такое/токое}*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_what)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]{такое/токое}*[dict(sova_rus_law)][dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)][dict(sova_rus_mean_3)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)][dict(sova_rus_what)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*[dict(sova_rus_mean_3)]
+$*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_vvodnie_slova)][dict(sova_rus_define_o)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}[dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*[dict(sova_rus_law)][dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)]{такое/токое}
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)][dict(sova_question_marks)]
+$*[dict(sova_rus_define_o)][dict(sova_rus_vvodnie_slova)]*{нулев~/нолев~/0~/0-ой/0-й/0-го/0-ого/0-во/0-ово} [dict(sova_rus_law)] [dict(sova_rus_robotech)]*{это/--}[dict(sova_rus_what)][dict(sova_rus_mean_3)] 
+#Нулевой закон роботехники гласит: "Робот не может причинить вреда человеку, если только он не докажет, что в конечном итоге это будет полезно для всего человечества".
+
+
+
+//кто придумал законы робототехники
+$ * [dict(sova_rus_who2)] * [dict(sova_rus_bot_create_past)] * [dict(sova_rus_law)] [dict(sova_rus_robotech)] *
+$ * [dict(sova_rus_who2)] * [dict(sova_rus_law)] [dict(sova_rus_robotech)] * [dict(sova_rus_bot_create_past)] *
+$ * [dict(sova_rus_law)] [dict(sova_rus_robotech)] * [dict(sova_rus_bot_create_past)] * [dict(sova_rus_who2)] *
+$ * [dict(sova_rus_law)] [dict(sova_rus_robotech)] * [dict(sova_rus_who2)] * [dict(sova_rus_bot_create_past)] *
+$ * [dict(sova_rus_bot_create_past)] * [dict(sova_rus_who2)] * [dict(sova_rus_law)] [dict(sova_rus_robotech)] *
+$ * [dict(sova_rus_bot_create_past)] * [dict(sova_rus_law)] [dict(sova_rus_robotech)] * [dict(sova_rus_who2)] *
+#Законы робототехники придумал американский писатель-фантаст Айзек Азимов.
+
+
+

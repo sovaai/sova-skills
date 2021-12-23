@@ -1,0 +1,61 @@
+nuts
+Bean
+beans
+Bambara groundnut~
+Chickpea~
+Cowpea~
+Dry bean~
+Common bean
+Vigna
+Fava
+broad beans
+Hyacinth bean
+Lablab
+Lentil~
+Lupins
+Moringa oleifera
+Peas
+Peanut~
+Pigeon pea~
+Sterculia
+Velvet bean~
+Winged bean~
+Yam bean~
+Soybean~
+
+Almond~
+Beech
+Brazil nut~
+Candlenut~
+Cashew~
+Chestnut~
+Chinese Chestnut~
+Sweet Chestnut~
+Colocynth~
+Cucurbita ficifolia~
+Filbert~
+Gevuina avellana~
+Hickory~
+Pecan
+Shagbark Hickory
+Terminalia catappa
+Hazel
+Indian Beech
+Kola nut
+Macadamia
+Malabar chestnut
+Pistacia
+Mamoncillo
+Maya nut~
+Mongongo
+Oak acorn~
+Ogbono nut~
+Paradise nut~
+Pili nut~
+Walnut~
+Water Caltrop~
+
+
+
+
+

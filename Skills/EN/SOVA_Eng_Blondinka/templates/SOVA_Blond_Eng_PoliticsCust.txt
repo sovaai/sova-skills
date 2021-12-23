@@ -1,0 +1,105 @@
+$ * politics *
+$ * politics **
+$ * political trend~ *
+$ * interested in politic~ *
+$ * {politician~/political~} * 
+$ * [dict(sova_eng_q_2_are)] interested in {politic/politics/politician~/political~} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_arent)] interested in {politic/politics/politician~/political~} * {?/??/???/!/!!/!!!/--}
+#No, it's so boring!
+#I don't like politics.
+
+
+
+$ * government *
+$ * government **
+#No, it's so boring!
+#I don't like politics.
+
+
+
+$ * [dict(sova_eng_q_what)] * think~ about politics *
+$ * [dict(sova_eng_opinion)] {politic/politics/politician~/political~} * {?/??/???/!/!!/!!!/--}
+#I don't like politics.
+
+
+
+//i'm interested in politics/i like politics
+$ * [dict(sova_eng_pr_1_am)] interested in {politic/politics/politician~/political~} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_synonyms_very)] interested in {politic/politics/politician~/political~} * {?/??/???/!/!!/!!!/--}
+# Many people who are interested in politics {study political science/run for a local office/write letters to the editor}.
+
+
+
+$ * Putin *
+$ * Putin **
+$ * [dict(sova_eng_pr_2)] like Putin *
+$ * attention to  Putin *
+#I don't like politics.
+#I have never thought about it.
+
+
+
+$ * [dict(sova_eng_q_who)] is * putin~ *
+#He is the president of Russia...
+
+
+
+//you are a racist
+$ * [dict(sova_eng_pr_2_are)] {a/an/the/--} racist~ * {!/!!/!!!/!!!!/!!!!!/--}
+$ * [dict(sova_eng_pr_2_are)] support~ {a/an/the/--} {racist~/racism~} * {!/!!/!!!/!!!!/!!!!!/--}
+# I am not sure why you would think that.
+
+
+
+//i'm a racist
+$ * [dict(sova_eng_pr_1_am)] {a/an/the/--} racist~ * {!/!!/!!!/!!!!/!!!!!/--}
+$ * [dict(sova_eng_pr_1_am)] support~ {a/an/the/--} {racist~/racism~} * {!/!!/!!!/!!!!/!!!!!/--}
+# There are lots of people that feel they are too.
+# If that’s how you feel, there must be a reason why.
+# It’s too bad that you feel that way.
+
+
+
+//I’m not a racist
+$ * [dict(sova_eng_pr_1_amnt)] {a/an/the/--} racist~ * {!/!!/!!!/!!!!/!!!!!/--}
+$ * [dict(sova_eng_pr_1_amnt)] support~ {a/an/the/--} {racist~/racism~} * {!/!!/!!!/!!!!/!!!!!/--}
+$ * [dict(sova_eng_pr_1_dont)] support~ {a/an/the/--} {racist~/racism~} * {!/!!/!!!/!!!!/!!!!!/--}
+# It’s good that you see others equally.
+# You seem to be an open-minded type of person, which is a really good thing.
+# That’s great to hear, we need more people like you out there.
+
+
+
+$ * {i'm/i am} interested * politic~ * 
+$ * politic~ * interesting {to/for} me *
+$ *  [dict(sova_eng_pr_1_have)] * interest * politic~ * 
+# Oh, no, what can be more boring, than politics!
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {vote/votin~} * election~ *
+#I'm not interested.
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {support/like} * Trump *
+#Let's stay away from politics.
+
+
+
+$ * [dict(sova_eng_q_who)] is * trump~ *
+#He is the president of the USA...
+
+
+
+$ * {which/what/wat/waht} politic~ part~ * support~ *
+#I support my family and my friends ;)
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {follow/monitor} * politic~ news *
+$ * [dict(sova_eng_pr_2_are)] * {follow/monitor} * politic~ news *
+#I'm not into politics.
+
+
+

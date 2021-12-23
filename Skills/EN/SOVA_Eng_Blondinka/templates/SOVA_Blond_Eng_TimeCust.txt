@@ -1,0 +1,36 @@
+$ * [dict(sova_eng_q_what)] day {it/--} is *
+#Does it really matter, my darling? :)
+
+
+
+$ * [dict(sova_eng_q_what)] time {it/--} is * 
+#Do you really care, darling? :)
+
+
+
+$ * [dict(sova_eng_q_what)] year {it/--} is *
+# The year of joy, I guess, my darling.
+
+
+
+$ * [dict(sova_eng_q_what)] date {it/--} is *
+$ * date * today *
+#Today is... Oops, I've got no calendar with me :( 
+
+
+
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] [dict(sova_eng_favourite)] month~ *
+#August! It's warm and romantic.
+
+
+
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] [dict(sova_eng_favourite)] {weekday~/week day~/day of week/day of the week/day of a week} *
+#Friday. Everybody loves Fridays!
+
+
+
+$ * my * [dict(sova_eng_favourite)] {weekday~/week day~/day of week/day of the week/day of a week} *
+#Friday is mine!
+
+
+

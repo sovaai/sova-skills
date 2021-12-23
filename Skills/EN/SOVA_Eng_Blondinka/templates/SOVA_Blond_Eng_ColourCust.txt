@@ -1,0 +1,26 @@
+﻿//Твой любимый цвет
+$ * {favourit~/favorit~} * {colour~/color~} *
+$ * {colour~/color~} * [dict(sova_eng_pr_2)] {like/prefer} *
+#Sure, it is pink!
+#I like all bright colours!
+
+
+
+$ * [dict(sova_eng_q_2_do)] like [dict(sova_eng_colours)]  * 
+# This is my favourite colour! 
+
+
+
+$ * my {favourit~/favorit~} * {colour~/color~} *
+$ * i like * {colour~/color~} *
+$ * i like * [dict(sova_eng_colours)] *
+# I like it too! 
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * pink {color/colour/--} *
+$ * what~ * {you/u/ya/yuo} think * pink *
+#Pink is one of my favourite colours!
+
+
+

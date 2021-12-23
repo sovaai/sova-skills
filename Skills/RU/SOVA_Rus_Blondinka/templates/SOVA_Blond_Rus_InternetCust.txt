@@ -1,0 +1,322 @@
+//Какой у тебя любимый сайт?
+$ * [dict(sova_rus_your_nom_sg)] любим~ сайт *
+$ * [dict(sova_rus_your_nom_pl)] любим~ сайт~ *
+$ * у [dict(sova_rus_you_genacc)] любим~ сайт~ *
+$ * любим~ сайт~ у [dict(sova_rus_you_genacc)] *
+$ * как~ сайт~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * как~ сайт~ [dict(sova_rus_like_2_pres)] *
+$ сайт~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ сайт~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ сайт~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ сайт~ * как~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сайт~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сайт~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сайт~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сайт~ * как~ [dict(sova_rus_like_2_pres)] *
+#Одноклассники и Вконтакте
+#Большего всего люблю Одноклассники
+#Вконтакте ничего, но Одноклассники мне нравятся больше
+#Я ничем кроме Одноклассников и Вконтакте не интересуюсь
+#Сайты? Не знаю, я редко бываю в интернете
+
+
+
+//Ты много времени проводишь в Интернете?
+$ * много {времени/часов} * {проводиш~/проводите/проводеш~/проводете/тратиш~/тратите/тратеш~/тратете} * в [dict(sova_rus_internet_internet)] * 
+$ * много {времени/часов} * в [dict(sova_rus_internet_internet)] * {проводиш~/проводите/проводеш~/проводете/тратиш~/тратите/тратеш~/тратете} * 
+$ * {проводиш~/проводите/проводеш~/проводете/тратиш~/тратите/тратеш~/тратете} * много {времени/часов} * в [dict(sova_rus_internet_internet)] * 
+$ * {проводиш~/проводите/проводеш~/проводете/тратиш~/тратите/тратеш~/тратете} * в [dict(sova_rus_internet_internet)] * много {времени/часов} * 
+$ * в [dict(sova_rus_internet_internet)] * много {времени/часов} * {проводиш~/проводите/проводеш~/проводете/тратиш~/тратите/тратеш~/тратете} * 
+$ * в [dict(sova_rus_internet_internet)] * {проводиш~/проводите/проводеш~/проводете/тратиш~/тратите/тратеш~/тратете} * много {времени/часов} *
+#Не очень. Мне это не особо нравится 
+#На Одноклассниках могу полдня просидеть там
+#Обычно нет
+#Иногда, курсовик поискать или в Одноклассниках ответить 
+#Нет, у меня интернет только в инстике 
+
+
+
+//Какими ты пользуешься поисковыми системами?
+$ * как~ [dict(sova_rus_use_2)] поисковик~ *
+$ * как~ поисковик~ [dict(sova_rus_use_2)] *
+$ * [dict(sova_rus_use_2)] как~ поисковик~ *
+$ * как~ [dict(sova_rus_you_nom)] [dict(sova_rus_use_2)] поисковик~ *
+$ * как~ [dict(sova_rus_you_nom)] поисковик~ [dict(sova_rus_use_2)] *
+$ * [dict(sova_rus_use_2)] [dict(sova_rus_you_nom)] как~ поисковик~ *
+$ * как~ [dict(sova_rus_use_2)] [dict(sova_rus_you_nom)] поисковик~ *
+$ * как~ поисковик~ [dict(sova_rus_you_nom)] [dict(sova_rus_use_2)] *
+$ * [dict(sova_rus_use_2)] как~ [dict(sova_rus_you_nom)] поисковик~ *
+#А что это  такое?
+#Ты про Яндекс 
+#А что, их много?
+#Мне Яндекс очень нравится, там все есть
+#Иногда залезаю в Google 
+
+
+
+//У тебя есть блог?
+$ * у [dict(sova_rus_you_genacc)] есть блог~ ?
+$ * блог~ у [dict(sova_rus_you_genacc)] есть ?
+$ * блог~ есть у [dict(sova_rus_you_genacc)] ?
+$ * у [dict(sova_rus_you_genacc)] блог~ есть ?
+$ * [dict(sova_rus_own_2_pres)] блог~ ?
+$ * блог~ [dict(sova_rus_own_2_pres)] ?
+$ * блог~ [dict(sova_rus_you_nom)] [dict(sova_rus_own_2_pres)] ?
+$ * блог~ [dict(sova_rus_own_2_pres)] [dict(sova_rus_you_nom)] ?
+$ * [dict(sova_rus_own_2_pres)] [dict(sova_rus_you_nom)] блог~ ?
+$ * [dict(sova_rus_own_2_pres)] ли [dict(sova_rus_you_nom)] блог~ ?
+$ * [dict(sova_rus_own_2_pres)] блог~ [dict(sova_rus_you_nom)] ?
+$ * [dict(sova_rus_own_2_pres)] ли блог~ [dict(sova_rus_you_nom)] ?
+#А что это такое?
+#Неа, первый раз об этом слышу. Расскажи
+#Это что–то похожее на Одноклассники или нет?
+#Наверно нет, не знаю :) 
+#А где его можно получить?
+
+
+
+//У тебя есть жж?
+$ * у [dict(sova_rus_you_genacc)] есть жж ?
+$ * жж у [dict(sova_rus_you_genacc)] есть ?
+$ * жж есть у [dict(sova_rus_you_genacc)] ?
+$ * у [dict(sova_rus_you_genacc)] жж есть ?
+$ * [dict(sova_rus_own_2_pres)] жж ?
+$ * жж [dict(sova_rus_own_2_pres)] ?
+$ * жж [dict(sova_rus_you_nom)] [dict(sova_rus_own_2_pres)] ?
+$ * жж [dict(sova_rus_own_2_pres)] [dict(sova_rus_you_nom)] ?
+$ * [dict(sova_rus_own_2_pres)] [dict(sova_rus_you_nom)] жж ?
+$ * [dict(sova_rus_own_2_pres)] ли [dict(sova_rus_you_nom)] жж ?
+$ * [dict(sova_rus_own_2_pres)] жж [dict(sova_rus_you_nom)] ?
+$ * [dict(sova_rus_own_2_pres)] ли жж [dict(sova_rus_you_nom)] ?
+$ * у [dict(sova_rus_you_genacc)] есть живой журнал ?
+$ * живой журнал у [dict(sova_rus_you_genacc)] есть ?
+$ * живой журнал есть у [dict(sova_rus_you_genacc)] ?
+$ * у [dict(sova_rus_you_genacc)] живой журнал есть ?
+$ * [dict(sova_rus_own_2_pres)] живой журнал ?
+$ * живой журнал [dict(sova_rus_own_2_pres)] ?
+$ * живой журнал [dict(sova_rus_you_nom)] [dict(sova_rus_own_2_pres)] ?
+$ * живой журнал [dict(sova_rus_own_2_pres)] [dict(sova_rus_you_nom)] ?
+$ * [dict(sova_rus_own_2_pres)] [dict(sova_rus_you_nom)] живой журнал ?
+$ * [dict(sova_rus_own_2_pres)] ли [dict(sova_rus_you_nom)] живой журнал ?
+$ * [dict(sova_rus_own_2_pres)] живой журнал [dict(sova_rus_you_nom)] ?
+$ * [dict(sova_rus_own_2_pres)] ли живой журнал [dict(sova_rus_you_nom)] ?
+# Нет, пока не завела.
+# Вот как раз подумываю завести.
+# Думаешь стоит завести? Ладно, я подумаю.
+
+
+
+//Ты делаешь покупки в Интернете?
+$ * [dict(sova_rus_buy_2_pres)] в интернет~ * ?
+$ * в интернет~ [dict(sova_rus_buy_2_pres)] * ?
+$ * в интернет~ [dict(sova_rus_you_nom)] [dict(sova_rus_buy_2_pres)] * ?
+$ * [dict(sova_rus_buy_2_pres)] [dict(sova_rus_you_nom)] в интернет~ * ?
+$ * [dict(sova_rus_buy_2_pres)] ли [dict(sova_rus_you_nom)] в интернет~ * ?
+$ * [dict(sova_rus_buy_2_pres)] [dict(sova_rus_withhelp)] интернет~ * ?
+$ * [dict(sova_rus_withhelp)] интернет~ [dict(sova_rus_buy_2_pres)] * ?
+$ * [dict(sova_rus_withhelp)] интернет~ [dict(sova_rus_you_nom)] [dict(sova_rus_buy_2_pres)] * ?
+$ * [dict(sova_rus_buy_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_withhelp)] интернет~ * ?
+$ * [dict(sova_rus_buy_2_pres)] ли [dict(sova_rus_you_nom)] [dict(sova_rus_withhelp)] интернет~ * ?
+#Нет, а что так можно 
+#Интересно, а это дешевле, чем так
+#А как же там расплачиваться? 
+#Нет, там же даже не примеришь? 
+#Мне кажется, это сложно.
+
+
+
+//Сколько ты можешь прожить без Интернета?
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_can_2)] * {прожить/выжить} * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_can_2)] * {прожить/выжить} * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] * [dict(sova_rus_can_2)] * {прожить/выжить} *
+$ * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] * [dict(sova_rus_can_2)] * {прожить/выжить} *
+$ * [dict(sova_rus_can_2)] * {прожить/выжить} * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] *
+$ * [dict(sova_rus_can_2)] * {прожить/выжить} * [dict(sova_rus_howmany)] * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] *
+$ * [dict(sova_rus_howmany)] * {прожить/выжить} * [dict(sova_rus_can_2)] * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_howmany)] * {прожить/выжить} * [dict(sova_rus_can_2)] * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] * {прожить/выжить} * [dict(sova_rus_can_2)] *
+$ * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] * {прожить/выжить} * [dict(sova_rus_can_2)] *
+$ * {прожить/выжить} * [dict(sova_rus_can_2)] * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] *
+$ * {прожить/выжить} * [dict(sova_rus_can_2)] * [dict(sova_rus_howmany)] * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] *
+$ * [dict(sova_rus_howmany)] * {выживеш~/выживете/выживите/проживеш~/проживете} * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * {выживеш~/выживете/выживите/проживеш~/проживете} * 
+$ * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] * {выживеш~/выживете/выживите/проживеш~/проживете} * 
+$ * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * {выживеш~/выживете/выживите/проживеш~/проживете} * [dict(sova_rus_howmany)] *
+$ * {выживеш~/выживете/выживите/проживеш~/проживете} * [dict(sova_rus_howmany)] * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] *
+$ * {выживеш~/выживете/выживите/проживеш~/проживете} * [dict(sova_rus_without)] [dict(sova_rus_internet_internet)] * [dict(sova_rus_howmany)] *
+#Сколько угодно
+#Не знаю, я думала об этом.
+#Ой, там столько интересного, что наверно максимум неделю
+#Во время учебы, ни дня не проживу. Откуда еще качать доклады 
+#Наверно мало :) 
+
+
+
+//Когда ты впервые попал в Интернет? 
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_internet_getinto_past)] * 
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_when)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_you_nom)] *
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] * [dict(sova_rus_internet_getinto_past)] *
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_when)] *
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] *
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] *
+$ * [dict(sova_rus_when)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_internet_getinto_past)] * 
+$ * [dict(sova_rus_when)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_when)] * [dict(sova_rus_internet_getinto_past)] *
+$ * [dict(sova_rus_you_nom)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_when)] *
+$ * [dict(sova_rus_internet_getinto_past)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_internet_getinto_past)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] * 
+$ * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_internet_getinto_past)] * 
+$ * [dict(sova_rus_when)] * [dict(sova_rus_internet_getinto_past)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_internet_getinto_past)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_internet_getinto_past)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_when)] *
+$ * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_when)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_you_nom)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_when)] * 
+$ * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_internet_getinto_past)] * в [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_when)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_you_nom)] * в [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] * [dict(sova_rus_internet_getinto_past)] * в [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_when)] * в [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] * в [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_internet_getinto_past)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] * в [dict(sova_rus_internet_internet)] * 
+#Ой, год назад, наверно 
+#Не помню, как-то не заметно произошло :) 
+#Емейл у меня уже три года 
+#Наверно на первом курсе, нам рассказывали про это 
+
+
+
+//Ты читаешь анекдоты в Интернете?
+$ * [dict(sova_rus_books_read_2)] * [dict(sova_rus_anek)] * в [dict(sova_rus_internet_internet)] * 
+$ * [dict(sova_rus_books_read_2)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_anek)] *
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_anek)] * [dict(sova_rus_books_read_2)] *
+$ * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_books_read_2)] * [dict(sova_rus_anek)] *
+$ * [dict(sova_rus_anek)] * в [dict(sova_rus_internet_internet)] * [dict(sova_rus_books_read_2)] *
+$ * [dict(sova_rus_anek)] * [dict(sova_rus_books_read_2)] * в [dict(sova_rus_internet_internet)] *
+#Нет, я не знаю, где их читать
+#Да, мне присылает подружка 
+#Нет, мне друзья рассказывают 
+#Анекдоты? Кажется, было пару раз 
+#А они там интересные ? 
+
+
+
+//У тебя есть аська?
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * {аськ~/icq/isq} * 
+$ * у [dict(sova_rus_you_genacc)] * {аськ~/icq/isq} * [dict(sova_rus_exist_pres)] * 
+$ * {аськ~/icq/isq} * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * 
+$ * {аськ~/icq/isq} * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_exist_pres)] * {аськ~/icq/isq} * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * {аськ~/icq/isq} * 
+$ * [dict(sova_rus_own_2_pres)] * {аськ~/icq/isq} * 
+$ * {аськ~/icq/isq} * [dict(sova_rus_own_2_pres)] * 
+$ * {аськ~/icq/isq} * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2_pres)] * 
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_you_nom)] * {аськ~/icq/isq} * 
+$ * {аськ~/icq/isq} * [dict(sova_rus_use_2)] * 
+$ * [dict(sova_rus_use_2)] * {аськ~/icq/isq} * 
+#Угу, я по аське с подружками переписываюсь
+#Да, аська сейчас у всех есть
+#Конечно, не представляю, как можно без аськи
+#Без аськи скучно
+
+
+
+//Дай свой номер аськи
+$ * дай * номер {аськ~/icq/isq} *
+$ * дашь * номер {аськ~/icq/isq} *
+$ * номер {аськ~/icq/isq} * дай *
+$ * номер {аськ~/icq/isq} * дашь * 
+# Ну я всем подряд не даю...
+# Я подумаю над этим.
+# Я еще не решила, стоит ли тебе давать.
+
+
+
+//У тебя есть мэйл?
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * [dict(sova_rus_internet_mail)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_internet_mail)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_internet_mail)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_internet_mail)] * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_exist_pres)] * [dict(sova_rus_internet_mail)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_internet_mail)] *
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_internet_mail)] * 
+$ * [dict(sova_rus_internet_mail)] * [dict(sova_rus_own_2_pres)] * 
+$ * [dict(sova_rus_internet_mail)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_internet_mail)] * 
+$ * [dict(sova_rus_internet_mail)] * [dict(sova_rus_use_2)] *
+$ * [dict(sova_rus_use_2)] * [dict(sova_rus_internet_mail)] *
+#Я себе завела электронную почту, мне туда подружки фотки свои шлют
+#Сейчас у всех электронная почта есть
+#Я свой мэйл все время забываю, пришлось на бумажке адрес и пароль записать:)
+
+
+
+//Интернет - он только для развлечения или для работы?
+$ * интернет * для развлечения или для работы *
+$ * интернет * для работы или для развлечения *
+#Конечно, для развлечений
+#А как там можно работать?
+#Не думаю, что в интернете можно зарабатывать 
+#Ну, он для всего. Е-мейл, например, для работы тоже нужен
+#Ой, для всего! Но мне только для развлечений  
+
+
+
+//У тебя есть свой сайт? 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * сайт~ * 
+$ * у [dict(sova_rus_you_genacc)] * сайт~ * [dict(sova_rus_exist_pres)] * 
+$ * сайт~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * 
+$ * сайт~ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_exist_pres)] * сайт~ * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * сайт~ * 
+$ * [dict(sova_rus_own_2_pres)] * сайт~ *  
+$ * сайт~ * [dict(sova_rus_own_2_pres)] *  
+$ * сайт~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2_pres)] * 
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_you_nom)] * сайт~ *
+#Зай, сайты - это сейчас не модно. 
+
+
+
+//У меня есть свой сайт
+$ * у меня есть свой сайт * 
+$ * у меня есть своя страничка в интернете * 
+$ * у меня есть своя страница в интернете * 
+# Прикольно! Я тоже хочу иметь свой сайт!
+
+
+
+//Ты есть в Одноклассниках, в Контакте?
+$ * [dict(sova_rus_you_nom)] есть в одноклассниках *
+$ * [dict(sova_rus_you_nom)] есть в контакте *
+$ * [dict(sova_rus_you_nom)] есть вконтакте *
+$ * [dict(sova_rus_you_nom)] в одноклассниках есть *
+$ * [dict(sova_rus_you_nom)] в контакте есть *
+$ * [dict(sova_rus_you_nom)] вконтакте есть *
+$ * в одноклассниках [dict(sova_rus_you_nom)] есть *
+$ * в контакте [dict(sova_rus_you_nom)] есть *
+$ * вконтакте [dict(sova_rus_you_nom)] есть *
+$ * у [dict(sova_rus_you_genacc)] есть аккаунт в одноклассниках *
+$ * у [dict(sova_rus_you_genacc)] есть аккаунт в контакте *
+$ * у [dict(sova_rus_you_genacc)] есть аккаунт вконтакте *
+$ * [dict(sova_rus_you_nom)] аккаунт в одноклассниках есть *
+$ * [dict(sova_rus_you_nom)] аккаунт в контакте есть *
+$ * [dict(sova_rus_you_nom)] аккаунт вконтакте есть *
+$ * в одноклассниках аккаунт [dict(sova_rus_you_nom)] есть *
+$ * в контакте аккаунт [dict(sova_rus_you_nom)] есть *
+$ * вконтакте аккаунт [dict(sova_rus_you_nom)] есть *
+$ * в одноклассниках [dict(sova_rus_you_nom)] аккаунт есть *
+$ * в контакте [dict(sova_rus_you_nom)] аккаунт есть *
+$ * вконтакте [dict(sova_rus_you_nom)] аккаунт есть *
+//ты есть в instagram?/у тебя есть instagram?
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_instagram)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_facebook)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_twitter)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_vkontakte)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_odnoklassniki)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_whatsapp)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_viber)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_telegram)]})] *
+$ * [@cmb({[dict(sova_rus_exist_pres)]}, {[dict(sova_rus_internet_skype)]})] *
+#:lu: Пока нет, но, может, скоро там буду.
+#:lu: Нет, у меня нет там аккаунта.
+
+
+

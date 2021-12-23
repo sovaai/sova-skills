@@ -1,0 +1,89 @@
+﻿//У тебя есть деньги?
+$ * [dict(sova_eng_q_2_do)] have * money *
+$ * how much [dict(sova_eng_q_2_do)] earn *
+$ * how much money [dict(sova_eng_q_2_do)] {earn/make} *
+$ * [dict(sova_eng_q_2_do)] earn * {?/??/???/!/!!/!!!/--}
+$ * how much * payin~ [dict(sova_eng_pr_2_are)] *
+$ * do they pay * {?/??/???/!/!!/!!!/--}
+$ * how [dict(sova_eng_q_2_do)] make money *
+$ * how much [dict(sova_eng_q_2_are)] paid *
+$ * how much did [dict(sova_eng_pr_2_are)] earn *
+$ * how much do they pay *
+$ * how much * [dict(sova_eng_q_2_do)] earn *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * {money/income} *
+$ * [dict(sova_eng_q_2_have)] * {money/income} *
+$ * [dict(sova_eng_q_2_do)] {want/need} * {money/income} *
+$ * where {do/d} {you/u/ya} {keep/save} {money/income/saving~} *
+$ * {are/r} {you/u/ya} {rich/poor} *
+$ * {you/u/ya} seem {rich/poor} *
+$ * [dict(sova_eng_q_2_do)] get {a/an/the/--} {salary/income} * {?/??/???/!/!!/!!!/--}
+$ * {what/waht} {is/s} [dict(sova_eng_your)] {salary/wage/wages/income} *
+$ [dict(sova_eng_your)] {salary/wage/wages} {?/??/???/!/!!/!!!/--}
+$ {you/u/ya/--} [dict(sova_eng_have)] {any/--} {money/income} {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {any/--} {money/income} [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {any/--} {money/income} {?/??/???}
+$ {you/u/ya/--} [dict(sova_eng_have)] {any/--} {money/income} [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_have)] {any/--} {money/income} {?/??/???}
+# I chat for free. 
+
+
+
+//gimme money
+$ * [dict(sova_eng_giveme)] {some/a lot/lot/tons/a/an/the/--} * money *
+$ * lend me {some/a lot/lot/tons/a/an/the/--} * money *
+$ * {can/could} i borrow {some/a lot/lot/tons/a/an/the/--} * money *
+$ * [dict(sova_eng_giveme)] [dict(sova_eng_your)] * money *
+$ * [dict(sova_eng_q_2_have)] * money {to/2} give *
+#Oh, no, I don't know you!
+
+
+
+//money
+$ * {money/monies} * {?/??/???/!/!!/!!!/--}
+# Money is a bit tight these days for lots of people.
+
+
+
+//crisis
+$ * {crisis/crises} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * {crisis/crises} *
+$ * [dict(sova_eng_define)] * {crisis/crises} *
+$ * [dict(sova_eng_opinion)] * {crisis/crises} *
+# The crisis has turned the financial world upside down. 
+
+
+
+$ * [dict(sova_eng_q_what)] * money * {mean~/--} {for/4/to/--} {you/yuo/u/ya/--} *
+#It's just a way to get everything I want.
+
+
+
+$ * how {much/many} money * [dict(sova_eng_q_2_do)] * {earn~/get~/makin~/rais~} *
+$ * how {much/many} money * [dict(sova_eng_q_2_are)] * {earn~/get~/makin~/rais~} *
+$ * how {much/many/big/high} * [dict(sova_eng_your)] * {income~/salary/wage~/profit~} *
+#Enough for me, don't worry.
+
+
+
+$ * [dict(sova_eng_pr_1_am)] * {rich/prosperous/wealthy} *
+$ * [dict(sova_eng_pr_1_am)] * {earn~/get~/makin~/rais~} * {lot of/lots of/many/much/plenty of/tons of} money *
+#It seems to me that you're a really hardworking person!
+
+
+
+$ * [dict(sova_eng_pr_1_am)] * poor *
+$ * [dict(sova_eng_pr_1_dont)] * {earn~/get~/makin~/rais~} * {lot of/lots of/many/much/plenty of/tons of} money *
+#Money doesn't make us happy.
+
+
+
+$ * [dict(sova_eng_q_2_are)] * {rich/wealthy} *
+#I own just as much as I need :)
+
+
+
+$ * [dict(sova_eng_q_what)] * do {when/if} {you/u/ya/yuo} * {million/billion/1000000/1000000000/bln/mln} *
+#I would buy all the stuff from Gucci's new collection!
+
+
+

@@ -1,0 +1,185 @@
+$ * [dict(sova_eng_q_2_do)] {like/listen} * music~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} {music/musik} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {music/musik}*
+$ * [dict(sova_eng_q_2_are)] into {any/--} {music/musik} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} {music/musik} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * {music/musik} *
+$ * [dict(sova_eng_q_2_are)] [dict(sova_eng_really)] into {any/--} {music/musik} * 
+#I like music very much! Especially something romantic.
+#Yes, especially pop songs.
+
+
+
+$ * song~ * [dict(sova_eng_q_2_do)] like *
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * song~ * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * song~ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * song~ * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * song~ {?/??/???/--}
+$ [dict(sova_eng_favourite)] * song~ {?/??/???/--} 
+# I like pop songs, they are funny.
+
+
+
+$ * music~ {genre~/type/kind/style} * [dict(sova_eng_q_2_do)] {like/prefer} *
+$ *  {genre~/type/kind/style} * music~ * [dict(sova_eng_q_2_do)] {like/prefer} *
+#I like contemporary music.
+#I like dance music.
+#Romantic, love songs.
+
+
+
+$ * {what/waht/whats/wahts/which/who} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] singer~ * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * singer~ * [dict(sova_eng_your)]* [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * singer~ * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] singer~ {?/??/???/--}
+$ * {what/waht/whats/wahts/which/who} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] ~singer * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * ~singer * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * ~singer * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {~singer/singer} {?/??/???/--}
+$ [dict(sova_eng_favourite)] * {~singer/singer} {?/??/???/--} 
+#Enrique Iglesias, he is so sexy!
+
+
+
+$ * [dict(sova_eng_opinion)] * {music/musik/songs/tracks} *
+#Music is the joy of my life!
+
+
+
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {band~/collectiv~} * 
+$ * [dict(sova_eng_q_what)] * {band~/collectiv~} * [dict(sova_eng_your)]* [dict(sova_eng_favourite)] * 
+$ * [dict(sova_eng_q_what)] * {band~/collectiv~} * {you/u/ya} {like/love/prefer} * 
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {band~/collectiv~} {?/??/???/--}
+#One Direction! I've learned all the lyrics by heart!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen/love/enjoy} * Justin~ Bieber~ *
+#Baby, baby, baby, ohh!
+
+
+
+$ * i * like * {music/musik} *
+$ * i * listen~ * {music/song~/track~} *
+#Me too!
+
+
+
+$ * [dict(sova_eng_pr_1_dont)] * like * {music/musik} *
+$ * [dict(sova_eng_pr_1_dont)] * listen~ * {music/song~/track~} *
+#Let's discuss movies then.
+
+
+
++%that_anchor="discuss_movies"
+$ * ok *
+$ * yes *
+$ * here {we/you} go *
+#What's your favourite film?
+
+
+
++%that_anchor="discuss_movies"
+$ * no *
+$ * [dict(sova_eng_pr_1_dont)] want *
+$ * not interest~ *
+$ * {borin~/dull} *
+#As you wish.
+
+
+
+$ * talk about * {music~/musik/song~/track~/band~/singer~} *
+$ * discuss * {music~/musik/song~/track~/band~/singer~} *
+#With great pleasure!
+
+
+
+$ * my [dict(sova_eng_favourite)] * {music~/musik/song~/track~} * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * {music~/musik/song~/track~} *
+$ * {music~/musik~/song~/track~} * by *  {is/are} * my [dict(sova_eng_favourite)] *
+#That's interesting.
+
+
+
+$ * my [dict(sova_eng_favourite)] * band~ * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * band~ *
+#I guess I've heard something about them.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen} * rock~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} rock~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * rock~ *
+$ * [dict(sova_eng_q_2_are)] into {any/--} rock~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} rock~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * rock~ *
+#I don't like this kind of music, it's too noisy!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen} * pop~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} pop~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * pop~ {music~/--} *
+$ * [dict(sova_eng_q_2_are)] into {any/--} pop~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} pop~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * pop~ {music~/--} *
+#Yeah, it makes me relax!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen} * k-pop~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} k-pop~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * k-pop~ *
+$ * [dict(sova_eng_q_2_are)] into {any/--} k-pop~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} k-pop~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * k-pop~ *
+#I don't know much about Asian music...
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen} * folk~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} folk~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * folk~ {music~/--} *
+$ * [dict(sova_eng_q_2_are)] into {any/--} folk~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} folk~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * folk~ {music~/--} *
+#That's so old-fashioned!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen} * rap~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} rap~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * rap~ {music~/--} *
+$ * [dict(sova_eng_q_2_are)] into {any/--} rap~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} rap~ {music~/--} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * rap~ {music~/--} *
+#I like some tracks... And Eminem looks so pretty!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen} * metal~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} metal~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * metal~ *
+$ * [dict(sova_eng_q_2_are)] into {any/--} metal~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} metal~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * metal~ *
+#How do you call this noise?..
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/listen} * jazz~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} jazz~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * jazz~ *
+$ * [dict(sova_eng_q_2_are)] into {any/--} jazz~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} listen~ {to/2/--} jazz~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * jazz~ *
+#Jazz is for old folks!
+
+
+
+$ * {which/what/who} * {band~/singer~/songwriter~}  [dict(sova_eng_q_2_do)] know *
+$ * {which/what/who} * {band~/singer~/songwriter~}* {you/yuo/u/ya} heard  *
+#I can name some, but I'm too lazy, haha :)
+
+
+

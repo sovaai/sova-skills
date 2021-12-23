@@ -1,0 +1,129 @@
+//Jump
+$ * {jump/leap/bounce} *
+#Jumping
+
+
+//Run
+$ * run *
+#Running
+
+
+//Dance
+$ * dance *
+#Dancing
+
+
+//Sing
+$ * sing *
+#Singing
+
+
+//Sit
+$ * sit *
+#Sitting
+
+
+//Stand
+$ * stand *
+#Standing
+
+
+//Raise the hand
+$ * {raise/lift} * {hand~/arm~} *
+$ * {get/put} * [@cmb({up}, {{hand~/arm~\}})] *
+#Raising the hand
+
+
+//Lower the hand
+$ * {lower/drop} * {hand~/arm~} *
+$ * {get/put} * [@cmb({down}, {{hand~/arm~\}})] *
+#Lowering the hand
+
+
+//Bend the arm
+$ * Bend * {hand~/arm~} *
+#Bending the arm
+
+
+//Wave the hand
+$ * Wave * hand~ *
+#Waving the hand
+
+
+//Raise the foot
+$ * {raise/lift} * {foot/feet/leg~} *
+$ * {get/put} * [@cmb({up}, {{foot/feet/leg~\}})] *
+#Raising the foot
+
+
+//Lower the foot
+$ * {lower/drop} * {foot/feet/leg~} *
+$ * {get/put} * [@cmb({down}, {{foot/feet/leg~\}})] *
+#Lowering the foot
+
+
+//Bend the leg
+$ * bend * {foot/feet/leg~} *
+#Bending the leg
+
+
+//Squat
+$ * {squat/crouch} *
+#Squatting
+
+
+//Kneel
+$ * {drop * knee~/kneel} *
+#Kneeling
+
+
+//Open the eyes
+$ * open * eye~ *
+#Opening the eyes
+
+
+//Close the eyes
+$ * {close/shut} * eye~ *
+#Closing the eyes
+
+
+//Do a trick
+$ * {do/make/show/implement/perform} * {trick/hocus/pocus} *
+#Doing a trick
+
+
+
+//Do a somersault
+$ * {do/make/show/implement/perform} * {~flip/flip~/somersault} *
+#Doing a somersault
+
+
+//Stick the tongue
+$ * {stick/show/perform} * tongue *
+#Sticking the tongue
+
+
+//Roll up the tongue
+$ * {roll/curl}  * tongue *
+#Rolling up the tongue
+
+
+//Move the ears
+$ * move * ear~ *
+#Moving the ears
+
+
+//Amuse me
+$ * {amuse/entertain/animate} *
+#Who would amuse me...
+
+
+//Do something
+$ * {do/make/perform} * [dict(sova_eng_something)] *
+#I'm about to do it.
+
+
+//Tell me something
+$ * {tell/say/narrate} * {me/--} * [dict(sova_eng_something)] * {me/--} *
+#How about you telling me something?
+

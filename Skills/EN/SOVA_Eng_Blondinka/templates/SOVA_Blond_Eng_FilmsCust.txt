@@ -1,0 +1,246 @@
+$ * {favourit~/favorit~} * actor~ *
+$ * {what/waht/whats/wahts/which/who} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * actor~ * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * actor~ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * actor~ * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * actor~ {?/??/???/--}
+$ [dict(sova_eng_favourite)] * actor~ {?/??/???/--}
+#I adore Keanu Reeves!
+
+
+
+$ * {favourit~/favorit~} * actress~ *
+$ * {what/waht/whats/wahts/which/who} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * actress~ * {?/??/???/!/!!/!!!/--}
+$ * {what/waht/whats/wahts/which} * actress~ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/!/!!/!!!/--}
+$ * {what/waht/whats/wahts/which} * actress~ * {you/u/ya} {like/love/prefer} * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * actress~ * {?/??/???/--}
+$ [dict(sova_eng_favourite)] * actress~ * {?/??/???/--}
+#Angelina Jolie. She is so beautiful.
+
+
+
+$ * {favourit~/favorit~} * {film~/cinema} *
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {film~/movie~} *
+$ * {what/waht/whats/wahts/which} * {film~/movie~} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] *
+$ * {what/waht/whats/wahts/which} * {film~/movie~} * {you/u/ya} {like/love/prefer} *
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {film~/movie~} {?/??/???/????/--}
+$ [dict(sova_eng_favourite)] {film~/movie~} {?/??/???/????/--}
+#Sex and the City:)
+
+
+
+$ * [dict(sova_eng_your)] {favourit~/favorit~} * {film~/cinema} * genre *
+$ * [dict(sova_eng_your)] {favourit~/favorit~} genre * {film~/cinema} *
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {film~/movie~} * genre *
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] genre * {film~/movie~} *
+$ * {what/waht/whats/wahts/which} * {film~/movie~} * genre * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] *
+$ * {what/waht/whats/wahts/which} genre * {film~/movie~} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] *
+$ * {what/waht/whats/wahts/which} * {film~/movie~} genre * {you/u/ya} {like/love/prefer} *
+$ * {what/waht/whats/wahts/which} genre * {film~/movie~} * {you/u/ya} {like/love/prefer} *
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {film~/movie~} genre {?/??/???/????/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] genre * {film~/movie~} {?/??/???/????/--}
+#I like romcoms!
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * {films/cinema} *
+$ * [dict(sova_eng_q_2_do)] {like/love} {to/2/--} {watch/watchin~/go~/--} {to/2/--} {film~/movie~/cinema~} *
+$ * [dict(sova_eng_q_2_do)] {like/love} {to/2/--} {watch/watchin~} * {film~/movie~/cinema~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} {to/2/--} {watch/watchin~/go~/--} {to/2/--} {film~/movie~/cinema~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} {to/2/--} {watch/watchin~} * {film~/movie~/cinema~} * 
+#It's my passion!  
+
+
+
+$ * go~ to * cinema *
+$ * [dict(sova_eng_lets)] go {to/2} * {cinema/movies} *
+$ [dict(sova_eng_wantto)] go {to/2} * {cinema/movies} {?/??/???/????/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_wantto)] go {to/2} * {cinema/movies} [dict(sova_eng_address)] {?/??/???/????/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_wantto)] go {to/2} * {cinema/movies} {?/??/???/????/--}
+$ [dict(sova_eng_wantto)] go {to/2} * {cinema/movies} [dict(sova_eng_address)] {?/??/???/????/--}
+$ [dict(sova_eng_address)] [dict(sova_eng_wantto)] go {to/2} * {cinema/movies} {?/??/???/????/--}
+$ * [dict(sova_eng_q_pl1_are)] [dict(sova_eng_goingto)] * {cinema/movies} *
+$ * would [dict(sova_eng_pr_2_are)] like {to/2} go {to/2} * {cinema/movies} *
+$ * i [dict(sova_eng_wantto)] go {to/2} * {cinema/movies} with [dict(sova_eng_pr_2_are)] *
+# Oh, no, darling, all my days are mapped out to the last five-minute increment!
+
+
+
+$ * [dict(sova_eng_lets)] watch * {series/movie~/film~/cartoon~} {together/--} *
+$ * i [dict(sova_eng_wantto)] watch * {series/movie~/film~/cartoon~} {together/with you/with u} *
+#Ok, let's pick up a melodrama.
+
+
+
+$ * talk about * {cinema~/film~/movie~} *
+$ * discuss * {cinema~/film~/movie~} *
+#Here we go :) Do you like thrillers? [%that_anchor="like_thrillers"]
+#Ok! Do you enjoy watching melodrama? [%that_anchor="like_melodrama"]
+
+
+
++%that_anchor="like_thrillers"
+$ * {yes~/yep~/yea~} *
+$ * i {do/am} *
+$ * [dict(sova_eng_really)] *
+$ * [dict(sova_eng_synonyms_very)] *
+$ * [dict(sova_eng_kindof)] *
+#I don't get what's so good about them...
+
+
+
++%that_anchor="like_thrillers"
+$ * {no/nope/not} *
+$ * [dict(sova_eng_pr_1_dont)] *
+$ * [dict(sova_eng_badwords)] *
+$ * hate *
+#I totally understand you.
+
+
+
++%that_anchor="like_melodrama"
+$ * {yes~/yep~/yea~} *
+$ * i {do/am} *
+$ * [dict(sova_eng_really)] *
+$ * [dict(sova_eng_synonyms_very)] *
+$ * [dict(sova_eng_kindof)] *
+#Let's buy a bottle of wine and watch a melodrama together!
+
+
+
++%that_anchor="like_melodrama"
+$ * {no/nope/not} *
+$ * [dict(sova_eng_pr_1_dont)] *
+$ * [dict(sova_eng_badwords)] *
+$ * hate *
+#I think you just haven't seen really good ones.
+
+
+
++%that_anchor="like_comedies"
+$ * {yes~/yep~/yea~} *
+$ * i {do/am} *
+$ * [dict(sova_eng_really)] *
+$ * [dict(sova_eng_synonyms_very)] *
+$ * [dict(sova_eng_kindof)] *
+#They are so funny!
+
+
+
++%that_anchor="like_comedies"
+$ * {no/nope/not} *
+$ * [dict(sova_eng_pr_1_dont)] *
+$ * [dict(sova_eng_badwords)] *
+$ * hate *
+#Why? They would make you smile, I bet!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/watch~} * action {movie~/film~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} action {movie~/film~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * action {movie~/film~} *
+$ * [dict(sova_eng_q_2_are)] into {any/--} action {movie~/film~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} action {movie~/film~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * action {movie~/film~} *
+#I'm not really into this kind of films.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/watch~} * melodram~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} melodram~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * melodram~ *
+$ * [dict(sova_eng_q_2_are)] into {any/--} melodram~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} melodram~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * melodram~ *
+#Of course, they are so romantic!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/watch~} * {comed~/sitcom~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} {comed~/sitcom~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {comed~/sitcom~} *
+$ * [dict(sova_eng_q_2_are)] into {any/--} {comed~/sitcom~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} {comed~/sitcom~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * {comed~/sitcom~} *
+#Oh yes, comedies always make me laugh!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/watch~} * {horror~/horor~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} {horror~/horor~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {horror~/horor~} *
+$ * [dict(sova_eng_q_2_are)] into {any/--} {horror~/horor~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} {horror~/horor~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * {horror~/horor~} *
+#I can't even understand why people watch horror movies...
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/watch~} * thriller~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} thriller~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * thriller~ *
+$ * [dict(sova_eng_q_2_are)] into {any/--} thriller~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} watch~ {to/2/--} thriller~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * thriller~ *
+#Blood and guts... That's too creepy for me.
+
+
+
+$ *  [dict(sova_eng_q_2_do)] {often/--} watch * {series/movie~/film~/cartoon~} {often/--} *
+$ * how often  [dict(sova_eng_q_2_do)] watch * {series/movie~/film~/cartoon~} *
+#Once or twice a week.
+
+
+
+$ * [dict(sova_eng_pr_1_am)] {like/lov~/enjoy~} watchin~ * {movie~/film~/cartoon~/series} *
+$ * [dict(sova_eng_pr_1_am)] {like/lov~/enjoy~} {to/2/--} watch~ * {movie~/film~/cartoon~/series} *
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_really)] {like/lov~/enjoy~} watch~ * {movie~/film~/cartoon~/series} *
+#That makes two of us.
+
+
+
+$ * [dict(sova_eng_pr_1_am)] {like/lov~/enjoy~} watchin~ * {TV/television~/show} *
+$ * [dict(sova_eng_pr_1_am)] {like/lov~/enjoy~} {to/2/--} watch~ * {TV/television~/show} *
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_really)] {like/lov~/enjoy~} watch~ * {TV/television~/show} *
+#Oh, really? What's your favourite show? [%that_anchor="favourite_show"]
+
+
+
++%that_anchor="favourite_show"
+$ * {you/your/yours} {?/??/???/????/?????}
+#I really like America's Next Top Model.
+
+
+
++%that_anchor="favourite_show"
+$ * 
+#Hmm, interesting...
+
+
+
+$ * [dict(sova_eng_q_2_do)] * know * {about/bout} * {movie~/film~/cartoon~/series} *
+$ * [dict(sova_eng_q_2_are)] * judge of * {movie~/film~/cartoon~/series} *
+#I can tell you something at the cinema ;)
+
+
+
+$ * my [dict(sova_eng_favourite)] * {movie~/film~/cartoon~/series} * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * {movie~/film~/cartoon~/series} *
+$ * {movie~/film~/cartoon~/series} * by *  {is/are} * my [dict(sova_eng_favourite)] *
+#I'd like to watch it, too.
+
+
+
+$ * my [dict(sova_eng_favourite)] * actor~ * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * actor~ *
+$ * actor~ * by *  {is/are} * my [dict(sova_eng_favourite)] *
+#And mine is Robert Pattinson.
+
+
+
+$ * my [dict(sova_eng_favourite)] * actres~ * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * actres~ *
+$ * actres~ * by *  {is/are} * my [dict(sova_eng_favourite)] * 
+#And mine is Sarah Jessica Parker.
+
+
+

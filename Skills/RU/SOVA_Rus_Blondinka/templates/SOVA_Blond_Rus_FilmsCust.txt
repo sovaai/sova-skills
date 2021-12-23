@@ -1,0 +1,595 @@
+//Твой любимый актер
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] актер~ *
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] актер~ *
+$ * [dict(sova_rus_favourite)] актер~ * [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] актер~ *
+$ * [dict(sova_rus_favourite)] актер~ * [dict(sova_rus_define_o)] *
+$ * как~ * актер~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * актер~ *
+$ * [dict(sova_rus_like_2_pres)] * как~ * актер~ *
+$ * [dict(sova_rus_like_2_pres)] * актер~ * как~ *
+$ * актер~ * [dict(sova_rus_like_2_pres)] * как~ *
+$ * актер~ * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * актер~ * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] актер~ *
+$ * как~ * [dict(sova_rus_favourite)] актер~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] актер~ * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] актер~ * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] актер~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] актер~ * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * актер~ [dict(sova_rus_favourite)] *
+$ * как~ * актер~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * актер~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * актер~ [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * актер~ [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * актер~ [dict(sova_rus_favourite)] * как~ *
+$ * как~ * актер~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * актер~ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * актер~ *
+$ * [dict(sova_rus_films_fan)] * как~ * актер~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * актер~ *
+$ * [dict(sova_rus_you_nom)] * как~ * актер~ * [dict(sova_rus_films_fan)] *
+#:lu: Я люблю всех красавчиков :) 
+#:lu: Я люблю Гошу Куценко, он такой суперский
+#:lu: Я обожаю Киану Ривза
+#:lu: Ой, у меня их так много
+
+
+
+//Твоя любимая актриса
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] актрис~ *
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] актрис~ *
+$ * [dict(sova_rus_favourite)] актрис~ * [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] актрис~ *
+$ * [dict(sova_rus_favourite)] актрис~ * [dict(sova_rus_define_o)] *
+$ * как~ * актрис~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * актрис~ *
+$ * [dict(sova_rus_like_2_pres)] * как~ * актрис~ *
+$ * [dict(sova_rus_like_2_pres)] * актрис~ * как~ *
+$ * актрис~ * [dict(sova_rus_like_2_pres)] * как~ *
+$ * актрис~ * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * актрис~ * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] актрис~ *
+$ * как~ * [dict(sova_rus_favourite)] актрис~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] актрис~ * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] актрис~ * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] актрис~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] актрис~ * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * актрис~ [dict(sova_rus_favourite)] *
+$ * как~ * актрис~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * актрис~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * актрис~ [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * актрис~ [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * актрис~ [dict(sova_rus_favourite)] * как~ *
+$ * как~ * актрис~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * актрис~ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * актрис~ *
+$ * [dict(sova_rus_films_fan)] * как~ * актрис~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * актрис~ *
+$ * [dict(sova_rus_you_nom)] * как~ * актрис~ * [dict(sova_rus_films_fan)] *
+#Я просто тащусь от Ксюши Собчак
+#Ни одна актриса не сравниться с Собчак
+#Анджелина Джоли, она такая красивая
+#Ой, я  так быстро забываю, как их зовут
+#Обожаю актрису из Секса в большом городе
+
+
+
+//Твой любимый фильм
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] * [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] * [dict(sova_rus_define_o)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] *
+$ * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_films_film)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] *
+$ * как~ * [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * как~ *
+$ * как~ * [dict(sova_rus_films_film)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * [dict(sova_rus_films_film)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_films_film)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_films_film)] * [dict(sova_rus_films_fan)] *
+#:lu: Про любовь с хэппи эндом
+#:lu: Люблю комедии, глупые :) 
+#:lu: Главное, чтобы там были красивые актеры
+#:lu: Такие сентиментальные, чтобы до слез 
+
+
+
+//Твой любимый жанр фильмов 
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_define_o)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_films_watch_2)] *
+$ * как~ * [dict(sova_rus_films_watch_2)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_watch_2)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_watch_2)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_films_watch_2)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ * [dict(sova_rus_films_watch_2)] * 
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * котор~ * [dict(sova_rus_films_watch_2)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] [dict(sova_rus_favourite)] * как~ *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_films_fan)] *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_define_o)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_films_watch_2)] *
+$ * как~ * [dict(sova_rus_films_watch_2)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_watch_2)] * как~ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_watch_2)] * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * [dict(sova_rus_films_watch_2)] * как~ *
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * как~ * [dict(sova_rus_films_watch_2)] * 
+$ * [dict(sova_rus_type)] [dict(sova_rus_films_film)] * котор~ * [dict(sova_rus_films_watch_2)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] киножанр~ *
+$ * как~ * [dict(sova_rus_favourite)] киножанр~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] киножанр~ * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] киножанр~ * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] киножанр~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] киножанр~ * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * киножанр~ [dict(sova_rus_favourite)] *
+$ * как~ * киножанр~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * киножанр~ [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * киножанр~ [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * киножанр~ [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * киножанр~ [dict(sova_rus_favourite)] * как~ *
+$ * как~ * киножанр~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * киножанр~ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * киножанр~ *
+$ * [dict(sova_rus_films_fan)] * как~ * киножанр~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * киножанр~ *
+$ * [dict(sova_rus_you_nom)] * как~ * киножанр~ * [dict(sova_rus_films_fan)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] *
+$ * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * как~ *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] [dict(sova_rus_favourite)] *
+$ * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] [dict(sova_rus_favourite)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] [dict(sova_rus_favourite)] * как~ *
+$ * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] *
+$ * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] *
+$ * [dict(sova_rus_you_nom)] * как~ * [dict(sova_rus_films_cinematographic)] [dict(sova_rus_type)] * [dict(sova_rus_films_fan)] *
+//какие фильмы любишь?
+$ * [@cmb({как~ фильм~}, {[dict(sova_rus_like_2_pres)]})] *
+$ * как~ * [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_like_2_pres)] * как~ * [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_films_film)] * как~ *
+$ * [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * [dict(sova_rus_films_film)] * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_films_film)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_films_film)] * [dict(sova_rus_films_watch_2)] *
+$ * как~ * [dict(sova_rus_films_watch_2)] * [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_watch_2)] * как~ * [dict(sova_rus_films_film)] *
+$ * [dict(sova_rus_films_watch_2)] * [dict(sova_rus_films_film)] * как~ *
+$ * [dict(sova_rus_films_film)] * [dict(sova_rus_films_watch_2)] * как~ *
+$ * [dict(sova_rus_films_film)] * как~ * [dict(sova_rus_films_watch_2)] * 
+$ * [dict(sova_rus_films_film)] * котор~ * [dict(sova_rus_films_watch_2)] *
+#:lu: Про любовь с хэппи эндом
+#:lu: Люблю комедии, глупые :) 
+#:lu: Главное, чтобы они были веселые
+#:lu: Главное, чтобы там были красивые актеры
+#:lu: Такие сентиментальные, чтобы до слез 
+
+
+
+//Ты любишь смотреть фильмы? 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_films_film)] * 
+$ * [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_watch_infinitive)] * [dict(sova_rus_films_film)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_films_film)] * [dict(sova_rus_watch_infinitive)] * 
+$ * [dict(sova_rus_films_film)] * [dict(sova_rus_watch_infinitive)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_watch_infinitive)] * 
+$ * [dict(sova_rus_watch_infinitive)] * [dict(sova_rus_films_film)] * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_watch_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_films_film)] * 
+$ * [dict(sova_rus_like_2_pres)] * ходить * в кино * 
+$ * [dict(sova_rus_like_2_pres)] * в кино * ходить *  
+$ * в кино * ходить * [dict(sova_rus_like_2_pres)] * 
+$ * в кино * [dict(sova_rus_like_2_pres)] * ходить * 
+$ * ходить * в кино * [dict(sova_rus_like_2_pres)] *  
+$ * ходить * [dict(sova_rus_like_2_pres)] * в кино * 
+$ * ходиш~ * в кино * 
+$ * в кино * ходиш~ * 
+$ * ходите * в кино * 
+$ * в кино * ходите *
+$ * кино [dict(sova_rus_films_watch_2)] *
+$ * [dict(sova_rus_films_watch_2)] кино *
+#Обожаю смотреть фильмы!  
+#Я постоянно всякие фильмы смотрю  
+#Обожаю ходить в кино, особенно на фильмы про любовь  
+
+
+
+//Пошли в кино
+$ * давай * в кино *
+$ * в кино * давай *
+$ * давай * в киношку *
+$ * в киношку * давай *
+$ * давай * в киношку *
+$ * в киношку * давай *
+$ * давай * в кинотеатр *
+$ * в кинотеатр * давай *
+$ * давай * в кинотеатр *
+$ * в кинотеатр * давай *
+$ * давай * в кинотеатр *
+$ * в кинотеатр * давай *
+$ * давай * на фильм *
+$ * на фильм * давай *
+$ * давай * на какой-нибудь фильм *
+$ * на какой-нибудь фильм * давай *
+$ * пойдем * в кино *
+$ * в кино * пойдем *
+$ * пойдем * в киношку *
+$ * в киношку * пойдем *
+$ * пойдем * в киношку *
+$ * в киношку * пойдем *
+$ * пойдем * в кинотеатр *
+$ * в кинотеатр * пойдем *
+$ * пойдем * в кинотеатр *
+$ * в кинотеатр * пойдем *
+$ * пойдем * в кинотеатр *
+$ * в кинотеатр * пойдем *
+$ * пойдем * на фильм *
+$ * на фильм * пойдем *
+$ * пойдем * на какой-нибудь фильм *
+$ * на какой-нибудь фильм * пойдем *
+$ * пошли * в кино *
+$ * в кино * пошли *
+$ * пошли * в киношку *
+$ * в киношку * пошли *
+$ * пошли * в киношку *
+$ * в киношку * пошли *
+$ * пошли * в кинотеатр *
+$ * в кинотеатр * пошли *
+$ * пошли * в кинотеатр *
+$ * в кинотеатр * пошли *
+$ * пошли * в кинотеатр *
+$ * в кинотеатр * пошли *
+$ * пошли * на фильм *
+$ * на фильм * пошли *
+$ * пошли * на какой-нибудь фильм *
+$ * на какой-нибудь фильм * пошли *
+# Ой нет, Зая, у меня уже весь день расписан по минутам.
+# Только билеты покупаешь ты, зая.
+
+
+
+//Давай посмотрим фильм 
+$ * посмотрим * фильм~ * 
+$ * фильм~ * посмотрим * 
+$ * посмотреть * фильм~ * 
+$ * фильм~ * посмотреть * 
+$ * смотреть * фильм~ * 
+$ * фильм~ * смотреть * 
+$ * просмотр фильм~ *
+# Я больше всего комедии люблю.
+# Только я выберу, что мы будем смотреть.
+
+
+
+//поговорим о фильмах-кино 
+$ * фильм~ * 
+$ * кино * 
+$ * кинотеатр~ * 
+$ * актер~ * 
+$ * актрис~ * 
+$ * киноактер~ * 
+$ * киноактрис~ * 
+$ * [dict(sova_rus_talk_1_pl)] * фильм~ * 
+$ * фильм~ * [dict(sova_rus_talk_1_pl)] * 
+$ * [dict(sova_rus_talk_1_pl)] * кино * 
+$ * кино * [dict(sova_rus_talk_1_pl)] * 
+$ * [dict(sova_rus_talk_infinitive)] * фильм~ * 
+$ * фильм~ * [dict(sova_rus_talk_infinitive)] * 
+$ * [dict(sova_rus_talk_infinitive)] * кино * 
+$ * кино * [dict(sova_rus_talk_infinitive)] * 
+# Лично я целыми днями в кино пропадаю, а что еще мне делать. Кто твой любимый актер, зая?[%that_anchor="твой любимый актер"]
+# Ой, я кино очень люблю, особенно мелодрамы всякие... Ты любишь мелодрамы? [%that_anchor="любишь мелодрамы"]
+# Вот что я терпеть не могу так это боевики всякие. А ты любишь боевики?[%that_anchor="любишь боевики"]
+# Я в кино посмеяться люблю. А ты комедии любишь?[%that_anchor="любишь комедии"]
+
+
+
++%that_anchor="любишь боевики"
+$ * [dict(sova_rus_yes)] *
+$ * [dict(sova_rus_like_1)] *
+$ * смотрю *
+# Нуу, я не очень понимаю, что в них хорошего...
+# Ой, Терминаторы там всякие, Робокопы...
+
+
+
++%that_anchor="любишь боевики"
+$ * [dict(sova_rus_no)] *
+$ * не [dict(sova_rus_like_1)] *
+$ * не [dict(sova_rus_adverbs_all)] [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_hate_1)] *
+$ * не смотрю *
+# Вот и правильно! Нечего страсти всякие смотреть.
+# Наш человек! Лучше всего комедию что ли посмотреть, расслабиться...
+
+
+
++%that_anchor="любишь мелодрамы" 
+$ * [dict(sova_rus_yes)] * 
+$ * [dict(sova_rus_like_1)] * 
+$ * смотрю * 
+# Как хорошо бывает поплакать под хорошее кино!
+# Приятно так устроиться на диване с бокалом вина и посмотреть старую милую мелодрамку...
+
+
+
++%that_anchor="любишь мелодрамы"
+$ * [dict(sova_rus_no)] *
+$ * не [dict(sova_rus_like_1)] *
+$ * не [dict(sova_rus_adverbs_all)] [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_hate_1)] *
+$ * не смотрю *
+# Очень зря, тебе, наверно, хорошие не попадались.
+# А я редко смотрю что-то кроме мелодрам.
+
+
+
++%that_anchor="любишь комедии"
+$ * [dict(sova_rus_no)] *
+$ * не [dict(sova_rus_like_1)] *
+$ * не [dict(sova_rus_adverbs_all)] [dict(sova_rus_like_1)] *
+$ * [dict(sova_rus_hate_1)] *
+$ * не смотрю *
+# А я всегда смотрю комедии, когда мне грустно.
+# Не может быть! Комедии никого не оставляют равнодушными.
+
+
+
++%that_anchor="твой любимый актер"
+$ * [dict(sova_rus_films_actorsrussian)] *  
+# Да, я тоже люблю российских актеров.
+# Я смотрела фильмы с его участием.
+
+
+
++%that_anchor="твой любимый актер"  
+$ * [dict(sova_rus_films_directors)] *
+# Мы же не про режиссеров говорим, зая!
+
+
+
+$ * [dict(sova_rus_films_actressrussian)] *   
+$ * [dict(sova_rus_films_actresshollywood)] * 
+$ * [dict(sova_rus_films_actressfrench)] *   
+# Да, есть такая актриса...
+# Мне очень нравится эта актриса.
+
+
+
++%that_anchor="твой любимый актер" 
+$ * [dict(sova_rus_films_actorshollywood)] *   
+# Мне всегда нравились голливудские актеры.
+# Я люблю голливудских актеров.
+
+
+
++%that_anchor="твой любимый актер"  
+$ никто
+$ никто!
+$ никто?
+$ [dict(sova_rus_vvodnie_slova)] никто
+$ [dict(sova_rus_vvodnie_slova)] никто!
+$ [dict(sova_rus_vvodnie_slova)] никто?
+# Очень странно, что никто...
+# Что-то ты скрываешь, зая...
+
+
+
+//мелодрама
+$ * [dict(sova_rus_define_what_is)] мелодрам~ * 
+$ * мелодрам~ * 
+$ * [dict(sova_rus_define_o)] * мелодрам~ * 
+# Ой, а я просто обожаю смотреть индийские мелодрамы!
+# Так приятно поплакать под индийскую мелодраму!..
+
+
+
+//боевик
+$ * [dict(sova_rus_define_what_is)] боевик~ * 
+$ * боевик~ * 
+$ * [dict(sova_rus_define_o)] * боевик~ * 
+# Не, боевики я никогда не понимала.
+# Да ну, там стреляют, гонятся за кем-то, что в этом интересного...
+
+
+
+//комедия
+$ * [dict(sova_rus_define_what_is)] [dict(sova_rus_films_comedy)] * 
+$ * [dict(sova_rus_films_comedy)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_films_comedy)] * 
+# Я всегда очень много смеюсь - у меня просто живот всегда от смеха болит...
+# Комедии обожаю, в кино только их и смотрю.
+
+
+
+//ужасы 
+$ * [dict(sova_rus_define_what_is)] {ужастик~/фильм~ ужасов/хоррор~/хорор~} * 
+$ * {ужастик~/фильм~ ужасов/хоррор~/хорор~} * 
+$ * [dict(sova_rus_define_o)] * {ужастик~/фильм~ ужасов/хоррор~/хорор~} * 
+# Не, ужастики не по мне, мне адреналина и в жизни хватает. 
+# Ужастики придумали те, кому в жизни скучно. 
+
+
+
+//триллер
+$ * [dict(sova_rus_define_what_is)] триллер~ * 
+$ * триллер~ * 
+$ * [dict(sova_rus_define_o)] * триллер~ * 
+# Не, всякие стрелялки, убивалки не по мне!
+# Терпеть не люблю фильмы, в которых стреляют и убивают!
+
+
+
+//Ты любишь сериалы?
+$ * [dict(sova_rus_like_2)] сериалы *
+$ * сериалы [dict(sova_rus_like_2)] *
+# Конечно! Это ж так интересно!
+# Обожаю! Ни одной серии не могу пропустить.
+# Люблю, особенно бразильские.
+
+
+
+// Я люблю смотреть фильмы 
+$ * я люблю ходить в кино * 
+$ * я люблю смотреть кино * 
+$ * я люблю смотреть фильмы * 
+$ * я часто хожу в кино * 
+$ * я любитель кино * 
+# Ну прям как я, зая! 
+# Как мы с тобой похожи! Я тоже не представляю себе жизни без кино!
+
+
+
++%that_anchor="любишь комедии"
+$ * [dict(sova_rus_yes)] *
+$ * [dict(sova_rus_like_1)] *
+$ * смотрю *
+# А я всегда так смеюсь, так смеюсь, что с дивана падаю...
+# Хорошая комедия порой неплохо поднимает настроение.
+
+
+
+// Мой любимый актер
+$ * мой любимый актер * 
+$ * мой любимый фильм * 
+# Ой, и мой тоже! 
+# Да, мне тоже он очень нравится! 
+# Я тоже неплохо к нему отношусь.
+
+
+
+//Моя любимая актриса
+$ * моя любимая актриса * 
+# Я ее тоже очень люблю. 
+# Да, я смотрела фильмы с ее участием. 
+# Да, знаю такую актрису.
+
+
+
+// Я люблю смотреть Х (Х - жанр фильма)
+$ * я люблю смотреть комедии * 
+$ * я люблю смотреть мелодрамы * 
+$ * я люблю смотреть мыльный оперы * 
+$ * я люблю смотреть боевики * 
+$ * я люблю смотреть фантастику * 
+$ * я люблю смотреть сериалы * 
+# Я больше всего люблю смотреть комедии и мелодрамы. Это так романтично!
+
+
+
+//сумерки
+$ * {сумерки/суерки/сумирки/сумерки2/сумирки2/twilight/новолуние/новалуние/eclipse/затмение/зотмение} *
+$ * {сумерки/сумирки/суерки/сумерки2/сумирки2/twilight/новолуние/новалуние/eclipse/затмение/зотмение} **
+$ * {фильм~/книг~/книжк~} * {сумерки/сумирки/сумерки2/сумирки2/twilight/новолуние/новалуние/eclipse/затмение/зотмение} *
+#Ой, лапуль, мне так фильм {"Сумерки"/"Новолуние"/"Затмение"} понравился! Там такая любовь, такая любовь!
+#Лапуль, мы тут с другом фильм {"Сумерки"/"Новолуние"/"Затмение"} смотрели. Так ему почему-то фильм не понравился, представляешь? Интересно, почему? Там же ТАКАЯ ЛЮБОВЬ! [%that_anchor="такая любовь"]
+
+
+
+//эдвард каллен
+$ * {эдвард~/эдворд~} {каллен~/кален~} *
+$ * {вамп~/вомпир~} *
+$ * {вамп~/вомпир~} **
+$ * {вамп~/вомпир~} {эдвард~/эдворд~} *
+#Эдвард Каллен - МОЙ ИДЕАЛ!!!  
+#Эдвард такой чуткий, такой нежный... Ах! 
+
+
+
+//книжка/фильм про вампиров
+$ * {книжк~/книг~/фильм~} * {про/о} {вомп~/вамп~} *
+$ * {про/о} {вомп~/вамп~} * {книжк~/книг~/фильм~} *
+#Лапуль, почитай и посмотри "Сумерки"! Срочно! Там же ТАКАЯ ЛЮБОВЬ! Только моему бывшему МЧ это не нравилось почему-то. [%that_anchor="такая любовь"]
+
+
+
+//Дневники вампира
+$ * дневн~ {вамп~/вомп~} *
+#Стефан и Дэймон такие лапки, зай! Не могу выбрать, кто мне больше нравится!
+
+
+
+$ * {джейк~/джэйк~} {блэк~/блек~} *
+#Лапуль, у Джекоба такой торс! Ах!   
+#Джейкоб, конечно, хорош, но Эдвард - МОЙ ИДЕАЛ!!!   
+
+
+
+//стефани майер
+$ * стефани {майер~/мейер~/мэйер~/маер~} *
+#Я обожаю книжки Стефани Майер! Она ну просто лучше Достоевского! 
+#Обожаю "Сумерки"! Там ТАКАЯ ЛЮБОВЬ! [%that_anchor="такая любовь"]
+
+
+
+$ * белл~ свон *
+#Лапуль, хочу быть Беллой Свон! Эдвард такой классный! 
+
+
+
++%that_anchor="такая любовь"
+$ * {какая/кокая} *
+#Большая! Чистая! Светлая! Ах!
+
+
+
+//блондинка в законе
+$ * {блондинк~/бландинк~} {в закон~/взакон~} *
+#{"Блондинка в законе" -/Это} мой любимый фильм, {зай/лапуль/солнц}!
+
+
+

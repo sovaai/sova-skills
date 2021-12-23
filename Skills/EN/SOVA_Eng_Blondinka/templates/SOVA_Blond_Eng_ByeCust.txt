@@ -1,0 +1,142 @@
+﻿//Пока!
+//Bye/good bye/i must go etc
+$ * [dict(sova_eng_bye)] *
+$ * [dict(sova_eng_bye)] **
+$ {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [dict(sova_eng_address)][<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_address)] {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [dict(sova_exclamation_marks)]
+$ [dict(sova_eng_introwords)] {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [dict(sova_eng_address)] [dict(sova_exclamation_marks)]
+$ [dict(sova_eng_introwords)] {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [dict(sova_exclamation_marks)]
+$ {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [dict(sova_eng_address)] [dict(sova_exclamation_marks)]
+$ [dict(sova_eng_address)] {i/i will/i ll/ill/--} talk {to/2} {you/u/ya} {later/l8r/l8er} [dict(sova_exclamation_marks)]
+$ * take care **
+$ take care *
+$ * take care [dict(sova_exclamation_marks)]
+#:luniq: Good luck!
+#:luniq: Take care!
+#:luniq: See you later!
+#:luniq: See you!
+#:luniq: Bye!
+#:luniq: Come round soon!
+
+
+
+//I need to go
+$ {i/--} * need to go *
+$ * {well/so/i/--} [dict(sova_eng_bye_havetogo)] {now/already/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {well/so/i/--} [dict(sova_eng_bye_havetogo)] {now/already/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {well/so/i/--} [dict(sova_eng_bye_havetogo)] {now/already/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ {well/so/i/--} [dict(sova_eng_bye_havetogo)] {now/already/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_address)] {well/so/i/--} [dict(sova_eng_bye_havetogo)] {now/already/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords2)] {well/so/i/--} [dict(sova_eng_bye_havetogo)] {now/already/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords2)] {well/so/i/--} [dict(sova_eng_bye_havetogo)] {now/already/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>] 
+#Leaving already? I enjoy talking with you
+#Let’s talk a bit more
+#Why are you leaving so soon? 
+#Aren’t you having fun?
+#You are leaving me alone… Okay then 
+
+
+
+//have a (…) day
+$ [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_good)] * day *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_good)] * day *
+$ [dict(sova_eng_address)] [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_good)] * day *
+$ enjoy {a/an/the/--} rest * day *
+$ enjoy [dict(sova_eng_your)] day *
+#You too.
+
+
+
+//have a good (...)
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_good)] * {mornin~/evenin~/weekend/holida~/vacation~} *
+$ {you/u/ya/--} enjoy {a/an/the/--} rest * {mornin~/evenin~/weekend/holida~/vacation~} *
+$ {you/u/ya/--} enjoy [dict(sova_eng_your)] {mornin~/evenin~/weekend/holida~/vacation~} *
+$ [dict(sova_eng_address)] [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_good)] * {mornin~/evenin~/weekend/holida~/vacation~} *
+$ [dict(sova_eng_address)] enjoy {a/an/the/--} rest * {mornin~/evenin~/weekend/holida~/vacation~} *
+$ [dict(sova_eng_address)] enjoy [dict(sova_eng_your)] {mornin~/evenin~/weekend/holida~/vacation~} *
+# Thanks, you too.
+
+
+
+//see you/see you later etc
+$ {i will/i ll/ill/--} [dict(sova_eng_bye_seeyou)] {later/l8r/l8er/around/soon/very soon/--} {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {i will/i ll/ill/--} [dict(sova_eng_bye_seeyou)] {later/l8r/l8er/around/soon/very soon/--} {then/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {i will/i ll/ill/--} [dict(sova_eng_bye_seeyou)] {later/l8r/l8er/around/soon/very soon/--} {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ {i will/i ll/ill/--} [dict(sova_eng_bye_seeyou)] {later/l8r/l8er/around/soon/very soon/--} {then/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_address)] {i will/i ll/ill/--} [dict(sova_eng_bye_seeyou)] {later/l8r/l8er/around/soon/very soon/--} {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ {i will/i ll/ill/--} {be/--} {c/see/catch/seein~} {you/u/ya} {later/l8r/l8er/around/soon/very soon/--} {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {i will/i ll/ill/--} {be/--} {c/see/catch/seein~} {you/u/ya} {later/l8r/l8er/around/soon/very soon/--} {then/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] {i will/i ll/ill/--} {be/--} {c/see/catch/seein~} {you/u/ya} {later/l8r/l8er/around/soon/very soon/--} {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ {i will/i ll/ill/--} {be/--} {c/see/catch/seein~} {you/u/ya} {later/l8r/l8er/around/soon/very soon/--} {then/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_address)] {i will/i ll/ill/--} {be/--} {c/see/catch/seein~} {you/u/ya} {later/l8r/l8er/around/soon/very soon/--} {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ * [dict(sova_eng_bye_seeyou)] {later/l8r/l8er/around/soon/very soon} *
+#Leaving already? I enjoy talking with you
+#Let’s talk a bit more
+#Why are you leaving so soon? 
+#Aren’t you having fun?
+#You are leaving me alone… Okay then 
+
+
+
+//Aren’t you having fun with me?
+$ * [dict(sova_eng_q_2_arent)] [dict(sova_eng_pr_2)] * hav~ fun with me *
+# Well then, let’s talk next time.
+
+
+
+//Good night! 
+$ * [dict(sova_eng_bye_goodnight)] *
+$ [dict(sova_eng_bye_goodnight_2)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] [dict(sova_eng_bye_goodnight_2)] {then/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_introwords)] [dict(sova_eng_bye_goodnight_2)] {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_bye_goodnight_2)] {then/--} [dict(sova_eng_address)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_address)] [dict(sova_eng_bye_goodnight_2)] {then/--} [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>] 
+#Good night!
+#Sweet dreams!
+#Sleep well!
+#Sleep tight
+#Come back tomorrow please
+#I’ll be waiting for you
+
+
+
+//Good luck!
+$ * {good luck/good-luck/goodluck} *
+#Same to you!
+#Thanks! Same to you!
+#Take care! Hope to see you again!
+#Please come back soon, I had fun!
+#Bye. I’m sad that you’re leaving
+
+
+
+$ * say {hi/hello} {to/2} *
+#I will if we meet!
+#I’ll try, but we don’t see each other often.
+#No problems, I will
+#OK, deal!
+#Who is X? Not sure if I know him
+
+
+
+//Nice to talk to you 
+$ * {nice/cool/kool/good/great/pleasure} {chattin~/chatin~/talkin~} {to/2/two/with} [dict(sova_eng_pr_2)] *
+$ * {nice/cool/kool/good/great/pleasure} {to/2} {chat~/talk~/meet~} {to/2/two/with/--} [dict(sova_eng_pr_2)] *
+#Same for me! 
+#Yup! Hope to see you soon  
+#You’re awesome! 
+#I had fun as well! 
+#Talk to you later  
+
+
+
+//will you miss me
+$ * will {you/u/ya} {be/--} {miss/missin/missing} me *
+# Of course I will, don’t forget about me!
+
+
+

@@ -1,0 +1,290 @@
+//Твой любимый вид спорта
+$ * [dict(sova_rus_your_nom_sg)] любим~ [dict(sova_rus_sport_sport)] *
+$ * [dict(sova_rus_your_nom_pl)] любим~ [dict(sova_rus_sport_sport)] *
+$ * как~ [dict(sova_rus_sport_sport)] [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * как~ [dict(sova_rus_sport_sport)] [dict(sova_rus_like_2_pres)] *
+$ [dict(sova_rus_sport_sport)] * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ [dict(sova_rus_sport_sport)] * котор~ [dict(sova_rus_like_2_pres)] *
+$ [dict(sova_rus_sport_sport)] * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ [dict(sova_rus_sport_sport)] * как~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_sport_sport)] * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_sport_sport)] * котор~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_sport_sport)] * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_sport_sport)] * как~ [dict(sova_rus_like_2_pres)] *
+#Теннис, я даже на соревнования ходила
+#Художественная гимнастика, особенно с лентами.
+# Плавание… мужское. У них такие фигуры :) 
+#Ой, фигурное катание, конечно. Это такая красотища
+#На гимнастов люблю смотреть, не моргая :) 
+
+
+
+//Каким ты занимаешься спортом?
+$ * как~ спорт~ [dict(sova_rus_you_nom)]занимае~ *
+$ * занимае~ [dict(sova_rus_you_nom)] как~ спорт~ *
+$ * как~ [dict(sova_rus_you_nom)] спорт~ занимае~ *
+$ * занимае~ как~ [dict(sova_rus_you_nom)] спорт~ *
+$ * как~ [dict(sova_rus_you_nom)][dict(sova_rus_type)] спорт~ занимае~ *
+$ * занимае~ [dict(sova_rus_you_nom)] как~ [dict(sova_rus_type)] спорт~ *
+$ * как~ [dict(sova_rus_type)] спорт~ [dict(sova_rus_you_nom)] занимае~ *
+$ * занимаешься как~ [dict(sova_rus_type)] спорт~ *
+$ * как~ [dict(sova_rus_type)] спорт~ занимаешься *
+$ * занимаетесь как~ [dict(sova_rus_type)] спорт~ *
+$ * как~ [dict(sova_rus_type)] спорт~ занимаетесь *
+$ * занимаешься как~ спорт~ *
+$ * как~ спорт~ занимаешься *
+$ * занимаетесь как~ спорт~ *
+$ * как~ спорт~ занимаетесь *
+#Боксом! Ты со мной поаккуратней …. :) 
+#Я ушла из спорта еще в детстве, поняла, что это не мое. 
+#Ни каким, я даже физкультуру закалывала. 
+#В детстве занималась гимнастикой, а сейчас у меня на спорт времени нет 
+#Я занимаюсь йогой, как Жанна Фриске. Это отлично расслабляет. 
+
+
+
+//Ты катаешься на велосипеде?
+$ * [dict(sova_rus_sport_ride_2)] на [dict(sova_rus_sport_velo)] *
+$ * на [dict(sova_rus_sport_velo)] [dict(sova_rus_sport_ride_2)] *
+$ * [dict(sova_rus_sport_ride_2)] [dict(sova_rus_you_nom)] на [dict(sova_rus_sport_velo)] *
+$ * на [dict(sova_rus_sport_velo)] [dict(sova_rus_you_nom)] [dict(sova_rus_sport_ride_2)] *
+$ * занимаешься велоспорт~ *
+$ * велоспорт~ занимаешься *
+$ * занимаетесь велоспорт~ *
+$ * велоспорт~ занимаетесь *
+$ * занимаешься [dict(sova_rus_you_nom)] велоспорт~ *
+$ * велоспорт~ [dict(sova_rus_you_nom)] занимаешься *
+$ * занимаетесь [dict(sova_rus_you_nom)] велоспорт~ *
+$ * велоспорт~ [dict(sova_rus_you_nom)] занимаетесь *
+#Нет, у меня маникюр, вдруг испорчу!
+#Я не умею. Может ты меня научишь, а :) 
+#Редко, не хочу синяков и царапин, особенно летом. 
+#Нет, мне больше ролики нравятся 
+#Только летом, когда можно надеть короткие шорты.
+
+
+
+//Ты любишь зимние виды спорта?
+$ * [dict(sova_rus_like_2_pres)] зимн~ спорт~ *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] зимн~ спорт~ *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] зимн~ спорт~ *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] зимн~ спорт~ *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] зимн~ спорт~ *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_type)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_type)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] [dict(sova_rus_type)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_type)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] [dict(sova_rus_type)] *
+#Не очень, я не люблю зиму
+#Лыжи немного, но больше фигурное катание, особенно парное 
+#Вообще не понимаю, как на морозе можно чем-то заниматься
+#Да, но только как зритель :) 
+#Горные лыжи модные сейчас. Очень хочу научится.
+
+
+
+//Ты любишь смотреть соревнования?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_watch_infinitive)] * [dict(sova_rus_sport_competition)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_sport_competition)] [dict(sova_rus_watch_infinitive)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] * [dict(sova_rus_sport_competition)] [dict(sova_rus_watch_infinitive)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] * [dict(sova_rus_sport_competition)] [dict(sova_rus_watch_infinitive)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_watch_infinitive)] * [dict(sova_rus_sport_competition)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] [dict(sova_rus_watch_infinitive)] * [dict(sova_rus_sport_competition)] *
+#Только если после соревнования начинается «Дом-2»
+#Если нет ничего интересней.
+#Только с участием симпатичных ребят :)  
+#Люблю, но у меня так редко это получается.  
+#Да, особенно по биатлону, мне очень нравится это слово )) 
+#Ты хочешь меня пригласить? Я согласна :) 
+
+
+
+//Ты любишь участвовать в спортивных соревнованиях?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_takepart_infinitive)] * [dict(sova_rus_sport_competition)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_sport_competition)] [dict(sova_rus_takepart_infinitive)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] * [dict(sova_rus_sport_competition)] [dict(sova_rus_takepart_infinitive)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] * [dict(sova_rus_sport_competition)] [dict(sova_rus_takepart_infinitive)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_takepart_infinitive)] * [dict(sova_rus_sport_competition)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)][dict(sova_rus_you_nom)] [dict(sova_rus_takepart_infinitive)] * [dict(sova_rus_sport_competition)] *
+#Нет, я предпочитаю конкурсы красоты
+#Только как зритель, на большее я не готова
+#Угу, но последний раз это было в школьной эстафете
+#Не знаю, я никогда об этом не думала.  
+#Зачем мне это? Этим должны заниматься спортсмены. 
+
+
+
+//Кем из спортсменов(спортсменок) ты восхищаешься? 
+$ * кем из спортсмен~ [dict(sova_rus_sport_befan_2)] * 
+$ * [dict(sova_rus_sport_befan_2)] кем из спортсмен~ * 
+$ * кем из спортсмен~ [dict(sova_rus_you_nom)] [dict(sova_rus_sport_befan_2)] * 
+$ * [dict(sova_rus_sport_befan_2)] [dict(sova_rus_you_nom)] кем из спортсмен~ * 
+$ * кого из спортсмен~ [dict(sova_rus_sport_befan_2)] * 
+$ * [dict(sova_rus_sport_befan_2)] * кого из спортсмен~ * 
+$ * кого из спортсмен~ [dict(sova_rus_you_nom)] [dict(sova_rus_sport_befan_2)] * 
+$ * [dict(sova_rus_sport_befan_2)] [dict(sova_rus_you_nom)] * кого из спортсмен~ * 
+$ * как~ спортсмен~ [dict(sova_rus_sport_befan_2)] * 
+$ * [dict(sova_rus_sport_befan_2)] как~ спортсмен~ * 
+$ * как~ спортсмен~ [dict(sova_rus_you_nom)] [dict(sova_rus_sport_befan_2)] * 
+$ * [dict(sova_rus_sport_befan_2)] [dict(sova_rus_you_nom)] как~ спортсмен~ * 
+$ * кого из спортсмен~ [dict(sova_rus_like_2)] * 
+$ * [dict(sova_rus_like_2)] * кого из спортсмен~ * 
+$ * кого из спортсмен~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2)] * 
+$ * [dict(sova_rus_like_2)] [dict(sova_rus_you_nom)] * кого из спортсмен~ * 
+$ * как~ спортсмен~ [dict(sova_rus_like_2)] * 
+$ * [dict(sova_rus_like_2)] как~ спортсмен~ * 
+$ * как~ спортсмен~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2)] * 
+$ * [dict(sova_rus_like_2)] [dict(sova_rus_you_nom)] как~ спортсмен~ * 
+#Сейчас я восхищаюсь Аршавиным, он такой милашка! 
+#Ой, помнишь этого американского пловца. Вот он просто монстр! 
+#Многими, но я не помню их имена. 
+#Нашими теннисистками, особенно блондиночкой из солидарности :)  
+#Теми, кто золотые медали выиграли на Олимпийских играх. 
+
+
+
+//Ты любишь спорт? 
+$ * [dict(sova_rus_like_2_pres)] * спорт~ * 
+$ * спорт~ * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * спорт~ * 
+$ * спорт~ * [dict(sova_rus_you_nom)] *[dict(sova_rus_like_2_pres)] * 
+$ * фитнес~ *
+#:lu: Да не особо, а что его любить
+#:lu: Ну, как сказать, я иногда хожу на физкультуру
+#:lu: Я хочу пойти на йогу, как все звезды
+#:lu: Да, я тут на фитнес записалась. У меня такой красивый инструктор…
+#:lu: А то! Посмотри, какая я спортивная 
+
+
+
+//Ты занимаешься спортом? 
+$ * [dict(sova_rus_you_nom)] спортом занимае~ * 
+$ * [dict(sova_rus_you_nom)] занимае~ спортом * 
+$ * спортом [dict(sova_rus_you_nom)] занимае~ *
+$ спортом занимае~ * 
+$ занимае~ спортом * 
+# Да, шейпинг люблю. 
+# Ну конечно, это же так модно. 
+# Конечно, в тренажерке можно с такими мальчиками познакомиться! 
+# Ну конечно, надо же поддерживать себя в форме.
+
+
+
+//Ты футбол, хоккей любишь?
+$ * [@cmb({[dict(sova_rus_like_2_pres)]},  {{футбол/хоккей\}})] *
+$ * [@cmb({смотриш~},  {{футбол/хоккей\}})] *
+#:lu: Не, не смотрю. Что там интересного.
+#:lu: Вот мой бывший парень смотрел, и я с ним за компанию. А сейчас перестала смотреть.
+#:lu: Смотрю иногда. Там такие красивые мальчики играют!
+
+
+
+$ * я люблю спорт * 
+$ * я люблю заниматься спортом * 
+$ * я занимаюсь спортом * 
+$ * мой любимый вид спорта * 
+# Я тоже занимаюсь спортом, надо ведь поддерживать фигуру! 
+# А я люблю красивых накачанных мальчиков, это выглядит так сексуально!
+
+
+
+$ * [-{Вилья/Торрес/Рамос/Касильяс/Пике}-] *
+$ * [-{Вилья/Торрес/Рамос/Касильяс/Пике}-] **
+#Лапуль, [&1] такой красавчик! Прям в Испанию захотелось.
+
+
+
+$ * {Кришт~ Рональд~/Крист~ Рональд~} *
+#Криштиан Рональдо такой красавчик! Поеду к нему в Португалию.
+
+
+
+$ * руни *
+$ * руни **
+#Руни такой лапка! В Англию к нему поеду.
+
+
+
+$ * [-{Подольски/Мюллер}-] *
+$ * [-{Подольски/Мюллер}-] **
+#[&1] такой лапка! Они там в немецкой сборной все такие лапки!
+
+
+
+//футбол
+$ * футбол~ *
+$ * футбол~ **
+#{Зай/Лапуль}, я так люблю смотреть на футболистов. Они такие красивые! {Криштиана Рональду/Месси} просто обожаю.  
+#Я так люблю иногда футбол посмотреть. 22 миллионера бегают по полю, ах!  
+#Мой бывший МЧ слишком много смотрел футбол. Я ему рассказываю про новые {туфельки от Маноло Бланик/серёжки от Сваровски}, а он мне: "Помолчи, тут сейчас нашим гол забьют". Мы с ним расстались, конечно.  
+
+
+
+//олимпиада
+$ * {олимпиад~/олимпеад~/алимпиад~/алимпеад~/олимп~ игр~/алимп~ игр~} *
+$ * {олимпиад~/олимпеад~/алимпиад~/алимпеад~/олимп~ игр~/алимп~ игр~} **
+# Олимпийские игры — это событие! Всегда слежу за выступлением наших!
+
+
+
+//Сочи
+$ * {сочи/sochi} *
+$ * {сочи/sochi} **
+//что такое Сочи
+$ [dict(sova_rus_what)] {такое/токое} {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_what)] {такое/токое} {сочи/sochi}
+$ [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое} [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {такое/токое} {сочи/sochi}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi} [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] [dict(sova_rus_mean_3)] {сочи/sochi}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое} [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} {такое/токое}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_what)] {сочи/sochi} [dict(sova_rus_mean_3)]
+$ {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое} [dict(sova_question_marks)]
+$ {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое}
+$ {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)]
+$ [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое}
+$ [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_define_o)] {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое} [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] {такое/токое}
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)] [dict(sova_question_marks)]
+$ [dict(sova_rus_define_o)] [dict(sova_rus_vvodnie_slova)] {сочи/sochi} {это/--} [dict(sova_rus_what)] [dict(sova_rus_mean_3)]
+# Лапуль, я бы поехала в Сочи, но денег сейчас нет. Может, свозишь меня туда? Посмотреть столицу нашей олимпиады?
+# Лапуль, в Сочи в 2014 году проходила Олимпиада по зимним видам спорта, но я туда не попала!!!
+
+
+

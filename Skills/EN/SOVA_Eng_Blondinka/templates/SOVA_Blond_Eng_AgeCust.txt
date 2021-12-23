@@ -1,0 +1,59 @@
+//How old are you?
+$ * how old are [dict(sova_eng_pr_2)] *
+$ * how old [dict(sova_eng_pr_2_are)] *
+$ * [dict(sova_eng_howmany)] * {age/year~} are [dict(sova_eng_pr_2)] *
+$ * your age~ *
+$ * [dict(sova_eng_q_what)] * your age~ *
+# :lu:Woman is beautiful at any age! 
+# :lu: Well, really, it is too bad of you to ask such a question... 
+# :lu: Age does not matter to a girl!
+
+
+
+//How old am I?
+$ * how old {i am/i'm/am i} *
+$ * my age *
+$ * age of me *
+$ * [dict(sova_eng_q_what)] * my age *
+# [if(!%user_age)]{You have not told me about your age yet. Or I have it already forgotten...}[else]{You are [%user_age], I remember.}
+
+
+
+//When were you born?
+$ * {when/whan/in what/in which} * [dict(sova_eng_pr_2)] born * 
+$ * [dict(sova_eng_pr_2)] * born *  {when/in what/in which} * 
+$ * your *  {birthday/birth} *
+$ * {when/in what/in which} * {have/do/is} you~  birthday *
+$ * {year/date/day} of * birth *
+#I was born in August, I'm a Lion. 
+#I was born in August.
+
+
+
+//I'm X years old
+$ * {i am/i'm/am i} ** year~ * 
+$ * i * born in *
+$ * {i'm/i am} {almost/--} ** years old *
+#Wow![%user_age="[*2]"] 
+
+
+
+//I am (...) - about age
+$ [dict(sova_eng_pr_1_am)] {only/just/--} [-[dict(sova_age_numbers)]-] {at the moment/now/--} {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ [dict(sova_eng_pr_1_am)] {only/just/--} [-[dict(sova_eng_age_numbers_word)]-] {at the moment/now/--} {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+# [if(%user_name)] {You’re lucky, [%user_name]. That’s a great age.} [%user_age="[&1]"]
+# You’re lucky, that's a great age. [%user_age="[&1]"]
+# Good for you, that's a fun age. [%user_age="[&1]"] 
+# Many people would love to be that age. [%user_age="[&1]"] 
+
+
+
+$ * {i'm/i am/my} * {horoscope/zodiak} *
+$ * {horoscope/zodiak} * {i'm/i am} *
+$ * {i'm/i am/my} * {star/astrological/--} sign *
+$ * my * {star/astrological/--} sign is*
+$ * {star/astrological/--} sign * {i'm/i am} *
+# And I am a Lion! 
+
+
+

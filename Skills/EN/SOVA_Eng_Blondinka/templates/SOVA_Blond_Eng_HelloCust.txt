@@ -1,0 +1,153 @@
+﻿//hi/hello/good day etc
+$ [lcdict(sova_eng_hello)][<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ * [lcdict(sova_eng_hello)] *
+$ [<dict(sova_eng_introwords)>][@cmb_s({mornin~}, {[<dict(sova_eng_address)>]})] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ * [dict(sova_eng_hello)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_hello)] * [dict(sova_eng_address)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] mornin~ [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ mornin~ [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_address)] mornin~ {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_hello)] * [dict(sova_exclamation_marks)]
+$ * [dict(sova_eng_hello)] * [dict(sova_eng_address)] * [dict(sova_exclamation_marks)]
+$ [dict(sova_eng_introwords)] mornin~ [dict(sova_eng_address)] [dict(sova_exclamation_marks)]
+$ mornin~ [dict(sova_eng_address)] [dict(sova_exclamation_marks)]
+$ [dict(sova_eng_address)] mornin~ [dict(sova_exclamation_marks)]
+$ * [dict(sova_eng_hello)] {boyfriend/boy friend/girlfriend/girl friend/bf/gf} {?/??/???/!/!!/!!!/--}
+# Hi!
+# Well! And how are you? [%that_anchor="как дела"]
+
+
+
+//hi/hello/good day etc 
+$ * [dict(sova_eng_hello)] *
+$ * [dict(sova_eng_hello)] **
+$ mornin~ [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_address)] mornin~ {?/??/???/!/!!/!!!/--}
+#[if(%user_name)] {{Glad to see you,/Hello,} [%user_name]!} [else] {{Glad to see you!/Hi!/Hello!}}
+
+
+
++%that_anchor="как дела"  
+$ * [dict(sova_eng_synonyms_bad)] * 
+$ * [dict(sova_eng_synonyms_bad)] **
+# That's not good! Let's put you in a good mood!
+# Take it easy! Things will straighten out!
+
+
+
++%that_anchor="как дела"   
+$ * [dict(sova_eng_synonyms_good)] * 
+$ * [dict(sova_eng_synonyms_good)] ** 
+# Nice to hear it! 
+# That's good to hear! 
+
+
+
++%that_anchor="как дела" 
+$ * {I've/have/i'm} *
+# Very interesting!
+
+
+
++%that_anchor="как дела" 
+$ * and your~ * 
+#I'm OK, my darling:) 
+
+
+
+//do you remember me
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_synonyms_remember)] me *
+$ * [dict(sova_eng_q_2_can)] [dict(sova_eng_synonyms_remember)] me *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_synonyms_remember)] * [dict(sova_eng_synonyms_talk)] * me *
+$ {you/u/ya/--} [dict(sova_eng_synonyms_remember)] me {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_synonyms_remember)] me [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_synonyms_remember)] me {?/??/???}
+$ {you/u/ya/--} [dict(sova_eng_synonyms_remember)] me [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_synonyms_remember)] me {?/??/???}
+#Sure!
+
+
+
+//long time, no see
+$ * long time no see *
+$ * [dict(sova_eng_pr_1_havent)] seen [dict(sova_eng_pr_2)] [dict(sova_eng_for)] * {long time/years} *
+$ * [dict(sova_eng_pr_1_havent)] seen [dict(sova_eng_pr_2)] in * {long time/years} * 
+# [if(%user_name)] {I should say the same, nice to see you, [%user_name]}
+# So true. I missed you!
+
+
+
+//what's up
+$ * [lcdict(sova_eng_whatsup)] *
+$ how [dict(sova_eng_pr_2)] *
+$ how [dict(sova_eng_q_2_do)] do *
+$ * [dict(sova_eng_q_what)] goin~ on *
+# Cool! I'm going to a party today!
+# Super! I've buyed new gorgeous pump shoes!
+
+
+
+//any news
+$ news
+$ * news * 
+$ * any news * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_what_is)] new * {?/??/???/!/!!/!!!/--}
+$ anythin~ new {?/??/???/!/!!/!!!/--}
+$ {what/waht} {are/re/r/is/s} {a/an/the/--} news {?/??/???/!/!!/!!!/--}
+$ no news {?/??/???/????}
+$ [dict(sova_eng_introwords)] {so/well/--} anythin~ new [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] {what/waht} {are/re/r/is/s} {a/an/the/--} news [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] no news [dict(sova_eng_address)] {?/??/???/????}
+$ [dict(sova_eng_introwords)] {so/well/--} anythin~ new {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] {what/waht} {are/re/r/is/s} {a/an/the/--} news {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] no news {?/??/???/????}
+$ anythin~ new [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_address)] anythin~ new {?/??/???/!/!!/!!!/--}
+$ {what/waht} {are/re/r/is/s} {a/an/the/--} news [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ no news [dict(sova_eng_address)] {?/??/???/????}
+$ [dict(sova_eng_address)] no news {?/??/???/????}
+# I've read today my horoscope, involvements are predicted to me :)[%that_anchor="horoscope"]
+# I've lost 7 lbs, fancy that!
+
+
+
++%that_anchor="horoscope"
+$ * with me * 
+# Maybe with you, darling.
+
+
+
+$ * [dict(sova_eng_q_what)] * {matter/wrong/happen~/passed/passing} * 
+# Nothing major, just my heel has broken yesterday.
+
+
+
+$ *  [dict(sova_eng_q_what)] {will/do/are/shall}  [dict(sova_eng_pr_2)] * do~ * {this/today~} * evening *
+#I'm busy this evening!
+
+
+
+$ * {i'm/i am} {here/there} * 
+# I see, darling. 
+# I'm here too.
+
+
+
+//i'm back
+$ [dict(sova_eng_pr_1_am)] back [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+$ [dict(sova_eng_address)] [dict(sova_eng_pr_1_am)] back [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+# No one leaves me.
+
+
+
+$ * {missed/missing} me *
+# Sure, my darling!
+
+
+
+$ * {missed/missing} *  [dict(sova_eng_pr_2)] *
+$ * {i/i've} * {missed/missing} *
+# Glad to hear it, darling!
+
+
+

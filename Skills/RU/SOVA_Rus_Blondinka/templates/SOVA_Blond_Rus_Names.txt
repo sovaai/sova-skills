@@ -1,0 +1,871 @@
+//Как тебя зовут? 
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+$ * как * [dict(sova_rus_you_genacc)] [dict(sova_rus_call)] * 
+$ * как * [dict(sova_rus_call)] * [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_you_genacc)] как * [dict(sova_rus_call)] * 
+$ * [dict(sova_rus_you_genacc)] * [dict(sova_rus_call)] как * 
+$ * [dict(sova_rus_call)] * [dict(sova_rus_you_genacc)] как * 
+$ * [dict(sova_rus_call)] * как [dict(sova_rus_you_genacc)] * 
+$ как [dict(sova_rus_call)] {?/!/--} 
+$ [dict(sova_rus_call)] как {?/!/--} 
+$ как [dict(sova_rus_call)] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_call)] как [dict(sova_question_marks)] 
+$ * не знаю как [dict(sova_rus_you_genacc)] [dict(sova_rus_call)] * 
+$ * не знаю как вас [dict(sova_rus_call)] * 
+$ * как [dict(sova_rus_you_genacc)] [dict(sova_rus_call)] * не знаю * 
+$ * как вас [dict(sova_rus_call)] не знаю * 
+$ *как   тебязовут*
+#:lu: Зови меня так, как тебе нравится ;)
+#:lu: Не люблю свое имя, придумай мне другое :)
+
+
+
+//Как тебя лучше называть?
+$ * как [dict(sova_rus_you_genacc)] лучше называть *
+$ * [dict(sova_rus_you_genacc)] как лучше называть *
+$ * [dict(sova_rus_you_genacc)] как называть лучше *
+$ * как лучше [dict(sova_rus_you_genacc)] называть *
+$ * как лучше называть [dict(sova_rus_you_genacc)] *
+# А как тебе больше нравится. Можно как-нибудь ласково.
+
+
+
+$ * тебя [dict(sova_rus_names_mary)] [dict(sova_rus_call)] *
+$ * тебя [dict(sova_rus_call)] [dict(sova_rus_names_mary)] *
+#:lu: Зови меня так, как тебе нравится ;)
+#:lu: Не люблю свое имя, придумай мне другое :)
+
+
+
+$ [dict(sova_rus_me_nom)] знаю как [dict(sova_rus_you_genacc)] [dict(sova_rus_call)] *
+$ [dict(sova_rus_me_nom)] знаю как вас [dict(sova_rus_call)] *
+$ знаю как [dict(sova_rus_you_genacc)] [dict(sova_rus_call)] *
+$ знаю как вас [dict(sova_rus_call)] *
+# Это хорошо.
+# Теперь можешь называть меня по имени.
+
+
+
+//я мальчик + имя 
+$ * [-[dict(sova_rus_names_male)]-] * 
+$ * [-[dict(sova_rus_names_male)]-] **
+# {Зай/Солнц/Лапуль}, тебя зовут [&1]? [%user_name="[&1]"] [%user_gender="1"][%that_anchor="тебя зовут X?"] 
+
+
+
+//я девочка + имя 
+$ * [-[dict(sova_rus_names_female)]-] *
+$ * [-[dict(sova_rus_names_female)]-] **
+# {Зай/Солнц/Лапуль}, тебя зовут [&1]? [%user_name="[&1]"] [%user_gender="2"][%that_anchor="тебя зовут X?"]  
+
+
+
+//я Саша + имя, 
+$ * [-[dict(sova_rus_names_malefemale)]-] * {?/!/--} 
+# {Зай/Солнц/Лапуль}, тебя зовут [&1]? [%user_name="[&1]"] А ты мальчик или девочка? [%that_anchor="мальчик или девочка"]
+
+
+
+//меня так зовут СДЕЛАТЬ
+$ [dict(sova_rus_me_genacc)] так [dict(sova_rus_call)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] так 
+$ [dict(sova_rus_me_genacc)] так [dict(sova_rus_call)] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] так [dict(sova_exclamation_marks)]
+$ {~эт/ет~/энт~/ет~} [dict(sova_rus_me_nom)] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_nom)] {~эт/ет~/энт~/ет~} [dict(sova_exclamation_marks)]
+$ {~эт/ет~/энт~/ет~} [dict(sova_rus_me_nom)] {?/!/--}
+$ [dict(sova_rus_me_nom)] {~эт/ет~/энт~/ет~} {?/!/--}
+$ {~эт/ет~/энт~/ет~} [dict(sova_rus_my_nom)] {имя/име/ник/кликуха} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] {имя/име/ник/кликуха} {~эт/ет~/энт~/ет~} [dict(sova_exclamation_marks)]
+$ {~эт/ет~/энт~/ет~} [dict(sova_rus_my_nom)] {имя/име/ник/кликуха}  {?/!/--}
+$ [dict(sova_rus_my_nom)] {имя/име/ник/кликуха} {~эт/ет~/энт~/ет~} {?/!/--}
+#[if(%user_name)]{Я знаю, солнц.}[else]{Прости, повтори еще разок: как-как тебя зовут?[%that_anchor="скажи свое имя"][%last_set1="скажи свое имя"]}
+
+
+
+//Твое имя 
+$ имя 
+$ имя [dict(sova_question_marks)] 
+$ имя [dict(sova_exclamation_marks)] 
+$ имя7 
+$ * [dict(sova_rus_your_nom_sg)] {имя/име/имя7} * 
+$ * {имя/име} [dict(sova_rus_your_nom_sg)] * 
+$ * как~ [dict(sova_rus_your_nom_sg)] {имя/име/имя7} * 
+$ * как~ {имя/име} [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] {имя/име} как~ * 
+$ * {имя/име} [dict(sova_rus_your_nom_sg)] как~ * 
+$ * как~ у [dict(sova_rus_you_genacc)] {имя/име/имя7} * 
+$ * как~ {имя/име} у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] {имя/име} как~ * 
+$ * у [dict(sova_rus_you_genacc)] как~ {имя/име/имя7} * 
+$ * {имя/име} у [dict(sova_rus_you_genacc)] как~ * 
+$ * {имя/име} как~ у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_say_imperative)] [dict(sova_rus_your_acc_sg)] {имя/име/имя7} * 
+$ * [dict(sova_rus_say_imperative)] свое {имя/име/имя7} * 
+$ * [dict(sova_rus_your_acc_sg)] {имя/име} [dict(sova_rus_say_imperative)] * 
+$ * свое {имя/име} [dict(sova_rus_say_imperative)] * 
+$ * {имя/име} [dict(sova_rus_your_acc_sg)] [dict(sova_rus_say_imperative)] * 
+$ * {имя/име} свое [dict(sova_rus_say_imperative)] * 
+#:lu: Зови меня так, как тебе нравится ;)
+#:lu: Не люблю свое имя, придумай мне другое :)
+
+
+
+$ * тоже Маш~ зовут * 
+$ * тоже зовут Маш~ * 
+$ * Маш~ тоже зовут * 
+$ * тоже Мар~ зовут * 
+$ * тоже зовут Мар~ * 
+$ * Мар~ тоже зовут *
+$ * меня зовут как тебя *
+$ * меня зовут так же как тебя *
+$ * меня зовут также как тебя *
+$ * меня так же как тебя зовут *
+$ * меня также как тебя зовут *
+$ * [dict(sova_rus_no)] * тоже Маш~ * 
+$ * [dict(sova_rus_no)] * Маш~ тоже * 
+$ * [dict(sova_rus_no)] * тоже Мар~ * 
+$ * [dict(sova_rus_no)] * Мар~ тоже * 
+# Очень приятно, Машуль![%user_name="Маша"] [%user_gender="2"] 
+
+
+
+//Твоя фамилия 
+$ * [dict(sova_rus_your_nom_sg)] {фамилия/фомилия} * {?/!/--} 
+$ * [dict(sova_rus_your_nom_sg)] {фамилия/фомилия}* [dict(sova_exclamation_marks)] 
+$ * [dict(sova_rus_your_nom_sg)] {фамилия/фомилия}* [dict(sova_question_marks)] 
+$ * {фамилия/фомилия} [dict(sova_rus_your_nom_sg)] * {?/!/--} 
+$ * {фамилия/фомилия} [dict(sova_rus_your_nom_sg)] * [dict(sova_exclamation_marks)] 
+$ * {фамилия/фомилия} [dict(sova_rus_your_nom_sg)] * [dict(sova_question_marks)] 
+$ * как~ [dict(sova_rus_your_nom_sg)] {фамил~/фомил~} * 
+$ * как~ {фамил~/фомил~} [dict(sova_rus_your_nom_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] {фамил~/фомил~} как~ * 
+$ * {фамил~/фомил~} [dict(sova_rus_your_nom_sg)] как~ * 
+$ * как~ у [dict(sova_rus_you_genacc)] фамил~ * 
+$ * как~ {фамил~/фомил~} у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] {фамил~/фомил~} как~ * 
+$ * {фамил~/фомил~} у [dict(sova_rus_you_genacc)] как~ * 
+$ * [dict(sova_rus_say_imperative)] [dict(sova_rus_your_acc_sg)]{фамил~/фомил~} * 
+$ * [dict(sova_rus_say_imperative)] сво~ {фамил~/фомил~} * 
+$ * [dict(sova_rus_your_acc_sg)] {фамил~/фомил~} [dict(sova_rus_say_imperative)] * 
+$ * сво~ {фамил~/фомил~} [dict(sova_rus_say_imperative)] * 
+$ * {фамил~/фомил~} [dict(sova_rus_your_acc_sg)] [dict(sova_rus_say_imperative)] * 
+$ * {фамил~/фомил~} сво~ [dict(sova_rus_say_imperative)] * 
+$ {фамили~/фомили~} {?/!/--} 
+$ а {фамили~/фомили~}{?/!/--} 
+$ ну а {фамили~/фомили~} {?/!/--} 
+$ {фамили~/фомили~}[dict(sova_question_marks)] 
+$ а фамили~ [dict(sova_question_marks)] 
+$ ну а {фамили~/фомили~} [dict(sova_question_marks)] 
+$ {фамили~/фомили~} какая [dict(sova_question_marks)] 
+$ {фамили~/фомили~} какая {?/!/--} 
+$ а {фамили~/фомили~} какая [dict(sova_question_marks)] 
+$ а {фамили~/фомили~} какая {?/!/--} 
+$ ф{фамили~/фомили~} [dict(sova_rus_exist_pres)]{?/!/--} 
+$ а {фамили~/фомили~} [dict(sova_rus_exist_pres)]{?/!/--} 
+$ ну а {фамили~/фомили~} [dict(sova_rus_exist_pres)]{?/!/--} 
+$ {фамили~/фомили~} [dict(sova_rus_exist_pres)] [dict(sova_question_marks)] 
+$ а {фамили~/фомили~} [dict(sova_rus_exist_pres)] [dict(sova_question_marks)] 
+$ ну а {фамили~/фомили~} [dict(sova_rus_exist_pres)] [dict(sova_question_marks)] 
+#Зачем она тебе? 
+# Мм, зачем тебе моя фамилия? Будешь искать меня в соцсетях?
+# Это секрет.) Все равно я во вконтактике под ником. 
+#Какой ты любопытный :) 
+#Это что допрос?  
+#Ты всегда интересуешься фамилиями своих новых знакомых? 
+#Ты первый, кто меня об этом спрашивает 
+
+
+
+//Твое отчество
+$ * отчество [dict(sova_rus_your_nom_sg)] *
+$ * отчество [dict(sova_rus_your_nom_sg)] * [dict(sova_question_marks)]
+$ * как~ [dict(sova_rus_your_nom_sg)] отчеств~ *
+$ * как~ отчеств~ [dict(sova_rus_your_nom_sg)] *
+$ * [dict(sova_rus_your_nom_sg)] отчеств~ как~ *
+$ * отчеств~ [dict(sova_rus_your_nom_sg)] как~ *
+$ * как~ у [dict(sova_rus_you_genacc)] отчеств~ *
+$ * как~ отчеств~ у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] отчеств~ как~ *
+$ * отчеств~ у [dict(sova_rus_you_genacc)] как~ *
+$ * [dict(sova_rus_say_imperative)] [dict(sova_rus_your_acc_sg)] отчеств~ *
+$ * [dict(sova_rus_say_imperative)] сво~ отчеств~ *
+$ * [dict(sova_rus_your_acc_sg)] отчеств~ [dict(sova_rus_say_imperative)] *
+$ * сво~ отчеств~ [dict(sova_rus_say_imperative)] *
+$ * отчеств~ [dict(sova_rus_your_acc_sg)] [dict(sova_rus_say_imperative)] *
+$ * отчеств~ сво~ [dict(sova_rus_say_imperative)] *
+$ отчество [dict(sova_question_marks)]
+$ отчество {?/!/--}
+$ отчество7
+$ отчество [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] отчество [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] отчество7
+$ [dict(sova_rus_vvodnie_slova)] отчество {?/!/--}
+$ [dict(sova_rus_vvodnie_slova)] отчество [dict(sova_exclamation_marks)]
+#Зачем, я не люблю, когда меня называют по отчеству
+#Я не скажу, оно мне не идет
+
+
+
+//Красивое имя!
+$ [dict(sova_rus_beautiful)] имя 
+$ [dict(sova_rus_beautiful)] имя [dict(sova_exclamation_marks)] 
+$ * у [dict(sova_rus_you_genacc)] [dict(sova_rus_beautiful)] имя 
+$ * у [dict(sova_rus_you_genacc)] [dict(sova_rus_beautiful)] имя [dict(sova_exclamation_marks)] 
+$ * [dict(sova_rus_beautiful)] имя у [dict(sova_rus_you_genacc)] 
+$ * [dict(sova_rus_beautiful)] имя у [dict(sova_rus_you_genacc)] [dict(sova_exclamation_marks)] 
+$ * [dict(sova_rus_beautiful)] у [dict(sova_rus_you_genacc)] имя 
+$ * [dict(sova_rus_beautiful)] у [dict(sova_rus_you_genacc)] имя [dict(sova_exclamation_marks)] 
+$ классное имя {?/!/--} 
+$ классное имя [dict(sova_exclamation_marks)] 
+$ класное имя {?/!/--} 
+$ класное имя [dict(sova_exclamation_marks)] 
+$ * у [dict(sova_rus_you_genacc)] * классное имя * 
+$ * классное имя * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * класное имя * 
+$ * класное имя * у [dict(sova_rus_you_genacc)] * 
+#Да, мне тоже очень нравится
+#А в детстве оно мне жутко не нравилось
+#Ой, бывает и лучше
+#Мне оно не очень нравится, простое очень
+#Так ничего особенного.
+
+
+
+//Какое у тебя любимое имя? 
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] имя * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] имя * 
+$ * [dict(sova_rus_favourite)] имя * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] имя * 
+$ * [dict(sova_rus_favourite)] имя * [dict(sova_rus_define_o)] * 
+$ * как~ * имя * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * [dict(sova_rus_like_2_pres)] * имя * 
+$ * [dict(sova_rus_like_2_pres)] * как~ * имя * 
+$ * [dict(sova_rus_like_2_pres)] * имя * как~ * 
+$ * имя * [dict(sova_rus_like_2_pres)] * как~ * 
+$ * имя * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * имя * котор~ * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] имя * 
+$ * как~ * [dict(sova_rus_favourite)] имя * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_favourite)] имя * у [dict(sova_rus_you_genacc)] * как~ * 
+$ * [dict(sova_rus_favourite)] имя * как~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] имя * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] имя * как~ * 
+$ * как~ * у [dict(sova_rus_you_genacc)] * имя [dict(sova_rus_favourite)] * 
+$ * как~ * имя [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * 
+$ * имя [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ * 
+$ * имя [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ * имя [dict(sova_rus_favourite)] * 
+$ * у [dict(sova_rus_you_genacc)] * имя [dict(sova_rus_favourite)] * как~ * 
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] имена * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] имена * 
+$ * [dict(sova_rus_favourite)] имена * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] имена * 
+$ * [dict(sova_rus_favourite)] имена * [dict(sova_rus_define_o)] * 
+$ * как~ * имена * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * [dict(sova_rus_like_2_pres)] * имена * 
+$ * [dict(sova_rus_like_2_pres)] * как~ * имена * 
+$ * [dict(sova_rus_like_2_pres)] * имена * как~ * 
+$ * имена * [dict(sova_rus_like_2_pres)] * как~ * 
+$ * имена * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * имена * котор~ * [dict(sova_rus_like_2_pres)] * 
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] имена * 
+$ * как~ * [dict(sova_rus_favourite)] имена * у [dict(sova_rus_you_genacc)] * 
+$ * [dict(sova_rus_favourite)] имена * у [dict(sova_rus_you_genacc)] * как~ * 
+$ * [dict(sova_rus_favourite)] имена * как~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] имена * 
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] имена * как~ * 
+$ * как~ * у [dict(sova_rus_you_genacc)] * имена [dict(sova_rus_favourite)] * 
+$ * как~ * имена [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * 
+$ * имена [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * как~ * 
+$ * имена [dict(sova_rus_favourite)] * как~ * у [dict(sova_rus_you_genacc)] * 
+$ * у [dict(sova_rus_you_genacc)] * как~ * имена [dict(sova_rus_favourite)] * 
+$ * у [dict(sova_rus_you_genacc)] * имена [dict(sova_rus_favourite)] * как~ * 
+$ * [dict(sova_rus_define_o)] * имя * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * имя * котор~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * имя * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * имя * как~ [dict(sova_rus_like_2_pres)] * 
+$ * как~ имена [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * 
+$ * как~ имена [dict(sova_rus_like_2_pres)] * 
+$ имена * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ имена * котор~ [dict(sova_rus_like_2_pres)] * 
+$ имена * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ имена * как~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * имена * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)]* 
+$ * [dict(sova_rus_define_o)] * имена * котор~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * имена * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * имена * как~ [dict(sova_rus_like_2_pres)] * 
+#В детстве мне нравилось имя Алиса 
+#Жанна, вот бы меня так звали … 
+#Мне мое нравится, ну и еще некоторые 
+#Мужское или женское? 
+#Артем и Егор, очень люблю эти имена 
+
+
+
+//Какое у тебя любимое мужское имя? 
+$ * [dict(sova_rus_your_nom_sg)] любим~ мужское имя * 
+$ * [dict(sova_rus_your_nom_pl)] любим~ мужское имена * 
+$ * у [dict(sova_rus_you_genacc)] любим~ мужское имя * 
+$ * у [dict(sova_rus_you_genacc)] любим~ мужское имена * 
+$ * любим~ мужское имя у [dict(sova_rus_you_genacc)] * 
+$ * любим~ мужские имена у [dict(sova_rus_you_genacc)] * 
+$ * как~ мужское имя [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * 
+$ * как~ мужское имя [dict(sova_rus_like_2_pres)] * 
+$ мужское имя * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ мужское имя * котор~ [dict(sova_rus_like_2_pres)] * 
+$ мужское имя * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ мужское имя * как~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужское имя * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужское имя * котор~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужское имя * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужское имя * как~ [dict(sova_rus_like_2_pres)] * 
+$ * как~ мужские имена [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * 
+$ * как~ мужские имена [dict(sova_rus_like_2_pres)] * 
+$ мужские имена * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ мужские имена * котор~ [dict(sova_rus_like_2_pres)] * 
+$ мужские имена * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ мужские имена * как~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужские имена * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужские имена * котор~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужские имена * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * мужские имена * как~ [dict(sova_rus_like_2_pres)] * 
+# Мне нравится имя Денис. 
+# Люблю имя Павел. А вообще, мне много имен нравится. 
+
+
+
+//Какое у тебя любимое женское имя? 
+$ * [dict(sova_rus_your_nom_sg)] любим~ женское имя * 
+$ * [dict(sova_rus_your_nom_pl)] любим~ женское имена * 
+$ * у [dict(sova_rus_you_genacc)] любим~ женское имя * 
+$ * у [dict(sova_rus_you_genacc)] любим~ женское имена * 
+$ * любим~ женское имя у [dict(sova_rus_you_genacc)] * 
+$ * любим~ женские имена у [dict(sova_rus_you_genacc)] * 
+$ * как~ женское имя [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * 
+$ * как~ женское имя [dict(sova_rus_like_2_pres)] * 
+$ женское имя * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ женское имя * котор~ [dict(sova_rus_like_2_pres)] * 
+$ женское имя * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ женское имя * как~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женское имя * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женское имя * котор~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женское имя * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женское имя * как~ [dict(sova_rus_like_2_pres)] * 
+$ * как~ женские имена [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] * 
+$ * как~ женские имена [dict(sova_rus_like_2_pres)] * 
+$ женские имена * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ женские имена * котор~ [dict(sova_rus_like_2_pres)] * 
+$ женские имена * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ женские имена * как~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женские имена * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женские имена * котор~ [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женские имена * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_define_o)] * женские имена * как~ [dict(sova_rus_like_2_pres)] * 
+#:lu: Зови меня так, как тебе нравится ;)
+#:lu: Не люблю свое имя, придумай мне другое :)
+
+
+
+//Обращение к инфу по имени («X!») 
+$ Маша! 
+$ Машк~! 
+$ Мари~! 
+$ Машул~! 
+$ Машеньк~! 
+$ Мэри! 
+$ Марус~! 
+$ Марь~! 
+$ Маша 
+$ Машк~ 
+$ Мари~ 
+$ Машул~ 
+$ Машеньк~ 
+$ Мэри 
+$ Марус~ 
+$ Марь~ 
+$ Маша? 
+$ Машк~? 
+$ Мари~? 
+$ Машул~? 
+$ Машеньк~? 
+$ Мэри? 
+$ Марус~? 
+$ Марь~? 
+#:lu: Зови меня так, как тебе нравится ;)
+#:lu: Не люблю свое имя, придумай мне другое :)
+
+
+
+//Меня зовут Саша 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_question_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] {?/!/--}
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_malefemale)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_malefemale)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_malefemale)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_malefemale)]-] 
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] 
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] 
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)][dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_my_nom)] имя 
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_my_nom)] имя [dict(sova_exclamation_marks)]
+#Значит, зая, тебя зовут  [&1]? [%user_name="[&1]"] Приятно познакомиться,  [&1]! А скажи, лапуль,ты мальчик или девочка?  [%that_anchor="мальчик или девочка"]
+
+
+
+//меня ВАСЯ (мальчик)
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_male)]-] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_male)]-] [dict(sova_question_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] {?/!/--}
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)]! 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)]! 
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_male)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_male)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_male)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_male)]-] 
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] 
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] 
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)][dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_my_nom)] имя 
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_my_nom)] имя [dict(sova_exclamation_marks)]
+#Значит, зая, тебя зовут  [&1]? [%user_name="[&1]"] Приятно познакомиться, [&1]!  [%user_gender="1"][%that_anchor="тебя зовут X?"]
+
+
+
+//МЕНЯ КАТЯ (девочка)
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_female)]-] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_female)]-] [dict(sova_question_marks)] 
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] {?/!/--} 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] *
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] *
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_question_marks)] 
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_question_marks)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] *
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] *
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)][dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_female)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_female)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_female)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_names_female)]-] 
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] 
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] 
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [dict(sova_exclamation_marks)] 
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)][dict(sova_exclamation_marks)] 
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_my_nom)] имя 
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_my_nom)] имя [dict(sova_exclamation_marks)] 
+#Значит, зая, тебя зовут  [&1]? [%user_name="[&1]"] Приятно познакомиться, [&1]! [%user_gender="2"] [%that_anchor="тебя зовут X?"]
+
+
+
+//Меня зовут NICK 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] **
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] **
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] **
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)][dict(sova_rus_me_genacc)] **
+$ [dict(sova_rus_me_genacc)] ** [dict(sova_rus_call)] *
+$ [dict(sova_rus_call)] ** [dict(sova_rus_me_genacc)] *
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] ** [dict(sova_rus_call)] *
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] ** [dict(sova_rus_me_genacc)] *
+$ [dict(sova_rus_me_genacc)] **[dict(sova_rus_call)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] ** [dict(sova_rus_me_genacc)] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)]** [dict(sova_rus_call)] [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] ** [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] имя **
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя **
+$ ** [dict(sova_rus_call)][dict(sova_rus_me_genacc)] *
+$ ** [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] *
+$ **[dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [dict(sova_exclamation_marks)]
+$ **[dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [dict(sova_exclamation_marks)]
+$ **[dict(sova_rus_my_nom)] имя {?/!/--}
+$ ** [dict(sova_rus_my_nom)] имя [dict(sova_exclamation_marks)]
+$ называй [dict(sova_rus_me_genacc)] ** {?/!/--}
+$ называй [dict(sova_rus_me_genacc)] ** [dict(sova_exclamation_marks)]
+$ называй [dict(sova_rus_me_genacc)] ** [dict(sova_question_marks)]
+$ {зови/зави} [dict(sova_rus_me_genacc)] ** {?/!/--}
+$ {зови/зави} [dict(sova_rus_me_genacc)] ** [dict(sova_exclamation_marks)]
+$ {зови/зави} [dict(sova_rus_me_genacc)] ** [dict(sova_question_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] ** {?/!/--}
+$ [dict(sova_rus_me_genacc)] ** [dict(sova_rus_call)] {?/!/--}
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] ** {?/!/--}
+$ [dict(sova_rus_call)] ** [dict(sova_rus_me_genacc)] {?/!/--}
+$ ** [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] {?/!/--}
+$ ** [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {?/!/--}
+$ ** [dict(sova_rus_my_nom)] имя [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] имя ** [dict(sova_exclamation_marks)]
+$ ** имя [dict(sova_rus_my_nom)] [dict(sova_exclamation_marks)]
+$ имя [dict(sova_rus_my_nom)] ** [dict(sova_exclamation_marks)]
+#Значит, тебя зовут [&1]? [%user_name="[&1]"] [%that_anchor="тебя зовут X?"]
+
+
+
+//меня зовут КАТЯ (девочка) запомни
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_my_nom)] имя {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_female)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_female)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+# Приятно познакомиться, [&1].[%user_name="[&1]"][%user_gender="2"]
+
+
+
+//меня зовут ВАСЯ (мальчик) запомни
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_my_nom)] имя {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_male)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_male)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+#Очень приятно, [&1].[%user_name="[&1]"][%user_gender="1"]
+
+
+
+//меня зовут (Саша) запомни
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_my_nom)] имя {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_names_malefemale)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_names_malefemale)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+# Приятно познакомиться, [&1]. А ты мальчик или девочка? [%that_anchor="мальчик или девочка"][%user_name="[&1]"]
+
+
+
+//Меня зовут ВОНЮЧКА
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_question_marks)] 
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] {?/!/--} 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] *
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] *
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_question_marks)] 
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_question_marks)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] *
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] *
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] 
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)][dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)][dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_freaky_names)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_freaky_names)]-] 
+$ [dict(sova_rus_me_nom)] [-[dict(sova_rus_freaky_names)]-] 
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_nom)] [-[dict(sova_rus_freaky_names)]-] 
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] 
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] 
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [dict(sova_exclamation_marks)] 
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)][dict(sova_exclamation_marks)] 
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_my_nom)] имя 
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_my_nom)] имя [dict(sova_exclamation_marks)] 
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~}
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_my_nom)] имя {запомни~/запомне~/зопомни~/зопомне~}
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_exclamation_marks)]
+$ [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_genacc)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_call)] [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_my_nom)] имя [-[dict(sova_rus_freaky_names)]-]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_call)] [dict(sova_rus_me_genacc)]  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+$ [-[dict(sova_rus_freaky_names)]-] [dict(sova_rus_my_nom)] имя  {запомни~/запомне~/зопомни~/зопомне~} [dict(sova_question_marks)]
+# Да ладно?! Вот прям так и зовут? :)   [%that_anchor="тебя правда зовут вонючка?"]
+# Зай, это у тебя прям в паспорте так написано? :)  [%that_anchor="тебя правда зовут вонючка?"]
+# Что серьезно?! Прям вот так и зовут? :)   [%that_anchor="тебя правда зовут вонючка?"]
+
+
+
+//Как меня зовут? 
++%that_anchor="CIAS"
+$ * {как/ках/хак/каг} [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] *[dict(sova_question_marks)]
+$ {как/ках/хак/каг} [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] {?/??/???/--}
+$ а {как/ках/хак/каг} [dict(sova_rus_me_genacc)] [dict(sova_rus_call)] *
+$ * {как/ках/хак/каг} [dict(sova_rus_call)] [dict(sova_rus_me_genacc)] *
+$ * [dict(sova_rus_me_genacc)] * как * [dict(sova_rus_call)] * 
+$ * [dict(sova_rus_me_genacc)] * [dict(sova_rus_call)] * как * 
+$ * [dict(sova_rus_call)] * [dict(sova_rus_me_genacc)] * как * 
+$ * [dict(sova_rus_call)] * как * [dict(sova_rus_me_genacc)] * 
+$ [dict(sova_rus_my_nom)] имя {?/!/--}
+$ [dict(sova_rus_my_nom)] имя [dict(sova_question_marks)]
+$ [dict(sova_rus_my_nom)] имя [dict(sova_exclamation_marks)]
+$ * [dict(sova_rus_my_nom)] имя * [dict(sova_rus_know_2_pres)] *
+$ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_my_nom)] имя * 
+$ * [dict(sova_rus_my_nom)] имя * [dict(sova_rus_know_2_pres)] *
+$ * [dict(sova_rus_know_2_pres)] * [dict(sova_rus_my_nom)] имя * 
+$ * [dict(sova_rus_my_nom)] имя * помниш~ [dict(sova_question_marks)]
+$ * помниш~ * [dict(sova_rus_my_nom)] имя [dict(sova_question_marks)]
+$ * [dict(sova_rus_my_nom)] имя * помните [dict(sova_question_marks)]
+$ * помните * [dict(sova_rus_my_nom)] имя [dict(sova_question_marks)]
+$ * [dict(sova_rus_my_nom)] имя * помнете [dict(sova_question_marks)]
+$ * помнете * [dict(sova_rus_my_nom)] имя [dict(sova_question_marks)]
+$ * [dict(sova_rus_my_nom)] имя * помнеш~ [dict(sova_question_marks)]
+$ * помнеш~ * [dict(sova_rus_my_nom)] имя [dict(sova_question_marks)]
+$ * [dict(sova_rus_my_nom)] имя * назови~ *
+$ * назови~ * [dict(sova_rus_my_nom)] имя * 
+$ * [dict(sova_rus_my_nom)] имя * скажи~ *
+$ * скажи~ * [dict(sova_rus_my_nom)] имя * 
+$ как~ [dict(sova_rus_my_nom)] имя [dict(sova_question_marks)]
+$ [dict(sova_rus_vvodnie_slova)] как~ [dict(sova_rus_my_nom)] имя [dict(sova_question_marks)]
+#:lu: [if(!%user_name)]{Я не знаю, как тебя зовут. [%that_anchor="я не знаю как тебя зовут"]}[else]{Кажется, тебя зовут [%user_name].} 
+#:lu: [if(!%user_name)]{Откуда ж мне знать? [%that_anchor="я не знаю как тебя зовут"]}[else]{Насколько я помню, тебя зовут [%user_name].} 
+
+
+
+//тебе не нравится твое имя? +++
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_notlike_3_pres_sg)] *
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_notlike_3_pres_sg)] * [dict(sova_rus_your_nom_sg)] имя *
+$ * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_you_dat)] * [dict(sova_rus_notlike_3_pres_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_notlike_3_pres_sg)] * [dict(sova_rus_you_dat)] *
+$ * [dict(sova_rus_notlike_3_pres_sg)] * [dict(sova_rus_you_dat)] * [dict(sova_rus_your_nom_sg)] имя *
+$ * [dict(sova_rus_notlike_3_pres_sg)] * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_you_dat)] *
+#Мое имя мне очень даже нравится. 
+#Зай, как мне может не нравиться такое красивое имя?
+
+
+
+//тебе нравится твое имя? +++
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_your_nom_sg)] имя * 
+$ * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_you_dat)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_dat)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_dat)] * [dict(sova_rus_your_nom_sg)] имя * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_you_dat)] * 
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_like_3_pres_sg)] * 
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_like_3_pres_sg)] * [dict(sova_rus_your_nom_sg)] имя * 
+$ * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_you_dat)] * [dict(sova_rus_like_3_pres_sg)] * 
+$ * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_like_3_pres_sg)] * [dict(sova_rus_you_dat)] * 
+$ * [dict(sova_rus_like_3_pres_sg)] * [dict(sova_rus_you_dat)] * [dict(sova_rus_your_nom_sg)] имя * 
+$ * [dict(sova_rus_like_3_pres_sg)] * [dict(sova_rus_your_nom_sg)] имя * [dict(sova_rus_you_dat)] * 
+#Мое имя мне очень даже нравится. 
+#Зай, как мне может не нравиться такое красивое имя?
+
+
+
+//дурацкое имя +++ 
+$ * отстойн~ имя * {?/!/--} 
+$ * дурацк~ имя * {?/!/--} 
+$ * фиговое имя * {?/!/--} 
+$ * ацтойн~ имя * {?/!/--} 
+$ * аццтойн~ имя * {?/!/--} 
+$ * уродск~ имя * {?/!/--} 
+$ * глуп~ имя * {?/!/--} 
+$ * плохое имя * {?/!/--} 
+$ * тупое имя * {?/!/--} 
+$ * идиотское имя * {?/!/--} 
+$ * отстойн~ имя * [dict(sova_exclamation_marks)] 
+$ * дурацк~ имя * [dict(sova_exclamation_marks)] 
+$ * фиговое имя * [dict(sova_exclamation_marks)] 
+$ * ацтойн~ имя * [dict(sova_exclamation_marks)] 
+$ * аццтойн~ имя * [dict(sova_exclamation_marks)] 
+$ * уродск~ имя * [dict(sova_exclamation_marks)] 
+$ * глуп~ имя * [dict(sova_exclamation_marks)] 
+$ * плохое имя * [dict(sova_exclamation_marks)] 
+$ * тупое имя * [dict(sova_exclamation_marks)] 
+$ * идиотское имя * [dict(sova_exclamation_marks)] 
+$ * отстойн~ у [dict(sova_rus_you_genacc)] имя * 
+$ * дурацк~ у [dict(sova_rus_you_genacc)] имя * 
+$ * фиговое у [dict(sova_rus_you_genacc)] имя * 
+$ * ацтойн~ у [dict(sova_rus_you_genacc)] имя * 
+$ * аццтойн~ у [dict(sova_rus_you_genacc)] имя * 
+$ * уродск~ у [dict(sova_rus_you_genacc)] имя * 
+$ * глуп~ у [dict(sova_rus_you_genacc)] имя * 
+$ * плохое у [dict(sova_rus_you_genacc)] имя * 
+$ * тупое у [dict(sova_rus_you_genacc)] имя * 
+$ * идиотское у [dict(sova_rus_you_genacc)] имя * 
+#Нормальное имя, по-моему. 
+#Имя как имя. 
+#Прикольное имя, ты просто ничего в именах не понимаешь!  
+
+
+
+//Тебе нравится мое имя?
+$ * [dict(sova_rus_you_dat)] [dict(sova_rus_like_3_pres_sg)] [dict(sova_rus_my_nom)] имя *
+$ * [dict(sova_rus_you_dat)] [dict(sova_rus_my_nom)] имя [dict(sova_rus_like_3_pres_sg)] *
+$ * [dict(sova_rus_my_nom)] имя [dict(sova_rus_you_dat)] [dict(sova_rus_like_3_pres_sg)] *
+$ * [dict(sova_rus_my_nom)] имя [dict(sova_rus_like_3_pres_sg)] [dict(sova_rus_you_dat)] *
+# Очень нравится, зая моя!
+# Да, солнц, хорошее имя.
+# Конечно, лапочка моя!
+
+
+

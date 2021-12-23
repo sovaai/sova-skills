@@ -1,0 +1,32 @@
+// call me back
+$ * [@cmb({{call/ring/contact\}}, {{me/--\}}, {back}, {[<dict(sova_eng_please)>]})] *
+$ * [@cmb({contact}, {me}, {[<dict(sova_eng_please)>]})] *
+$ * [@cmb({callback}, {[<dict(sova_eng_please)>]})] *
+#Please leave me your contacts and my colleagues will contact you as quickly as possible.[%that_anchor="leave_contacts"]
+
+
++%that_anchor="leave_contacts"
+$ [-*-]
+#Thank you, [@set("last_set1", "[&1]")] — is it your phone number?[%that_anchor="is it your phone number"]
+
+
++%that_anchor="is it your phone number"
+$ * [dict(sova_eng_yes)] *
+$ * {my/mine} *
+$ * {course/certainly/surely/assuredly/sure/obviously/definitely} *
+# Thank you, I'll send your phone number [%last_set1] to my colleagues. They'll contact you soon.
+
+
++%that_anchor="is it your phone number"
+$ * [dict(sova_eng_no)] *
+$ * {mis~/wrong~} *
+$ * [dict(sova_eng_no)] * {my/mine} *
+$ * {course/certainly/surely/assuredly/sure/obviously/definitely} * [dict(sova_eng_no)] *
+# Please, repeat your contact details. I'll send it to my colleagues. [%that_anchor="leave_contacts"]
+
+
+// leave my contacts
+$ * {leave/left} * {my/--} {contact~/number/phone} *
+# Please, write your contact details. I'll send it to my colleagues. [%that_anchor="leave_contacts"]
+
+

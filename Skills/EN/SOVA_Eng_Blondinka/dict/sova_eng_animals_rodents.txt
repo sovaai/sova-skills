@@ -1,0 +1,15 @@
+hamster
+hamsters
+rat
+rats
+mouse
+mice
+chipmunk~
+guinea-pig~
+guineapig~
+guinea pig~
+
+
+
+
+

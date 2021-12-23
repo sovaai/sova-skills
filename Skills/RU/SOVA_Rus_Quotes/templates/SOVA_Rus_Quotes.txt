@@ -1,0 +1,17 @@
+//Скажи цитату
+--Label sova_rus_quotes
+$ * {цитат~/афоризм~/изречени~/высказывани~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({[dict(sova_rus_tell)]}, {{цитат~/афоризм~/изречени~/высказывани~\}})] *
+$ * [@cmb({{хоч~/дай/приведи~/привести/давай/го/мож~/гони~/погнал~/валяй~/теперь/нужен/нужн~/шуруй~/айда/знае~\}}, {{цитат~/афоризм~/изречени~/высказывани~\}})] *
+$ * [@cmb({[dict(sova_rus_please)]}, {{цитат~/афоризм~/изречени~/высказывани~\}})] *
+$ * [@cmb({{цитир~/процитир~/цитат~/афоризм~/изречени~/высказывани~\}}, {{кого~/чью~/чье/чьё~/человек~/люд~\}})] *
+# [udict(sova_rus_quotes)][%that_anchor="rus_quotes_more"]
+
+
+
+//Еще цитату
++%that_anchor="rus_quotes_more"
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[dict(sova_rus_again)]})] *
+#  [ExtendAnswer("sova_rus_quotes")][%that_anchor="rus_quotes_more"]
+
+

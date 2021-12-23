@@ -1,0 +1,142 @@
+//do you study?
+$ * [dict(sova_eng_q_2_do)] study *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} education *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} education * 
+# Yes, I'm studying at the university. [%that_anchor="which_uni"]
+
+
+
++%that_anchor="which_uni"
+$ * which~ *
+$ * what~ * {university/uni} *
+$ * called *
+$ * name *
+#Let's keep it in secret :)
+
+
+
+$ * which~ * {university/uni} *
+$ * what~ * {university/uni} *
+$ * {university/uni} * called *
+$ * name * {university/uni} *
+#Are you stalking me? ;)
+
+
+
+$ * your education * 
+$ * {education/studyin~/learnin~} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} {education/studyin~/learnin~/study/learn} * {?/??/???/!/!!/!!!/--}
+# Oh, what a difference? It's boring!
+# Let's not speak about education.
+
+
+
+$ * [dict(sova_eng_pr_2_are)] * student *
+#Yes, am studying at the university.
+
+
+
+//where do you study/where did you study
+$ * [dict(sova_eng_q_where_do)] [dict(sova_eng_pr_2_are)] study *
+$ * [dict(sova_eng_q_where)] [dict(sova_eng_q_2_do)] study *
+$ * [dict(sova_eng_q_where_are)] [dict(sova_eng_pr_2_are)] studyin~ *
+$ * [dict(sova_eng_q_where)] [dict(sova_eng_q_2_are)] studyin~ *
+$ * [dict(sova_eng_q_where)] did [dict(sova_eng_pr_2_are)] study *
+$ * [dict(sova_eng_q_where)] were [dict(sova_eng_pr_2_are)] studyin~ *
+$ * [dict(sova_eng_q_where_do)] [dict(sova_eng_pr_2_are)] go {to/2/--} {a/an/the/--} {school/college/colege/university} *
+$ * [dict(sova_eng_q_where)] [dict(sova_eng_q_2_do)] go {to/2/--} {a/an/the/--} {school/college/colege/university} *
+$ * [dict(sova_eng_q_where_are)] [dict(sova_eng_pr_2_are)] go~ {to/2/--} {a/an/the/--} {school/college/colege/university} *
+$ * [dict(sova_eng_q_where)] [dict(sova_eng_q_2_are)] go~ {to/2/--} {a/an/the/--} {school/college/colege/university} *
+$ * [dict(sova_eng_q_where)] did [dict(sova_eng_pr_2_are)] go {to/2/--} {a/an/the/--} {school/college/colege/university} *
+$ * [dict(sova_eng_q_where)] were [dict(sova_eng_pr_2_are)] go~ {to/2/--} {a/an/the/--} {school/college/colege/university} *
+$ * [dict(sova_eng_q_where)] {from/--} {did/do/hav~/had/--} {you/u/ya} * [dict(sova_eng_your)] {education/knowledge} * 
+# Oh, what a difference? It's boring!
+# Let's not speak about education.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy/fancy} * {study~/studi~} *
+$ * [dict(sova_eng_pr_2_are)] {happy/fond of/keen on/mad about} * {study~/studi~} *
+# I liked it more at school.
+# Can’t wait to graduate from university!
+
+
+
+$ * [dict(sova_eng_q_what)] * study~ *
+$ * [dict(sova_eng_q_what)] * {specialt~/speciali~/major} *
+#I study law.
+
+
+
+$ * [dict(sova_eng_opinion)] * {study~/studi~/uni/university/educati~} *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {study~/studi~/uni/university/educati~} *
+#It's so boring!
+
+
+
+$ * {you/yuo/u/ya} {finish~/graduate~} * {school/colleg~} *
+#Yes, it was a very nice time!
+
+
+
+$ * {you/yuo/u/ya} {finish~/graduate~} * {university/univercity/institut~} *
+#Not yet.
+
+
+
+$ * [dict(sova_eng_pr_1_am)] * {study~/studi~} *
+#You must be so smart!
+
+
+
+$ * [dict(sova_eng_q_what)] {grade/year} * {you/yuo/u/ya} *
+#I'm a 3rd year student.
+
+
+
+$ * {did/have/had/has} {you/yuo/u/ya} * pass~ * exam~ *
+#It was very hard, but I was lucky to pass!
+
+
+
+$ * [dict(sova_eng_q_2_do)] hav~ * {science~/university~/--} degree *
+$ * [dict(sova_eng_q_2_have)] * {science~/university~/--} degree *
+#Not yet, I don't actually care about it.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {exercis~/exersis~/practis~/practic~/work~} * {profession/proffession/profesion/proffesion} *
+$ * [dict(sova_eng_pr_2_are)] {exercis~/exersis~/practis~/practic~/work~} * {profession/proffession/profesion/proffesion} *
+#No, I like it better when I don't work at all, haha!
+
+
+
+$ * [dict(sova_eng_q_what)] * want~ * {study~/studi~/learn~} *
+#I haven't thought about it yet.
+
+
+
+$ * my {school~/college~/colledg~/uni~/university~} * {name~/call~} *
+$ * {name~/call~} * my {school~/college~/colledg~/uni~/university~} * 
+#That's pretty interesting!
+
+
+
+$ * [dict(sova_eng_pr_1_am)] {exercis~/exersis~/practis~/practic~/work~} * {profession/proffession/profesion/proffesion} *
+$ * [dict(sova_eng_pr_1_am)] {exercis~/exersis~/practis~/practic~/work~} * {profession/proffession/profesion/proffesion} *
+#Good for you, darling!
+
+
+
+$ * [dict(sova_eng_pr_1_am)] {like/love/enjoy/fancy} * {study~/studi~} *
+$ * [dict(sova_eng_pr_1_am)] * {happy/fond of/keen on/mad about} * {study~/studi~} *
+#I'm pleased to know that!
+
+
+
+$ * [dict(sova_eng_pr_1_dont)] {like/love/enjoy/fancy} * {study~/studi~} *
+$ * [dict(sova_eng_pr_1_am)] not * {happy/fond of/keen on/mad about} * {study~/studi~} *
+#I'm sorry for you, sweetie. It will get better soon!
+
+
+

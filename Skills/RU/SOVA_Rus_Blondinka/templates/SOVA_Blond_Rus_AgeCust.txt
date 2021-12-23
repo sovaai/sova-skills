@@ -1,0 +1,161 @@
+//Сколько тебе лет?
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_you_dat)] * [dict(sova_rus_age_years)] *
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * [dict(sova_rus_you_dat)] *
+$ * [dict(sova_rus_age_years)] * [dict(sova_rus_you_dat)] * [dict(sova_rus_howmany)] *
+$ * [dict(sova_rus_age_years)] * [dict(sova_rus_howmany)] * [dict(sova_rus_you_dat)] *
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_age_years)] * [dict(sova_rus_howmany)] *
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] *
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_you_dat)] * {стукнуло/исполнилось/сравнялось/сровнялось} *
+$ * [dict(sova_rus_howmany)] * {стукнуло/исполнилось/сравнялось/сровнялось} * [dict(sova_rus_you_dat)] *
+$ * {стукнуло/исполнилось/сравнялось/сровнялось} * [dict(sova_rus_you_dat)] * [dict(sova_rus_howmany)] *
+$ * {стукнуло/исполнилось/сравнялось/сровнялось} * [dict(sova_rus_howmany)] * [dict(sova_rus_you_dat)] *
+$ * [dict(sova_rus_you_dat)] * {стукнуло/исполнилось/сравнялось/сровнялось} * [dict(sova_rus_howmany)] *
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_howmany)] * {стукнуло/исполнилось/сравнялось/сровнялось} *
+$ * какой [dict(sova_rus_you_dat)] * [dict(sova_rus_age_years)] * 
+$ * какой [dict(sova_rus_age_years)] * [dict(sova_rus_you_dat)] * 
+$ * [dict(sova_rus_you_dat)] какой [dict(sova_rus_age_years)] * 
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_age_years)] какой * 
+$ * [dict(sova_rus_age_years)] * [dict(sova_rus_you_dat)] какой *
+$ * [dict(sova_rus_age_years)] какой [dict(sova_rus_you_dat)] *
+$ [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)]
+$ [dict(sova_rus_howmany)] [dict(sova_rus_age_years)]
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_age_years)] * а [dict(sova_rus_you_dat)] *
+$ * [dict(sova_rus_your_nom_sg)] возраст *
+$ * [dict(sova_rus_your_nom_pl)] возраст~ *
+$ * [dict(sova_rus_define_o)] * свой возраст~ *
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * с [dict(sova_rus_your_gen_sg)] дня рожден~ прошл~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * с дня [dict(sova_rus_your_gen_sg)] рожден~ прошл~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * с [dict(sova_rus_your_gen_sg)] рожден~ прошл~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * прошл~ с [dict(sova_rus_your_gen_sg)] дня рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * прошл~ с дня [dict(sova_rus_your_gen_sg)] рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * прошл~ с [dict(sova_rus_your_gen_sg)] рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * после [dict(sova_rus_your_gen_sg)] дня рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * после дня [dict(sova_rus_your_gen_sg)] рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * после [dict(sova_rus_your_gen_sg)] рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * с [dict(sova_rus_your_gen_pl)] дн~ рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * с дня [dict(sova_rus_your_gen_pl)] рожден~ *
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * с [dict(sova_rus_your_gen_pl)] рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * после [dict(sova_rus_your_gen_pl)] дня рожден~ * 
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * после дня [dict(sova_rus_your_gen_pl)] рожден~ *
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * после [dict(sova_rus_your_gen_pl)] рожден~ * 
+$ [dict(sova_rus_vvodnie_slova)] тебе скока
+$ [dict(sova_rus_vvodnie_slova)] тебе скока?
+$ [dict(sova_rus_vvodnie_slova)] скока тебе 
+$ [dict(sova_rus_vvodnie_slova)] скока тебе?
+$ {а/ну а/ну/--} [dict(sova_rus_you_dat)] [dict(sova_rus_howmany)]
+$ {а/ну а/ну/--} [dict(sova_rus_you_dat)] [dict(sova_rus_howmany)] [dict(sova_question_marks)]
+$ {а/ну а/ну/--} [dict(sova_rus_howmany)] [dict(sova_rus_you_dat)] 
+$ {а/ну а/ну/--} [dict(sova_rus_howmany)] [dict(sova_rus_you_dat)][dict(sova_question_marks)]
+$ {а/ну а/ну/--} лет [dict(sova_rus_howmany)]
+$ {а/ну а/ну/--} лет [dict(sova_rus_howmany)] [dict(sova_question_marks)]
+$ {а/ну а/ну/--} [dict(sova_rus_howmany)] {лет/лет7}
+$ {а/ну а/ну/--} [dict(sova_rus_howmany)] {лет/лет7} [dict(sova_question_marks)]
+$ [dict(sova_rus_you_dat)] лет {?/??/???/?!/!/!!/!!!/--}
+$  лет [dict(sova_rus_you_dat)] {?/??/???/?!/!/!!/!!!/--}
+#:lu: Не скажу, это секрет.
+#:lu:Девушкам не задают таких вопросов.
+#:lu: Мой возраст - это мой маленький секрет:) 
+#:lu: Ну что за вопросы, в самом деле!
+#:lu: Нет, ну это даже как-то неприлично...
+
+
+
+//Сколько мне лет?
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_me_dat)] * [dict(sova_rus_age_years)] *
+$ * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] * [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_age_years)] * [dict(sova_rus_me_dat)] * [dict(sova_rus_howmany)] *
+$ * [dict(sova_rus_age_years)] * [dict(sova_rus_howmany)] * [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_age_years)] * [dict(sova_rus_howmany)] *
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)] *
+$ * какой * [dict(sova_rus_me_dat)] * [dict(sova_rus_age_years)] * 
+$ * какой [dict(sova_rus_age_years)] * [dict(sova_rus_me_dat)] * 
+$ * [dict(sova_rus_me_dat)] какой [dict(sova_rus_age_years)] * 
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_age_years)] какой * 
+$ * [dict(sova_rus_age_years)] * [dict(sova_rus_me_dat)] какой *
+$ * [dict(sova_rus_age_years)] какой [dict(sova_rus_me_dat)] *
+$ [dict(sova_rus_howmany)] * [dict(sova_rus_age_years)]
+$ * [dict(sova_rus_me_dat)] * [dict(sova_rus_age_years)] * а [dict(sova_rus_me_dat)] *
+$ * [dict(sova_rus_my_nom)] возраст~ *
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_dat)] скока
+$ [dict(sova_rus_vvodnie_slova)] [dict(sova_rus_me_dat)] скока?
+$ [dict(sova_rus_vvodnie_slova)] скока [dict(sova_rus_me_dat)]
+$ [dict(sova_rus_vvodnie_slova)] скока [dict(sova_rus_me_dat)]?
+$ {а/ну а/ну/--} [dict(sova_rus_me_dat)] [dict(sova_rus_howmany)]
+$ {а/ну а/ну/--} [dict(sova_rus_me_dat)] [dict(sova_rus_howmany)] [dict(sova_question_marks)]
+$ {а/ну а/ну/--} [dict(sova_rus_howmany)] [dict(sova_rus_me_dat)] 
+$ {а/ну а/ну/--} [dict(sova_rus_howmany)] [dict(sova_rus_me_dat)][dict(sova_question_marks)]
+# [if(!%user_age)]{Ты мне еще не говорил про свой возраст. Или я уже забыла...}[else]{Тебе [%user_age], я помню.}
+
+
+
++%that_anchor="мне Х лет"
+$ * а мне **
+# А по разговору кажется, что ты моложе. [%user_age="[*2]"] 
+# Я почему-то так сразу и подумала. [%user_age="[*2]"]
+
+
+
+//Когда ты родился?
+$ * в * как~ * [dict(sova_rus_age_years)] * [dict(sova_rus_you_nom)] родил~ * 
+$ * в как~ * [dict(sova_rus_age_years)] * родил~ [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] родил~ * в как~ * [dict(sova_rus_age_years)] * 
+$ * [dict(sova_rus_you_nom)] в как~ * [dict(sova_rus_age_years)] * родил~ * 
+$ * родил~ [dict(sova_rus_you_nom)] * в как~ * [dict(sova_rus_age_years)] * 
+$ * родил~ * в как~ * [dict(sova_rus_age_years)] * [dict(sova_rus_you_nom)] *
+$ * с как~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_age_years)] *
+$ * с как~ * [dict(sova_rus_age_years)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * с как~ * [dict(sova_rus_age_years)] *
+$ * [dict(sova_rus_your_nom_sg)] год рождения *
+$ * [dict(sova_rus_your_all)] дат~ рождения *
+$ * год рождения [dict(sova_rus_your_nom_sg)] *
+$ * дат~ рождения [dict(sova_rus_your_all)] *
+$ * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] * родил~ * 
+$ * [dict(sova_rus_when)] * родил~ * [dict(sova_rus_you_nom)] * 
+$ * [dict(sova_rus_you_nom)] * родил~ * [dict(sova_rus_when)] * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] * родил~ * 
+$ * родил~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_when)] * 
+$ * родил~ * [dict(sova_rus_when)] * [dict(sova_rus_you_nom)] * 
+$ * когда * день рождения *
+$ * когда * день рожденья *
+$ * день рождения * когда * 
+$ * день рожденья * когда * 
+#Я родилась в августе, я Лев. 
+#Я родилась летом. 
+#По гороскопу я Львица :)
+
+
+
+//Мне X лет 
+$ * [dict(sova_rus_me_dat)] ** [dict(sova_rus_age_years)] * 
+$ * [dict(sova_rus_me_dat)] [dict(sova_rus_age_years)] ** 
+$ * [dict(sova_rus_age_years)] [dict(sova_rus_me_dat)] * 
+$ * я родил~ в ** году *
+$ * [dict(sova_rus_me_dat)] {скоро/скора/--}{будет/уже/почти/пачти/--} [dict(sova_rus_age_numbers)] {!/!!!/!!/--}
+$ * [dict(sova_rus_me_dat)] {скоро/скора/--}{будет/уже/почти/пачти/--}{один/два/три/четыре/пять/шесь/шесть/семь/восемь/сем/восем/девять/девить/десять/десить/~цать/двацать~/трицать~/двадцать~/тридцать~} {?/???/??/--}
+$ * [dict(sova_rus_me_dat)] {скоро/скора/--}{будет/уже/почти/пачти/--} {~цать/двацать~/трицать~/двадцать~/тридцать~} {один/два/три/четыре/пять/шесь/шесть/семь/восемь/сем/восем/девять/девить/--} {?/???/??/--}
+$ * [dict(sova_rus_me_dat)] * тоже * [dict(sova_rus_age_numbers)] *
+$ * [@cmb({[dict(sova_rus_me_dat)]}, {[dict(sova_rus_age_numbers)]})] *
+#Ничего себе, а выглядишь моложе! Ты в хорошей форме. Наверно, спорт, диеты и все такое. 
+#Да?! А так и не скажешь. :) [%that_anchor="мне Х лет"]
+#Не может быть, а по разговору кажется, что ты старше. Я думала тебе за 30. 
+#В полном расцвете сил :)  
+
+
+
++%that_anchor="мне Х лет"
+$ * почему *
+# Ну по разговору кажется, что еще моложе.
+# Ты кажешься моложе.
+
+
+
+//По гороскопу я Х
+$ * по гороскопу я ** 
+$ * по знаку зодиака я ** 
+$ * я ** по гороскопу * 
+$ * я ** по знаку зодиака * 
+# А я львица! 
+# А я по гороскопу львица!
+
+
+

@@ -1,0 +1,159 @@
+//Когда у тебя отпуск?
+$ * [@cmb({[dict(sova_rus_when)]}, {у [dict(sova_rus_you_genacc)]}, {отпуск})] *
+$ * [@cmb({в как~ числ~}, {у [dict(sova_rus_you_genacc)]}, {отпуск})] *
+$ * [@cmb({[dict(sova_rus_when)]}, {{отпуск/каникул~/коникул~\}})] *
+$ * [@cmb({в как~ числ~}, {{отпуск/каникул~/коникул~\}})] *
+#:lu: Еще не скоро, я только устроилась
+#:lu: Уже не могу дождаться
+#:lu: Я только недавно вернулась
+#:lu: Надеюсь, летом
+#:lu: В этот раз он будет зимой
+
+
+
+//Ты любишь бывать в России или за границей?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_haverest_infinitive)] в Росс~ или за границ~ *
+$ * [dict(sova_rus_like_2_pres)] в Росс~ или за границ~ [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)] в Росс~ или за границ~ [dict(sova_rus_like_2_pres)] *
+$ * в Росс~ или за границ~ [dict(sova_rus_haverest_infinitive)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] [dict(sova_rus_haverest_infinitive)] в Росс~ или за границ~ *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] в Росс~ или за границ~ [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)]  [dict(sova_rus_you_nom)] в Росс~ или за границ~ [dict(sova_rus_like_2_pres)] *
+$ * в Росс~ или за границ~ [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_haverest_infinitive)] в Росс~ или за границ~ *
+$ * [dict(sova_rus_haverest_infinitive)]  [dict(sova_rus_you_nom)] в Росс~ или за границ~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)]  [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] в Росс~ или за границ~ *
+$ * в Росс~ или за границ~ [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)] в Росс~ или за границ~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_haverest_infinitive)] за границ~ или в Росс~ *
+$ * [dict(sova_rus_like_2_pres)] за границ~ или в Росс~[dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)] за границ~ или в Росс~[dict(sova_rus_like_2_pres)] *
+$ * за границ~ или в Росс~[dict(sova_rus_haverest_infinitive)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] [dict(sova_rus_haverest_infinitive)] за границ~ или в Росс~ *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] за границ~ или в Росс~[dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)]  [dict(sova_rus_you_nom)] за границ~ или в Росс~[dict(sova_rus_like_2_pres)] *
+$ * за границ~ или в Росс~[dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_haverest_infinitive)] за границ~ или в Росс~ *
+$ * [dict(sova_rus_haverest_infinitive)]  [dict(sova_rus_you_nom)] за границ~ или в Росс~[dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)]  [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] за границ~ или в Росс~ *
+$ * за границ~ или в Росс~[dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)] за границ~ или в Росс~ * [dict(sova_rus_like_2_pres)] *
+#По-разному, на что денег хватит 
+#Конечно, больше за границей 
+#В России – это на крайней случай
+#Мне это не принципиально 
+#Где-нибудь за границей интересней 
+
+
+
+//Ты был в Х? [Х - популярный курорт]
+$ * [dict(sova_rus_you_nom)] был~ в [dict(sova_rus_vacation_resorts)] *
+$ * [dict(sova_rus_you_nom)] был~ на [dict(sova_rus_vacation_resorts)] *
+$ * в [dict(sova_rus_vacation_resorts)] [dict(sova_rus_you_nom)] был~ *
+$ * на [dict(sova_rus_vacation_resorts)] [dict(sova_rus_you_nom)] был~ *
+$ * в [dict(sova_rus_vacation_resorts)] был~ [dict(sova_rus_you_nom)] *
+$ * на [dict(sova_rus_vacation_resorts)] был~ [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] бывал~ в [dict(sova_rus_vacation_resorts)] *
+$ * [dict(sova_rus_you_nom)] бывал~ на [dict(sova_rus_vacation_resorts)] *
+$ * [dict(sova_rus_you_nom)] ездил~ в [dict(sova_rus_vacation_resorts)] *
+$ * [dict(sova_rus_you_nom)] ездил~ на [dict(sova_rus_vacation_resorts)] *
+#Конечно, уже года два туда езжу
+#Каждая современная девушка должна там побывать
+#Еще нет. Вот коплю!
+#Туда сейчас не попасть, там сплошные знаменитости 
+
+
+
+//Ты любишь купаться?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_vacation_swim_infinitive)] *
+$ * [dict(sova_rus_vacation_swim_infinitive)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)] [dict(sova_rus_vacation_swim_infinitive)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_vacation_swim_infinitive)] *
+$ * [dict(sova_rus_vacation_swim_infinitive)] [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_particles)] [dict(sova_rus_you_nom)] [dict(sova_rus_vacation_swim_infinitive)] *
+#Не очень, я плавать не умею
+#Да, только далеко одна не заплываю
+#Особенно, если вокруг много симпатичных пловцов :) 
+#Конечно, но только там, где неглубоко
+#Я плохо плаваю, поэтому мне нужен спасатель :) 
+
+
+
+//Хорошо отдыхать дикарём?
+$ * дикарем [dict(sova_rus_haverest_infinitive)] [dict(sova_rus_vacation_fine)] *
+$ * дикарем [dict(sova_rus_vacation_fine)] [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)] дикарем [dict(sova_rus_vacation_fine)] *
+$ * [dict(sova_rus_vacation_fine)] дикарем [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)] [dict(sova_rus_vacation_fine)] дикарем *
+$ * [dict(sova_rus_vacation_fine)] [dict(sova_rus_haverest_infinitive)] дикарем *
+#Я не разу так не отдыхала
+#Ой, не думаю. Не знаешь чего ждать 
+#Пишут, что это не безопасно
+#Я не рискну на такое.
+#Только, если рядом кто-то надежный 
+
+
+
+//Ты любишь загорать?
+$ * [@cmb({ [dict(sova_rus_like_2_pres)] }, {[dict(sova_rus_vacation_sunbathe_infinitive)]})] *
+#:lu: Это мое самое любимое занятие
+#:lu: Еще как!!! Обожаю валяться на пляже
+#:lu: Я ради этого и езжу.
+#:lu: Конечно, а зачем тогда в отпуск ездить
+#:lu: Жаль, не могу долго загорать. У меня очень чувствительная кожа
+
+
+
+//Куда ты поедешь в отпуск?
+$ * куда * в отпуск [dict(sova_rus_vacation_go_2_fut)] *
+$ * куда * [dict(sova_rus_vacation_go_2_fut)] в отпуск *
+$ * в отпуск куда * [dict(sova_rus_vacation_go_2_fut)] *
+$ * в отпуск * [dict(sova_rus_vacation_go_2_fut)] куда *
+$ * [dict(sova_rus_vacation_go_2_fut)] куда * в отпуск *
+$ * [dict(sova_rus_vacation_go_2_fut)] * в отпуск куда *
+$ * куда * в отпуск [dict(sova_rus_you_nom)] [dict(sova_rus_vacation_go_2_fut)] *
+$ * куда * [dict(sova_rus_vacation_go_2_fut)] [dict(sova_rus_you_nom)] в отпуск *
+$ * в отпуск [dict(sova_rus_you_nom)] куда * [dict(sova_rus_vacation_go_2_fut)] *
+$ * в отпуск * [dict(sova_rus_vacation_go_2_fut)] [dict(sova_rus_you_nom)] куда *
+$ * [dict(sova_rus_vacation_go_2_fut)] [dict(sova_rus_you_nom)] куда * в отпуск *
+$ * [dict(sova_rus_vacation_go_2_fut)] * в отпуск [dict(sova_rus_you_nom)] куда *
+#Я хочу на море
+#Скорее всего, в Анталию – красиво и недорого
+#Может просто на дачу
+#Мне предлагают недорогую путевку в Европу
+#Я еще не решила, ищу попутчика. Не хочешь со мной махнуть 
+
+
+
+//Нравится ли тебе отдыхать на даче?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_haverest_infinitive)] на даче *
+$ * [dict(sova_rus_like_2_pres)] на даче [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)] на даче [dict(sova_rus_like_2_pres)] *
+$ * на даче [dict(sova_rus_haverest_infinitive)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] [dict(sova_rus_haverest_infinitive)] на даче *
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] на даче [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_haverest_infinitive)] на даче [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * на даче [dict(sova_rus_haverest_infinitive)] [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+#Если только недолго. Я там скучать начинаю 
+#Да, там хорошо, спокойно, а главное близко от города  
+#Только отдыхать, а не картошку капать  
+#Только с  друзьями 
+#Летом я туда часто езжу 
+
+
+
+//Ты хотел бы провести отпуск в деревне?
+$ * [dict(sova_rus_want_2)] * [dict(sova_rus_haverest_infinitive)] в деревне *
+$ * [dict(sova_rus_want_2)] * в деревне [dict(sova_rus_haverest_infinitive)] *
+$ * в деревне * [dict(sova_rus_want_2)] * [dict(sova_rus_haverest_infinitive)] *
+$ * в деревне * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_haverest_infinitive)] * в деревне * [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_want_2)] * в деревне *
+#Нет, мне этого совсем не хочется
+#Мне хочется отдыхать в более интересных местах
+#С козами и гусями, я не сумасшедшая!
+#Несколько дней можно, но не весь отпуск
+#Никогда, мне нужен другой отдых 
+
+
+

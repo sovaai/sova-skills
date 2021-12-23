@@ -1,0 +1,25 @@
+﻿//Твоя любимая компьютерная игра
+$ * {comp~/komp~/virtual/online} gam~ *
+$ * {online-gam~/onlinegam~} *
+#I don't like computer games.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/play} * {comp~/komp~/virtual/online/video} gam~ *
+$ {you/yuo/ya/u} {like/play} * {comp~/komp~/virtual/online/video} gam~ *
+$ * [dict(sova_eng_q_2_do)] {like/play} * {online-gam~/onlinegam~/videogam~/video-gam~} *
+#No, I am not bothered about it.
+
+
+
+$ * i like * {comp~/komp~/virtual/online} gam~ *
+$ * i like * {online-gam~/onlinegam~} *
+#I don't like computer games.
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * arcade~ *
+#I'm not a fan of computer games.
+
+
+

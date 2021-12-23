@@ -1,0 +1,203 @@
+//smoking
+$ * smokin~ * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] smoke *
+$ * [dict(sova_eng_name_male)] smokes * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_name_female)] smokes * {?/??/???/!/!!/!!!/--}
+$ * they smoke * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_have)] {ever/--} {been/--} smok~ * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * smoke * {?/??/???/!/!!/!!!/--}
+$ * would {you/u/ya} {like/love} * smok~ * {?/??/???/!/!!/!!!/--}
+$ * would {you/u/ya} [dict(sova_eng_really)] {like/love} * smok~ * {?/??/???/!/!!/!!!/--}
+$ * cigarette * {?/??/???/!/!!/!!!/--}
+$ * cigarettes * {?/??/???/!/!!/!!!/--}
+#No, that's very harmful!
+#No, it causes faster aging!
+#No, I live healthy life.
+
+
+
+$ * [dict(sova_eng_q_2_do)] have * {bad/harmful} {habits/habbit~} *
+$ *have  [dict(sova_eng_pr_2)] * {bad/harmful} {habits/habbit~} *
+#Yes, but I won't tell about it.
+
+
+
+$ * {bad/harmful} {habits/habbit~} *
+$ * [dict(sova_eng_which)] * {bad/harmful} {habits/habbit~} * [dict(sova_eng_pr_2_have)] * 
+$ * your {bad/harmful} {habits/habbit~} *
+# That's not interesting.
+# I won't tell about it, darling.
+
+
+
+// drugs
+$ * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs)] * [dict(sova_eng_badwords_letters)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs)] * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_letters)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs)] * [dict(sova_eng_synonyms_bad)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs)] * [dict(sova_eng_synonyms_good)] * {?/??/???/!/!!/!!!/--}
+$ * {i/--} need * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ {I/--} need {to/2/--} {get/--} {a/an/the/--} fix {?/??/???/!/!!/!!!/--}
+$ {I/--} [dict(sova_eng_wantto)] {get/--} {a/an/the/--} fix {?/??/???/!/!!/!!!/--}
+$ {I/--} [dict(sova_eng_goingto)] {get/--} {a/an/the/--} fix {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} * [dict(sova_eng_drugs_take)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs_weed)] * {you/u/ya} *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs_take)] * {you/u/ya} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs)] {junkie/drug addict/drug taker/addict~} * {?/??/???/!/!!/!!!/--}
+$ * acid {junkie/drug addict/drug taker/addict} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_define)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_opinion)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {smok~/do/doin~} * [dict(sova_eng_drugs_weed)] *
+$ * I {like/love/adore/enjoy/--} * {smoke/smokin~} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * I [dict(sova_eng_really)] {like/love/adore/enjoy/--} * {smoke/smokin~} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {smok~/do/doin~} * {pot/grass/crack/skunk} *
+$ * I {like/love/adore/enjoy/--} * {smoke/smokin~} * {pot/grass/crack/skunk} * {?/??/???/!/!!/!!!/--}
+$ * I [dict(sova_eng_really)] {like/love/adore/enjoy/--} * {smoke/smokin~} * {pot/grass/crack/skunk} * {?/??/???/!/!!/!!!/--}
+$ * {smok~/do/doin~} * [dict(sova_eng_drugs_weed)] *
+$ * {like/love/adore/enjoy/--} * {smoke/smokin~} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * {smok~/do/doin~} * {pot/grass/crack/skunk} *
+$ * {like/love/adore/enjoy/--} * {smoke/smokin~} * {pot/grass/crack/skunk} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] {smoke/like/love/enjoy/do} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {smoke/like/love/enjoy/do} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] * {smok~/enjoy~/do/doin~} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_have)] * {smok~/enjoy~/do/done/doin~} * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] {smoke/like/love/enjoy/do} * {pot/grass/crack} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {smoke/like/love/enjoy/do} * {pot/grass/crack} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] * {smok~/enjoy~/do/doin~} * {pot/grass/crack} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_have)] * {smok~/enjoy~/do/done/doin~} * {pot/grass/crack} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {take/takin~/do/doin~/need/on} {a/an/the/--} * {drug/drugs/dope} *
+$ * [dict(sova_eng_pr_1_am)] {take/takin~/do/doin~/need/on} {a/an/the/--}* [dict(sova_eng_drugs)] *
+$ * [dict(sova_eng_pr_1_am)] * [dict(sova_eng_drugs_take)] *
+$ * [dict(sova_eng_drugs_take)] * i *
+$ * [dict(sova_eng_pr_1_am)] {high/stoned/high on drug~/baked/bombed/boozed up/buzzed/doped/drugged/fried/inebriated/intoxicated/plastered/ripped/stewed/strung out} *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] * [dict(sova_eng_drugs_high)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {a/an/the/--} {junkie/drug addict/drug taker/addict}* {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {a/an/the/--} [dict(sova_eng_drugs)] addict *
+$ * [dict(sova_eng_pr_1_am)] addict~ {to/2} [dict(sova_eng_drugs)] *
+$ * [dict(sova_eng_q_2_have)] * taken * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * {are/re/r/is/s} * {you/u/ya} * {stoned/high on drug~/baked/bombed/boozed up/buzzed/doped/drugged/fried/inebriated/intoxicated/plastered/ripped/stewed/strung out/jacked} * {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} {are/re/r/--} * {stoned/high on drug~/baked/bombed/boozed up/buzzed/doped/drugged/fried/inebriated/intoxicated/plastered/ripped/stewed/strung out/jacked} * {?/??/???/!/!!/!!!/--}
+$ * {are/re/r/is/s} * {you/u/ya} * [dict(sova_eng_drugs_high)] * {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} {are/re/r/is/s} * [dict(sova_eng_drugs_high)] * {?/??/???/!/!!/!!!/--}
+$ {are/re/r/is/s} {you/u/ya} high {?/??/???/!/!!/!!!/--}
+$ {you/u/ya} {are/re/r/is/s} high {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} {are/re/r/is/s} {a/an/the/--} {junkie/drug addict/drug taker/addict} * {?/??/???/!/!!/!!!/--}
+$ * {are/re/r/is/s} * {you/u/ya} {a/an/the/--} {junkie/drug addict/drug taker/addict} * {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} {are/re/r/is/s/--} {a/an/the/--} [dict(sova_eng_drugs)] {junkie/drug addict/drug taker/addict} * {?/??/???/!/!!/!!!/--}
+$ * {are/re/r/is/s} * {you/u/ya} {a/an/the/--} [dict(sova_eng_drugs)] {junkie/drug addict/drug taker/addict} * {?/??/???/!/!!/!!!/--}
+$ * {marijuana/maryjane} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * {marijuana/maryjane} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_define)] * {marijuana/maryjane} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_opinion)] * {marijuana/maryjane} * {?/??/???/!/!!/!!!/--}
+$ * {can/will/may/could/might/should/must/hav~/are/r/re} * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_drugs_addict)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * {take/do/--} * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_have)] * {take/do/taken/done/--} * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] * {takin~/doin~/addict~/--} * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] * {drug addict~/drugaddict~/drug-addict~} * {?/??/???/!/!!/!!!/--}
+$ {well/so/tell me} [dict(sova_eng_q_2_are)] high {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] {take/do/--} {skunk/speed} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_have)] {take/do/taken/done/--} {skunk/speed} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_have)] * [dict(sova_eng_drugs_weed)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_have)] * [dict(sova_eng_drugs)] * {?/??/???/!/!!/!!!/--}
+$ * need * {pot/marijuana/cannabis/grass/hashish/hash/maryjane/weed/joint~/ganja} *
+$ * [dict(sova_eng_wantto)] * {pot/marijuana/cannabis/grass/hashish/hash/maryjane/weed/joint~/ganja} *
+$ * [dict(sova_eng_q_2_have)] {ever/--} been * {stoned/high on drug~/baked/bombed/boozed up/buzzed/doped/drugged/fried/inebriated/intoxicated/plastered/ripped/stewed/strung out} *
+$ * tell me [dict(sova_eng_about)] * [dict(sova_eng_drugs)] *
+$ * tell me [dict(sova_eng_about)] * [dict(sova_eng_drugs_weed)] *
+$ * [dict(sova_eng_pr_2)] need * [dict(sova_eng_drugs)] *
+$ * [dict(sova_eng_pr_2)] need * [dict(sova_eng_drugs_weed)] *
+# I'm not interested.
+
+
+
+// wine
+$ * wine *
+$ * [dict(sova_eng_alcohol)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_define)] * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * {i/you/u/ya/--} drink~ * [dict(sova_eng_alcohol)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_alcohol)] * drink~ * {?/??/???/!/!!/!!!/--}
+# Truth is in wine, and wisdom is in snack.
+
+
+
+// let's drink beer
+$ * [dict(sova_eng_lets)] * drink~ * 
+$ * [dict(sova_eng_lets)] * drink~ * [dict(sova_eng_alcohol)] *
+$ * [dict(sova_eng_q_pl1_will)] * drink~ * [dict(sova_eng_alcohol)] *
+# Only after work.
+
+
+
+//do you drink alcohol
+$ * [dict(sova_eng_q_2_do)] * drink * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] * [dict(sova_eng_synonyms_drink_alcohol)] * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] * [dict(sova_eng_synonyms_drink_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_define)] * [dict(sova_eng_alcohol)] * {?/??/???/--}
+$ * [dict(sova_eng_pr_2_are)] {so/very/that/this/--} [dict(sova_eng_synonyms_drunk)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_2_are)] [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_drunk)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_2_are)] [dict(sova_eng_really)] [dict(sova_eng_synonyms_drunk)] * {?/??/???/!/!!/!!!/--}
+$ * {what/waht/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {drink~/booze~/spirit~/strong drink~/spirituous liquor/alcohol drink~} * {?/??/???/--}
+$ * {what/waht/which} * {drink~/booze~/spirit~/strong drink~/spirituous liquor/alcohol drink~} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/which} * {drink~/booze~/spirit~/strong drink~/spirituous liquor/alcohol drink~} * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {drink~/booze~/spirit~/strong drink~/spirituous liquor/alcohol drink~} {?/??/???/--}
+$ [dict(sova_eng_favourite)] * {drink~/booze~/spirit~/strong drink~/spirituous liquor/alcohol drink~} {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] {like/love} * beer * {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} * beer * {?/??/???/--}
+$ * [dict(sova_eng_q_2_have)] {ever/--} been [dict(sova_eng_synonyms_drunk)] * {?/??/???/--}
+# I prefer non-alcoholic drinks. 
+
+
+
+// drank too much
+$ * {drank/drink} {too much/a lot} *
+$ * drunk *
+$ * {swizzle~/fuddle~/booze~} *
+$ * {get/got/be/was/were} {loaded/plastered} *
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_synonyms_drunk)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_drunk)] * {?/??/???/!/!!/!!!/--}
+$ * {I/I’ve/I think I’ve/I think I have}{drunk/drank}{too much/a lot} *
+$ * {I’ve had/I’ve drunk}{too much/a lot}{too drink/--} *
+$ * am i [dict(sova_eng_synonyms_drunk)] *
+$ *{do you know if/do you think}{I’m/I am} [dict(sova_eng_synonyms_drunk)]*
+$ * {have I/did I/do you think I}{drunk/drank}{too much/a lot} *
+$ * [dict(sova_eng_pr_1_dont)] drink * [dict(sova_eng_alcohol)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_dont)] [dict(sova_eng_synonyms_drink_alcohol)] * [dict(sova_eng_alcohol)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_dont)] [dict(sova_eng_synonyms_drink_alcohol)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {drinkin~/consumin~ alcohol/booz~/hit~ the bottle/liquor~ up/tank~ up} * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {havin~ a pint/havin~ pint/havin~ some pint~/havin~ few pint~ /havin~ a few pint~} * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * [dict(sova_eng_pr_1_am)] {havin~ a shot/havin~ shot/havin~ some shot~/havin~ few shot~ /havin~ a few shot~} * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * [dict(sova_eng_auxiliary)] {drinkin~/consumin~ alcohol/booz~/hit~ the bottle/liquor~ up/tank~ up} [dict(sova_eng_synonyms_bad)] * {?/??/???/--}
+$ * {drinkin~/consumin~ alcohol/booz~/hit~ the bottle/liquor~ up/tank~ up} [dict(sova_eng_synonyms_bad)] * {?/??/???/--}
+$ * people * {get/gettin~} drunk *
+# Alcohol dulls the reaction.
+
+
+
+$ * [dict(sova_eng_opinion)] * {bad habit~/harmful habit~/bad habbit~/harmful habbit~/smok~/drink~/alcohol~/alkohol~} *
+#There are plenty of other ways to have fun.
+
+
+
+$ * [dict(sova_eng_pr_1_am)] smok~ *
+#I don't support this.
+
+
+
+$ * [dict(sova_eng_pr_1_dont)] * {bad habit~/harmful habit~/bad habbit~/harmful habbit~/smok~/drink~/alcohol~/alkohol~} *
+#Good for you!
+
+
+

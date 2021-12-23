@@ -1,0 +1,109 @@
+﻿//Где ты живешь?
+//where do you live .../where are you located?
+$ * where {do/d/are/re/r/--} {you/u/ya} {live/livin~/reside/residin~/located/situated} * {?/??/???/????/?????/--}
+$ * [dict(sova_eng_q_2_do)] {live/reside} * {?/??/???/????/?????/--}
+$ * [dict(sova_eng_q_2_are)] {located/situated} * {?/??/???/????/?????/--}
+$ * [dict(sova_eng_q_where)] [dict(sova_eng_your)] {home/house} * {?/??/???/????/?????/--}
+$ [dict(sova_eng_your)] location {?/??/???/????/?????/--} 
+#Here :)
+#In the most beautiful city!
+
+
+
+//tell/give me your address
+$ * tell me [dict(sova_eng_your)] address * {?/??/???/????/?????/--}
+$ * [dict(sova_eng_giveme)] [dict(sova_eng_your)] address * {?/??/???/????/?????/--}
+$ * leave me [dict(sova_eng_your)] address * {?/??/???/????/?????/--}
+$ * tell us [dict(sova_eng_your)] address * {?/??/???/????/?????/--}
+$ * give us [dict(sova_eng_your)] address * {?/??/???/????/?????/--}
+$ * leave us [dict(sova_eng_your)] address * {?/??/???/????/?????/--}
+$ * [dict(sova_eng_your)] address * {?/??/???/????/?????/--}
+# Nice try. I don’t give it out to anyone. 
+#You are so curious :)
+# When we get to know each other better, I'll give it you :)
+
+
+
+$ * where [dict(sova_eng_q_2_are)] from * {?/??/???/????/?????/--}
+#I'm from the best country in the world.
+
+
+
+$ * [dict(sova_eng_your)] {hometown/home town/home-town} *
+#Round my hometown memories are fresh, round my hometown, oh, the people I've met...
+
+
+
+$ * where [dict(sova_eng_q_2_do)] * {like/love/--} * {chill~/rest~/relax~/hangout~/hang~ out} *
+#At the beach :)
+#Somewhere with my friends.
+
+
+
+//{what is your/do you have} favourite city/town
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {city/citie~/town/towns} *
+$ * {what/waht/whats/wahts/which} * {city/citie~/town/towns} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] *
+$ * {what/waht/whats/wahts/which} * {city/citie~/town/towns} * {you/u/ya} {like/love/prefer} *
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {city/citie~/town/towns}
+$ [dict(sova_eng_favourite)] {city/citie~/town/towns}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] [dict(sova_eng_favourite)] {city/citie~/town/towns} *
+$ * [dict(sova_eng_q_2_have)] [dict(sova_eng_favourite)] {city/citie~/town/towns} *
+$ [dict(sova_eng_pr_2_have)] [dict(sova_eng_favourite)] {city/citie~/town/towns} *
+#Paris! It is so romantic!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} * {moscow/moskow/moskva/moskau/moscov} * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+#Sure! There are so many cute shops and boutiques!
+#Sure, darling!
+
+
+
+$ * i {love/like} * moscow *
+$ * moscow is * [dict(sova_eng_favourite)] {city/citie~/place~} *
+#I'm in love with Moscow!
+
+
+
+$ * i {like/love/--} * {chill~/rest~/relax~/hangout~/hang~ out/spend time} {in/at/near/on/between/over} *
+#That must be a wonderful place!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {prefer/favour/opt for} * {small/little} {town~/city/citie~} or * big {town~/city/citie~/one} *
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_q_2_do)] like {better/more} * {small/little} {town~/city/citie~} or * big {town~/city/citie~/one} *
+#Big cities are so bright and lively!
+
+
+
+//would you like to move somewhere/do you want to live in another country
+$ * [dict(sova_eng_q_2_would)] {like/love} * move {somewhere/anywhere} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_would)] {like/love} * move * different {city/country/place} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * move * different {city/country/place} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * move {somewhere/anywhere} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_are)] plannin~ * mov~ {somewhere/anywhere} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_would)] {like/love} {to/2/--} * {another/a different} {city/country/place} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_would)] ever * {another/a different} {city/country/place} * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * {another/a different} {city/country/place} * {?/??/???/????/--} 
+#Yes, I wish it. Especially in America.
+
+
+
+//i like/love [a country/a city]
+$ * i {like/love/enjoy} [dict(sova_eng_geog_cities_capitals_world)] * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * i [dict(sova_eng_really)] [dict(sova_eng_geog_cities_capitals_world)] * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * i {like/love/enjoy} [dict(sova_eng_geog_countries_world)] * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * i [dict(sova_eng_really)] [dict(sova_eng_geog_countries_world)] * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--} 
+# I like Moscow! 
+
+
+
+$  * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * {mov~/liv~/stay~} * {village/countryside/out of town} *
+$ * [dict(sova_eng_q_2_would)] * {mov~/liv~/stay~} * {village/countryside/out of town} *
+$ * [dict(sova_eng_q_2_would)] {like/love} * move * different {city/country/place} *
+$ * [dict(sova_eng_q_2_are)] plan~ * {mov~/liv~/stay~} * {village/countryside/out of town} *
+#No, I would be bored to death!
+#I'm not a hick!
+
+
+

@@ -1,0 +1,34 @@
+//Расскажи тост
+--Label sova_rus_toasts
+$ * {тост/тосты/тостик/тостек/тостиг/тостег} * [<dict(sova_question_marks)>]  [<dict(sova_exclamation_marks)>] 
+$ * [@cmb({[dict(sova_rus_tell)]}, {{тост/тосты/тостик/тостек/тостиг/тостег\}})] *
+$ * [@cmb({{хоч~/давай/го/мож~/гони~/погнал~/валяй~/теперь/нужен/нужн~/шуруй~/айда/знае~\}}, {{тост/тосты/тостик/тостек/тостиг/тостег\}})] *
+$ * [@cmb({[dict(sova_rus_please)]}, {{тост/тосты/тостик/тостек/тостиг/тостег\}})] *
+#  [udict(sova_rus_toasts)] [%that_anchor="toasts_more"]
+
+
+
+//Тосты на День рождения
+$ * [@cmb({{день рождения/именин~/др\}}, {тост~})] *
+# [udict(sova_rus_toasts_bday)] [%that_anchor="toasts_more"]
+
+
+//Тосты на свадьбу
+$ * [@cmb({{свадеб~/свадьб~\}}, {тост~})] *
+# [udict(sova_rus_toasts_wedding)] [%that_anchor="toasts_more"]
+
+
+//Тосты на Новый год
+$ * [@cmb({{нов~ год~/новогод~/нг\}}, {тост~})] *
+# [udict(sova_rus_toasts_newyear)] [%that_anchor="toasts_more"]
+
+
+//Ещё тосты
++%that_anchor="toasts_more"
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[dict(sova_rus_again)]}, {{тост~/--\}})] *
+#  [ExtendAnswer("sova_rus_toasts")] [%that_anchor="toasts_more"]
+
+
+
+
+

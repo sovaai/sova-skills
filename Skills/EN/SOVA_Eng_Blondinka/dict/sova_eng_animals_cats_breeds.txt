@@ -1,0 +1,77 @@
+Aegean cat
+Australian Mist
+American Polydactyl
+American Bobtail
+American Curl
+American Longhair
+American Shorthair
+American Wirehair
+Asian Semi-longhair
+Brazilian Shorthair
+British Shorthair
+British Longhair
+Burmese
+Burmilla
+California Spangled Cat
+Chantilly/Tiffany
+Chartreux
+Chausie
+Cheetoh
+Colorpoint Shorthair
+Cornish Rex
+Devon Rex
+Donskoy or Don Sphynx
+Dragon Li
+Egyptian Mau
+European Shorthair
+Exotic Shorthair
+German Rex
+Havana Brown
+Himalayan/Colorpoint Persian
+Japanese Bobtail
+Javanese
+Korat
+Kurilian Bobtail
+LaPerm
+Maine Coon
+Manx
+Minskin
+Munchkin
+Nebelung
+Norwegian Forest Cat
+Ocicat
+Ojos Azules
+Oregon Rex
+Oriental Bicolour
+Oriental Shorthair
+Oriental Longhair
+Peterbald
+Pixie-bob
+Ragamuffin
+Ragdoll
+Russian Blue
+Russian White, Black and Tabby
+Scottish Fold
+Selkirk Rex
+Serengeti cat
+Siamese
+Singapura
+Snowshoe
+Sokoke
+Sphynx
+Sumxu
+Old-style Siamese
+Tonkinese
+Toyger
+Turkish Angora
+Turkish Van
+Turkish Vankedisi
+Twisty Cat
+Squitten
+Ukrainian Levkoy
+York Chocolate Cat
+
+
+
+
+

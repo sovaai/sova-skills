@@ -1,0 +1,263 @@
+//Выпьем за… 
+$ * [dict(sova_rus_alcohol_drink_1_pl)] *
+$ * [dict(sova_rus_alcohol_drink_1_pl)] за *
+$ * давай~ [dict(sova_rus_alcohol_drink_1_pl)] за *
+$ * за ** [dict(sova_rus_alcohol_drink_1_pl)] *
+$ * давай~ за ** [dict(sova_rus_alcohol_drink_1_pl)] *
+#За меня красавицу.
+#За тех, кто в море.
+#За любовь, конечно.
+#За наше знакомство.
+#За продолжение наших отношений.
+
+
+
+//Ты любишь выпить?
+$ * [@cmb({[dict(sova_rus_like_2_pres)]}, {выпить})] *
+$ * выпить [dict(sova_rus_like_2_pres)] *
+$ * как у [dict(sova_rus_you_genacc)] с выпивкой *
+$ * как у [dict(sova_rus_you_genacc)] с алкоголем *
+$ * как с выпивкой у [dict(sova_rus_you_genacc)] *
+$ * как с алкоголем у [dict(sova_rus_you_genacc)] *
+#:lu: Я много не пью и тебе не советую увлекаться.
+#:lu: Я люблю только хорошее красное вино.
+#:lu: Я выпивкой не увлекаюсь, ни к чему мне это.
+#:lu: Лучше пить поменьше, я так считаю.
+
+
+
+//Ты любишь пиво? 
+$ * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_beer)] * 
+$ * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_beer)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_alcohol_beer)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_beer)] * 
+$ * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_alcohol_drink_2)] * 
+$ * [dict(sova_rus_alcohol_drink_2)] * [dict(sova_rus_alcohol_beer)] * 
+$ * [dict(sova_rus_alcohol_beer)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_drink_2)] *
+$ * [dict(sova_rus_alcohol_drink_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_beer)] * 
+#Нет, это какой-то мужской напиток
+#Нет, оно горькое.
+#Ты что, я такое не пью.
+#Нет, от него поправляются.
+
+
+
+//Ты любишь вино? 
+$ * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_wine)] *  
+$ * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_wine)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_alcohol_wine)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_wine)] *  
+$ * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_alcohol_drink_2)] * 
+$ * [dict(sova_rus_alcohol_drink_2)] * [dict(sova_rus_alcohol_wine)] * 
+$ * [dict(sova_rus_alcohol_wine)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_drink_2)] *
+$ * [dict(sova_rus_alcohol_drink_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_wine)] * 
+#Да, очень, особенно красное.
+#Да, особенно глинтвейн.
+#Ну, иногда.
+#Только в небольших количествах.
+
+
+
+//Ты пьешь водку? 
+$ * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_vodka)] *  
+$ * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_vodka)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_alcohol_vodka)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_like_2_pres)] *  
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_vodka)] *  
+$ * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_alcohol_drink_2)] *
+$ * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_alcohol_drink_2)] * 
+$ * [dict(sova_rus_alcohol_drink_2)] * [dict(sova_rus_alcohol_vodka)] * 
+$ * [dict(sova_rus_alcohol_vodka)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_drink_2)] *
+$ * [dict(sova_rus_alcohol_drink_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_alcohol_vodka)] * 
+$ * [dict(sova_rus_alcohol_vodka)] * пил *
+$ * пил * [dict(sova_rus_alcohol_vodka)] *
+$ * [dict(sova_rus_alcohol_vodka)] * пробовал *
+$ * пробовал * [dict(sova_rus_alcohol_vodka)] *
+$ * [dict(sova_rus_alcohol_vodka)] пить будешь *
+$ * [dict(sova_rus_alcohol_vodka)] будешь пить *
+$ * будешь пить [dict(sova_rus_alcohol_vodka)] *
+#:lu: Ой, ты что нет, конечно.
+#:lu: Водка же ужасно горькая.
+#:lu: Водку только мужчины должны пить.
+#:lu: Нет, водка - это совсем не женский напиток
+
+
+
+//Твой любимый спиртной напиток 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_what)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_what)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_what)] * [dict(sova_rus_alcohol_drink_infinitive)] *
+$ * чего * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * 
+$ * чего * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * чего * [dict(sova_rus_like_2_pres)] * 
+$ * [dict(sova_rus_alcohol_drink_infinitive)] * [dict(sova_rus_like_2_pres)] * чего * 
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_alcohol_drink_infinitive)] * чего *
+$ * [dict(sova_rus_like_2_pres)] * чего * [dict(sova_rus_alcohol_drink_infinitive)] *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ *
+$ * [dict(sova_rus_your_all)] {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ *
+$ * [dict(sova_rus_favourite)] {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ [dict(sova_rus_your_all)] *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] *
+$ * [dict(sova_rus_define_o)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * 
+$ * [dict(sova_rus_favourite)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_define_o)] *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_say_imperative)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_favourite)] * 
+$ * [dict(sova_rus_say_imperative)] * [dict(sova_rus_favourite)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * 
+$ * [dict(sova_rus_favourite)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_say_imperative)] *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_favourite)] * [dict(sova_rus_say_imperative)] *
+$ * как~ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_like_2)] *
+$ * как~ * [dict(sova_rus_like_2)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * 
+$ * [dict(sova_rus_like_2)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * как~ *
+$ * [dict(sova_rus_like_2)] * как~ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_like_2)] * как~ *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * как~ * [dict(sova_rus_like_2)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ *
+$ * у [dict(sova_rus_you_genacc)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * {алкогольн~/алкагольн~/олкагольн~/олкогольн~/спиртн~} напит~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] *
+$ любимый {спиртной/алкогольный} напиток {?/??/???/--}
+$ любимые {спиртные/алкогольные} напитки {?/??/???/--}
+$ какой {спиртной/алкогольный} напиток {любимый/самый любимый} {?/??/???/--}
+$ какие {спиртные/алкогольные} напитки {любимые/самые любимые} {?/??/???/--}
+#Вино, особенно белое.
+#Я люблю красное полусухое.
+#Я не пью спиртные напитки.
+#Я таким не увлекаюсь.
+
+
+
+//Сгоняй за пивом 
+$ * сгоняй~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * слетай~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * сбегай~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * пошли~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * пойдем~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * сходим~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * отправляйся * за [dict(sova_rus_alcohol_beer)] * 
+$ * отправляйтесь~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * побежали~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * беги~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * поехали~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * полетели~ * за [dict(sova_rus_alcohol_beer)] * 
+$ * за [dict(sova_rus_alcohol_beer)] * сгоняй~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * слетай~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * сбегай~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * пошли~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * пойдем~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * сходим~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * отправляйся~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * отправляйтесь~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * побежали~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * беги~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * поехали~ * 
+$ * за [dict(sova_rus_alcohol_beer)] * полетели~ * 
+#:lu: Сам сгоняй за пивом! 
+#:lu: А я все равно с тобой пить не буду, поэтому за пивом не пойду!
+#:lu: Ой, нет! Я не пью пиво.
+#:lu: Просить девушку такое! Кошмар! 
+#:lu: Лучше ходить за пивом в гордом одиночестве! Тебе тогда больше достанется :)
+#:lu: Еще чего выдумали!
+
+
+
+//Скажи тост  
+$ * [dict(sova_rus_alcohol_saytoast_imperative)] * тост~ *
+$ * тост~ * [dict(sova_rus_alcohol_saytoast_imperative)] *
+$ * [dict(sova_rus_your_all)] очеред~ * [dict(sova_rus_alcohol_saytoast_infinitive)] * тост~ * 
+$ * [dict(sova_rus_your_all)] очеред~ * тост~ * [dict(sova_rus_alcohol_saytoast_infinitive)] * 
+$ * тост~ * [dict(sova_rus_alcohol_saytoast_infinitive)] * [dict(sova_rus_your_all)] очеред~ * 
+$ * тост~ * [dict(sova_rus_your_all)] очеред~ *  [dict(sova_rus_alcohol_saytoast_infinitive)] *
+$ * [dict(sova_rus_alcohol_saytoast_infinitive)] * [dict(sova_rus_your_all)] очеред~ * тост~ *
+$ * [dict(sova_rus_alcohol_saytoast_infinitive)] * тост~ * [dict(sova_rus_your_all)] очеред~ *
+$ * знаеш~ * тост~ * 
+$ * тост~ * знаеш~ *
+$ * как~ * знаеш~ * тост~ * 
+$ * как~ * тост~ * знаеш~ *
+$ * тост~ * знаеш~ * как~ * 
+$ * тост~ * как~ * знаеш~ *  
+$ * знаеш~ *  тост~ * как~ *
+$ * знаеш~ *  как~ * тост~ *
+$ * знаете~ * тост~ *
+$ * тост~ * знаете~ *
+$ * как~ * знаете * тост~ * 
+$ * как~ * тост~ * знаете *
+$ * тост~ * знаете * как~ * 
+$ * тост~ * как~ * знаете *  
+$ * знаете *  тост~ * как~ *
+$ * знаете *  как~ * тост~ *
+$ * знаеш~ * [dict(sova_rus_you_nom)] * тост~ * 
+$ * тост~ * [dict(sova_rus_you_nom)] * знаеш~ *
+$ * знаете~ * [dict(sova_rus_you_nom)] * тост~ * 
+$ * тост~ * [dict(sova_rus_you_nom)] * знаете~ *
+#Давай выпьем за нашу встречу. 
+#Выпьем за продолжение наших отношений. 
+#Давай выпьем за исполнение желаний. 
+#Выпьем за любовь и романтику. 
+#Выпьем за тебя! 
+#За любовь - мой любимый тост!
+
+
+
+//Я люблю пить пиво 
+$ * [dict(sova_rus_like_1)] пиво * 
+$ * [dict(sova_rus_like_1)] пить пиво * 
+$ * [dict(sova_rus_like_1)] пиво пить * 
+$ * пить пиво [dict(sova_rus_like_1)] * 
+$ * пиво пить [dict(sova_rus_like_1)] * 
+$ * я пью пиво * 
+$ * я пиво пью * 
+# И как ты можешь его пить! Оно же горькое! 
+# Не, пиво не для меня.
+
+
+
+//Я люблю пить вино 
+$ * [dict(sova_rus_like_1)] вино * 
+$ * [dict(sova_rus_like_1)] пить вино * 
+$ * [dict(sova_rus_like_1)] вино пить * 
+$ * пить вино [dict(sova_rus_like_1)] * 
+$ * вино пить [dict(sova_rus_like_1)] * 
+$ * я пью вино * 
+$ * я вино пью * 
+# Ой, я тоже просто обожаю вино, особенно красное. 
+# Истина в вине! 
+
+
+
+//Я люблю пить водку 
+$ * [dict(sova_rus_like_1)] водку * 
+$ * [dict(sova_rus_like_1)] пить водку * 
+$ * [dict(sova_rus_like_1)] водку пить * 
+$ * пить водку [dict(sova_rus_like_1)] * 
+$ * водку пить [dict(sova_rus_like_1)] * 
+$ * я пью водку * 
+$ * я водку пью * 
+# Да? А так и не скажешь. 
+# Но смотри сильно не злоупотребляй!
+
+
+

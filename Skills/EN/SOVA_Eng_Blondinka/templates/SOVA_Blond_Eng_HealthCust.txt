@@ -1,0 +1,60 @@
+﻿//Я заболел
+//i am ill/sick
+$ * [dict(sova_eng_pr_1_am)] {feel~/--} {badly/horribly/--} {ill/sick} *
+$ * [dict(sova_eng_pr_1_am)] {feel~/--} [dict(sova_eng_synonyms_very)] {ill/sick} * 
+# I’m sorry to hear that. Get better soon.
+# That’s a shame, I hope you get better soon.
+# That’s a pity, relax and get better soon.
+
+
+
+//how do you feel
+$ * [dict(sova_eng_q_how_do)] [dict(sova_eng_pr_2_are)] feel *
+$ * [dict(sova_eng_q_how)] [dict(sova_eng_q_2_do)] feel *
+$ * [dict(sova_eng_q_how_are)] [dict(sova_eng_pr_2_are)] feelin~ *
+$ * [dict(sova_eng_q_how)] [dict(sova_eng_q_2_are)] feelin~ *
+$ * how [dict(sova_eng_pr_2)] feelin~ *
+$ * [dict(sova_eng_q_2_do)] feel {well/good/fine/better} *
+$ * [dict(sova_eng_q_2_are)] feelin~ {well/good/fine/better} *
+$ * i hope {you/u/ya} {are/re/r/is/s/feel} {feelin~/--} healthy *
+# I feel great, thanks for asking.
+# I feel wonderful, thanks for your concern.
+# I’m feeling great, thanks for asking. 
+
+
+
+//health
+$ * {health/healthy} * {?/??/???/!/!!/!!!/--}
+# Health is something you take for granted only until it’s threatened.
+# Health should be sought after by everyone.
+# I hope you are healthy, if not, I hope you get healthy soon. 
+
+
+
+//reply to a word meaning a disease – flu, chicken pox, syphilis etc
+$ * [dict(sova_eng_diseases)] * {?/??/???/!/!!/!!!/--}
+$ * {disease/diseases} * {?/??/???/!/!!/!!!/--}
+# I hope you have health insurance.
+# Surely a doctor can help.
+# Now you're talking about diseases. Thank goodness for doctors, they can help.
+
+
+
+$ * [dict(sova_eng_pr_1_am)] * {feel~/--} * {healthy/cured/well/fine/recovered/better/back on my feet} *
+#Good for you!
+
+
+
+$ * my * {hurt~/ache~} * 
+$ * my * feel~ * [dict(sova_eng_synonyms_bad)] *
+$ * [dict(sova_eng_pr_1_have)] * {ache/pain~} *
+#Poor you! Get better soon!
+
+
+
+$ * {stay/be} {well/healthy} *
+$ * {do not/do nt/don't/dont/ain't/aint} * get {sick/ill} *
+#Thanks for caring! I'll be fine.
+
+
+

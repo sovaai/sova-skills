@@ -1,0 +1,219 @@
+﻿
+// you are beautiful/handsome
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} [dict(sova_eng_synonyms_beautiful)] *
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] pretty *
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] *
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} {good lookin~/goodlookin~/good-lookin~} *
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] {good lookin~/goodlookin~/good-lookin~} *
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} pretty {inf/boy/girl} *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} [dict(sova_eng_synonyms_beautiful)] *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} {good lookin~/goodlookin~/good-lookin~} *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] {good lookin~/goodlookin~/good-lookin~} *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} pretty {inf/boy/girl} *
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} [dict(sova_eng_synonyms_beautiful)] *
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] *
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} {good lookin~/goodlookin~/good-lookin~} *
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] {good lookin~/goodlookin~/good-lookin~} *
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {such/--} {a/an/the/--} {most/the most/--} pretty {inf/boy/girl} *
+$ [dict(sova_eng_pr_2_are)] pretty {?/??/???/????/?????/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look~/--} pretty [dict(sova_eng_address)] {?/??/???/????/?????/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look~/--} pretty {?/??/???/????/?????/--}
+$ [dict(sova_eng_pr_2_are)] {look~/--} pretty [dict(sova_eng_address)] {?/??/???/????/?????/--}
+$ [dict(sova_eng_address)] [dict(sova_eng_pr_2_are)] {look~/--} pretty {?/??/???/????/?????/--}
+$ [dict(sova_eng_pr_2_are)] {look~/--} pretty [dict(sova_eng_name_male)] {?/??/???/????/?????/--}
+$ [dict(sova_eng_name_male)] [dict(sova_eng_pr_2_are)] {look~/--} pretty {?/??/???/????/?????/--}
+$ [dict(sova_eng_pr_2_are)] {look~/--} pretty [dict(sova_eng_name_female)] {?/??/???/????/?????/--}
+$ [dict(sova_eng_name_female)] [dict(sova_eng_pr_2_are)] {look~/--} pretty {?/??/???/????/?????/--}
+$ * [dict(sova_eng_pr_2_are)] {so/--} [dict(sova_eng_synonyms_beautiful)] *
+$ * [dict(sova_eng_pr_2_are)] {so/--} {pretty/nice/posh/awesome} *
+$ [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ * [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] [dict(sova_eng_bodyparts)] * 
+$ * [dict(sova_eng_your)] [dict(sova_eng_bodyparts)] [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] * 
+$ * [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] [dict(sova_eng_bodyparts)] * 
+$ * [dict(sova_eng_your)] [dict(sova_eng_bodyparts)] [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] * 
+$ * [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] [dict(sova_eng_bodyparts)] * 
+$ * [dict(sova_eng_your)] [dict(sova_eng_bodyparts)] [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] * 
+$ * [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] [dict(sova_eng_bodyparts)] * 
+$ * [dict(sova_eng_your)] [dict(sova_eng_bodyparts)] [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ * [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} pretty [dict(sova_eng_bodyparts)] * 
+$ * [dict(sova_eng_your)] [dict(sova_eng_bodyparts)] [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} pretty {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--} 
+$ * [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] pretty [dict(sova_eng_bodyparts)] * 
+$ * [dict(sova_eng_your)] [dict(sova_eng_bodyparts)] [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] pretty {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--} 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_beautiful)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_have)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_your)] ** [dict(sova_eng_auxiliary)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ * i {like/love} {your/ur/yr} *
+$ * i [dict(sova_eng_really)] {like/love} {your/ur/yr} *
+#Thank you, my darling ) 
+
+
+
+//you are nice 
+$ [dict(sova_eng_pr_2_are)] {a/an/the/--} {nicy nice/nice} * 
+$ [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] {nicy nice/nice} * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {a/an/the/--} {nicy nice/nice} * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] {nicy nice/nice} * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {a/an/the/--} {nicy nice/nice} * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] {nicy nice/nice} * 
+# Thank you, darling. Common ground! :)
+# There's no doubt in my mind!
+
+
+
+//you are clever/smart
+$ [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {a/an/the/--} [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_pr_2_are)] seem {to/2/--} {be/--} {a/an/the/--} [dict(sova_eng_synonyms_clever)] *
+$ [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_pr_2_are)] {look/lookin~/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_pr_2_are)] seem {to/2/--} {be/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {a/an/the/--} [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] seem {to/2/--} {be/--} {a/an/the/--} [dict(sova_eng_synonyms_clever)] *
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] seem {to/2/--} {be/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] *
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {a/an/the/--} [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] seem {to/2/--} {be/--} {a/an/the/--} [dict(sova_eng_synonyms_clever)] *
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {look/lookin~/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] * {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] seem {to/2/--} {be/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] *
+$ * [dict(sova_eng_pr_2_are)] must be {a/an/the/--} [dict(sova_eng_synonyms_clever)] *
+$ * [dict(sova_eng_pr_2_are)] must be {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_clever)] *
+# Thank you. I try to be.
+# Yes,I read a lot... Every week Cosmo, Vogue, Shape.
+
+
+
+//you are getting cleverer/smarter 
+$ [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+$ [dict(sova_eng_address)] [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+# I keep learning from these conversation. 
+# Thanks, that’s a nice thing to say. 
+# Just trying my best. 
+# I am getting a lot of new information every day. 
+
+
+
+//you are getting cleverer/smarter 
+$ [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+$ [dict(sova_eng_address)] [dict(sova_eng_pr_2_are)] {get~/becomin~} {much/--} {more/--} [dict(sova_eng_synonyms_clever)] * 
+# I keep learning from these conversation. 
+# Thanks, that’s a nice thing to say. 
+# Just trying my best. 
+# I am getting a lot of new information every day. 
+
+
+
+//why are you clever/smart/intelligent 
+$ * [dict(sova_eng_q_why)] [dict(sova_eng_q_2_are)] {so/that/this/--} [dict(sova_eng_synonyms_clever)] * 
+$ * [dict(sova_eng_q_why_are)] [dict(sova_eng_pr_2_are)] {so/that/this/--} [dict(sova_eng_synonyms_clever)] * 
+# Well, when I chat with people I learn new things. 
+# Because I like to learn. 
+# Maybe I am gifted, I don’t know. 
+
+
+
+$ * are you * [dict(sova_eng_synonyms_clever)] *
+# Yes, I can keep up the ball!
+# Thank you. I try to be.
+# Yes, I read a lot... Every week Cosmo, Vogue, Shape.
+
+
+
+//good boy/girl 
+$ good {boy/lad/girl} {!/!!/!!!/!!!!/!!!!!/--} 
+$ [dict(sova_eng_introwords)] good {boy/lad/girl} [dict(sova_eng_address)] {!/!!/!!!/!!!!/!!!!!/--} 
+$ [dict(sova_eng_introwords)] good {boy/lad/girl} {!/!!/!!!/!!!!/!!!!!/--} 
+$ good {boy/lad/girl} [dict(sova_eng_address)] {!/!!/!!!/!!!!/!!!!!/--} 
+$ [dict(sova_eng_address)] good {boy/lad/girl} {!/!!/!!!/!!!!/!!!!!/--} 
+$ {you/u/ya} {are/re/r/is/s/--} {a/an/the/--} good {boy/lad/girl} {!/!!/!!!/!!!!/!!!!!/--} 
+# It’s important to be good. You can accomplish more in life. 
+# Being good has many rewards. 
+# When being good becomes natural you will go far in life. 
+#When I sleep, ha-ha! 
+
+
+
+//you are polite 
+$ [dict(sova_eng_pr_2_are)] {a/an/the/--} polite * 
+$ [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] polite * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {a/an/the/--} polite * 
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] polite * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {a/an/the/--} polite * 
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_2_are)] {a/an/the/--} [dict(sova_eng_synonyms_very)] polite * 
+#So, I'm a well brought-up lady.
+
+
+
+$ * [dict(sova_eng_you)] [dict(sova_eng_praise_attaboy)] *
+$ * [dict(sova_eng_praise_attaboy)] [dict(sova_eng_you)] *
+#Thank you, I try to be!
+#Yes, I work on myself!
+#I'm glad to hear it!
+
+
+
+//it's very good
+$ [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_good)] {?/??/???!/!!/!!!/--}
+$ [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_pr_it_is)] {a/an/the/--} sweet {?/??/???!/!!/!!!/--}
+$ [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_very)] sweet {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_good)] {?/??/???!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_it_is)] {a/an/the/--} sweet {?/??/???!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_very)] sweet {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_good)] {?/??/???!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_it_is)] {a/an/the/--} sweet {?/??/???!/!!/!!!/--}
+$ [dict(sova_eng_introwords2)] [dict(sova_eng_pr_it_is)] {a/an/the/--} [dict(sova_eng_synonyms_very)] sweet {?/??/???/!/!!/!!!/--}
+# I thought so. 
+# I’m sure it is. 
+# It sounds like it. 
+
+
+
+//that's very kind/nice of you
+$ * nice of {you/u/ya} *
+$ * [dict(sova_eng_pr_it_is)] {kind/nice} of {you/u/ya} *
+$ * [dict(sova_eng_pr_it_is)] [dict(sova_eng_synonyms_very)] {kind/nice} of {you/u/ya} *
+$ {kind/nice} of {you/u/ya} {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_synonyms_very)] {kind/nice} of {you/u/ya} {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_synonyms_very)] {kind/nice} of {you/u/ya} [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_introwords)] [dict(sova_eng_synonyms_very)] {kind/nice} of {you/u/ya} {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_synonyms_very)] {kind/nice} of {you/u/ya} [dict(sova_eng_address)] {?/??/???/!/!!/!!!/--}
+$ [dict(sova_eng_address)] [dict(sova_eng_synonyms_very)] {kind/nice} of {you/u/ya} {?/??/???/!/!!/!!!/--}
+# Any time.
+# No problem.
+# My pleasure.
+# Nothing to it.
+# Glad to do it. 
+
+
+

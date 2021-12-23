@@ -1,0 +1,34 @@
+//Tell me a joke
+--Label sova_eng_jokes
+$ * {joke~/jokin~/fun~ stor~/anecdot~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/say~/hav~/tell~/narrat~/giv~/mak~\}}, {{me/--\}}, {[<dict(sova_eng_something)>]}, {{joke~/jokin~/fun~/anecdot~/laugh~\}})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {{joke~/jokin~/fun~/anecdot~/laugh~\}})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {{joke~/jokin~/fun~/anecdot~\}})] *
+# [udict(sova_eng_jokes)] [%that_anchor="eng_jokes_more"]
+
+
+//More jokes
++%that_anchor="eng_jokes_more"
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]}, {{joke~/jokin~/fun~/anecdot~/--\}})] *
+#  [ExtendAnswer("sova_eng_jokes")]
+
+
+//Laughing
++%that_anchor="eng_jokes_more"
+$ * ha *
+$ * ahah *
+# Your laughter is my favour.
+
+
+//Good joke
++%that_anchor="eng_jokes_more"
+$ * [<dict(sova_eng_thanks)>] * {fun~/curious/lik~/appreciat~/thank~/grateful~/lov~/cute} *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_good)] *
+# Glad you like it.
+
+
+//Not funny
++%that_anchor="eng_jokes_more"
+$ * [@cmb({[<dict(sova_eng_thanks)>]}, {no~ * fun~})] *
+$ * [@cmb({[<dict(sova_eng_thanks)>]}, {[dict(sova_eng_bad)]})] *
+# I will do my best next time.

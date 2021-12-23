@@ -1,0 +1,51 @@
+//congratulations on.../happy...
+$ * congratulations * {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * congratulations **
+# Oh, it's so unexpected. Thank you so much!
+# Thank you, that's very kind of you!
+
+
+
+//birthday
+$ * [dict(sova_eng_birthday)] * {?/??/???/!/!!/!!!/--} 
+#Birthday is a wonderful holiday!
+
+
+
+$ * happy [dict(sova_eng_birthday)] *
+# Your wishes are greatly appreciated, thank you kindly.
+
+
+
+$ * happy [dict(sova_eng_holidays)] *
+# Your wishes are greatly appreciated, thank you kindly.
+
+
+
+$ * {women's day/march 8/8 march/8th of march/march 8th} *
+#Oh, that's a wonderful holiday!
+
+
+
+$ * congratulate me *
+$ * wish me *
+#I wish you all the best!
+
+
+
+$ * {valentine's day/saint valentine/february 14/14 february/14th of february/february 14th} *
+#Love is in the air...
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/lov~/--} * giv~ * {gift~/present~} *
+$ * [dict(sova_eng_q_2_do)] {like/lov~/--} * {gift-giving/gift giving/giftgiving} *
+#Yes, I always give presents from my heart!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/lov~/--} * {receiv~/get~/hav~} * {gift~/present~} *
+#Yes, especially if they're cute!
+
+
+

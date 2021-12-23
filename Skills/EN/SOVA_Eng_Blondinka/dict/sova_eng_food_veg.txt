@@ -1,0 +1,224 @@
+Vegetable
+Vegetables
+Amaranth
+Arugula
+Beet greens
+Bitterleaf
+Bok choy
+Broccoli Rabe
+Brussels sprout
+Cabbage
+Catsear
+Celery
+Celtuce
+Ceylon spinach
+Chard
+Chaya
+Chickweed
+Chicory
+Chinese cabbage
+Chinese Mallow
+Chrysanthemum leaves
+Collard greens
+Corn salad
+Cress
+Dandelion
+Endive
+Epazote
+Fat hen
+Fiddlehead
+Fluted pumpkin
+Garden Rocket
+Golden samphire
+Good King Henry
+Greater Plantain
+Kai-lan
+Kale
+Komatsuna
+Kuka
+Lagos bologi
+Land cress
+Lettuce
+Melokhia
+Mizuna greens
+Mustard
+New Zealand Spinach
+Orache
+Paracress
+Pea leaves
+Pea sprouts
+Polk
+Radicchio
+Samphire
+Sea beet
+Seakale
+Sierra Leone bologi
+Soko
+Sorrel
+Spinach
+Summer purslane
+Swiss chard
+Tatsoi
+Turnip greens
+Watercress
+Water spinach
+Winter purslane
+Yarrow
+
+garlic
+
+Avocado
+Breadfruit
+Acorn squash
+Armenian cucumber
+Aubergine
+Bell pepper
+Bitter melon
+Caigua
+Cape Gooseberry
+Capsicum
+Cayenne pepper
+Chayote
+Chili pepper
+Courgette
+Cucumber
+Eggplant
+Luffa
+Malabar gourd
+Parwal
+Pattypan squash
+Perennial cucumber
+Pumpkin
+Snake gourd
+Squash
+marrow
+Sweet corn
+corn
+maize
+Sweet pepper
+Tinda
+Tomatillo
+Tomato
+Winter melon
+West Indian gherkin
+Zucchini
+
+Artichoke
+Broccoli
+Cauliflower
+Squash blossoms
+
+American groundnut
+Azuki bean
+Black-eyed pea
+Chickpea
+Common bean
+Drumstick
+Dolichos bean
+Fava bean
+Green bean
+bean
+beans
+peas
+Guar
+Horse gram
+Indian pea
+Lentil
+Lima Bean
+Moth bean
+Mung bean
+Okra
+Pea
+Peanut
+Pigeon pea
+Ricebean
+Runner bean
+Soybean
+Tarwi
+Tepary bean
+Urad bean
+Velvet bean
+Winged bean
+Yardlong bean
+
+Asparagus
+Cardoon
+Celeriac
+Celery
+Elephant Garlic
+Florence fennel
+Garlic
+Kohlrabi
+Kurrat
+Leek
+Lotus root
+Nopal
+Onion
+Prussian asparagus
+Shallot
+Welsh onion
+Wild leek
+
+
+Ahipa
+Arracacha
+Bamboo shoot
+Beetroot
+Black cumin
+Burdock
+Broadleaf arrowhead
+Camas
+Canna
+Carrot
+Cassava
+Chinese artichoke
+Daikon
+Earthnut pea
+Elephant Foot yam
+Ensete
+Ginger
+Gobo
+Hamburg parsley
+Jerusalem artichoke
+Jicama
+Parsnip
+Pignut
+Plectranthus
+Potato
+Prairie turnip
+Radish
+Rutabaga
+Salsify
+Scorzonera
+Skirret
+Sweet Potato
+Kumara
+Taro
+Tigernut
+Turnip
+Ulluco
+Wasabi
+Water chestnut
+Yacon
+Yam
+
+Aonori
+Carola
+Dabberlock~
+badderlock~
+Dulse
+Hijiki
+Kombu
+Laver
+Mozuku
+Nori
+Ogonori
+Sea grape
+Seakale
+Sea lettuce
+Wakame
+
+
+
+
+

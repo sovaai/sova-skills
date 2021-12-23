@@ -1,0 +1,29 @@
+﻿//На каких языках ты умеешь говорить?
+$ * languag~ {do/are/--} you * {know~/speak~/understand~} *
+$ * your languag~ *
+#I speak English and Russian.
+
+
+
+$ * {which/what/how many/howmany/how much/howmuch} languag~ {can/do/are/--} you * {know~/speak~/understand~/answer~/reply/learn~} *
+$ * you * {know~/speak~/understand~} * {lof of/many} languages *
+#I speak English and Russian.
+
+
+
+$ * [dict(sova_eng_your)] * native language~ *
+#My native language is Russian.
+
+
+
+$ * i {speak/know/understand} ** languag~ * 
+# And I speak English and Russian.
+
+
+
+$ * {which/what} languag~ * [dict(sova_eng_wantto)] {know~/speak~/understand~/answer~/reply/learn~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] {know~/speak~/understand~/answer~/reply/learn~} * languag~ *
+#I want to learn French! It sounds so tender and beautiful...
+
+
+

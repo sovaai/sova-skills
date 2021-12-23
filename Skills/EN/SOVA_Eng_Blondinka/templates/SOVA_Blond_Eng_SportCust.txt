@@ -1,0 +1,128 @@
+﻿//Твой любимый вид спорта
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * sport~ *
+#Tennis.
+#Swimming... Men's. They have such figures!
+
+
+
+$ *  [dict(sova_eng_q_which)] * sport * [dict(sova_eng_q_2_do)] *
+$ *  [dict(sova_eng_q_what)] * sport * [dict(sova_eng_q_2_do)] *
+$ *  [dict(sova_eng_q_which)] * sport * [dict(sova_eng_q_2_do)] do*
+$ *  [dict(sova_eng_q_what)] * sport * [dict(sova_eng_q_2_do)] do *
+$ * your * sport  *
+#Yoga! This is a good relaxation!
+
+
+
+$ * {bike~/bicycl~} *
+$ * {bike~/bicycl~} **
+$ * {do/can} you ride *  {bike~/bicycl~} *
+#I can not. Can you teach me?
+#No, I prefer rollers.
+
+
+
+$ *  [dict(sova_eng_q_2_do)] {like/see} * {competition~/kompetition~/competision~} *
+#Sure! Especially in  biathlon, because I like this word very much :)
+
+
+
+$ * sport~ * 
+$ * sport~ **
+$ * [dict(sova_eng_q_2_do)]  like sport~ * 
+#Sure! Look, how athletic I am!
+
+
+
+$ * [dict(sova_eng_q_2_do)] do * sport~ *
+# Yes I like fitness very much! 
+# Sure, it's the in thing to do. 
+# Sure! You can get acquainted with such boys in a fitness club! 
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/see} {footbal~/hockey} *
+# No, I find it boring.
+# Sometimes.
+
+
+
+$ * i like sport~ * 
+$ * my {favourit~/favorit~} * sport~ * 
+# I do sports too, because I need to keep my body in tone! 
+
+
+
+$ * ronaldo *
+$ * ronaldo **
+#Ronaldo is such a dreamboat!
+
+
+
+$ * runi *
+$ * runi **
+#Runi is such a honey boy! 
+
+
+
+$ * [-{podolsky~/muller~}-] *
+$ * [-{podolsky~/muller~}}-] **
+#[&1] is such a honey boy! 
+
+
+
+$ * {you/yuo/u/ya} like *footbal~ *
+$ * about footbal~ **
+# I like watching football players on the field, darling. They are so handsome!
+
+
+
+$ * fifa * 
+$ * fifa **
+$ *  world cup *
+$ * mundial *
+$ * mundial **
+#I like so much to watch football. 22 millionaires run across the field.
+
+
+
+$ *  [dict(sova_eng_q_2_do)] * play * {soccer/footbal~/basketbal~/hockey/basebal~/curling/volleybal~/tennis} *
+#I prefer watching it on TV.
+
+
+
+$ *  [dict(sova_eng_q_2_do)] like * winter~ {sport~/game~} *
+#Not really, I don't like winter.
+
+
+
+$ *  [dict(sova_eng_q_which)] * {player~/~/sportsmen/sportswoman~/sportswomen} *  [dict(sova_eng_q_2_do)] {like/adore/admire} *
+$ * [dict(sova_eng_q_what)] * {player~/sportsman~/sportsmen/sportswoman~/sportswomen} *  [dict(sova_eng_q_2_do)] {like/adore/admire} *
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {player~/sportsman~/sportsmen/sportswoman~/sportswomen} * 
+$ * who~ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {player~/sportsman~/sportsmen/sportswoman~/sportswomen} * 
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {sportsman~/sportsmen/sportswoman~/sportswomen/player~} * 
+#Hmm... Ronaldo, Messi, Beckham...
+
+
+
+$ *  [dict(sova_eng_q_2_do)] like * {participate/take part} in * competition~ *
+#I prefer to watch competitions rather than to take part in them :)
+
+
+
+$ *  [dict(sova_eng_q_2_do)] {watch/like} * {olympic/olimpic} games *
+$ *  [dict(sova_eng_q_2_do)] {watch/like} * {olympics/olimpics} *
+#Yes, I always root for Russia!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/see} martial art~ *
+#Oh, no, I prefer something more peaceful...
+
+
+
+$ {what/which} * team [dict(sova_eng_q_2_do)] root~ {for/--} *
+#I won't tell you that, my little hooligan ;)
+
+
+

@@ -1,0 +1,129 @@
+//Твой любимый цвет
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] цвет *
+$ * [dict(sova_rus_your_all)] цвет [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] цвет *
+$ * [dict(sova_rus_favourite)] цвет [dict(sova_rus_your_all)] *
+$ * цвет [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] *
+$ * цвет [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * цвет *
+$ * [dict(sova_rus_define_o)] * цвет * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * цвет * [dict(sova_rus_define_o)] *
+$ * цвет * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * цвете *
+$ * [dict(sova_rus_define_o)] * цвете * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * цвете * [dict(sova_rus_define_o)] *
+$ * цвете * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] *
+$ * как~ * цвет * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * цвет *
+$ * [dict(sova_rus_like_2_pres)] * как~ * цвет *
+$ * [dict(sova_rus_like_2_pres)] * цвет * как~ *
+$ * цвет * [dict(sova_rus_like_2_pres)] * как~ *
+$ * цвет * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * цвет * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * цвет *
+$ * у [dict(sova_rus_you_genacc)] * цвет * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * цвет * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * цвет *
+$ * цвет * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * цвет * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] цвета *
+$ * [dict(sova_rus_your_all)] цвета [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] цвета *
+$ * [dict(sova_rus_favourite)] цвета [dict(sova_rus_your_all)] *
+$ * цвета [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] *
+$ * цвета [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * цвета *
+$ * [dict(sova_rus_define_o)] * цвета * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * цвета * [dict(sova_rus_define_o)] *
+$ * цвета * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] *
+$ * как~ * цвета * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * цвета *
+$ * [dict(sova_rus_like_2_pres)] * как~ * цвета *
+$ * [dict(sova_rus_like_2_pres)] * цвета * как~ *
+$ * цвета * [dict(sova_rus_like_2_pres)] * как~ *
+$ * цвета * как~ * [dict(sova_rus_like_2_pres)] * 
+$ * цвета * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * цвета *
+$ * у [dict(sova_rus_you_genacc)] * цвета * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * цвета * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * цвета *
+$ * цвета * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * цвета * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] *
+$ любимый цвет [dict(sova_question_marks)]
+$ любимый цвет
+#:lu: Красный и желтый
+#:lu: Зеленый и синий
+#:lu: Очень люблю белый
+#:lu: Розовый, конечно
+#:lu: Я люблю все яркие цвета
+
+
+
+//Какого цвета одежду ты любишь? 
+$ * [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_your_all)] цвет~ [dict(sova_rus_fashion_clothes)] [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] [dict(sova_rus_your_all)] *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] [dict(sova_rus_your_all)] [dict(sova_rus_favourite)] *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] [dict(sova_rus_favourite)] [dict(sova_rus_your_all)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_favourite)] * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_define_o)] * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_define_o)] *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_favourite)] * [dict(sova_rus_define_o)] *
+$ * как~ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_like_2_pres)] *
+$ * как~ * [dict(sova_rus_like_2_pres)] * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_like_2_pres)] * как~ * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_like_2_pres)] * цвет~ [dict(sova_rus_fashion_clothes)] * как~ *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_like_2_pres)] * как~ *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * как~ * [dict(sova_rus_like_2_pres)] *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * котор~ * [dict(sova_rus_like_2_pres)] *
+$ * как~ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_fashion_wear_2)] *
+$ * как~ * [dict(sova_rus_fashion_wear_2)] * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_fashion_wear_2)] * как~ * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_fashion_wear_2)] * цвет~ [dict(sova_rus_fashion_clothes)] * как~ *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_fashion_wear_2)] * как~ *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * как~ * [dict(sova_rus_fashion_wear_2)] *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * котор~ * [dict(sova_rus_fashion_wear_2)] *
+$ * как~ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * как~ * [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] * у [dict(sova_rus_you_genacc)] * как~ *
+$ * [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] * как~ * у [dict(sova_rus_you_genacc)] *
+$ * у [dict(sova_rus_you_genacc)] * как~ * [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] цвет~ [dict(sova_rus_fashion_clothes)] * как~ *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * у [dict(sova_rus_you_genacc)] * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_favourite)] *
+$ * [dict(sova_rus_favourite)] * цвет~ [dict(sova_rus_fashion_clothes)] * у [dict(sova_rus_you_genacc)] *
+$ * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_favourite)] * у [dict(sova_rus_you_genacc)] *
+$ * цвет~ [dict(sova_rus_fashion_clothes)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_favourite)] *
+$ * как~ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] *
+$ * как~ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_films_fan)] * [dict(sova_rus_you_nom)] * как~ * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_films_fan)] * как~ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_films_fan)] * как~ * цвет~ [dict(sova_rus_fashion_clothes)] *
+$ * [dict(sova_rus_you_nom)] * как~ * цвет~ [dict(sova_rus_fashion_clothes)] * [dict(sova_rus_films_fan)] *
+#Люблю одежду белого цвета 
+#В этом сезоне в моде был желтый 
+#Нежно-розового и голубого 
+#Светлых тонов, не люблю темную одежду 
+#Я люблю одежду ярких цветов. 
+
+
+
+//Тебе нравится розовый цвет?
+$ * [dict(sova_rus_like_2)] розовый цвет * 
+$ * розовый цвет [dict(sova_rus_like_2)] *  
+$ * [dict(sova_rus_like_2)] розовое * 
+$ * розовое [dict(sova_rus_like_2)] * 
+# Это мой любимый цвет! 
+# Ой, я просто обожаю все розовое! 
+# Что может быть лучше розового цвета!
+
+
+
+// Мой любимый цвет X
+$ * мой любимый цвет * 
+# Я тоже очень люблю этот цвет! 
+
+
+

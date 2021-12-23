@@ -1,0 +1,16 @@
+//Give me a quote
+--Label sova_eng_quotes
+$ * {quot~/citation~/aphorism~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/hav~/giv~/mak~/say~/tell~/narrat~/need~\}}, {{quot~/citation~/aphorism~\}})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {{quot~/citation~/aphorism~\}})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {{quot~/citation~/aphorism~\}})] *
+$ * [@cmb({{cite/quote\}}, {{someone~/person~\}})] *
+# [udict(sova_eng_quotes)][%that_anchor="eng_quotes_more"]
+
+
+//More quotes
++%that_anchor="eng_quotes_more"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)] *
+#  [ExtendAnswer("sova_eng_quotes")][%that_anchor="eng_quotes_more"]
+
+

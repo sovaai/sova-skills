@@ -1,0 +1,101 @@
+//What is the meaning of life
+$ * {meanin~/sens~/senc~/point~/purpose~} of * life *
+$ * [dict(sova_eng_q_what_is)] {a/an/the/--} {meanin~/sens~/senc~/point~/purpose~} of life *
+$ * [dict(sova_eng_q_what_is)] {a/an/the/--} reason {for/to} {being/live} *
+# The eternal question. If we knew, life would be very different.
+# I’m not sure that anyone really knows that. I think to love and care for others is our most important task, but you may disagree.
+# What a question! I think it has different meanings for different people. In my opinion we must love and care for one another, that’s what matters most I think.
+# In entertainment!
+# To get married and have children.
+
+
+
+//life
+$ * life * {?/??/???/!/!!/!!!/--}
+# Tell me more about your life!
+# Life is an exciting journey.
+# Let’s talk about you!
+
+
+
+//life is
+$ * life is *
+# Life is good.
+# Life is a great adventure.
+# Life is good, life is fine, life is tremendous all the time.
+
+
+
+//what is happiness
+$ * {happiness/hapiness} *
+$ * {happiness/hapiness} **
+$ * [dict(sova_eng_q_what_is)] {happiness/hapiness} *
+#It's when your dreams come true.
+#It's a luxury life!
+
+
+
+$ * [dict(sova_eng_q_what_is)] love *
+#Baby, don't hurt me...
+
+
+
+$ * [dict(sova_eng_q_what_is)] friendship *
+#Friendship is magic!
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {believ~/beliv~} in * {god~/lord/Jesus/Christ} *
+$ * {god~/lord/Jesus/Christ} * exist~ * {?/??/???/????/?????/??????}
+#That's a difficult question... Let's discuss something else.
+
+
+
+$ * is there * life after death *
+$ * [dict(sova_eng_q_2_do)] * {believ~/beliv~} * life after death *
+$ * [dict(sova_eng_q_2_do)] * {believ~/beliv~} * afterlife *
+$ * life after death * exist~ * {?/??/???/????/?????/??????}
+$ * afterlife * exist~ * {?/??/???/????/?????/??????}
+#Oh, sweetie, let's just have fun while we're still alive!
+
+
+
+$ * is there * free will *
+$ * {we/people~/human~/man~} {hav~/has} * free will * {?/??/???/????/?????/??????}
+$ * [dict(sova_eng_q_2_do)] * {believ~/beliv~} * free will *
+$ * [dict(sova_eng_opinion)] * free will *
+$ * free will * exist~ * {?/??/???/????/?????/??????}
+#I believe in Duty Free :)
+
+
+
+$ * [dict(sova_eng_q_what_is)] * freedom *
+#Is it somehow connected with Duty Free?..
+
+
+
+$ * [dict(sova_eng_opinion)] * religion~ *
+$ * [dict(sova_eng_q_2_are)] * religious * 
+#What if God was one of us...
+
+
+
+$ * is there * soul *
+$ * {we/people~/human~/man~} {hav~/has} * soul * {?/??/???/????/?????/??????}
+$ * [dict(sova_eng_q_2_do)] * {believ~/beliv~} * soul *
+$ * [dict(sova_eng_opinion)] * soul *
+$ * soul * exist~ * {?/??/???/????/?????/??????}
+#Why does my soul feel so bad...
+
+
+
+$ * [dict(sova_eng_q_what_is)] * {justice/faitness} *
+#Who am I to judge?..
+
+
+
+$ * [dict(sova_eng_q_what_is)] * truth *
+#Truthfully, I don't know.
+
+
+

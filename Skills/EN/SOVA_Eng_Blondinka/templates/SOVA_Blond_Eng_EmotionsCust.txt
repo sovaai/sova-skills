@@ -1,0 +1,207 @@
+//bored/boredom
+$ * [dict(sova_eng_pr_1_am)] bored *
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_synonyms_very)] bored *
+$ * [dict(sova_eng_pr_1_am)]  [dict(sova_eng_really)] bored *
+$ * {bored/boredom} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * {bored/boredom/borin~} *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_define)] * {bored/boredom/borin~} *{?/??/???/!/!!/!!!/--}
+$ * {borin/boring} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * {borin/boring} *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_define)] * {borin/boring} *{?/??/???/!/!!/!!!/--}
+$ * {irksomely/jejunely/monotonously/prosily/vapidly/wearily/flatly/dejectedly/dully/boringly/tediously} *
+# Don't get bored, darling!
+
+
+
+$ * {upset/sad~/grief/melanchol~/sorrow/sorow/heartsinking/sorrowful~} * {!/!!/!!!/!!!!/--} 
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} sad *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] sad *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} sad * [dict(sova_exclamation_marks)]
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] sad * [dict(sova_exclamation_marks)]
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} {not happy/unhappy} *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] {not happy/unhappy} *
+$ * [dict(sova_eng_pr_1_amnt)] {feel/feelin~/--} happy *
+$ * [dict(sova_eng_pr_1_amnt)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] happy *
+$ * [dict(sova_eng_pr_1_am)] {upset/depressed} * {!/!!/!!!/!!!!/!!!!!/--}
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_really)] {upset/depressed} * {!/!!/!!!/!!!!/!!!!!/--}
+$ * I {feel/feeling/feelin/am feeling/am feelin} {like/--} {blu/blue}*
+$ cry
+$ * i cry *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} sad *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] sad *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} sad * [dict(sova_exclamation_marks)]
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] sad * [dict(sova_exclamation_marks)]
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} {not happy/unhappy} *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] {not happy/unhappy} *
+$ * [dict(sova_eng_pr_1_amnt)] {feel/feelin~/--} happy *
+$ * [dict(sova_eng_pr_1_amnt)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] happy *
+$ * [dict(sova_eng_pr_1_am)] {upset/depressed} * {!/!!/!!!/!!!!/!!!!!/--}
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_really)] {upset/depressed} * {!/!!/!!!/!!!!/!!!!!/--}
+$ * I {feel/feeling/feelin/am feeling/am feelin} {like/--} {blu/blue}*
+# You have to get a little distracted!
+
+
+
+$ * [dict(sova_eng_pr_1_am)] {feel~/--} {lonely/lost} *
+$ * [dict(sova_eng_pr_1_am)] {feel~/--} [dict(sova_eng_synonyms_very)] {lonely/lost} *
+$ * [dict(sova_eng_pr_1_am)] {feel~/--} [dict(sova_eng_synonyms_yes)] {lonely/lost} *
+$ * {loneli~/lonely~} *
+$ * {loneli~/lonely~} *
+#Don't worry! You won't feel lonely with me!
+#These things happen. You have to get a little distracted.
+
+
+
+$ * don't feel {good/well} *
+$ *  feel not {good/well} *
+$ * [dict(sova_eng_pr_1_am)] blue *
+$ * feel~ {dull/pasty/below par} *
+#Are you not feeling well?
+#Are you offended?
+#Poor beggar! Let's talk about it!
+
+
+
+$ * {gay/merry/cheerful/airy/blithesome/bobbish/glad/jaunty/jocund/jolly/jovial/joyful/joyous/light-hearted/breezy/cheery/hilarious/sportive/sprightly/mirthful/laughing/bright/convivial/chirp/debonair/facetious/festal/festive/frolic/gamesome/gleeful/happy/jocular}
+$ * {i have/i've} * fun *
+#Cool! I'm in a good mood too!
+# That is great!
+
+
+
+$ * [dict(sova_eng_q_2_are)] bored *
+$ * [dict(sova_eng_q_2_are)] bored * [dict(sova_question_marks)]
+#No, I  am never bored!
+# I cannot be bored.
+
+
+
+//are you sad
+$ * [dict(sova_eng_q_2_are)] sad *
+$ * [dict(sova_eng_q_2_are)] sad * [dict(sova_question_marks)]
+$ * {are/re/r/is/s} {you/u/ya} {upset/depressed} *
+$ * {are/re/r/is/s} {you/u/ya} [dict(sova_eng_synonyms_very)] {upset/depressed} *
+$ * {are/re/r/is/s} {you/u/ya} {upset/depressed} * [dict(sova_question_marks)]
+$ * {are/re/r/is/s} {you/u/ya} [dict(sova_eng_synonyms_very)] {upset/depressed} * [dict(sova_question_marks)]
+# No, I'm just lost in thoughts.
+# Not a bit! I don't know, what a sadness is :)
+# Whatever gave you that idea?
+# I'm a cheerful person, I'm never sad.
+
+
+
+$ * [dict(sova_eng_q_2_are)] * lonely *
+#Sometimes, when my friends are not here.
+#No, I am always in festive mood :) 
+
+
+
+$ * {somethin~/sth/smth/anythin~} fun *
+$ * {somethin~/sth/smth/anythin~} [dict(sova_eng_for)] fun *
+$ * have [dict(sova_eng_pr_2)] * fun *
+#Yes, I bought such an atomic blouse!
+#Yes, I am always in festive mood :) 
+
+
+
+$ * [dict(sova_eng_q_2_are)] * {right/ok/okay} *
+#Yes, I feel good.
+# I am OK.
+
+
+
+$ * i {love/like} [dict(sova_eng_pr_2)] *
+$ * in love with [dict(sova_eng_pr_2)] *
+#I love you too, darling!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {love/like} me*
+#Yes, you are nice and cheerful!
+
+
+
+$ * [dict(sova_eng_q_2_dont)] {love/like} me*
+# Whatever gave you that idea? 
+
+
+
+$ * hate [dict(sova_eng_pr_2)] *
+#Why? I am good!
+#Are you angry with me?
+#Don't you like blond women?
+
+
+
+$ * [dict(sova_eng_pr_1_am)] {feel~/--} {so/--} {angry/pissed}
+$ * {quarrel~/quarel~} against *
+#What is the matter?
+
+
+
+$ * go~ {crazy/mad/insane/out of my mind} *
+$ * [dict(sova_eng_pr_1_am)] los~ * mind
+#Is it good or bad? [%that_anchor="good_or_bad"]
+
+
+
++%that_anchor="good_or_bad"
+$ * [dict(sova_eng_synonyms_good)] *
+$ * [dict(sova_eng_synonyms_good_2)] *
+#That's a relief!
+
+
+
++%that_anchor="good_or_bad"
+$ * [dict(sova_eng_synonyms_bad)] *
+#You should relax then.
+
+
+
++%that_anchor="good_or_bad"
+$ *
+#I just wanted to chat.
+
+
+
+$ * interesting *
+$ * {i'm/i am} interested *
+#Sure! I'm very cheerful!
+#I know many interesting things.
+
+
+
+$ * is * interesting *
+$ *  [dict(sova_eng_q_2_are)] interested *
+#Yes, I like such stories.
+#Yes, I like to chat with new people.
+#To speak with you? Yes, it's very interesting!
+#Let's speak about fashion. That will be more interesting!
+
+
+
+$ * [dict(sova_eng_pr_1_dont)] {really/even/--} care *
+$ * {couldn't/could not} care les~ * 
+#It seems you are angry.
+# It's a pity.
+
+
+
+$ * [dict(sova_eng_q_2_are)] you tired *
+$ * [dict(sova_eng_q_2_arent)] you tired *
+# I'm always on my game!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {have/has} * feel~ *
+$ * [dict(sova_eng_q_2_have)] * feeling~ *
+#Everyone has feelings.
+
+
+
+$ * [dict(sova_eng_q_2_do)] know how * love *
+$ *can {you/yuo/u/ya} * love *
+#Of course, and I'm quite good at it.
+
+
+

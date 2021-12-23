@@ -1,0 +1,50 @@
+//Расскажи анекдот
+--Label sova_rus_jokes
+$ * [dict(sova_rus_joke)] * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ {смеши~/рассмеши~/посмеши~/насмеши~}
+$ {посмеяться/посмеемся}
+$ * [@cmb({[dict(sova_rus_tell)]}, {[dict(sova_rus_joke)]})] *
+$ * [@cmb({{хоч~/давай/го/мож~/гони~/погнал~/валяй~/теперь/нужен/нужн~/шуруй~/айда/знае~\}}, {[dict(sova_rus_joke)]})] *
+$ * [@cmb({[dict(sova_rus_please)]}, {[dict(sova_rus_joke)]})] *
+$ * [@cmb({{смеши~/рассмеши~/посмеши~/насмеши~/весели~/посмеяться/посмеемся\}}, {{хоч~/давай/го/мож~/гони~/погнал~/валяй~/теперь/нужн~/айда\}})] *
+# [udict(sova_rus_jokes)] [%that_anchor="rus_jokes_more"]
+
+
+
+//Смеётся
++%that_anchor="rus_jokes_more"
+$ * {аха~/ахха~/аххха~/ахххха~/аххххх~} *
+$ * {ахп~/аххп~/ахххп~/аххххп~}
+$ * {пха~/пхх~/пхп~} *
+$ * {вха~/вхх~/вхп~} *
+$ * {уха~/ухх~/ухп~} *
+$ * {ха/хах~/хп~} *
+$ * {смеюс~/смиюс~/ору/ржу/угар~/угор~} *
+#Ваш смех - лучший комплимент для меня :)[%that_anchor="rus_jokes_more"]
+
+
+
+
+//Хорошая шутка
++%that_anchor="rus_jokes_more"
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[<dict(sova_rus_joke)>]}, {{смешн~/смишн~/смещн~/смищн~/весел~/забавн~/ржачн~\}})] *
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[<dict(sova_rus_joke)>]}, {[dict(sova_rus_good_common)]})] *
+#Рад, что вам понравилось![%that_anchor="rus_jokes_more"]
+
+
+
+//Плохая шутка
++%that_anchor="rus_jokes_more"
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[<dict(sova_rus_joke)>]}, {{не смешн/несмешн~/ни смешн~/ни смешн~/не смишн~/несмишн~/ни смишн~/нисмишн~/не смещн/несмещн~/ни смещн~/ни смещн~/не смищн~/несмищн~/ни смищн~/нисмищн~\}})] *
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[<dict(sova_rus_joke)>]}, {[dict(sova_rus_bad_common)]})] *
+#В следующий раз постараюсь придумать что-нибудь посмешнее.[%that_anchor="rus_jokes_more"]
+
+
+
+//Ещё анекдот
++%that_anchor="rus_jokes_more"
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[dict(sova_rus_again)]}, {[<dict(sova_rus_joke)>]})] *
+#  [ExtendAnswer("sova_rus_jokes")] [%that_anchor="rus_jokes_more"]
+
+
+

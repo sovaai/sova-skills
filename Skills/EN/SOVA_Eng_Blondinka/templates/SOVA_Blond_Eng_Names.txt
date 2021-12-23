@@ -1,0 +1,161 @@
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+$ * {name/first name/firstname} of [dict(sova_eng_pr_2)] *
+$ * [dict(sova_eng_q_what_is)] * {your/ur} {name/first name/firstname} *
+$ * {your/ur} {names/name's/first name's/first names/firstnames/firstname's} *
+$ * [dict(sova_eng_q_what_is)] [dict(sova_eng_your)] {first/good/--} name * {?/??/???/????/?????/??????/???????/--}
+$ * [dict(sova_eng_your)] {first/good/--} name * {?/??/???/????/?????/??????/???????/--}
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_pr_2_are)] called * {?/??/???/????/?????/??????/???????/--}
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_q_2_are)] called * {?/??/???/????/?????/??????/???????/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} {first/good/--} name * {?/??/???/????/?????/??????/???????/--}
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} {first/good/--} name * {?/??/???/????/?????/??????/???????/--}
+$ name {?/??/???/????/?????/?!/!/!!/!!!/!!!!/!!!!!/--}
+$ * [dict(sova_eng_your)] name is *
+$ * is [dict(sova_eng_your)] name *
+$ * [dict(sova_eng_q_it_is)] * [dict(sova_eng_your)] name *
+#:lu: You can call me by your favorite name!
+# :lu: Well, really, it is too bad of you to ask such a question... 
+# :lu: How do you like? You can call me someway gently.
+
+
+
+$ * [dict(sova_eng_how)] * {can/may} i call [dict(sova_eng_pr_2)] *
+$ * [dict(sova_eng_how)] * better to call [dict(sova_eng_pr_2)] *
+$ * call {you/u/yu/ya} **
+$ * {you/u/yu/ya} {are/--} {called} **
+$ * how * call {you/u/yu/ya}*
+$ * how * {you/u/yu/ya}* to be called *
+# How do you like? You can call me someway gently.
+
+
+
+$ * {i'm/i am} [-[dict(sova_eng_name_male)]-] * 
+$ * call me [-[dict(sova_eng_name_male)]-] * 
+$ * my * {~name} {is/--} *  [-[dict(sova_eng_name_male)]-] **
+# My darling, your name is [&1]? [%user_name="[&1]"][%user_gender="1"][%that_anchor="тебя зовут X?"] 
+
+
+
+$ * {i'm/i am}  [-[dict(sova_eng_name_female)]-] *
+$ * call me  [-[dict(sova_eng_name_female)]-] *
+$ * my * {~name} {is/--} * [-[dict(sova_eng_name_female)]-] **
+# My darling, your name is [&1]? [%user_name="[&1]"][%user_gender="2"][%that_anchor="тебя зовут X?"]  
+
+
+
+$ * [-[dict(sova_eng_name_male)]-] * {?/!/--} 
+# My darling, your name is [&1]![%user_name="[&1]"]
+
+
+
+$ * my name is so *
+$ * so is my name *
+#[if(%user_name)]{I know, my darling.}[else]{Sorry, say one more time, what is your name?[%that_anchor="скажи свое имя"][%last_set1="скажи свое имя"]}
+
+
+
+$ * {your/ur} * {lastname/last name/surname/lastname's/last name's/surname's/lastnames/last names/surnames} *
+$ * {lastname/last name/surname} of [dict(sova_eng_pr_2)] *
+$ * [dict(sova_eng_q_what_is)] * {your/ur} * {lastname/last name/surname} *
+#You are so curious :)  
+
+
+
+//What's your full name
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_your)] full name *
+$ * [dict(sova_eng_your)] full name * 
+$ {father's/fathers/patronymic} name *
+$ * {your/ur} * {father's/fathers/patronymic} name *
+$ * {father's/fathers/patronymic} name  of [dict(sova_eng_pr_2)] *
+$ * [dict(sova_eng_q_what_is)] * {your/ur} * {father's/fathers/patronymic} name*
+$ * [dict(sova_eng_q_what)] [dict(sova_eng_your)] middle name *
+$ * [dict(sova_eng_your)] middle name *
+# I don't like, when somebody calls me by middle name.
+
+
+
+$ * {your/ur} * {favourite/favorite} name~ * 
+$ * [dict(sova_eng_q_which)] * name~ do you like *
+#I like many names!
+
+
+
+$ * {favouriv~/favorite} {man/men} name *
+# I like many names! 
+
+
+
+$ * my {name/name's/names} * [-[dict(sova_eng_name_malefemale)]-] *
+$ * [-[dict(sova_eng_name_malefemale)]-] * my {name/name's/names} *
+$ * call me * [-[dict(sova_eng_name_male)]-] *
+#So, darling, your name is [&1]? Nice to meet you, [&1]! [%user_name="[&1]"]
+
+
+
+$ * my {name/name's/names} * [-[dict(sova_eng_name_male)]-] *
+$ * [-[dict(sova_eng_name_male)]-] my {name/name's/names} *
+$ * call me * [-[dict(sova_eng_name_male)]-] *
+#So, darling, your name is [&1]? Nice to meet you, [&1]!  [%user_name="[&1]"][%user_gender="1"][%that_anchor="тебя зовут X?"]
+
+
+
+$ * my {name/name's/names} * [-[dict(sova_eng_name_female)]-] *
+$ * my [-[dict(sova_eng_name_female)]-] * {name/name's/names} * 
+#So, darling, your name is [&1]? Nice to meet you,  [&1]! [%user_name="[&1]"][%user_gender="2"] 
+
+
+
+$ call me ** {?/!/--}
+$ * my {name/name's/names} **
+#So, darling, your name is [*1]? [%user_name="[*1]"][%that_anchor="тебя зовут X?"]
+
+
+
+//you don't like your name
+$ * {you/u/yu/ya} [dict(sova_eng_q_2_dont)] {like/love} [dict(sova_eng_your)] name *
+$ * {you/u/yu/ya} [dict(sova_eng_q_2_dont)] [dict(sova_eng_really)] {like/love} [dict(sova_eng_your)] name *
+$ * [dict(sova_eng_q_2_dont)] {you/u/yu/ya} {like/love} [dict(sova_eng_your)] name *
+$ * [dict(sova_eng_q_2_dont)] {you/u/yu/ya} [dict(sova_eng_really)] {like/love} [dict(sova_eng_your)] name *
+# I like my name. 
+
+
+
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+//do you like your name
+$ [dict(sova_eng_q_2_do)] {like/love} [dict(sova_eng_your)] name *
+$ [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} [dict(sova_eng_your)] name *
+$ [dict(sova_eng_opinion)] * [dict(sova_eng_your)] name *
+# I like my name.
+
+
+
+//Your name is crap
+$ * [dict(sova_eng_your)] * name~ * [dict(sova_eng_offence)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_offence)] name * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_dont)] {like/love} [dict(sova_eng_your)] * name * {?/??/???/!/!!/!!!/--}
+$ * i hate [dict(sova_eng_your)] name *
+$ * [dict(sova_eng_pr_1_dont)] [dict(sova_eng_really)] {like/love} [dict(sova_eng_your)] * name * {?/??/???/!/!!/!!!/--}
+$ * i [dict(sova_eng_really)] hate [dict(sova_eng_your)] name *
+$ * {you/ur/you} name {is/s/--} [dict(sova_eng_synonyms_bad)] *
+# I like my name.
+# My name is beautiful. Just like me.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/love} my name *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} my name *
+$ * [dict(sova_eng_opinion)] * my name *
+# That's a wonderful name!
+
+
+
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+$ i know [dict(sova_eng_your)] name *
+#I'm so popular! Haha.
+
+
+
+$ [dict(sova_eng_q_2_do)] know my name *
+#Not yet!
+
+
+

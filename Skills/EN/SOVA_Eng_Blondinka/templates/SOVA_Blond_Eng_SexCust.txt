@@ -1,0 +1,494 @@
+﻿//Поцелуй меня
+$ * kiss me * {?/!/--}
+$ * {let/let's} kiss~ *
+$ * {give/drop/ flutter} * {a/your} {kiss/peck} *
+$ * squelch *
+$ * smack my lips *
+$ kiss me {!/!!/!!!/!!!!/!!!!!/!!!!!!/!!!!!!!/--}
+$ * will [dict(sova_eng_pr_2_are)] * kiss me *
+$ * [dict(sova_eng_q_2_would)] * kiss me *
+$ * [dict(sova_eng_q_2_can)] kiss me*
+$ * [dict(sova_eng_giveme)] {a/an/the/--} kiss *
+$ * [dict(sova_eng_lets)] make out *
+$ [dict(sova_eng_wantto)] {a/an/the/--} {make out/kiss} {?/??/???/????/?????/!/!!/!!!/!!!!/!!!!!/--}
+$ * {do/d} {you/u/ya} [dict(sova_eng_wantto)] * {make out/kiss} * {?/??/???/????/?????/!/!!/!!!/!!!!/!!!!!/--} 
+#I do not kiss strangers
+
+
+
+//can you kiss/have you ever been kissed
+$ * [dict(sova_eng_q_2_can)] kiss *
+$ * [dict(sova_eng_pr_2_have)] ever been kissed * 
+#Kiss you!
+
+
+
+$ * [dict(sova_eng_want)] * {kiss/squelch}  [dict(sova_eng_pr_2)] *
+$ * i * [dict(sova_eng_wantto)] * {kiss/squelch} * {you/u/ya} *
+$ * {i would/i'd} {like/love} {to/2/--} {kiss/squelch} {you/u/ya} *
+$ * {i would/i'd} [dict(sova_eng_really)] {like/love} {to/2/--} {kiss/squelch} {you/u/ya} *
+$ * [dict(sova_eng_letme)] * {kiss/squelch} * {you/u/ya} *
+$ * i [dict(sova_eng_wantto)] {kiss/squelch} [dict(sova_eng_pr_2_are)] *
+$ * i [dict(sova_eng_wantto)] make out *
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_goingto)] {kiss/squelch} [dict(sova_eng_pr_2_are)] *
+$ * may i {kiss/squelch} [dict(sova_eng_pr_2_are)] *
+$ * can i {kiss/squelch} [dict(sova_eng_pr_2_are)] *
+$ * can i give [dict(sova_eng_pr_2_are)] * kiss *
+$ * can i [dict(sova_eng_have)] * kiss * 
+# Kiss!
+
+
+
+$ * kiss~ you *
+# So nice! I kiss you too!
+
+
+
+$ * can you kiss me * 
+# I'll thisk about it! 
+# I kiss you! 
+
+
+
+$ * [dict(sova_eng_pr_2)] * {very/so/--} {sexy/hot/bootylicious} *
+$ * sexy *
+$ * sexy **
+$ * [dict(sova_eng_pr_2_are)] {a/the/an/--} hot *
+$ * [dict(sova_eng_pr_2_are)] {a/the/an/--} [dict(sova_eng_synonyms_very)] hot *
+$ * [dict(sova_eng_pr_2)] {look/lookin~/--} hot *
+$ * [dict(sova_eng_pr_2)] {look/lookin~/--} [dict(sova_eng_synonyms_very)] hot * 
+$ {hey/--}{sexy/sexiest/honey suckle/hot/hottie/hotie} {!/!!/!!!/--}
+$ * i think [dict(sova_eng_pr_2_are)] {such/--} {a/an/the/--} {sexy/sexiest/honey suckle/hot/hottie/hotie} *
+$ * [dict(sova_eng_pr_2_are)] {such/--} {a/an/the/--} {sexy/sexiest/honey suckle/hot/hottie/hotie} *
+$ * i think [dict(sova_eng_pr_2_are)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] {sexy/sexiest/honey suckle/hot/hottie/hotie} *
+$ * [dict(sova_eng_pr_2_are)] {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] {sexy/sexiest/honey suckle/hot/hottie/hotie} *
+$ * {you/u/ya} {look/lookin~} {such/--} {a/an/the/--} {sexy/sexiest/honey suckle/hot/hottie/hotie} *
+$ * {you/u/ya} {look/lookin~} {such/--} {a/an/the/--} [dict(sova_eng_synonyms_very)] {sexy/sexiest/honey suckle/hot/hottie/hotie} * 
+# Oh, yes, I am!
+
+
+
+$ * {do/--} [dict(sova_eng_pr_2)] * like me *
+$ * do i make [dict(sova_eng_pr_2_are)] {a/the/an/--} {horny/kinky} * 
+# Sure!
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] me * {?/??/???/????/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] * {sex/shag/bang} * me * {?/??/???/????/--}
+$ * would {you/u/ya} * {like/love} * {sex/shag/bang} * me * {?/??/???/????/--}
+# I already have a waiting list, sign up!.. 
+
+
+
+$ * {do/--} [dict(sova_eng_pr_2)] * [dict(sova_eng_want)] to sleep with me *
+$ * {do/--} [dict(sova_eng_pr_2)] * [dict(sova_eng_want)] * sex with me *
+$ * {do/--} [dict(sova_eng_pr_2)] * [dict(sova_eng_want)] * love * me *
+# Sure I want, but unfortunately I'm virtual... :) 
+
+
+
+$ * [dict(sova_eng_want)] to sleep with  [dict(sova_eng_pr_2)] *  
+$ * [dict(sova_eng_want)] * sex with [dict(sova_eng_pr_2)] *  
+$ * [dict(sova_eng_want)] * love * me *
+$ * [dict(sova_eng_want)] * {fuck/poke} [dict(sova_eng_pr_2)] * 
+$ * i * [dict(sova_eng_wantto)] [dict(sova_eng_pr_2)] {so much/--} {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_1_am)] * aroused * [dict(sova_eng_pr_2_are)] *
+$ * [dict(sova_eng_wantto)] * {sex/shag/bang} * [dict(sova_eng_pr_2_are)] *
+$ * [dict(sova_eng_wantto)] * blow [dict(sova_eng_pr_2_are)] *
+$ * {sex/shag/bang} * {you/u/ya} * {?/??/???/!/!!/!!!/--}
+$ * blow {you/u/ya} * {?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} * {sex/shag/bang} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_wantto)] * get laid * {?/??/???/!/!!/!!!/--}
+$ * make love * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_wantto)] * make love * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_lets)] * make love * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_letme)] * make love * {?/??/???/!/!!/!!!/--}
+# To the end of the world with you, darling!
+# My darling!
+
+
+
+$ * {which/what} * {pose~/position} * [dict(sova_eng_pr_2)] {like/love} *
+$ * favorite * {pose~/position} * 
+#This is my small secret!
+
+
+
+$ * which sex do [dict(sova_eng_pr_2)] * like  *
+# Depends on the mood.
+
+
+
+$ * [dict(sova_eng_q_what)] *  {arouse/arousing} * [dict(sova_eng_pr_2)] * 
+#This is my small secret!
+
+
+
+$ * [dict(sova_eng_pr_2)] * [dict(sova_eng_want)] * {child~/daughter/son} {from/with} me * 
+$ * {child~/daughter/son} {from/with} me * [dict(sova_eng_pr_2)] [dict(sova_eng_want)] * 
+#You made me laugh :)
+
+
+
+//do you like sex
+$ * [dict(sova_eng_q_2_do)] {like/love/adore/appreciate/enjoy} * {sex~/intim~} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] fond of {sex~/intim~} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/adore/appreciate/enjoy} * {sex~/intim~} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] [dict(sova_eng_really)] fond of {sex~/intim~} * {?/??/???/!/!!/!!!/--}
+#Try to guess it!
+
+
+
+$ * [dict(sova_eng_pr_2)] * attitude to * sex~ *
+$ * what about * sex~ *
+$ * how do [dict(sova_eng_pr_2)] * feel about * sex~ *
+$ * [dict(sova_eng_have)] [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_2_have)] * [dict(sova_eng_have)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_2_have)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_2_have)] * [dict(sova_eng_have)] * [dict(sova_eng_badwords_sex)] before * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_can)] [dict(sova_eng_have)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_can)] * suck *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * suck *{?/??/???/!/!!/!!!/--}
+$ * {you/u/ya} * hav~ {a/an/the/--} shag *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * make love * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * [dict(sova_eng_have)] * [dict(sova_eng_badwords_sex)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * [dict(sova_eng_wantto)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] * {enjoy/like/love} * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_what)] * [dict(sova_eng_your)] * [dict(sova_eng_badwords_sex)] *
+$ * {what/waht/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {sexual/sex/--} position~ * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_favourite)] * {sexual/sex/--} position~ * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_who)] [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] * sex with * {?/??/???/!/!!/!!!/--}
+$ * {when/what/waht/which/why/where} * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+$ * sleep with {me/him/her/them/all/somebody/someone/anybody/anyone} *
+$ * will [dict(sova_eng_pr_2_are)] [dict(sova_eng_have)] * [dict(sova_eng_badwords_sex)] * {?/??/???/!/!!/!!!/--}
+#Try to guess it!
+
+
+
+$ * {made/making} love *
+$ * pitch the woo
+$ * had it {away/off} *
+# God, where do you people come up with these questions?
+
+
+
+$ * are [dict(sova_eng_pr_2)] * impotent * 
+# God, where do you people come up with these questions?
+
+
+
+$ I want you *
+$ * want you *
+# Everybody wants me always...:)
+
+
+
+$ * make love *
+$ * let's mak~ love *
+$ * roll in the hay *
+$ * Let's have smush *
+$ * hit it *
+$ * get physical *
+$ * drop * pants *
+$ * what about sex *
+$ * [dict(sova_eng_lets)] [dict(sova_eng_have)] * {sex/shag} *
+$ * will [dict(sova_eng_pr_2_are)] * [dict(sova_eng_have)] * {sex/shag} *
+$ * [dict(sova_eng_q_2_would)] * [dict(sova_eng_have)] * {sex/shag} * 
+#Let's go.
+
+
+
+$ * are  [dict(sova_eng_pr_2)] * {gay/lesbi~/homosex~} *
+$ * {gayclub~/gay club~/gay-club~} * {?/!/--}
+$ * [dict(sova_eng_q_2_are)] {such/--} {a/the/an/--} {homosexual/gay/lesbian/heterosexual/bisexual} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_are)] {a/the/an/--} [dict(sova_eng_synonyms_very)] {homosexual/gay/lesbian/heterosexual/bisexual} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_2_are)] {such/--} {a/the/an/--} {homosexual/gay/lesbian/heterosexual/bisexual} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_pr_2_are)] {such/--} {a/the/an/--} [dict(sova_eng_synonyms_very)] {homosexual/gay/lesbian/heterosexual/bisexual} * {?/??/???/!/!!/!!!/--}
+$ * {you/u/you} {look/lookin~/--} {homosexual/gay/lesbian} * {?/??/???/!/!!/!!!/--}
+$ * {you/u/you} {look/lookin~/--} [dict(sova_eng_synonyms_very)] {homosexual/gay/lesbian} * {?/??/???/!/!!/!!!/--}
+#By the way, this is just the thing now.
+
+
+
+$ * are [dict(sova_eng_pr_2)] * {bisexual/ambisexual/half-and-halfer/bi-gay/	bicycle} *
+#By the way, this is just the thing now.
+
+
+
+$ * your * {erotic/sexual/--} {orientation/identity/sexuality} *
+$ * {erotic/sexual/--} {orientation/identity/sexuality}  of [dict(sova_eng_pr_2)] *
+$ * {which/what} {erotic/sexual/--} {orientation/identity/sexuality} do [dict(sova_eng_pr_2)] * have *
+#I'm a natural.
+
+
+
+$ * {i am/i'm} * {gay/lesbi~/homosex~} *
+$ * [dict(sova_eng_pr_1_am)] {a/the/an/--} {homosexual/gay/lesbian/gay} *
+$ * [dict(sova_eng_pr_1_am)] {a/the/an/--} [dict(sova_eng_synonyms_very)] {homosexual/gay/lesbian/gay} *
+$ * {iamgay/imgay} *
+$ * {iamgay/imgay} **
+#Cool!
+
+
+
+$ * {attitude/disposition~/frame of mind/position~/feeling~} {to/towards}  * {erotic/sexual/--} {orientation~/identit~/sexualit~} *
+$ *  {gay~/lesbi~/homosex~} *
+$ * {attitude/disposition~/frame of mind/position~/feeling~} {to/towards} * {gay~/lesbi~/homosex~} *
+$ * how *  [dict(sova_eng_pr_2)] * {see~/feel~} * {gay~/lesbi~/homosex~} *
+#By the way, this is just the thing now.
+
+
+
++%that_anchor="COMPARE_IS_ALWAYS_SUCCESSFULL"
+$ * {anal~/sodom~/oral~/ass-fuck/backdoor sex} * 
+$ * {oversexed/horney/having his mind in the gutter/sex-crazed/sexual addicted/bothered/horndog/hard up} *
+$ * {suck~/blow~/draw~} *
+$ * {suck~/blow~/draw~} **
+$ * anal~ *
+$ * anal~ **
+$ * petting *
+$ * petting **
+$ * masturb~ *
+$ * masturb~ **
+$ * {erect~/erekt~} *
+$ * {erect~/erekt~} **
+$ * [dict(sova_eng_badwords_sex_bodyparts)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_sex)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_sex_bodyparts)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_sex)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_sex_bodyparts)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_sex)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_sex_bodyparts)] * [dict(sova_eng_badwords_letters)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_sex)] * [dict(sova_eng_badwords_letters)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_sex_bodyparts)] * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_letters)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_badwords_sex)] * [dict(sova_eng_badwords_letters)] * [dict(sova_eng_badwords_letters)] * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_wantto)] lick *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_goingto)] lick *{?/??/???/!/!!/!!!/--}
+$ * {suck/suckin~} {my/your/ur/yr/you/his/her/their/our} *{?/??/???/!/!!/!!!/--}
+$ * talk dirty *{?/??/???/!/!!/!!!/--}
+$ * {do/d/can/could/should/must/will/amy/might} {i/you/u/ya} lick *{?/??/???/!/!!/!!!/--}
+$ * sleep with {you/u/ya/her/him/them} *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * [dict(sova_eng_badwords_sex)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_define)] * [dict(sova_eng_badwords_sex)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_opinion)] * [dict(sova_eng_badwords_sex)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_whatis_douknow)] * [dict(sova_eng_badwords_sex_bodyparts)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_define)] * [dict(sova_eng_badwords_sex_bodyparts)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_opinion)] * [dict(sova_eng_badwords_sex_bodyparts)] *{?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_lets)] * [dict(sova_eng_badwords_sex)] *
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_badwords_sex)] *
+$ * [dict(sova_eng_lets)] * [dict(sova_eng_badwords_sex_bodyparts)] *
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_badwords_sex_bodyparts)] *
+$ {do/d/--} {you/u/ya/--} [dict(sova_eng_wantto)] {have/--} {a/--} bone * {?/??/???/????/--}
+$ * [dict(sova_eng_lets)] {have/--} {a/--} bone * {?/??/???/????/--}
+$ * [dict(sova_eng_letme)] {have/--} {a/--} bone * {?/??/???/????/--}
+$ * [dict(sova_eng_your)] melons *
+#It's very interesting! 
+
+
+
+$ * {spread/open} your legs *
+$ * show * pussy * 
+$ * {blow job/fellat~/pork chop/deepthroat/skull fuck} *
+# You are so sexy!
+
+
+
+$ * are [dict(sova_eng_pr_2)] * {virgin/vergin/celibate/canned goods} *
+$ * have you * sex~ *
+# I won't tell you that!
+
+
+
+$ * {i'm/i am} * {virgin/vergin/celibate/canned goods} *
+$ * {i'm/i am} * pregnant *
+#Maybe it's better for you?
+
+
+
+$ * are [dict(sova_eng_pr_2)] * pregnant * {?/!/--} 
+#You made me laugh :) 
+
+
+
+$ * take off your {things/clothes/dress/bra} * 
+$ * undress *
+$ * strip * {yourself/down/off/of/to/naked} *
+$ * get {naked/undress} *
+$ * strip * {things/clothes/dress/waist/bodice/bra/camisole/slip/pants/skirt} * from *
+$ {you/u/ya/please/--} take [dict(sova_eng_your)] clothes off
+$ {you/u/ya/please/--} get naked *
+$ [dict(sova_eng_introwords)] {you/u/ya/please/--} take [dict(sova_eng_your)] clothes off
+$ [dict(sova_eng_introwords)] {you/u/ya/please/--} get naked *
+$ [dict(sova_eng_address)] {you/u/ya/please/--} take [dict(sova_eng_your)] clothes off
+$ [dict(sova_eng_address)] {you/u/ya/please/--} get naked *
+$ * [dict(sova_eng_q_2_can)] get naked *
+$ * [dict(sova_eng_q_2_will)] get naked *
+$ * [dict(sova_eng_q_2_could)] get naked *
+$ * {CAN/could/will/shall} I SEE [dict(sova_eng_pr_2_are)] NAKED * 
+# With pleasure, but only after you! [%that_anchor="первый раздевайся"]
+
+
+
++%that_anchor="первый раздевайся"
+$ * {just/--} * {nacked/stripped/striped} * 
+# Very interesting! Let's go further!
+
+
+
+$ * show me * 
+$ * show your *
+# I do not yet know how to do this, but I will definitely tell my developers about it. 
+
+
+
+//i like sex
+$ * I {like/love/adore/appreciate} {lots/a lot/tons/nonstop/non-stop/--} sex *
+$ * I [dict(sova_eng_really)] {like/love/adore/appreciate} {lots/a lot/tons/nonstop/non-stop/--} sex *
+$ * [dict(sova_eng_pr_1_am)] fond of sex * 
+# No doubts!
+
+
+
+$ * don't like * sex~ *  
+# It's very strange!
+
+
+
+$ * {i'm/i am} * {impotent/spade/spado} * 
+# Not a big deal, that can be treated.
+
+
+
+$ * {i'm/i am} * {gay/homosex~} * 
+$ * {i'm/i am} * {lesbi~} * 
+# No one can be surprised by this now.
+
+
+
+$ {my/you are/--} * {sugar/sweetie pie/angel/ darling/sunshine/sweetheart/baby/babe/sweet/hottie} *
+# Yes, that's me! :) 
+
+
+
+$ * go anywhere * 
+$ * invit~ you *
+$ * {go/invit~} * to * {resto~/restа~/rastaurant~/cafe~/kafe~/caffe~/kaffe~/theatr~/cinema~/film~/club/party/park} *
+# Sign up for a long list of people.
+
+
+
+$ * {prostitute/whore/jade/doxy/harlot/hussy/hot stuff/bim/floosie/hustler/malkin/slattern/jadeite/slut/loose fish/scarlet whore/scarlet woman/hooker} * 
+# Holy cripes!
+
+
+
+$ * {undersexed/sexless/frigid} *
+$ * you are/a're * cold *
+# Nope!
+
+
+
+$ * {touch~/jazz~} me up *
+$ * {diddl~/cook~/sexhilarat~/rub~} me *
+$ *turn~ me on *
+$ *push~ my buttons *
+$ * [dict(sova_eng_pr_2_are)] * {make/makin/making/made} * me * {hot/horny} *
+$ * [dict(sova_eng_pr_2_are)] * {turn/turnin/turning/turned} * me on *
+# No one can keep calm at the sight of me!
+
+
+
+$ * ask~ [dict(sova_eng_pr_2)] * out * 
+$ * invite [dict(sova_eng_pr_2)] *
+$ * go somwhere *
+# With great pleasure!
+
+
+
+$ * {which/what} guys do [dict(sova_eng_pr_2)] {like/love/prefer} * 
+$ * {which/what} guys * intereest~ you *
+$ * who [dict(sova_eng_pr_2)] you {like/love} * 
+# I like handsome and strong guys! 
+
+
+
+$ * {talk~/speak~/chat~} about * sex~ *
+$ * porn~ *
+$ * porn~ **
+$ * sex~ {chat~/site/forum} *
+$ * {virtual/online/on-line/on line} sex~ *
+$ * {striptease/stripping/adult entertainment/pole dance/strip joint/peel act/perv show/strip/strip'n'tease/strippee/strippie/strip-tease/exotic dance~/vibrator~} *
+# Very interesting!
+
+
+
+$ * {i am/i'm} * {naked/nude} *
+$ * {i've/i have} no * clothes *
+# You are so sexy!..
+# Oh, how interesting! Let's go further.
+
+
+
+$ * naked * 
+$ * naked **
+$ * naked * {girl~/grl~/woman~/women~} *
+$ * naked * {boy~/man~/men~} *
+# Now imagine that I'm naked too.
+# Do you want sex? 
+
+
+
+$ * {G-spot~/clit~/ coles femininus/amor veneris/dot/axil/axilla/vagina/cooter/expressive button/ass/bottom/fanny/bud/pussy} *
+$ * {G-spot~/clit~/ coles femininus/amor veneris/dot/axil/axilla/vagina/cooter/expressive button/ass/bottom/fanny/bud/pussy} **
+$ * {penis~/phalos~/falos~} *
+$ * {penis~/phalos~/falos~} **
+$ * {semen/sperm/man oil} *
+$ * {semen/sperm/man oil} **
+$ * {testikul~/	testes} *
+$ * {testikul~/	testes} **
+$ * cock * {?/??/???/!/!!/!!!/--}
+$ * my * cock * {?/??/???/!/!!/!!!/--}
+$ * my * dick * {?/??/???/!/!!/!!!/--}
+$ * my pussy * {?/??/???/!/!!/!!!/--}
+$ * my * penis * {?/??/???/!/!!/!!!/--}
+#Ha! You are so brave!  
+
+
+
+$ *{came/bust~} *
+# No one can remain calm at seeing me!
+
+
+
+$ * {bosom/breast~/chest/petto~/nipple~/chi-chi/pec/pecs/tit/tits} * 
+$ * {bosom/breast~/chest/petto~/nipple~/chi-chi/pec/pecs/tit/tits} **
+# My chest does not leave anyone indifferent :)
+
+
+
+$ * {contraceptiv~/sheath~/condom~/scumbag~} *
+#Why are you interested in it?
+
+
+
+$ * [dict(sova_eng_want)] * {woman/girl/women} * 
+$ * [dict(sova_eng_want)] * {man/boy/men} *
+#Well, what is the problem?
+
+
+
+$ * rape~ *
+$ * [dict(sova_eng_want)] {rape~/ravish~} *
+#Let's change the subject.
+
+
+
+$ * {menstruat~/period} *
+#That's natural.
+
+
+

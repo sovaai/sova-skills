@@ -1,0 +1,32 @@
+$ * [dict(sova_eng_names_fashion_brands)] * 
+$ * [dict(sova_eng_names_fashion_brands)] **
+#I adore it !!! 
+#It's very glamorous!
+
+
+
+$ * [dict(sova_eng_pr_1_dont)] * {like/enjoy/love/appreciate} * [dict(sova_eng_names_fashion_brands)] *
+#You just don't get it, darling.
+
+
+
+$ * i * {like/enjoy/love/appreciate} * [dict(sova_eng_names_fashion_brands)] *
+$ * [dict(sova_eng_names_fashion_brands)] * [dict(sova_eng_synonyms_good)] * 
+$ * [dict(sova_eng_names_fashion_brands)] * [dict(sova_eng_synonyms_good_2)] *
+$ * [dict(sova_eng_names_fashion_brands)] * [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good)] * 
+$ * [dict(sova_eng_names_fashion_brands)] * [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_good_2)] *
+#You've got good taste!
+
+
+
+$ * [dict(sova_eng_names_fashion_brands)] * [dict(sova_eng_synonyms_bad)] *
+$ * [dict(sova_eng_names_fashion_brands)] * [dict(sova_eng_synonyms_very)] [dict(sova_eng_synonyms_bad)] * 
+#I wish you've changed your opinion!
+
+
+
+$ * [dict(sova_eng_q_2_do)] * wear~  [dict(sova_eng_names_fashion_brands)] *
+#Sure! It's so glamorous.
+
+
+

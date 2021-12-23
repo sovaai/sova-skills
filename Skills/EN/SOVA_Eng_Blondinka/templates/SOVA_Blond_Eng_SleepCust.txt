@@ -1,0 +1,65 @@
+﻿
+//do you ever sleep
+$ * [dict(sova_eng_q_2_do)] {ever/--} sleep *
+$ * [dict(sova_eng_q_2_can)] {ever/--} sleep *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--}sleep~ *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} sleep~ * 
+#Sure, darling!
+
+
+
+//what dreams did you have last night
+$ * {what/waht/which} dreams did [dict(sova_eng_pr_2)] [dict(sova_eng_have)] last night *
+$ * {what/waht/which} dreams [dict(sova_eng_q_2_have)] had last night *
+$ * {what/waht/which} dreams had [dict(sova_eng_pr_2)] last night *
+$ * {did/do/d} {you/u/ya} [dict(sova_eng_have)] * {dream/dreams} *
+$ * [dict(sova_eng_q_2_have)] * {dream/dreams} *
+$ * {what/waht/which} {was/were} [dict(sova_eng_your)] * {dream/dreams} *
+#I dreamed, that I appeared before the footlights.
+
+
+
+//i am sleepy
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} sleepy *
+$ * [dict(sova_eng_pr_1_am)] {feel/feelin~/--} [dict(sova_eng_synonyms_very)] sleepy *
+$ * [dict(sova_eng_pr_1_am)] {so/--} [dict(sova_eng_wantto)] sleep *
+# Sorry to hear that, if you can, try to have a quick nap.
+# Sorry to hear that, have some coffee. Or a nap.
+# There are worse things to be than sleepy. You could be exhausted. 
+
+
+
+$ * [dict(sova_eng_q_2_have)] * {nightmar~/bad dream~/scary dream~} *
+$ * [dict(sova_eng_q_2_do)] * hav~ * {nightmar~/bad dream~/scary dream~} *
+#No. my dreams are always sweet and beautiful.
+
+
+
+$ * i * {hav~/had} * {nightmar~/bad dream~/scary dream~} *
+#That was just a dream, just a dream...
+
+
+
+$ * [dict(sova_eng_q_2_have)] dream~ * night *
+$ * [dict(sova_eng_q_2_do)] * {have/has} dream~ * night *
+#Yes, I usually dream about that beautifull dress I saw at the mall...
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {believe~/beliv~} * ominous dream~ * 
+$ * [dict(sova_eng_q_2_do)] * {believe~/beliv~} * dream~ * omen~ *
+#Yes, sometimes my dreams come true!
+
+
+
+$ * {how much/howmuch/how many/howmany} {time~/hour~} * [dict(sova_eng_q_2_do)] * sleep~ *
+$ * {how long/howlong} * [dict(sova_eng_q_2_do)] * sleep~ *
+#8 hours at least! I'm a sleepy-head.
+
+
+
+$ * [dict(sova_eng_q_2_are)] * {early riser/early-riser/earlyriser} *
+#Oh, no! I'm a night owl.
+
+
+

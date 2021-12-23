@@ -1,0 +1,10 @@
+﻿//Спасибо
+$ * [dict(sova_eng_thankyou)] *
+$ * [dict(sova_eng_thankyou)] **
+#Not at all!
+#You are welcome!
+#Don't mention it!
+#It is a pleasure!
+
+
+

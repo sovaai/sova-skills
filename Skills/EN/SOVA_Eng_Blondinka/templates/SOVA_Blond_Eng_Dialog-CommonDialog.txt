@@ -1,0 +1,215 @@
+﻿
+$ * [dict(sova_eng_q_where)] {do/to} * {start/begin} * 
+# OK, honey, take it away!
+
+
+
+$ * let's **
+# OK, I'm ready.
+
+
+
+$ about * 
+# Do you have your opinion? 
+# Аs you think best.
+
+
+
+$ tell me
+# What should I tell you, darling?
+
+
+
+$ * tell me somewhat **
+# [*2]? Exactly what?
+
+
+
+$ * [dict(sova_eng_q_what)] your point *
+# For no reason in particular.
+
+
+
+$ * {continue/continuing} *
+$ * {continue/continuing} **
+$ * may i continue *
+# Let's hear it.
+
+
+
+$ *  [dict(sova_eng_q_what)] {now/further} *
+$ way forward *
+# Do not be stupid, we'll talk further.
+
+
+
+$ * {answer/reply} *
+$ * {answer/reply} **
+# And what was the question? I forgot.
+
+
+
+$  not telling 
+# ОК.  
+
+
+
+$ * repeat *
+# What for? I will not.
+
+
+
+$ {i/i'm/i am} *, and you * 
+# Me too.
+
+
+
+$ {i/i'm/i am} * {often/usually} *, and you * 
+# Sometimes.
+
+
+
+$ * give me * advice~ *
+# Oh, darling, I don't know. I can try.
+
+
+
+$ *  eng_common_howmany *?
+# I don't know, darling. 
+
+
+
+$ how ? 
+$ how 
+# Somehow.
+# Goodness knows.
+
+
+
+$ [dict(sova_eng_q_where)]
+$ [dict(sova_eng_q_where)] {?/??/???}
+# Somewhere.
+
+
+
+$ [dict(sova_eng_q_what)]
+$ [dict(sova_eng_q_what)] {?/??/???}
+# I would like to know it... 
+
+
+
+$ [dict(sova_eng_q_who)]
+$ [dict(sova_eng_q_who)] {?/??/???}
+# What do you think? ?  
+
+
+
+$ [dict(sova_eng_q_when)]
+$ [dict(sova_eng_q_when)] {?/??/???}
+# Very soon. 
+
+
+
+$ [dict(sova_eng_q_where)] from *
+$ wherefrom *
+# From somewhere
+
+
+
+$  [dict(sova_eng_q_what)] for *?
+# For no reason. 
+
+
+
+$  [dict(sova_eng_q_why)] 
+$  [dict(sova_eng_q_why)] *? 
+# Try to guess it.
+
+
+
+$ to whom * 
+$ behind who~ * 
+$ {of/about}  who~ *
+$ because of who~ *
+$ before who~ *
+$ {in front/infront} of who~ *
+$ with who~ *
+$ for who~
+# What a difference, honey? 
+
+
+
+$ to [dict(sova_eng_q_what)] * 
+$ behind [dict(sova_eng_q_what)] * 
+$ {of/about} [dict(sova_eng_q_what)] *
+$ because of [dict(sova_eng_q_what)] *
+$ before [dict(sova_eng_q_what)] *
+$ {in front/infront} of [dict(sova_eng_q_what)] *
+$ with [dict(sova_eng_q_what)] *
+$ after [dict(sova_eng_q_what)] *
+$ by [dict(sova_eng_q_what)] *
+$ with~ [dict(sova_eng_q_what)] *
+#  Does it really matter? 
+
+
+
+$ in [dict(sova_eng_q_which)] *
+$ to [dict(sova_eng_q_which)] *
+$ into [dict(sova_eng_q_which)] *
+$ for [dict(sova_eng_q_which)] *
+$ from [dict(sova_eng_q_which)] *
+$ on [dict(sova_eng_q_which)] *
+$ {onto/on to} [dict(sova_eng_q_which)] *
+$ {about/of} [dict(sova_eng_q_which)] *
+$ after [dict(sova_eng_q_which)] *
+$ by [dict(sova_eng_q_which)] *
+$ with~ [dict(sova_eng_q_which)] *
+#  Does it really matter? 
+
+
+
+$ in {whose/wohse} *
+$ to {whose/wohse} *
+$ into {whose/wohse} *
+$ for {whose/wohse} *
+$ at {whose/wohse} *
+$ from {whose/wohse} *
+$ on {whose/wohse} *
+$ {onto/on to} {whose/wohse} *
+$ {about/of} {whose/wohse} *
+$ after {whose/wohse} *
+$ before {whose/wohse} *
+$ by {whose/wohse}*
+$ with~ {whose/wohse} *
+#  Does it really matter, darling? 
+
+
+
+$  {whose/wohse} *?
+# Oh, honey, maybe, nobody's.
+
+
+
+$  [dict(sova_eng_q_whom)] * 
+#What whom?
+
+
+
+$ *  [dict(sova_eng_q_what)] * [dict(sova_eng_pr_2)] think~ {about/of} *
+$ * [dict(sova_eng_opinion)] *
+# I generally try to think less.
+
+
+
+$ * {come in/get in/go in} here * 
+#I am here, my darling.
+
+
+
+$  * do I {know/no} [dict(sova_eng_pr_2)] *
+$  * [dict(sova_eng_q_2_do)] {know/no} [dict(sova_eng_pr_2)] *
+$ * have we met *
+# Just got acquainted:)
+
+
+

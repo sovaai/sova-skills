@@ -1,0 +1,105 @@
+Adium~
+AOL Instant Messenger
+AIM
+aMSN
+A-Talk
+Ayttm
+BitWise IM
+BitlBee
+Brosix
+Centericq
+climm
+Coccinella
+Cspace
+Digsby
+eBuddy~
+EQO~
+emesene~
+Fring~
+Gizmo5
+Gabtastik
+Gadu-Gadu
+Gajim
+GCN
+GOIM
+Google Talk
+googletalk
+gtalk
+Gyachi
+iChat
+IBM Lotus Sametime
+ICQ~
+IMVU
+InSpeak Communicator
+Instantbird
+Jabbin
+Kadu
+KMess
+Konnekt~
+Kopete~
+Licq~
+Mail.ru Agent~
+mailru agent~
+magent~
+MCabber~
+MECA Messenger~
+meebo~
+Meetro~
+Mercury Messenger~
+MindSpring~
+Miranda IM~
+MySpaceIM~
+Mundu IM~
+MXit~
+Naim
+Ometheus
+Omegler
+QuteCom
+Pandion
+Palringo
+Paltalk
+Pidgin
+Gaim
+PopNote
+Proteus
+psyced
+QIP~
+Qnext
+qutIM
+Tencent QQ
+RealTimeQuery
+Scrapboy
+Sim-IM
+Solixa
+Trillian
+Trillian Pro
+Trillian Astra
+VZOchat
+Windows Live Messenger
+MSN Messenger
+Windows Messenger
+Microsoft Office Communicator
+Xfire
+Yahoo! Messenger
+Yahoo Messenger
+XMPP
+Zephyr
+Sococo
+
+whatsap~
+whats ap~
+
+facebook messenger~
+fasebook messenger~
+facebook mesenger~
+
+viber~
+vyber~
+wiber~
+
+
+
+
+
+
+

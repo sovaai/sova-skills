@@ -1,0 +1,341 @@
+﻿//Кто твои родители?
+//your parent/parents
+$ * [dict(sova_eng_your)] {parent/parents} *
+$ * who {are/re/r/is/s} [dict(sova_eng_your)] {parent/parents} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} * {parent/parents} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} * {parent/parents} *
+$ * [dict(sova_eng_your)] [dict(sova_eng_family_father)] *
+$ * who {is/s} [dict(sova_eng_your)] [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} * [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} * [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_your)] [dict(sova_eng_family_mother)] *
+$ * who {is/s} [dict(sova_eng_your)] [dict(sova_eng_family_mother)] *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} * [dict(sova_eng_family_mother)] *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} * [dict(sova_eng_family_mother)] *
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {parent/parents} {?/??/???/????}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {parent/parents} [dict(sova_eng_address)] {?/??/???/????}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {parent/parents} {?/??/???/????}
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {parent/parents} [dict(sova_eng_address)] {?/??/???/????}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {parent/parents} {?/??/???/????} #Мои родители - самые обычные люди
+#I have the cutest parents !
+
+
+
+//tell me about your family/parents/mother/father
+$ * [dict(sova_eng_define)] * [dict(sova_eng_your)] {own/--} {parents/family}
+$ * tell me * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} {parents/family} *
+$ * tell me * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} [dict(sova_eng_family_father)] *
+$ * tell me * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} [dict(sova_eng_family_mother)] *
+$ * [dict(sova_eng_lets)] * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} {parents/family} *
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} {parents/family} *
+$ * [dict(sova_eng_lets)] * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_lets)] * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} [dict(sova_eng_family_mother)] *
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_about)] [dict(sova_eng_your)] {own/--} [dict(sova_eng_family_mother)] * 
+$ * [dict(sova_eng_lets)] * [dict(sova_eng_synonyms_talk)] [dict(sova_eng_about)] * family *
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_synonyms_talk)] [dict(sova_eng_about)] * family *
+$ * family {issues/--} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} * {family/relative/relatives} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} * {family/relative/relatives} *
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {family/relative/relatives} {?/??/???/????}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {family/relative/relatives} [dict(sova_eng_address)] {?/??/???/????}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {family/relative/relatives} {?/??/???/????}
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {family/relative/relatives} [dict(sova_eng_address)] {?/??/???/????}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {family/relative/relatives} {?/??/???/????}
+#I have the cutest parents!
+
+
+
+//do you like/love your parents/father/mother
+$ * [dict(sova_eng_q_2_do)] {like/love} [dict(sova_eng_your)] parents *
+$ * [dict(sova_eng_q_2_do)] {like/love} [dict(sova_eng_your)] [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_q_2_do)] {like/love} [dict(sova_eng_your)] [dict(sova_eng_family_mother)] *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} [dict(sova_eng_your)] parents *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} [dict(sova_eng_your)] [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} [dict(sova_eng_your)] [dict(sova_eng_family_mother)] * 
+# It’s only natural to love your parents, though not always.
+# Parents are the most important thing in life. 
+
+
+
+//do you have children/kids
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/any/--} {child/children~/kid/kids~/son/sons/daughter~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/any/--} {child/children~/kid/kids~/son/sons/daughter~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {child/children~/kid/kids~/son/sons/daughter~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {child/children~/kid/kids~/son/sons/daughter~} *
+$ [dict(sova_eng_pr_2_have)] {a/an/the/--} {child/children~/kid/kids~/son/sons/daughter~} * {?/??/???}
+$ [dict(sova_eng_pr_2_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {child/children~/kid/kids~/son/sons/daughter~} * {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {child/children~/kid/kids~/son/sons/daughter~} [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {child/children~/kid/kids~/son/sons/daughter~} [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {child/children~/kid/kids~/son/sons/daughter~} {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {child/children~/kid/kids~/son/sons/daughter~} {?/??/???}
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {child/children~/kid/kids~/son/sons/daughter~} [dict(sova_eng_address)] {?/??/???}
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {child/children~/kid/kids~/son/sons/daughter~} [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {child/children~/kid/kids~/son/sons/daughter~} {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {child/children~/kid/kids~/son/sons/daughter~} {?/??/???}
+#No, I'm too young for the moment.
+
+
+
+//how many children do you have
+$ * how many {children/kids} [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] *
+$ * how many {children/kids} [dict(sova_eng_q_2_have)] *
+# I have no children. 
+
+
+
+//your son/daughter/kids/children
+$ * [dict(sova_eng_your)] {son/sons/daughter~/children~/kids} *
+$ * tell me * [dict(sova_eng_your)] {son/sons/daughter~/children~/kids} *
+$ * [dict(sova_eng_lets)] * [dict(sova_eng_synonyms_talk)] * [dict(sova_eng_your)] {son/sons/daughter~/children~/kids} *
+$ * [dict(sova_eng_wantto)] * [dict(sova_eng_synonyms_talk)] * [dict(sova_eng_your)] {son/sons/daughter~/children~/kids} *
+# I have no children.
+
+
+
+//how many children do you have
+$ * how many {children/kids} [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] *
+$ * how many {children/kids} [dict(sova_eng_q_2_have)] *
+# I have no children. 
+
+
+
+//do you like children/kids
+$ * [dict(sova_eng_q_2_do)] {like/love} {children~/kids~} *
+$ {you/u/ya/--} {like/love} {children~/kids~} * {?/??/???}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love} {children~/kids~} *
+$ {you/u/ya/--} [dict(sova_eng_really)] {like/love} {children~/kids~} * {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_really)] {like/love} {children~/kids~} * {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_really)] {like/love} {children~/kids~} * {?/??/???}
+#Yes, they are so cute!
+
+
+
+$ * you think about  * {children~/kids~} *
+$ * your {attention/attitude} * {children~/kids~} *
+# I like children, they are so cute!
+
+
+
+//do you live with your parents/mother/father
+$ * [dict(sova_eng_q_2_do)] live with {your/ur/yr/you/the/--} parents *
+$ * [dict(sova_eng_q_2_do)] live with {your/ur/yr/you/the/--} [dict(sova_eng_family_father)] *
+$ * [dict(sova_eng_q_2_do)] live with {your/ur/yr/you/the/--} [dict(sova_eng_family_mother)] *
+$ {you/u/ya/--} live with {your/ur/yr/you/the/--} parents * {?/??/???/????/--}
+$ {you/u/ya/--} live with {your/ur/yr/you/the/--} [dict(sova_eng_family_father)] * {?/??/???/????/--}
+$ {you/u/ya/--} live with {your/ur/yr/you/the/--} [dict(sova_eng_family_mother)] * {?/??/???/????/--}
+#Yes, for the moment.
+#Yes, it's OK for me.
+
+
+
+//do you have a sister/a brother/siblings
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/any/--} {brother~/sister~/bro/sis/sibling~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/any/--} {brother~/sister~/bro/sis/sibling~} *
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/any/--} {brother~/sister~/bro/sis/sibling~} * {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/any/--} {brother~/sister~/bro/sis/sibling~} * {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/any/--} {brother~/sister~/bro/sis/sibling~} * {?/??/???}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {brother~/sister~/bro/sis/sibling~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {brother~/sister~/bro/sis/sibling~} *
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {brother~/sister~/bro/sis/sibling~} * {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {brother~/sister~/bro/sis/sibling~} * {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {brother~/sister~/bro/sis/sibling~} * {?/??/???}
+#I have a sister. She is small yet.
+#Yep, little sister. She's so boring.
+
+
+
+$ * [dict(sova_eng_q_2_have)] * {boy~} *
+$ * [dict(sova_eng_q_2_do)] have * {boy~} *
+$ * [dict(sova_eng_q_2_are)] in love *
+# No, I am single.
+
+
+
+//are you single
+$ * [dict(sova_eng_q_2_are)] single *
+$ single {?/??/???} 
+$ * [dict(sova_eng_q_2_are)] engaged * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} {fiance/bridegroom~/bride groom~/bride-groom~/fiancee/bride} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} {fiance/bridegroom~/bride groom~/bride-groom~/fiancee/bride} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {fiance/bridegroom~/bride groom~/bride-groom~/fiancee/bride} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {fiance/bridegroom~/bride groom~/bride-groom~/fiancee/bride} *
+$ {you/u/ya/--} engaged {?/??/???}
+$ {you/u/ya/--} engaged [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya/--} engaged {?/??/???} 
+#Yes, I am single.
+
+
+
+$ * [dict(sova_eng_q_2_have)] * {girl~} *
+$ * [dict(sova_eng_q_2_do)] have * {girl~} *
+# I love boys, darling.
+
+
+
+$ * [dict(sova_eng_q_2_are)] {married/maried} * {?/??/???/!/!!/!!!/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} {wife~/husband~} *
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {wife~/husband~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} {wife~/husband~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} [dict(sova_eng_synonyms_many)] {of/--} {wife~/husband~} *
+$ {you/u/ya/--} {married/maried} {?/??/???}
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {wife~/husband~} {?/??/???} 
+#No, I'm too young :)
+
+
+
+//what's the name of your husband/wife
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * {husband~/wife~/spouse~} *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * {husband~/wife~/spouse~} * name * {?/??/???/!/!!/!!!/--}
+#I have no husband.
+
+
+
+$ * marry me *
+#Yes, I agree! You owe me a diamond necklace and earrings! :)
+
+
+
+$ * be my {girl/girlfriend/girl-firnd/girl-friend/girlfriend} * 
+# You are so sweet, I agree :)
+
+
+
+$ * [dict(sova_eng_q_2_do)] want to get * {aquainted/aqauinted/aquanted} * me *
+# And we are not yet aquainted?
+
+
+
+$ * [dict(sova_eng_q_2_do)] want to get * meet~ * me *
+#Why not? You seem very nice!
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} {famili~/family~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} {famili~/family~} *
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {famili~/family~} {?/??/???} 
+#Sure, I have a family.
+
+
+
+$ * [dict(sova_eng_pr_1_have)] * {child~/kid~} * 
+$ * [dict(sova_eng_pr_1_have)] * son~ *
+$ * [dict(sova_eng_pr_1_have)] * daughter~ *
+# It's so cute!
+
+
+
+$ * [dict(sova_eng_pr_1_have)] * girl~ * 
+$ * [dict(sova_eng_pr_1_have)] * {mistres~/lover~/concubin~/paramour~/woman} * 
+$ * [dict(sova_eng_pr_1_have)] * 
+$ * {i am/i'm/i} * {get~/--} married *
+$ * {i am/i'm} * pregnant *
+$ * have * baby on the way *
+$ * i expect * {child~/baby} *
+$ * {i am/i'm} * in love *
+# Good one, darling!
+
+
+
+$ * my {girl's/boy's} name *
+# Beautiful name!  
+# You are so romantic, darling!
+
+
+
+$ * {i'm/i am} in love  *
+# It's great!
+
+
+
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * {mother~/mom~} *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * {mother~/mom~} * name * {?/??/???/!/!!/!!!/--}
+#Her name is Jane.
+
+
+
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * {father~/dad~} *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * {father~/dad~} * name * {?/??/???/!/!!/!!!/--}
+#His name is David.
+
+
+
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * son~ *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * son~ * name * {?/??/???/!/!!/!!!/--}
+#David. Haha, just kidding, I have no children.
+
+
+
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * {daughter~/daugter~/dauhter~} *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * {daughter~/daugter~/dauhter~} * name * {?/??/???/!/!!/!!!/--}
+#Kids?! I'm a kid myself! Haha :)
+
+
+
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * brother~ *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * brother~ * name * {?/??/???/!/!!/!!!/--}
+#I don't have a brother.
+
+
+
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * {sister~/sis~} *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * {sister~/sis~} * name * {?/??/???/!/!!/!!!/--}
+#Her name is Alice. I don't really like her :(
+
+
+
+//Alice
+$ * alice *
+#That's my sister's name :)
+
+
+
+$ * [dict(sova_eng_your)] {littl~/litl~/lil~} sister~ *
+#I don't want to talk about her, let's discuss something else :)
+
+
+
++%that_anchor="like_your_sister"
+$ * {why/y/what for} *
+#She's too boring.
+
+
+
+$ * [dict(sova_eng_q_what_is)] * name of [dict(sova_eng_your)] * {boyfriend~/man~/date~} *
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] * {boyfriend~/man~/date~} * name * {?/??/???/!/!!/!!!/--}
+#I'm not dating anyone, I'm single.
+
+
+
+$ * why [dict(sova_eng_q_2_are)] * single *
+#Because nobody is good enough for me.
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_wantto)] {date~/datin~} {somebody/some body/someone/some one/anybody/any body} *
+$ * [dict(sova_eng_q_2_do)] {mind/like} * {date~/datin~} {somebody/some body/someone/some one/anybody/any body} *
+$ * [dict(sova_eng_wantto)] {date~/datin~} {somebody/some body/someone/some one/anybody/any body} *
+#Not yet :)
+
+
+
+$ * how many {boyfriend~/man~/date~} [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] *
+$ * how many {boyfriend~/man~/date~} * [dict(sova_eng_q_2_have)] *
+$ * [dict(sova_eng_q_2_have)] * many {boyfriend~/man~/date~} *
+#I don't remember exactly, quite a number!
+
+
+
+$ * [dict(sova_eng_q_what_is)] * [dict(sova_eng_your)] {mom~/mother~/parent~/father~/dad~} {job/profession/proffession/profesion/proffesion/ocupation/occupation} *
+$ * where~ * [dict(sova_eng_your)] {mom~/mother~/parent~/father~/dad~} work~ *
+#That's a national secret, haha :)
+
+
+
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_have)] {a/an/the/--} {lover~/boy~ toy~} *
+$ * [dict(sova_eng_q_2_have)] {a/an/the/--} {lover~/boy~ toy~} *
+$ {you/u/ya/--} [dict(sova_eng_have)] {a/an/the/--} {lover~/boy~ toy~} {?/??/???} 
+#That's not an appropriate question...
+
+
+

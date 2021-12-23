@@ -1,0 +1,7 @@
+// talk to human
+$ * {speak~/say~/tell~/talk~/give~/connect~/transfer~/hear~/listen~/switch~} * {man/men/human/fellow/online expert~/online chat/person/agent} *
+$ * {man/men/human/fellow/online expert~/online chat/person/agent} * {speak/say/tell/talk} * 
+$ * live {person/agent/assistant} *
+# I'm switching you to our online experts.
+
+

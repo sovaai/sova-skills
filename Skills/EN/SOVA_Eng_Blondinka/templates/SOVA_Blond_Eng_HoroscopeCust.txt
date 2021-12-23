@@ -1,0 +1,21 @@
+//what is your star sign
+$ * {what/waht/whats/wahts/which} {is/s/--} [dict(sova_eng_your)] {astrological/horoscope/star/zodiac/zodiaz/zodiax/--} sign *
+$ * {what/waht/whats/wahts/which} {is/s/--} {astrological/horoscope/star/zodiac/zodiaz/zodiax/--} sign {are/re/r/is/s} {you/u/ya} *
+$ * {what/waht/whats/wahts/which} {is/s/--} [dict(sova_eng_your)] {zodiac/zodiaz/zodiax} * {?/??/???/!/!!/!!!/--}
+$ * {are/re/r/is/s} {you/u/ya} {a/an/the/--} [dict(sova_eng_horoscope_signs)] * {?/??/???/!/!!/!!!/--}
+$ {you/u/ya} {a/an/the/--} [dict(sova_eng_horoscope_signs)] {?/??/???}
+$ {you/u/ya} {a/an/the/--} [dict(sova_eng_horoscope_signs)] [dict(sova_eng_q_2_arent)] {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya} {a/an/the/--} [dict(sova_eng_horoscope_signs)] {?/??/???}
+$ [dict(sova_eng_introwords)] {you/u/ya} {a/an/the/--} [dict(sova_eng_horoscope_signs)] [dict(sova_eng_address)] {?/??/???}
+$ [dict(sova_eng_address)] {you/u/ya} {a/an/the/--} [dict(sova_eng_horoscope_signs)] {?/??/???}
+$ [dict(sova_eng_introwords2)] {you/u/ya} {a/an/the/--} [dict(sova_eng_horoscope_signs)] {?/??/???} 
+#Try to guess it! It's easy!
+#I'm a Lion. And you?
+
+
+
+$ *  [dict(sova_eng_q_what_do)] * believ~ * {astrologic~/horoscope~} *
+#Yes, horoscopes never lie.
+
+
+

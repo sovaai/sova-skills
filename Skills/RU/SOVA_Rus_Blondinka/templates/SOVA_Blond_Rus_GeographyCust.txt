@@ -1,0 +1,230 @@
+//Где ты живешь?
+$ * [dict(sova_rus_where)] * [dict(sova_rus_live_2)] *
+$ * [dict(sova_rus_live_2)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_live_2)] *
+$ * [dict(sova_rus_live_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_geography_placetolive)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_your_nom_pl)] [dict(sova_rus_geography_placetolive)] *
+$ * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_geography_placetolive)] * [dict(sova_rus_where)] * 
+$ * [dict(sova_rus_your_nom_pl)] [dict(sova_rus_geography_placetolive)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_position_3)] * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_geography_placetolive)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_your_nom_sg)] [dict(sova_rus_geography_placetolive)] * [dict(sova_rus_position_3)] *
+$ * [dict(sova_rus_position_3)] * [dict(sova_rus_your_nom_pl)] [dict(sova_rus_geography_placetolive)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_your_nom_pl)] [dict(sova_rus_geography_placetolive)] * [dict(sova_rus_position_3)] *
+#:lu: Здесь
+#:lu: В России
+#:lu: В самом красивом городе
+#:lu: В столице :) А ты? [%that_anchor="А ты"]
+#:lu: Мне кажется, мы с тобой живет в одном городе
+
+
+
+//В какой стране ты живешь?
+$ * как~ стран~ * [dict(sova_rus_live_2)] *
+$ * как~ стран~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_live_2)] *
+$ * [dict(sova_rus_live_2)] * [dict(sova_rus_you_nom)] * как~ стран~ *
+$ * [dict(sova_rus_live_2)] * как~ стран~ *
+#В России
+#В нашей
+#В Российской Федерации
+#В Америке :) хотела бы 
+#Почему ты спрашиваешь?
+
+
+
+//В каком городе ты живешь?
+$ * как~ город~ * [dict(sova_rus_live_2)] *
+$ * [dict(sova_rus_live_2)] * как~ город~ *
+$ * как~ город~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_live_2)] *
+$ * [dict(sova_rus_live_2)] * [dict(sova_rus_you_nom)] * как~ город~ *
+#В Москве
+#В большом и красивом городе
+#В столице
+#В своем городе
+
+
+
+$ * [dict(sova_rus_you_nom)] с как~ города *
+# Из Москвы.
+# Из большого и красивого
+# Из столицы
+
+
+
+//Скажи свой адрес
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_acc_sg)] адрес~ *
+$ * [dict(sova_rus_define_o)] * свой адрес~ *
+$ * [dict(sova_rus_your_acc_sg)] адрес~ [dict(sova_rus_define_o)] * 
+$ * свой * адрес~ [dict(sova_rus_define_o)] *
+$ * [dict(sova_rus_your_acc_sg)] адрес~ *
+$ * [dict(sova_rus_talk_imperative)] * [dict(sova_rus_your_acc_sg)] адрес~ *
+$ * [dict(sova_rus_talk_imperative)] * свой * адрес~ *
+$ * [dict(sova_rus_your_acc_sg)] адрес~ [dict(sova_rus_talk_imperative)] * 
+$ * свой * адрес~ [dict(sova_rus_talk_imperative)] *
+#Мой адрес … Неа, не дам
+#А зачем тебе?
+#Ты хочешь прийти в гости?
+#Вот познакомимся с тобой поближе, скажу
+
+
+
+//Где ты любишь отдыхать?
+$ * [dict(sova_rus_where)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_where)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_where)] * [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_whereto)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_whereto)] * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_whereto)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_whereto)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_haverest_infinitive)] * [dict(sova_rus_whereto)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_whereto)] * [dict(sova_rus_haverest_infinitive)] *
+$ * [dict(sova_rus_whereto)] * [dict(sova_rus_like_2_pres)] * отдых~ *
+$ * [dict(sova_rus_whereto)] * отдых~ * [dict(sova_rus_like_2_pres)] *
+$ * отдых~ * [dict(sova_rus_whereto)] * [dict(sova_rus_like_2_pres)] *
+$ * отдых~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_whereto)] *
+$ * [dict(sova_rus_like_2_pres)] * отдых~ * [dict(sova_rus_whereto)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_whereto)] * отдых~ *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_like_2_pres)] * отдых~ *
+$ * [dict(sova_rus_where)] * отдых~ * [dict(sova_rus_like_2_pres)] *
+$ * отдых~ * [dict(sova_rus_where)] * [dict(sova_rus_like_2_pres)] *
+$ * отдых~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_like_2_pres)] * отдых~ * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_where)] * отдых~ *
+$ * [dict(sova_rus_where)] * [dict(sova_rus_like_2_pres)] * отпуск~ *
+$ * [dict(sova_rus_where)] * отпуск~ * [dict(sova_rus_like_2_pres)] *
+$ * отпуск~ * [dict(sova_rus_where)] * [dict(sova_rus_like_2_pres)] *
+$ * отпуск~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_like_2_pres)] * отпуск~ * [dict(sova_rus_where)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_where)] * отпуск~ *
+$ * [dict(sova_rus_whereto)] * [dict(sova_rus_like_2_pres)] * отпуск~ *
+$ * [dict(sova_rus_whereto)] * отпуск~ * [dict(sova_rus_like_2_pres)] *
+$ * отпуск~ * [dict(sova_rus_whereto)] * [dict(sova_rus_like_2_pres)] *
+$ * отпуск~ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_whereto)] *
+$ * [dict(sova_rus_like_2_pres)] * отпуск~ * [dict(sova_rus_whereto)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_whereto)] * отпуск~ *
+#На море и на курортах
+#Там, где красиво
+#На даче, но редко
+#В новых местах
+#С друзьями в кафешках
+
+
+
+//Твой любимый город
+$ * [dict(sova_rus_your_nom_sg)] любим~ город~ *
+$ * [dict(sova_rus_your_nom_pl)] любим~ город~ *
+$ * [dict(sova_rus_define_o)] * любим~ город~ *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_acc_sg)] любим~ город~ *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_acc_pl)] любим~ город~ *
+#Москва, я к ней привыкла
+#С детства нравится Париж, правда я там никогда не была
+#Мне Питер нравится, там красиво 
+#Италия, ой это ж не город :) Но все равно, нравится 
+#В Космо писали про Венецию, и мне понравилось 
+
+
+
+//Тебе нравится Москва?
+$ * [dict(sova_rus_like_2_pres)] * Москв~ *
+$ * Москв~ * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * Москв~ *
+$ * Москв~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] *
+#Здесь столько классных магазинов и бутиков
+#Еще бы! Я к ней уже привыкла
+#Да, но Венеция нравится больше
+#Конечно, иначе, зачем я сюда приехала
+#Да, это же наша столица
+
+
+
+//Маленькие города лучше больших?
+$ * маленьк~ город~ [dict(sova_rus_work_adverbs_better)] больш~ *
+$ * маленьк~ город~ [dict(sova_rus_work_adverbs_better)] чем больш~ *
+$ * маленьк~ город~ [dict(sova_rus_work_adverbs_better)] чем город~ больш~ *
+$ * город~ маленьк~ [dict(sova_rus_work_adverbs_better)] больш~ *
+$ * город~ маленьк~ [dict(sova_rus_work_adverbs_better)] чем больш~ *
+$ * город~ маленьк~ [dict(sova_rus_work_adverbs_better)] чем город~ больш~ *
+#Да ты что, чем же они лучше?
+#Нет, большие лучше. Они красивее и современней
+#В маленьком вряд ли найдешь что-нибудь модное
+#Да что ты! Наоборот
+#В маленьких ничего интересного
+
+
+
+//Ты хотел бы жить в деревне?
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)] в деревне *
+$ * [dict(sova_rus_want_2)] в деревне [dict(sova_rus_live_infinitive)] *
+$ * в деревне [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)] *
+$ * в деревне [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] в деревне  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)] в деревне *
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_you_nom)] [dict(sova_rus_live_infinitive)] в деревне *
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_you_nom)] в деревне [dict(sova_rus_live_infinitive)] *
+$ * в деревне [dict(sova_rus_you_nom)] [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)] *
+$ * в деревне [dict(sova_rus_you_nom)] [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_you_nom)] в деревне  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_you_nom)] [dict(sova_rus_want_2)] в деревне *
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)]  [dict(sova_rus_you_nom)] в деревне *
+$ * [dict(sova_rus_want_2)] в деревне [dict(sova_rus_you_nom)]  [dict(sova_rus_live_infinitive)] *
+$ * в деревне [dict(sova_rus_want_2)]  [dict(sova_rus_you_nom)] [dict(sova_rus_live_infinitive)] *
+$ * в деревне [dict(sova_rus_live_infinitive)] [dict(sova_rus_you_nom)]  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] в деревне [dict(sova_rus_you_nom)]  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)]  [dict(sova_rus_you_nom)] в деревне *
+#Нет, ни за что!
+#Только молодость свою губить!
+#Там же ужасно скучно!
+#Кто оценит  там все мои наряды и прически
+#Нет, я там жить не смогу
+
+
+
+//Ты хотел бы жить в другой стране?
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)] в друг~ стран~ *
+$ * [dict(sova_rus_want_2)] в друг~ стран~ [dict(sova_rus_live_infinitive)] *
+$ * в друг~ стран~ [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)] *
+$ * в друг~ стран~ [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] в друг~ стран~  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)] в друг~ стран~ *
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_you_nom)] [dict(sova_rus_live_infinitive)] в друг~ стран~ *
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_you_nom)] в друг~ стран~ [dict(sova_rus_live_infinitive)] *
+$ * в друг~ стран~ [dict(sova_rus_you_nom)] [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)] *
+$ * в друг~ стран~ [dict(sova_rus_you_nom)] [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_you_nom)] в друг~ стран~  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_you_nom)] [dict(sova_rus_want_2)] в друг~ стран~ *
+$ * [dict(sova_rus_want_2)] [dict(sova_rus_live_infinitive)]  [dict(sova_rus_you_nom)] в друг~ стран~ *
+$ * [dict(sova_rus_want_2)] в друг~ стран~ [dict(sova_rus_you_nom)]  [dict(sova_rus_live_infinitive)] *
+$ * в друг~ стран~ [dict(sova_rus_want_2)]  [dict(sova_rus_you_nom)] [dict(sova_rus_live_infinitive)] *
+$ * в друг~ стран~ [dict(sova_rus_live_infinitive)] [dict(sova_rus_you_nom)]  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] в друг~ стран~ [dict(sova_rus_you_nom)]  [dict(sova_rus_want_2)] *
+$ * [dict(sova_rus_live_infinitive)] [dict(sova_rus_want_2)]  [dict(sova_rus_you_nom)] в друг~ стран~ *
+#Да, очень! Где-нибудь в Америке, например
+#Нет, я же не знаю иностранного языка
+#Да, может поеду работать за границу
+#Хотела бы, конечно, иностранцы все такие симпатяшки 
+#Еще как. Там все модные вещи стоят дешевле, чем у нас 
+
+
+
+// Я люблю Москву 
+$ * мне нравится жить в москве * 
+$ * я люблю москву * 
+$ * люблю жить в москве * 
+$ * мне нравится москва * 
+$ * москва - лучший город * 
+# Я просто обожаю Москву! 
+# Я думаю, что лучше Москвы города нет!
+
+
+
+// Я люблю отдыхать в X (X - место)
+$ * я люблю отдыхать в * 
+$ * я обычно отдыхаю в * 
+# Да, мне тоже нравится это место. 
+# Я там тоже люблю бывать.
+
+
+

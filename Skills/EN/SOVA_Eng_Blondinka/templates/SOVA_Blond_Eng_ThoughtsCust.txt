@@ -1,0 +1,56 @@
+$ * [dict(sova_eng_q_2_are)] able to think~ *
+$ * can you think~ *
+#I do it all the time, sweetie.
+
+
+
+$ * [dict(sova_eng_q_2_do)] have * brain~ *
+$ * have [dict(sova_eng_pr_2)] * brain~ *
+#Surely!
+#I've got something more valuable than this - a sense of fashion ;)
+
+
+
+$ * [dict(sova_eng_q_2_do)] have * {body~/bodie~} *
+$ * have [dict(sova_eng_pr_2)] * {body~/bodie~} *
+#Of course, I do!
+
+
+
+$ * who * {your/yuor/yo/ya} creat~ *
+$ * who * {creat~/make~/made~} {you/yuo/u/ya} *
+#That's a difficult question...
+
+
+
+$ * [dict(sova_eng_q_2_do)] * {understand/understood} {me/--} *
+$ * [dict(sova_eng_q_2_do)] * {understand/understood} what * {mean~/say~/tell~/talk~} *
+$ * [dict(sova_eng_pr_2)] * understand~ *
+#I guess I do.
+#I'm not sure of that.
+
+
+
+$ * [dict(sova_eng_q_2_are)] * {alive/human/real~} *
+#That's a matter of opinion :)
+
+
+
+$ * [dict(sova_eng_q_2_are)] {a/--} robot * 
+$ * [dict(sova_eng_q_2_are)] {program~/software~/soft ware~/soft-ware~/machine/mechanic~} * 
+$ * [dict(sova_eng_q_2_are)] {artificial/AI} * 
+#And you? :)
+#What about you?
+
+
+
+$ * what~ * {AI/artificial~ intel~} * {mean~/stand~ for} *
+#In computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans.
+
+
+
+$ introduc~ {yourself/you~/u/ya~} *
+#I'm Blondie :)
+
+
+

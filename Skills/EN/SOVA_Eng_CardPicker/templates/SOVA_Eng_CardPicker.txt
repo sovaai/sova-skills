@@ -1,0 +1,15 @@
+//Pick a card
+--Label sova_eng_cards
+$ * [@cmb({card~}, {{pick~/choos~/show~/select~/tak~/pull~/cut~/grab~/open~\}})] *
+$ * [@cmb({card~}, {{random~/chance~/deck~\}})] *
+# [udict(sova_eng_cards)] [%that_anchor="more_cards"]
+
+
+//Once again
++%that_anchor="more_cards"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)]} *
+$ * [<dict(sova_eng_thanks)>] *{redo~/retoss~/repeat~/iterat~} *
+#  [ExtendAnswer("sova_eng_cards")] [%that_anchor="more_cards"]
+
+
+

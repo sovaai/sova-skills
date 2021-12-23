@@ -1,0 +1,187 @@
+//Tell me some interesting facts about space.
+$ * [@cmb({{know/hav~/giv~/say~/tell~/narrat~/--\}}, {{question~/quer~/fact~/info/information/data\}}, {{space/cosmos/cosmic/universe/astronom~\}})] *
+$ * [@cmb({{know/hav~/giv~/say~/tell~/narrat~/--\}}, {[dict(sova_eng_something)]}, {{space/cosmos/cosmic/universe/astronom~\}})] *
+# [udict(sova_eng_astronomy_facts)][%that_anchor="more_astrofacts"]
+
+
+//Tell me some interesting facts about space - more
++%that_anchor="more_astrofacts"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)]} *
+# [udict(sova_eng_astronomy_facts)]
+
+
+//What are the planets of SS?
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {planet~}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~\}}, {[<dict(sova_question_marks)>]})] *
+# Our Solar System has 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+
+
+//Sun
+$ sun
+$ our star
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{star/--\}}, {sun}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# The Sun is the star at the center of the Solar System. It is a nearly perfect ball of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy mainly as visible light, ultraviolet light, and infrared radiation. It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometres (864,000 miles), or 109 times that of Earth. Its mass is about 330,000 times that of Earth&#59 it accounts for about 99.86% of the total mass of the Solar System.
+
+
+//Distance from Earth to the Sun
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{sun~/solar~\}}, {{earth~/our planet~\}}, {{distance/distant~/far~\}})] *
+$ * [@cmb({{how many/how much\}}, {{sun~/solar~\}}, {{earth~/our planet~\}}, {{between/from\}}, {[<dict(sova_question_marks)>]})] *
+# The the distance from Earth to the Sun is equal to about 150 million kilometres (93 million miles) or ~8 light minutes and determines the asronomical unit. The astronomical unit was originally conceived as the average of Earth's aphelion and perihelion&#59 however, since 2012 it has been defined as exactly 149597870700 m.
+
+
+//Earth
+$ earth
+$ our planet
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {earth~}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Earth is the planet we live on, the third planet from the Sun and the only known place in the universe to support life. Earth orbits around the sun at around 30 kilometres per second, in fact! It takes 365 days for the Earth to complete one full orbit. The Earth’s diameter measures a huge 12,800 kilometres, making it the fifth largest planet.
+
+
+//Mercury
+$ mercury
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {mercury}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Mercury is the closest planet to the Sun and the smallest in the Solar System. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets.
+
+
+//Venus
+$ venus
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {venus}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Venus is the second planet from the sun and our closest planetary neighbor, the brightest natural object in Earth's night sky after the Moon. Venus orbits the Sun every 224.7 Earth days. As a consequence, it takes longer to rotate about its axis than any other planet in the Solar System (243 days), and does so in the opposite direction to all but Uranus. Venus was the first planet explored by a spacecraft and was intensely studied early in the history of space exploration.
+
+
+//Mars
+$ mars
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {mars}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. It is often referred to as the "Red Planet" due to the effect of the iron oxide prevalent on Mars's surface.
+
+
+//Jupiter
+$ jupiter
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {jupiter}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus.
+
+
+//Saturn
+$ saturn
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {saturn}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It only has one-eighth the average density of Earth&#59 however, with its larger volume, Saturn is over 95 times more massive. The planet's most famous feature is its prominent ring system, which is composed mostly of ice particles, with a smaller amount of rocky debris and dust.
+
+
+//Uranus
+$ uran~
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {uranus}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Uranus is the seventh planet from the Sun. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus has it's ring system. Uranus has a unique configuration because its axis of rotation is tilted sideways, nearly into the plane of its solar orbit.
+
+
+//Neptune
+$ neptun~
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{planet~/--\}}, {neptun~}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# Neptune is the eighth and farthest-known Solar planet from the Sun. It is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, slightly more massive than its near-twin Uranus. Neptune is denser and physically smaller than Uranus because its greater mass causes more gravitational compression of its atmosphere.
+
+
+//How long does light take to reach the Earth from the Sun?
+$ * [@cmb({[dict(sova_eng_howlong)]}, {{travel~/reach~/get~/tak~/com~/go~\}}, {{~light/sunray~/ray~/photon~\}}, {{sun~/solar~\}}, {earth~})] *
+# It takes sunlight an average 8 min 20 sec to travel from the Sun to Earth.
+
+
+//The largest planet in the Solar System?
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{most~/--\} {larg~/big~/grand~/giant~\}}, {planet~}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~\}}, {[<dict(sova_question_marks)>]})] *
+# The largest planet in the Solar System is Jupiter, with a mean radius of 69,911 km and a mass more than two and a half times that of all the other planets in the Solar System combined.
+
+
+//The smallest planet in the Solar System?
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{most/--\} {small~/tiny/tiniest/littl~\}}, {planet~}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~\}}, {[<dict(sova_question_marks)>]})] *
+# The smallest planet in the Solar System is Mercury, with a mean radius of 2440 km, equivalent in size to 0.38 Earths.
+
+
+//Ice giants in the Solar System?
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {ice giant~}, {{planet~/--\}}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~\}}, {[<dict(sova_question_marks)>]})] *
+# There are two ice giants in the Solar System: Uranus and Neptune.
+
+
+//Gas giants in the Solar System?
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{gas~/gaz~\} giant~}, {{planet~/--\}}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~\}}, {[<dict(sova_question_marks)>]})] *
+# There are two gas giants in the Solar System: Jupiter and Saturn.
+
+
+//Planets' closest approach to the sun?
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{earth~/planet~\}}, {{near~/clos~\}}, {{approach~/point/moment/position/loca~\}}, {{sun/solar~\}})] *
+$ * perihelion *
+# Planets' closest approach to the sun is called perihelion. For Earth it comes in early January and is about 91 million miles (146 million km), just shy of 1 AU.
+
+
+//Planets' farthest point from the sun?
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{earth~/planet~\}}, {{far~/distant~\}}, {{approach~/point/moment/position/loca~\}}, {{sun/solar~\}})] *
+$ * aphelion *
+# The farthest from the sun planets' point is called aphelion. For Earth it comes in early July and is about 94.5 million miles (152 million km), just over 1 AU.
+
+
+//The first human to journey into outer space?
+$ * [@cmb({{first~/pioneer~\}}, {{peopl~/person~/human~/man~/cosmonaut~/astronaut~\}}, {{space/orbite\}})] *
+$ * gagarin *
+# The first human to journey into outer space was Yuri Gagarin.
+
+
+//The name of the Gagarin's spaceship?
+$ * [@cmb({{spaceship~/space ship~/capsul~/apparat~/shuttl~/spacecraft/aircraft/craft\}}, {gagarin}, {{first~/pioneer~/--\}}, {{peopl~/person~/human~/man~/cosmonaut~/astronaut~/--\}}, {{spac~/orbit~/--\}})] *
+# The name of the Gagarin's spacecraft was Voskhod-1.
+
+
+//The first person to conduct a spacewalk?
+$ * [@cmb({{first~/pioneer~\}}, {{peopl~/person~/human~/man~/cosmonaut~/astronaut~\}}, {{spacewalk/space walk\}})] *
+$ * [@cmb({{first~/pioneer~\}}, {{peopl~/person~/human~/man~man~/cosmonaut~/astronaut~\}}, {space}, {exit~})] *
+$ * leonov *
+# The first person to conduct a spacewalk was Alexey Leonov.
+
+
+//The first person on the Moon?
+$ * [@cmb({{first~/pioneer~\}}, {{peopl~/person~/human~/man~/cosmonaut~/astronaut~\}}, {{space~/--\}}, {moon})] *
+# The first person to walk on the Moon was Neil Armstrong.
+
+
+//When was the first flight to the Moon?
+$ * [@cmb({{when/date/year/month/day\}}, {{first~/pioneer~\}}, {{peopl~/person~/human~/man~/cosmonaut~/astronaut~/--\}}, {{space~/fly~/flight/--\}}, {moon})] *
+# On July 20, 1969, Armstrong and Aldrin became the first humans to land on the moon.
+
+
+//The first woman flown in space?
+$ * [@cmb({{first~/pioneer~\}}, {{woman~/women~/lady~/girl~\}}, {space})] *
+# The first woman to have flown in space is Valentina Tereshkova.
+
+
+//Did anyone ever land on Mars?
+$ * [@cmb({{first~/pioneer~/--\}}, {{peopl~/person~/human~/man~/cosmonaut~/astronaut~/peopl~/--\}}, {{fly~/flight~/go/will/be~/reach~/land~/put~/--\}}, {mars})] *
+# The planet Mars has been explored remotely by spacecraft, but no man has landed on Mars as of now.
+
+
+//When is Cosmonautics Day celebrated?
+$ * [@cmb({{cosmonautic~/human space flight\}}, {day}, {{when/date/month/day/--\}})] *
+# 12 April was declared as the International Day of Human Space Flight.
+
+
+//Age of the Solar System?
+$ * [@cmb({[dict(sova_eng_howlong)]}, {{sun~/solar~/earth~/planet~/univers~/galax~\}})] *
+$ * [@cmb({[dict(sova_eng_when)]}, {{sun~/solar~/earth~/planet~/univers~/galax~\}})] *
+$ * [@cmb({{age/emerg~/break~ out\}}, {{sun~/solar~/earth~/planet~/univers~/galax~\}})] *
+# Our Sun is about 4,5 billion years old. Similarly, the age of the whole Solar System is estimated to be 4,5 billion years, because it all came together around the same time.
+
+
+//Moon
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {natural {satelit~/satellit~\}}, {{moon~/--\}}, {{earth~/planet~\}}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {moon~}, {{earth~/planet~/--\}}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}}, {[<dict(sova_question_marks)>]})] *
+# The Moon is Earth's only proper natural satellite, orbiting Earth at an average distance of 384,400 km. As for other planets of the Solar System, Mars, Jupiter, Saturn, Uranus, Neptune also have their natural satellites.
+
+
+//Distance from Earth to the Moon
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{moon~/lun~\}}, {{earth~/our planet~\}}, {{distance/distant~/far~\}})] *
+$ * [@cmb({{how many/how much\}}, {{moon~/lun~\}}, {{earth~/our planet~\}}, {{between/from\}}, {[<dict(sova_question_marks)>]})] *
+# The lunar distance is approximately 384,400 km.
+
+
+//Satellites
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{satelit~/satellit~\}}, {{earth~/planet~/--\}}, {{sun/solar~/our galaxy/this galaxy/neighbo~/near~/--\}})] *
+# A satellite is an object that has been intentionally placed into orbit. These objects are called artificial satellites to distinguish them from natural satellites such as Earth's Moon. On 4 October 1957 the Soviet Union launched the world's first artificial satellite, Sputnik 1. Since then, about 8,900 satellites from more than 40 countries have been launched. According to a 2018 estimate, some 5,000 remain in orbit.
+
+
+//Our galaxy
+$ * [@cmb({[<dict(sova_eng_what_is_q)>]}, {{sun/solar~/our/earth~/we\}} {galaxy}, {[<dict(sova_question_marks)>]})] *
+$ * milk~ way *
+# The Milky Way is the galaxy that includes the Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye.

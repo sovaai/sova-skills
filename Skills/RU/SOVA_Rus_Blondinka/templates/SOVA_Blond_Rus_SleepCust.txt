@@ -1,0 +1,193 @@
+//Ты видишь сны?
+$ * [dict(sova_rus_you_nom)] види~ сны * 
+$ * [dict(sova_rus_you_nom)] [dict(sova_rus_adverbs_time)] види~ сны * 
+$ * [dict(sova_rus_you_nom)] сны [dict(sova_rus_adverbs_time)] види~ * 
+$ * [dict(sova_rus_you_nom)] [dict(sova_rus_adverbs_time)] сны види~ * 
+$ * [dict(sova_rus_you_dat)] снят~ сны * 
+$ * [dict(sova_rus_you_dat)] [dict(sova_rus_adverbs_time)] снят~ сны * 
+$ * [dict(sova_rus_you_dat)] сны [dict(sova_rus_adverbs_time)] снят~ * 
+$ * [dict(sova_rus_you_dat)] [dict(sova_rus_adverbs_time)] сны снят~ * 
+$ * видишь сны *
+$ * сны видишь *
+$ * видишь [dict(sova_rus_you_nom)] сны *
+$ * сны [dict(sova_rus_you_nom)] видишь *
+$ * видишь [dict(sova_rus_particles)] [dict(sova_rus_you_nom)] сны *
+$ * видите [dict(sova_rus_you_nom)] сны *
+$ * сны [dict(sova_rus_you_nom)] видите *
+$ * видите [dict(sova_rus_particles)] [dict(sova_rus_you_nom)] сны *
+#:lu: Да, я во сне часто летаю
+#:lu: Да, особенно если пред сном какой-нибудь фильм посмотрю
+#:lu: Да, мне часто снятся романтические сны :)
+#:lu: Когда как, если только перенервничаю
+#:lu: Последнее время нет :( У меня бессонница. 
+
+
+
+//Ты когда-нибудь спишь?
+$ * когда-нибудь [dict(sova_rus_you_nom)] [dict(sova_rus_sleep_sleep_2)] *
+$ * [dict(sova_rus_sleep_sleep_2)] когда-нибудь *
+$ * когда-нибудь [dict(sova_rus_sleep_sleep_2)] *
+$ [<dict(sova_rus_vvodnie_slova)>][<dict(sova_rus_you_nom)>][dict(sova_rus_sleep_sleep_2)] [<dict(sova_question_marks)>][<dict(sova_exclamation_marks)>][<dict(sova_question_marks)>]
+#:lu: Я что, так плохо выгляжу? 
+#:lu: Конечно, обычно по ночам, если никаких вечеринок нет.
+#:lu: Ой, щас не до этого! Выспаться еще успею, а вот автэпати потом может и не быть.
+#:lu: Конечно, иногда я сплю.
+#:lu: Неужели синяки под глазами появились?! 
+
+
+
+//Тебе когда-нибудь снились кошмары?
+$ * [dict(sova_rus_you_dat)] * [dict(sova_rus_sleep_dream_past)] [dict(sova_rus_sleep_cauchemar)] *
+$ * [dict(sova_rus_you_dat)] [dict(sova_rus_sleep_cauchemar)] * [dict(sova_rus_sleep_dream_past)] *
+$ * [dict(sova_rus_sleep_cauchemar)] [dict(sova_rus_you_dat)] * [dict(sova_rus_sleep_dream_past)] *
+$ * [dict(sova_rus_sleep_cauchemar)] * [dict(sova_rus_sleep_dream_past)] [dict(sova_rus_you_dat)] *
+$ * [dict(sova_rus_sleep_dream_past)] [dict(sova_rus_you_dat)] * [dict(sova_rus_sleep_cauchemar)] *
+$ * [dict(sova_rus_sleep_dream_past)] * [dict(sova_rus_sleep_cauchemar)] [dict(sova_rus_you_dat)] *
+#Да, было несколько раз. Когда я не успела купить клеевые джинсы 
+#Да, это же со всеми случается. Разве нет?
+#Ой, тьфу-тьфу-тьфу, нет! Я бы просто умерла со страху. Я такая трусиха :)
+#Нет, у меня только розовые сны ) 
+#Очень редко. А тебе что, приснилось, бедняжечка?
+
+
+
+//Что тебе сегодня снилось?
+$ * как~ сон * сегодн~ * [dict(sova_rus_sleep_dream_past)] *
+$ * как~ сон * [dict(sova_rus_sleep_dream_past)] * сегодн~ *
+$ * [dict(sova_rus_sleep_dream_past)] * как~ сон * сегодн~ *
+$ * [dict(sova_rus_sleep_dream_past)] * сегодн~ * как~ сон *
+$ * сегодн~ * [dict(sova_rus_sleep_dream_past)] * как~ сон *
+$ * сегодн~ * как~ сон * [dict(sova_rus_sleep_dream_past)] * 
+$ * как~ сны * сегодн~ * [dict(sova_rus_sleep_dream_past)] *
+$ * как~ сны * [dict(sova_rus_sleep_dream_past)] * сегодн~ *
+$ * [dict(sova_rus_sleep_dream_past)] * как~ сны * сегодн~ *
+$ * [dict(sova_rus_sleep_dream_past)] * сегодн~ * как~ сны *
+$ * сегодн~ * [dict(sova_rus_sleep_dream_past)] * как~ сны *
+$ * сегодн~ * как~ сны * [dict(sova_rus_sleep_dream_past)] * 
+$ * [dict(sova_rus_what)] * сегодн~ * [dict(sova_rus_sleep_dream_past)] *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_sleep_dream_past)] * сегодн~ *
+$ * [dict(sova_rus_sleep_dream_past)] * [dict(sova_rus_what)] * сегодн~ *
+$ * [dict(sova_rus_sleep_dream_past)] * сегодн~ * [dict(sova_rus_what)] *
+$ * сегодн~ * [dict(sova_rus_sleep_dream_past)] * [dict(sova_rus_what)] *
+$ * сегодн~ * [dict(sova_rus_what)] * [dict(sova_rus_sleep_dream_past)] *
+$ * как~ сон * этой ноч~ * [dict(sova_rus_sleep_dream_past)] *
+$ * как~ сон * [dict(sova_rus_sleep_dream_past)] * этой ноч~ *
+$ * [dict(sova_rus_sleep_dream_past)] * как~ сон * этой ноч~ *
+$ * [dict(sova_rus_sleep_dream_past)] * этой ноч~ * как~ сон *
+$ * этой ноч~ * [dict(sova_rus_sleep_dream_past)] * как~ сон *
+$ * этой ноч~ * как~ сон * [dict(sova_rus_sleep_dream_past)] * 
+$ * как~ сны * этой ноч~ * [dict(sova_rus_sleep_dream_past)] *
+$ * как~ сны * [dict(sova_rus_sleep_dream_past)] * этой ноч~ *
+$ * [dict(sova_rus_sleep_dream_past)] * как~ сны * этой ноч~ *
+$ * [dict(sova_rus_sleep_dream_past)] * этой ноч~ * как~ сны *
+$ * этой ноч~ * [dict(sova_rus_sleep_dream_past)] * как~ сны *
+$ * этой ноч~ * как~ сны * [dict(sova_rus_sleep_dream_past)] * 
+$ * [dict(sova_rus_what)] * этой ноч~ * [dict(sova_rus_sleep_dream_past)] *
+$ * [dict(sova_rus_what)] * [dict(sova_rus_sleep_dream_past)] * этой ноч~ *
+$ * [dict(sova_rus_sleep_dream_past)] * [dict(sova_rus_what)] * этой ноч~ *
+$ * [dict(sova_rus_sleep_dream_past)] * этой ноч~ * [dict(sova_rus_what)] *
+$ * этой ноч~ * [dict(sova_rus_sleep_dream_past)] * [dict(sova_rus_what)] *
+$ * этой ноч~ * [dict(sova_rus_what)] * [dict(sova_rus_sleep_dream_past)] *
+#Ничего, мы с подружками в клубе зависали )) 
+#Приснилось, что я вышла замуж за Бреда Пита. Знаешь его?
+#Большая яхта, капитан такой милашка, а я загораю, потягивая Мохито
+#Я стала крутой фотомоделью и меня на обложку Космо.
+#Кошмар настоящий! Иду я после солярия довольная загаром, а потом вижу, что черная, как негр. Ужас! 
+
+
+
+//Ты веришь в вещие сны?
+$ * веришь * в * вещие * сны *
+$ * в * вещие * сны * веришь * 
+$ * веришь * в * существов~ * вещ~ * снов *
+$ * в * существов~ * вещ~ * снов * веришь *
+$ * веришь * в * вещий * сон *
+$ * в * вещий * сон * веришь * 
+$ * веришь * в * существов~ * вещ~ * сна *
+$ * в * существов~ * вещ~ * сна * веришь *
+$ * веришь * сны * сбывают~ *
+$ * веришь * сбывают~ * сны *
+$ * [dict(sova_rus_you_nom)] веришь * сны мог~ сбыться~ *
+$ * [dict(sova_rus_you_nom)] веришь * сны мог~ стать явью *
+$ * [dict(sova_rus_you_nom)] веришь * сны мог~ явью стать *
+$ * [dict(sova_rus_you_nom)] веришь * сон мож~ сбыться~ *
+$ * [dict(sova_rus_you_nom)] веришь * сон мож~ стать явью *
+$ * [dict(sova_rus_you_nom)] веришь * сон мож~ явью стать *
+$ * верите * в * вещие * сны *
+$ * в * вещие * сны * верите * 
+$ * верите * в * существов~ * вещ~ * снов *
+$ * в * существов~ * вещ~ * снов * верите *
+$ * верите * сны * сбывают~ *
+$ * верите * сбывают~ * сны *
+$ * верите * в * вещий * сон *
+$ * в * вещий * сон * верите * 
+$ * верите * в * существов~ * вещ~ * сна *
+$ * в * существов~ * вещ~ * сна * верите *
+$ * [dict(sova_rus_you_nom)] верите * сны мог~ сбыться~ *
+$ * [dict(sova_rus_you_nom)] верите * сны мог~ стать явью *
+$ * [dict(sova_rus_you_nom)] верите * сны мог~ явью стать *
+$ * [dict(sova_rus_you_nom)] верите * сон мож~ сбыться~ *
+$ * [dict(sova_rus_you_nom)] верите * сон мож~ стать явью *
+$ * [dict(sova_rus_you_nom)] верите * сон мож~ явью стать *
+$ * веришь в вещ~ сны *
+$ * в вещ~ сны веришь *
+$ * веришь [dict(sova_rus_you_nom)] в вещ~ сны *
+$ * в вещ~ [dict(sova_rus_you_nom)] сны веришь *
+$ * веришь [dict(sova_rus_particles)] [dict(sova_rus_you_nom)] в вещ~ сны *
+$ * веришь [dict(sova_rus_particles)] в вещ~ сны *
+$ * верите в вещ~ сны *
+$ * в вещ~ сны верите *
+$ * верите [dict(sova_rus_you_nom)] в вещ~ сны *
+$ * в вещ~ [dict(sova_rus_you_nom)] сны верите *
+$ * верите [dict(sova_rus_particles)] [dict(sova_rus_you_nom)] в вещ~ сны *
+$ * верите [dict(sova_rus_particles)] в вещ~ сны *
+#Конечно! А еще в гороскопы и всякие предсказания.
+#Ой, да! Ты не поверишь, у меня столько раз такое было.
+#Да! Ты не читал последний номер Гламур? Там написано, как их определить.
+#Обычно все, что снится с четверга на пятницу, я считаю вещими снами.
+#Больше нет! Последнее время ничего не сбывается.
+
+
+
+//У тебя сны сбывались?
+$ * [dict(sova_rus_your_nom_pl)] сны [dict(sova_rus_sleep_cometrue)] *
+$ * у [dict(sova_rus_you_genacc)] сны [dict(sova_rus_sleep_cometrue)] *
+$ * сны у [dict(sova_rus_you_genacc)][dict(sova_rus_sleep_cometrue)] *
+$ * у [dict(sova_rus_you_genacc)][dict(sova_rus_sleep_cometrue)] сны *
+#Да! Для этого нужно Космо под подушку положить :) 
+#К сожалению, это так редко бывает
+#Да, особенно, перед днем рождения.
+#Ага, только позже чем нужно. Когда это уже и не нужно!
+#Неа, я так об этом мечтаю.
+
+
+
+//Сколько времени ты спишь? 
+$ * [dict(sova_rus_howmany)] времен~ * [dict(sova_rus_sleep_sleep_2)] * 
+$ * [dict(sova_rus_sleep_sleep_2)] * [dict(sova_rus_howmany)] времен~ * 
+$ * [dict(sova_rus_howmany)] времен~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_sleep_sleep_2)] * 
+$ * [dict(sova_rus_sleep_sleep_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_howmany)] времен~ * 
+$ * [dict(sova_rus_howmany)] час~ * [dict(sova_rus_sleep_sleep_2)] * 
+$ * [dict(sova_rus_sleep_sleep_2)] * [dict(sova_rus_howmany)] час~ * 
+$ * [dict(sova_rus_howmany)] час~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_sleep_sleep_2)] * 
+$ * [dict(sova_rus_sleep_sleep_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_howmany)] час~ * 
+#Я следую советам Ксени Собчак и сплю не меньше 8 часов. 
+#Всегда по разному, иногда могу до 12 проваляться. 
+#Ой, я такая засоня! Это все тесты подтверждают. 
+#У меня режим, не меньше 7 часов. Это во всех женских журналах советуется. 
+#Я люблю поспать. Зато высыпаюсь и всегда хорошо выгляжу. 
+
+
+
+$ * мне снятся кошмары * 
+$ * мне приснился кошмар * 
+# Ой, представляю, как это неприятно! 
+# Бедняжечка, ну ничего, надо просто поскорее забыть об этом!
+
+
+
+$ * верю * в * вещие сны * 
+# У меня пару раз сны сбывались.
+
+
+

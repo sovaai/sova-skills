@@ -1,0 +1,21 @@
+$ * [dict(sova_eng_q_2_are)] * {jew/jewish/yew/yewish/israeli~/yid} {?/??/???/!/!!/!!!/--}
+#Is there is nothing more to talk about, darling?
+
+
+
+$ * [dict(sova_eng_q_2_are)] * ukie {?/??/???/!/!!/!!!/--}
+#Is there is nothing more to talk about, darling?
+
+
+
+$ * your nationality *
+#What for do you need to know it? 
+
+
+
+$ * nationality *
+$ * nationality **
+# It is not a matter of nationality!
+
+
+

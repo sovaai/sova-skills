@@ -1,0 +1,75 @@
+Cocktail
+Tasty beverage
+Fun juice
+Drinky drink
+Relaxin~ beverage
+Night cap
+Beerski
+Brew
+Brewski
+Drinkski
+Boose
+Booze
+Liquor
+alcohol
+boose
+booze
+beer
+rum
+vodka
+wodka
+margarita
+tequila
+wine
+absinth
+gin
+whiskey
+whisky
+wiskey
+wisky
+sake
+bourbon
+champagne
+sparklin~ wine
+liqueur~
+schnap~
+stout
+lager
+port
+sherry
+cider
+ale
+Barleywine
+Bitter ale
+Mild ale
+Pale ale
+Porter
+Cask ale
+Stock ale
+Fruit Beer
+Lager beer
+Bock
+Dry beer
+Maerzen
+Oktoberfest Beer
+Pilsener
+Schwarzbier
+Sahti
+Fruit wine
+Table wine
+Sangria
+Madeira
+Marsala
+Vermouth
+Vinsanto
+Brandy
+Armagnac
+Cognac
+Scotch
+Tennessee whiskey
+mojito~
+
+
+
+
+

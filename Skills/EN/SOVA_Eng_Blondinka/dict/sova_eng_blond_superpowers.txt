@@ -1,0 +1,657 @@
+manipulation 
+regeneration
+mimicry
+healing
+Power Manipulation
+    Power Augmentation
+        Self-Power Augmentation 
+    Power Bestowal
+    Power Negation
+    Power Erasure
+    Power Morphing
+    Power Replication
+    Power Absorption
+    Power Detection
+    Power Randomization
+    Powers Via Object
+    Affinity/Aversion 
+    Regenerative Healing Factor
+    Adoptive Muscle Memory
+    Body Part Substitution
+    Anatomical Liberation
+    Additional Limbs
+    Organic Constructs
+    Deflection
+    Duplication
+    Invisibility
+    Matter Ingestion
+    Amalgamation
+        Plant Merging
+        Solid Merging 
+    Wallcrawling
+    Invulnerability
+        Immutability 
+    Mobile Invulnerability
+    Needle Projection
+    Immobility
+    Dynamic Camouflage
+    Bone Protrusion
+    Self-Detonation
+    Jet Propulsion
+    Helicopter Propulsion
+    Cyclone Spinning
+    Prehensile Hair
+    Prehensile Tail
+    Prehensile Tongue
+    Prehensile Nail
+    Sharp Tail
+    Sharp Teeth
+    Spike Protrusion
+    Structure Weakening
+    Tentacle Extension
+        Tendril Generation 
+    Claw Retraction
+    Vampirism
+    Fat Manipulation
+    Muscle Manipulation 
+    Fire Generation
+    Dust Generation
+        Powder Generation 
+    Fog Generation
+    Goo Generation
+    Heat Generation
+    Poison Generation
+    Web Generation
+    Acid Generation
+    Water Generation
+    Bubble Generation
+    Ink Generation
+    Ash Generation
+    Smoke Generation
+    Stench Generation
+    Miasma Emission
+        Nerve-Gas Emission
+        Chlorine Gas Exudation
+        Poison Gas Generation 
+    Oil Secretion
+    Pheromone Manipulation
+    Sonic Scream
+    Echolocation
+    Hyper Breath
+    Pyric Exhalation
+    Scald Generation 
+    Vacuum Adaptation
+    Atmospheric Adaptation
+    Environmental Adaptation
+        Aerial Adaptation
+        Desert Adaptation
+        Arctic Adaptation
+        Mountainous Adaptation
+        Subterranean Adaptation
+        Urban Adaptation
+        Wetland Adaptation
+        Fallout Adaptation 
+    Aquatic Respiration
+    Self-Sustenance
+    Reactive Adaptation
+    Poison Immunity
+    Thermal Resistance
+    Tracking Evasion 
+    Enhanced Strength
+    Enhanced Condition
+    Innate Combat
+    Enhanced Agility
+    Enhanced Leap
+    Enhanced Jaw Strength
+    Enhanced Durability
+    Enhanced Dexterity
+    Enhanced Reflexes
+    Enhanced Flexibility
+    Enhanced Lung Capacity
+    Enhanced Senses
+        Enhanced Awareness
+        Enhanced Smell
+        Enhanced Touch
+        Enhanced Taste
+        Enhanced Hearing
+        Enhanced Vision
+        Enhanced Synesthesia 
+    Enhanced Accuracy
+    Enhanced Swordsmanship
+    Enhanced Craftsmanship
+    Enhanced Visibility
+    Enhanced Thievery 
+    Supernatural Strength
+    Supernatural Condition
+    Supernatural Combat
+    Supernatural Agility
+    Supernatural Leap
+    Supernatural Durability
+    Supernatural Dexterity
+    Supernatural Reflexes
+    Supernatural Flexibility
+    Supernatural Senses
+        Supernatural Hearing
+        Supernatural Smell
+        Supernatural Taste
+        Supernatural Touch
+        Supernatural Vision 
+    Supernatural Accuracy
+    Supernatural Swordsmanship
+    Supernatural Thievery 
+    Enhanced Vision
+        360-Degree Vision
+        Astral Vision
+        Atomic Vision
+        Aura Vision
+        Chemo Vision
+        Death Vision
+        Emotion Vision
+        Energy Vision
+        Freeze Vision
+        Heat Vision
+        Infrared Vision
+        Life Vision
+        Microscopic Vision
+        Multiple Vision
+        Night Vision
+        Probability Vision
+        Supercolor Vision
+        Telescopic Vision
+        Ultraviolet Vision
+        X-Ray Vision 
+    Intuitive Aptitude
+    Omnilingualism
+        Botanical Communication
+        Cyber Communication
+        Extraterrestrial Communication
+        Faunal Communication
+        Fungal Communication 
+    Ecological Empathy
+    Enhanced Intelligence
+        Supernatural Intelligence 
+    Enhanced Wits
+        Supernatural Wits 
+    Psychic Navigation
+    Eidetic Memory
+    Knowledge Replication
+    Psychic Shield
+    Technopathy
+    Feral Mind
+    Dual Mind
+    4th Wall Awareness
+    Mentifery
+    Omniscience 
+    Astral Projection
+    Mental Projection
+    Dimensional Awareness
+    Empathy
+    Mediumship
+    Psychometry
+    Telepathy
+    Precognition
+        Oneiromancy
+        Premonition
+        Astrological Divination
+        Numerology
+        Abacomancy 
+    Extrasensory Perception
+    Claircognizance
+    Retrocognition
+    Danger Intuition
+    Clairvoyance
+    Mendacity Detection
+    Offspring Detection 
+    Astral Imprisonment
+    Hypnosis
+    Memory Manipulation
+    Mental Manipulation
+    Empathic Manipulation
+    Mind Control
+    Psychic Persuasion
+        Belief Induction 
+    Possession
+        Astral Possession 
+    Psionic Inundation
+    Psionic Projection
+    Mindscape Transportation
+    Dream Manipulation
+    Fear Inducement
+    Yin & Yang Shift
+    Furtive Assimilation
+    Neurocognitive Deficit
+    Psionic Equilibrium Distortion
+    Siren Song 
+    Intangibility
+    Self-Spawn
+    Animation
+        Artistry Animation 
+    Disintegration
+    Melting
+    Dehydration
+    Petrification
+    Deoxygenation
+    Induced Healing
+    Physical Restoration
+    Induced Sedation
+    Induced Paralysis
+    Death Inducement
+    Mind Exchange
+    Induced Ferity
+    Cloaking
+    Activation & Deactivation
+    Access & Occlusion
+    Dimensional Storage
+    Psionic Imprinting
+    Vitality Absorption 
+    Telekinesis
+    Physics Manipulation
+    Light Manipulation
+        Color Manipulation
+            Rainbow Colors 
+    Darkness Manipulation
+    Nothingness Manipulation
+    Density Control
+    Mass Manipulation
+    Weight Manipulation
+    Elemental Transmutation
+    Gravitational Manipulation
+    Pressure Manipulation
+    Magnetism Manipulation
+    Molecular Manipulation
+    Solar Manipulation
+    Cosmic Manipulation
+    Lunar Manipulation
+    Aura Manipulation
+    Probability Manipulation
+    Reality Warping
+    Sound Manipulation
+    Temporal Manipulation
+    Spatial Manipulation
+    Biological Manipulation
+    Age Manipulation
+    Corpse Manipulation
+    Nerve Manipulation
+    Jactitation
+    Fundamental Forces Manipulation 
+    Literary Manipulation
+    Mirror Manipulation
+    Ink Manipulation
+    Oil Manipulation
+    Season Manipulation
+    Circadian Control
+    Vector Manipulation 
+    Air Manipulation
+        Smoke Manipulation 
+    Earth Manipulation
+        Crystal Manipulation
+        Magma Manipulation
+        Metal Manipulation
+        Glass Manipulation
+        Sand Manipulation 
+    Fire Manipulation
+    Water Manipulation
+        Vapor Manipulation 
+    Ice Manipulation
+    Electricity Manipulation
+    Electromagnetic Manipulation
+    Plant Manipulation
+        Plant Growth
+        Wood Manipulation
+        Fungus Manipulation
+        Paper Manipulation
+        Pollen Manipulation
+        Flower Manipulation
+        Fruit/Vegetable Manipulation
+        Nature Manipulation 
+    Animal Manipulation
+        Avian Manipulation
+        Insect Manipulation
+        Mammal Manipulation
+        Reptile Manipulation
+        Fish Manipulation
+        Arachnid Manipulation
+        Amphibian Manipulation 
+    Weather Manipulation
+        Cloud Manipulation
+        Storm Manipulation 
+    Dust Manipulation
+    Ash Manipulation 
+
+Energy Manipulation
+
+    Energy Absorption
+    Energy Emission 
+
+    Concussion Beams
+        Transitional Phasing Beam 
+    Microwave Emission
+    Vibration Emission
+    Volatile Constructs
+    Light Generation
+    Life-Force Manipulation
+    Radiation Manipulation
+    Kinetic-Energy Manipulation
+    Energy Conversion
+    Energy Constructs
+    Force-Field Generation
+    Induced Combustion
+    Energy Negation 
+
+Transportation
+Travel
+    Dimensional Transportation
+    Electrical Transportation
+    Portal Creation
+    Summoning
+    Beacon Emission
+    Super Speed
+    Teleportation
+    Time Travel
+    Escape Artistry
+    Burrowing
+    Speed Swimming
+    Cosmic Teleportation
+    Wormhole Creation 
+Flight
+    Flight
+    Levitation
+    Wing Manifestation
+    Gliding 
+    Self-Detonation
+    Self-Ability Bestowal
+    Self-Disintegration
+    Self-Molecular Manipulation
+    Self-Sustenance
+    Supernatural Self-Preservation
+    Self-Spawn
+    Self-Existence
+    Self-Immortality
+    Self Origin Manipulation
+    Higher Consciousness
+    Self-Transcendence 
+Illusion
+    Illusion Manipulation
+    Holographic Projection 
+
+Mimicry
+Shapeshifting
+    Shapeshifting
+    Malleable Anatomy
+    Animal Morphing
+    Size Shifting
+    Age Shifting
+    Elasticity
+    Sublimation
+    Liquification
+    Dermal Armor
+    Bionic Physiology
+    Monster Mutation
+    Reactive Adaptation
+    Power Replication 
+Elemental Mimicry
+    Metal Mimicry
+        Gold Mimicry 
+    Inorganic Mimicry
+    Pyric Mimicry
+    Magma Mimicry
+    Sublimation
+    Sand Mimicry
+    Ink Mimicry
+    Substance Mimicry
+    Clay Mimicry
+    Slime Mimicry
+    Smoke Mimicry
+    Shadow Mimicry
+    Electric Mimicry
+    Crystal Mimicry
+    Diamond Mimicry
+    Paper Mimicry
+    Digital Form
+    Tachyon Mimicry
+    EM Waves Mimicry
+    Ice Mimicry
+    Nova Mimicry
+    Spatial Mimicry
+    Artificially-Enhanced Mimicry
+    Energy Mimicry
+    Dust Mimicry
+    Ash Mimicry 
+Organic Mimicry
+    Animal Morphing
+        Avian Physiology
+            Corvid Physiology
+            Strigiform Mimicry
+            Psittaciforme Mimicry 
+        Arachnid Physiology
+            Scorpion Mimicry
+            Spider Mimicry 
+        Insect Mimicry
+            Bee Mimicry
+            Butterfly Mimicry
+            Moth Mimicry
+            Ant Mimicry
+            Beetle Physiology
+            Roach Mimicry 
+        Ichthyoid Mimicry
+            Shark Mimicry 
+        Amphibian Mimicry
+        Cephalopod Mimicry
+        Cnidarian Mimicry
+        Crustacean Mimicry
+        Echinoderm Physiology
+        Parasite Mimicry
+        Reptilian Mimicry
+            Turtle Mimicry
+            Tortoise Mimicry
+            Dinosaur Mimicry
+            Pterosaur Mimicry
+            Snake Mimicry
+            Dragon Mimicry 
+        Mammal Mimicry
+            Canine Mimicry
+            Feline Mimicry
+            Pro-Simian Mimicry
+            Bat Mimicry
+            Ursid Mimicry
+            Giraffid Mimicry
+            Camalid Mimicry
+            Pachyderm Mimicry
+            Elephantide Mimicry
+            Equine Mimicry
+                Horse Mimicry 
+            Leporid Mimicry
+            Cervid Mimicry
+            Rodent Mimicry
+            Cetacean Mimicry
+            Bovine Mimicry
+            Hyena Mimicry
+            Marsupial Mimicry
+            Pinniped Mimicry
+            Primate Physiology
+            Sirenia Mimicry
+            Xenarthra Mimicry
+            Monotreme Mimicry
+            Herpestid Mimicry
+            Viverrid Mimicry
+            Procyonid Mimicry 
+    Plant Mimicry
+        Wood Mimicry
+        Floral Mimicry
+        Fructo Mimicry
+        Fungal Mimicry 
+    Cellular Mimicry
+    Mythological Mimicry
+        Alien Mimicry
+        Deity Mimicry
+        Angel Mimicry
+        Fairy Mimicry
+        Demon Mimicry
+        Monster Mimicry
+        Ghost Mimicry
+        Zombie Mimicry
+        Vampire Mimicry
+        Werewolf Physiology
+        Gorgon Mimicry
+        Phoenix Mimicry
+        Kitsune Mimicry
+        Raiju Mimicry
+        Thunderbird Mimicry
+        Unicorn Mimicry
+        Troll Mimicry
+        Pegasus Mimicry
+        Griffin Mimicry
+        Naga Mimicry
+        Genie Mimicry
+        Wendigo Mimicry
+        Minotaur Mimicry
+        Oni Mimicry
+        Tengu Mimicry
+        Monster Mimicry
+        Nephilim Mimicry
+        Elven Mimicry
+        Bakeneko Mimicry
+        Grim Reaper Mimicry
+        Merfolk Mimicry
+        Gargoyle Mimicry
+        Succubi Mimicry
+        Undead Mimicry
+        Spirit Mimicry
+        Cyclops Mimicry
+        Sasquatch Mimicry
+        Divine Mimicry
+        Hellhound Mimicry 
+    Transcendent Mimicry
+        Cthulhu Mythos Deity Physiology
+        Cosmic Entity Physiology
+        Mythical Mimicry
+            Aboriginal Deity Physiology
+            African Deity Physiology
+            Altaic Deity Physiology
+            Armenian Deity Physiology
+            Arab Deity Physiology
+            Aztec Deity Physiology
+            Canaanite Deity Physiology
+            Celtic Deity Physiology
+            Chinese Deity Physiology
+            Egyptian Deity Physiology
+            Finnish Deity Physiology
+            Greek Deity Physiology
+                Protogenoi Physiology
+                Titan Physiology 
+            Guarani Deity Physiology
+            Hindu Deity Physiology
+            Inca Deity Physiology
+            Mayan Deity Physiology
+            Mesopotamian Deity Physiology
+            Native American Deity Physiology
+            Norse Deity Physiology
+            Oceanic Deity Physiology
+            Orisha Physiology
+            Philippine Deity Physiology
+            Roman Deity Physiology
+            Shinto Deity Physiology
+            Siberian Deity Physiology
+            Slavic Deity Physiology
+            Vodou Deity Physiology
+            Zoroastrian Deity Physiology 
+    Chimerism
+    Hybridism 
+Mimicry
+    Candy Mimicry
+    Garbage Mimicry
+    2D Mimicry
+    Swamp Mimicry
+    Spring Mimicry
+    Parental Mimicry
+    Computer Virus Mimicry
+    Bionic Mimicry
+        Roboticization 
+    Storybook Mimicry
+    Empathic Mimicry 
+    Immortality
+    Creation
+        Life Creation
+        Ability Creation
+        Creature Creation 
+    Cosmic Telepathy
+    Omniscience
+    Omnipresence
+    Omnipotence
+    Omnilock
+    Magic
+        Alchemy
+        Astrology
+        Chaos Magic
+        Creation Magic
+        Dark Arts
+        Destruction Magic
+        Divination
+        Druidic Magic
+        Elemental Magic
+        Healing
+        Illusion-Casting
+        Life Magic
+        Mysticism
+        Necromancy
+        Shamanism
+        Spell Casting
+        Transmogrification
+        Voodoo
+        White Arts
+        Craft Magic
+        Art Magic
+        Bardic Magic
+        Sorcery
+        Occultism
+        Gnosticism
+        Ceremonialism
+        Ritualism
+        Witchcraft
+        Witchery
+        Wizardry
+        Cures
+        Charms
+        Hexes
+        Jinxes
+        Tantra
+        Theurgy
+        Thaumaturgy
+        Purification Capabilities 
+    Universal Irreversibility
+    Plasma Manipulation
+    Spatial Manipulation
+    Spatial-Temporal Lock
+    Dark Matter Manipulation
+    Antimatter Manipulation
+    Alchemy
+    Complete Arsenal
+    Chaos Manipulation
+    Enigma Force
+    Evolution
+    Hell-Fire Manipulation
+    Infinite Supply
+    Life-Force Manipulation
+        Life-Force Generation 
+    Logic Manipulation
+    Matter Manipulation
+        Matter Transmutation 
+    Molecular Manipulation
+    Multi-Power
+    Order Manipulation
+    Paradox Inducement
+    Pathifery
+    Physics Manipulation
+    Mathematics Manipulation
+    Quantum Manipulation
+    Summoning
+    Superpower Manipulation
+    Terrain Manipulation
+    Twilight Force
+    Twilight Manipulation
+    Vocifery 
+
+
+
+
+

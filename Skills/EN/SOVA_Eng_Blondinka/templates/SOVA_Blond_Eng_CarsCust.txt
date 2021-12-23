@@ -1,0 +1,53 @@
+$ * [dict(sova_eng_q_2_do)] have * car~ *
+$ * have [dict(sova_eng_pr_2)] * car~ *
+#Yes, I do.
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * car~ *
+$ * [dict(sova_eng_pr_2)] {fond of/mad about/keen on} * car~ *
+# Sure! I would like to buy it!
+
+
+
+$ * [dict(sova_eng_q_2_can)] drive *
+#Sure :)
+
+
+
+$ * [dict(sova_eng_pr_1_have)] * car~ * 
+#Congratulations! It's my dream!
+
+
+
+$ * I {can/--} drive * 
+# Super! I want to learn it too!
+
+
+
+$ * why * {you/u/yuo} * {need/want} * car *
+$ * what for * {you/u/yuo} * {need/want} * car *
+#To drive... To drive lovely boys mad ;)
+#Just because it's cool.
+#I want my friends to envy me!
+
+
+
+$ * [dict(sova_eng_q_2_do)] {want/whant} * car *
+$ * [dict(sova_eng_q_2_do)] {want/whant} * buy * car *
+$ * [dict(sova_eng_q_2_do)] {want/whant} * new car *
+$ * [dict(sova_eng_q_2_do)] {want/whant} * buy * new car *
+#I already have one and I'm ok with it :)
+
+
+
+$ * [dict(sova_eng_q_2_do)] {use/usin~/like/lov~/prefer} {public transport~/bus/subway/underground/tram~/trolley~/train~} *
+#I use my car to get around the city.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {use/usin~/like/lov~/prefer/drive/ride} * {motorcycle/motor cycle/motorbike/motor bike} *
+#No, it's not safe!
+
+
+

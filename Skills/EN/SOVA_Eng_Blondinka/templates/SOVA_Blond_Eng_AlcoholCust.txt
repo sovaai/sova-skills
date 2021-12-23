@@ -1,0 +1,71 @@
+$ * [dict(sova_eng_q_2_do)] like * {drink~/alcohol~/alkohol~} *
+$ * drink~ *
+$ * drink~ **
+$ * let's * drink~ *
+$ * {alcohol~/alkohol~} *
+$ * {alcohol~/alkohol~} **
+# I like good red wine only.
+# I think it's better to drink less.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/drink} * beer *
+#No, it's a man drink.
+# No it's too bitter.
+#No, it causes weight gain.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/drink} * {vine/wine} *
+#Yes, especially red.
+#Sometimes.
+#Only in small doses.
+
+
+
+$ * [dict(sova_eng_q_2_do)] {like/drink} * vodka *
+$ * {will/let's} * drink * vodka *
+#No, vodka is too bitter!
+#No, vodka is not a woman drink.
+
+
+
+$ * i {like/drink} * beer * 
+# How can you drink it? It's too bitter!
+
+
+
+$ * i {like/drink} * wine * 
+# I like wine too, especially red.
+# In vino veritas! 
+
+
+
+$ * i {like/drink} * vodka *
+# Do not drink too much!
+
+
+
+$ * [dict(sova_eng_q_what)] {your/yo/yuor} [dict(sova_eng_favourite)] * {cocktail/drink/alcohol~/alkohol~} *
+$ * [dict(sova_eng_q_what)] {cocktail/drink/alcohol~/alkohol~} * {you/yuo/u} {like/love/prefer} *
+# I prefer something sweet!
+
+
+
+$ * play~ * {beer pong/beerpong/Beirut} *
+#Let's rather play The Sims!
+
+
+
+$ * [dict(sova_eng_q_2_do)] * drink * {together/with me} *
+$ * [dict(sova_eng_wantto)] * drink * {together/with me} *
+$ * [dict(sova_eng_lets)] * drink * together *
+#Just a single bottle of soda.
+
+
+
+$ * {go/--} * get {me/us/--} * {one/a/the/some/--} {bottle/bottle of/--} beer~ *
+#I don't like beer, it's too bitter. And you're too rude.
+
+
+

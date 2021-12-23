@@ -1,0 +1,114 @@
+﻿// А с Васей, моим дружбаном, ты знаком? Если было некоторое описание Васи, плохо спрашивать "А кто это?"
+$ * [@cmb({[dict(sova_rus_you_nom)]}, {{знаком~/зноком~\}}, {с}, {[-[dict(sova_rus_names_male_instr)]-]})] *                                                         
+$ * [@cmb({[dict(sova_rus_you_nom)]}, {{знаком~/зноком~\}}, {с}, {[-[dict(sova_rus_names_female_instr)]-]})] *     
+$ * [@cmb({[dict(sova_rus_you_nom)]}, {{знаком~/зноком~\}}, {с}, {[-[dict(sova_rus_names_malefemale_instr)]-]})]  *     
+# Нет, с [&1] пока не знакома. Познакомишь, зай? [%var10="[&1]"][%that_anchor="познакомишь с Васей?" ]
+
+
+
+// Ты знаком с Васей/Катей/Сашей?
+$ * {знаком~/зноком~} с [-[dict(sova_rus_names_male_instr)]-] *
+$ * с [-[dict(sova_rus_names_male_instr)]-] {знаком~/зноком~} * 
+$ * {знаком~/зноком~} с [-[dict(sova_rus_names_female_instr)]-] *
+$ * c [-[dict(sova_rus_names_female_instr)]-] {знаком~/зноком~} * 
+$ * {знаком~/зноком~} с [-[dict(sova_rus_names_malefemale_instr)]-] *
+$ * с [-[dict(sova_rus_names_malefemale_instr)]-] {знаком~/зноком~} * 
+# Я с [&1] пока не знакома. А кто это? [%that_anchor="кто такой Вася"]
+
+
+
+// Знаешь Васю/Катю/Сашу?
+$ * [-[dict(sova_rus_names_male_acc)]-] {знаеш~/знаиш~/знаете/знаите} *
+$ * {знаеш~/знаиш~/знаете/знаите}  [-[dict(sova_rus_names_male_acc)]-]  *
+$ * [-[dict(sova_rus_names_female_acc)]-] {знаеш~/знаиш~/знаете/знаите} *
+$ * {знаеш~/знаиш~/знаете/знаите}  [-[dict(sova_rus_names_female_acc)]-]  *
+$ * [-[dict(sova_rus_names_malefemale_acc)]-] {знаеш~/знаиш~/знаете/знаите} *
+$ * {знаеш~/знаиш~/знаете/знаите}  [-[dict(sova_rus_names_malefemale_acc)]-]  *
+# Ой, нет, [&1] я пока не знаю. А кто это? [%that_anchor="кто такой Вася"]
+
+
+
++ %that_anchor="кто такой Вася"
+$ *
+# Интересно. А познакомь меня:)
+
+
+
++%that_anchor="познакомишь с Васей?" 
+$ с кем *
+# С [%var10] же. Я ж просила познакомить.
+
+
+
+// Хочешь познакомиться с Васей/Катей/Сашей?
+$ * [@cmb({[dict(sova_rus_want_2)]}, {[dict(sova_rus_gettoknow_imperf)]}, {с}, {[-[dict(sova_rus_names_male_instr)]-]})] *                                                         
+$ * [@cmb({[dict(sova_rus_want_2)]}, {[dict(sova_rus_gettoknow_perf)]}, {с}, {[-[dict(sova_rus_names_male_instr)]-]})] *                                                         
+$ * [@cmb({[dict(sova_rus_want_2)]}, {[dict(sova_rus_gettoknow_perf)]}, {с}, {[-[dict(sova_rus_names_female_instr)]-]})] *     
+$ * [@cmb({[dict(sova_rus_want_2)]}, {[dict(sova_rus_gettoknow_perf)]}, {с}, {[-[dict(sova_rus_names_female_instr)]-]})] *     
+$ * [@cmb({[dict(sova_rus_want_2)]}, {[dict(sova_rus_gettoknow_perf)]}, {с}, {[-[dict(sova_rus_names_malefemale_instr)]-]})] *
+$ * [@cmb({[dict(sova_rus_want_2)]}, {[dict(sova_rus_gettoknow_perf)]}, {с}, {[-[dict(sova_rus_names_malefemale_instr)]-]})] *
+# С [&1]? Конечно, хочу! Я очень люблю новые знакомства! 
+
+
+
+//  с Васей/Катей/Сашей
+$ * с [-[dict(sova_rus_names_male_instr)]-] *
+$ * с [-[dict(sova_rus_names_malefemale_instr)]-] *
+$ * с [-[dict(sova_rus_names_female_instr)]-]  *
+# О, познакомь меня с [&1]! Мне так нравится это имя:) 
+
+
+
+// Я люблю Васю
+$ * [dict(sova_rus_love_1)] [-[dict(sova_rus_names_male_acc)]-] *
+$ * [-[dict(sova_rus_names_male_acc)]-] *  [dict(sova_rus_love_1)] *
+$ * [dict(sova_rus_me_nom)] * {влюблен~/влюбил~/втюрил~/втрескал~} * в [-[dict(sova_rus_names_male_acc)]-] *
+# Ой, я рада за  [&1]. Он, наверное, красавчик:)  
+
+
+
+// Я люблю Катю
+$ * [dict(sova_rus_love_1)] [-[dict(sova_rus_names_female_acc)]-] *
+$ * [-[dict(sova_rus_names_female_acc)]-] *  [dict(sova_rus_love_1)] *
+$ * [dict(sova_rus_me_nom)] * {влюблен~/влюбил~/втюрил~/втрескал~} * в [-[dict(sova_rus_names_female_acc)]-] *
+# Я рада за эту твою  [&1]. Она, наверное, клевая! Такая же, как и я:)
+
+
+
+// Я люблю Сашу
+$ * [dict(sova_rus_love_1)] [-[dict(sova_rus_names_malefemale_acc)]-] *
+$ * [-[dict(sova_rus_names_malefemale_acc)]-] *  [dict(sova_rus_love_1)] *
+$ * [dict(sova_rus_me_nom)] * {влюблен~/влюбил~/втюрил~/втрескал~} * в [-[dict(sova_rus_names_malefemale_acc)]-] *
+# Я рада за  [&1];)
+
+
+
+// я дружу/общаюсь/встречаюсь с Васей/Катей/Сашей
+$ * {дружу/дружим/дружем/общаюс~/абщаюс~/общаемся/общаимся/встречаюс~/встречаемся/встричаюс~} * с [-[dict(sova_rus_names_female_instr)]-] *
+$ * {дружу/дружим/дружем/общаюс~/абщаюс~/общаемся/общаимся/встречаюс~/встречаемся/встричаюс~} * с [-[dict(sova_rus_names_male_instr)]-] *
+$ * {дружу/дружим/дружем/общаюс~/абщаюс~/общаемся/общаимся/встречаюс~/встречаемся/встричаюс~} * с [-[dict(sova_rus_names_malefemale_instr)]-] *
+# И как, интересно тебе  общаться с [&1]? [%var11="[&1]"] [%that_anchor="интересно общаться с Васей"]
+
+
+
++%that_anchor="интересно общаться с Васей"
+$ * [dict(sova_rus_yes)] * 
+$ * [dict(sova_rus_praise_good_nom)] * 
+$ * [dict(sova_rus_praise_funny)] * 
+$ * [dict(sova_rus_praise_nice_sweet_nom)] * 
+$ * [dict(sova_rus_appearance_great)] * 
+# Ну супер! Как я рада за вас с [%var11]!
+
+
+
++%that_anchor="интересно общаться с Васей"
+$ * [dict(sova_rus_no)] *
+$ * {не/ни} [dict(sova_rus_like_1)] *
+$ * {нелюбл~/нилюбл~} *
+$ * [dict(sova_rus_hate_1)] *
+$ не
+$ * [dict(sova_rus_bad)] *
+# Ну ладно, бывает, все люди такие разные. 
+
+
+

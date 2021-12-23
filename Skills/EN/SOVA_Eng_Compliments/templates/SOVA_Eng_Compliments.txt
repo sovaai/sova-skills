@@ -1,0 +1,36 @@
+//Tell me a compliment
+$ * compliment~ * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/hav~/giv~/mak~/say~/tell~/narrat~/need~\}}, {compliment~})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {compliment~})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {compliment~})] *
+$ * [@cmb({{say~/tell~/narrat~/need\}}, {{me/my/myself\}}, {[<dict(sova_eng_something)>]}, {[dict(sova_eng_good)]})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {{me/my/myself\}}, {[<dict(sova_eng_something)>]}, {[dict(sova_eng_good)]})] *
+# [udict(sova_eng_compliments)][%that_anchor="eng_compliments_more"]
+
+
+//More compliments
++%that_anchor="eng_compliments_more"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)] *
+# [udict(sova_eng_compliments)][%that_anchor="eng_compliments_more"]
+
+
+//A good compliment
++%that_anchor="eng_compliments_more"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_good)] *
+$ * [<dict(sova_eng_thanks)>] * {lik~/appreciat~/thank~/grateful~/touch~/lov~} *
+# My pleasure to tell the truth :)[%that_anchor="eng_compliments_more"]
+
+
+//You too
++%that_anchor="eng_compliments_more"
+$ * [<dict(sova_eng_thanks)>] * {too/also/as well/same/either/mutual~/reciproc~} *
+# Thank you![%that_anchor="eng_compliments_more"]
+
+
+//Enough
++%that_anchor="eng_compliments_more"
+$ * [@cmb({[<dict(sova_eng_thanks)>]}, {{compliment~/--\}}, {{enough/fed up/i'm done/stop/no more/finish/shut\}})] *
+# I guess I'd better stop :)
+
+
+

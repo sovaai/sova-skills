@@ -1,0 +1,290 @@
+﻿
+$ right 
+$ like this
+# Sure!
+
+
+
+$ * no *
+$ * no **
+# “No” it is then.
+
+
+
+$ * [dict(sova_eng_synonyms_yes)] *
+$ * [dict(sova_eng_synonyms_yes)] **
+# Yes, sure. 
+
+
+
+$ sure~
+$ {indisputable/doubtless/certain/decided/undoubted/apparent/incontrovertible/indubitable/irrefragable/questionless/inarguable/unarguable/unchallengeable/uncontestable/uncontested/undebatable/undisputed/incontestable} * 
+$ of course
+$ it stands to reason
+# Sure! 
+
+
+
+$ * {sorry/excuse me/exuse/regret/fault} *
+# Well, I'm not offended.
+
+
+
+$ * [dict(sova_eng_synonyms_good_2)] *
+# Sure!
+
+
+
+$ * [dict(sova_eng_synonyms_good_2)] * {?/??/???}
+# Super!
+
+
+
+$ * {right/ok} * {?/??/???}
+# Have no doubt!
+
+
+
+$ {~ok/~okay} *
+# OK, darling. 
+
+
+
+$ * wow *
+# I like it too.
+
+
+
+$ * {do not/don't} {love/like} [dict(sova_eng_pr_2)] *
+# I do not believe, everyone likes me. 
+
+
+
+$  you rock *
+# I should think so!
+
+
+
+$ * {poor fellow/wretch/poor beggar/poor devil/poor wretch/poor bastard/poor creature/poor soul/poor thing/poor you} *
+# It is just as well. 
+
+
+
+$ * badly * ?
+$ * {horrible/dreadful/awful/almighty} *?
+# I do not know what you're talking about.
+
+
+
+$ * do  [dict(sova_eng_pr_2)] understand *
+#Sure, babe!
+
+
+
+$ * {false~/lie/fable/flam/mendacity/untruth/lying/fabrication~} *
+$ * {false~/lie/fable/flam/mendacity/untruth/lying/fabrication~} **
+#  No way!
+
+
+
+$  {honest/of honor/fair/above board/downright/straight/straightforward/sincere/conscientious/true} ?
+# True!
+
+
+
+$ * really * ?
+# Absolutely!
+
+
+
+$ *  {really/possible/indeed} *
+# Sure!
+
+
+
+$ * seriously * ?
+# In dead earnest. 
+
+
+
+$ seriously
+# So goes the world...
+
+
+
+$ * {exact~/precise~/accurate~/punctual~/precision~/adequate~/specific~/strict~/stringent~/faithful~/correct~/definite~} ?
+# Absolutely!
+
+
+
+$ * {cut it out/hangup/shut up/shutup/be silent/keep quiet} *
+#  Rude fellow.
+
+
+
+$ * {blast off/Take a hike/screw you} *
+#  It makes you wanna spew!
+
+
+
+$ * i understand~ *
+# Thank God!
+
+
+
+$ * {exact~/precise~/accurate~/punctual~/precision~/adequate~/specific~/strict~/stringent~/faithful~/correct~} *
+# Exactly!
+
+
+
+$ * i see *
+# Well.
+
+
+
+$ * agree~ *
+# OK.
+
+
+
+$ * {do not/don't} agree *
+# It is always difficult to agree.
+
+
+
+$ * do you agree *
+# I do not know yet.
+
+
+
+$ *  {do not/don't} argue * 
+# Мy lips are sealed. 
+
+
+
+$ * {that is/that’s} {right/it} *
+# Oh, yeah!
+
+
+
+$ * {umph/hum/humph/hrmph} *
+# Hum.
+
+
+
+$ * there now *
+# Things happen.
+
+
+
+$ * {eh/ochone/doh/heh/hegh} *
+# Exactly!
+
+
+
+$ do you think *
+# I guess.
+
+
+
+$ meow~
+# Meow.
+
+
+
+$ * he-he *
+$ * he he *
+$ * ha ha *
+$ * ha-ha *
+$ * haha *
+$ * hi hi *
+$ * hi-hi *
+$ * hihi *
+# :-)
+
+
+
+$ * lol *
+$ * lol **
+# {:)))))/:)/:))}
+
+
+
+$ me too
+# My darling...
+
+
+
+$ * {i am/i'm} * {glad/pleased} *
+$ * glad to *
+# It's a pleasure for me. 
+
+
+
+$ things * happen *
+# Sure...
+
+
+
+$ * {for nothing/in vain/vainly/ for nought}  *
+# I think, not for nothing.
+
+
+
+$ * {not for nothing/for a reason} *
+#I couldn't agree more.
+
+
+
+$ * maybe * 
+# Maybe... 
+
+
+
+$ * possibly *
+# Certainly!
+
+
+
+$ * strange *
+# What is strange here?
+
+
+
+$ * {there is/there's} * need *
+$ * it needs to *
+# If it has to be done, it has to be done .
+
+
+
+$ * no need *
+$ * it need not *
+# As you wish.
+
+
+
+$ * guess *
+# This is no deal...
+
+
+
+$ * {eh/really/quotha/arrah/that is how/here is how/ah} *
+# You know it!!
+
+
+
+$ {hurray/hurrah/rah/viva/yippee/hip hip hurrah/yea/cheer/hooah} *
+# Hurray!
+
+
+
+$ * no problem~ *
+# That's fine!
+
+
+
+$  * {don't care/do not care/as you wish/whatever makes you happy/up to you/suit yourself/whatever/whatevs} *
+# OK.
+
+
+

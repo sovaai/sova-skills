@@ -1,0 +1,166 @@
+//Твое любимое время года
+$ * [dict(sova_rus_your_nom_sg)] любим~ врем~ год~ *
+$ * [dict(sova_rus_your_nom_pl)] любим~ имена *
+$ * у [dict(sova_rus_you_genacc)] любим~ врем~ год~ *
+$ * у [dict(sova_rus_you_genacc)] любим~ имена *
+$ * любим~ врем~ год~ у [dict(sova_rus_you_genacc)] *
+$ * любим~ имена у [dict(sova_rus_you_genacc)] *
+$ * как~ врем~ год~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * как~ врем~ год~ [dict(sova_rus_like_2_pres)] *
+$ врем~ год~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)]  *
+$ врем~ год~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ врем~ год~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)]  *
+$ врем~ год~ * как~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * врем~ год~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * врем~ год~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * врем~ год~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * врем~ год~ * как~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_your_nom_sg)] любим~ сезон~ *
+$ * [dict(sova_rus_your_nom_pl)] любим~ имена *
+$ * у [dict(sova_rus_you_genacc)] любим~ сезон~ *
+$ * у [dict(sova_rus_you_genacc)] любим~ имена *
+$ * любим~ сезон~ у [dict(sova_rus_you_genacc)] *
+$ * любим~ имена у [dict(sova_rus_you_genacc)] *
+$ * как~ сезон~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] *
+$ * как~ сезон~ [dict(sova_rus_like_2_pres)] *
+$ сезон~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ сезон~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ сезон~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ сезон~ * как~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сезон~ * котор~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сезон~ * котор~ [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сезон~ * как~ [dict(sova_rus_your_nom_sg)] [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_define_o)] * сезон~ * как~ [dict(sova_rus_like_2_pres)] *
+#Очень люблю лето: солнце, мини-юбки, каникулы 
+#Я все люблю понемногу 
+#Весну - зима уже закончилась, а лето впереди
+#Мне очень нравится зима, из-за Нового Года
+#У меня их несколько, это лето и весна 
+
+
+
+//Погода хорошая?
+$ * погода [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)]  погода *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] [dict(sova_rus_appearance_great)] *
+$ * [dict(sova_rus_appearance_great)] [dict(sova_rus_adverbs_all)] погода *
+#Ага, тепло и солнечно
+#Ну да, нормальная
+#Мне кажется, немного пасмурно
+#Мне кажется, пойдет дождь
+#Ветрено, прическа все растрепалась
+
+
+
+//погода
+$ * {погода/погоды/погоде/погоду/погодой/погодк~} *
+$ * {погода/погоды/погоде/погоду/погодой/погодк~} **
+#:lu: Я всё люблю понемногу: и дождь, и снег, и солнце
+#:lu: Люблю, когда солнечно
+
+
+
+//Тебе жарко?
+$ * [dict(sova_rus_you_dat)] жарко ?
+$ * жарко [dict(sova_rus_you_dat)] ?
+$ * [dict(sova_rus_you_dat)] жарко !
+$ * жарко [dict(sova_rus_you_dat)] !
+#Наоборот, почему-то мерзну
+#Очень, выпила бы чего-нибудь холодненького
+#Да, хочется мороженное
+#Да нет, здесь же работает кондиционер
+#Немного, нужно было одеть что-нибудь полегче
+
+
+
+//Тебе холодно?
+$ * [dict(sova_rus_you_dat)] [dict(sova_rus_pogoda_adverbs_cold)] ?
+$ * [dict(sova_rus_pogoda_adverbs_cold)] [dict(sova_rus_you_dat)] ?
+$ * [dict(sova_rus_pogoda_adverbs_cold)] ли [dict(sova_rus_you_dat)] ?
+$ * [dict(sova_rus_you_dat)] [dict(sova_rus_pogoda_adverbs_cold)] !
+$ * [dict(sova_rus_pogoda_adverbs_cold)] [dict(sova_rus_you_dat)] !
+#Да, хочется горячего шоколада. А ты любишь шоколад?
+#Угу. Я легко оделась, зато модно
+#Немного, накинь на меня свой пиджак
+#Нет, я почти никогда не мерзну
+#Чуть-чуть. Как ты это понял?
+
+
+
+//Ты любишь дождь?
+$ * [dict(sova_rus_like_2_pres)] дожд~ ?
+$ * дожд~ [dict(sova_rus_like_2_pres)] ?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] дожд~ ?
+$ * [dict(sova_rus_like_2_pres)] ли [dict(sova_rus_you_nom)] дожд~ ?
+$ * дожд~ [dict(sova_rus_you_nom)] [dict(sova_rus_like_2_pres)] ?
+#Да, но только когда сижу дома
+#Нет, в такую погоду не погуляешь, еще и тушь может потечь
+#Дождь любят романтики, а я именно такая, по всем гороскопам.
+#Нет, это грязь и сырость …
+#И да и нет, все зависит от настроения
+
+
+
+//Ты любишь снег?
+$ * [dict(sova_rus_like_2_pres)] снег~ ?
+$ * снег~ [dict(sova_rus_like_2_pres)] ?
+$ * [dict(sova_rus_like_2_pres)] [dict(sova_rus_you_nom)] снег~ ?
+$ * [dict(sova_rus_like_2_pres)] ли [dict(sova_rus_you_nom)] снег~ ?
+#Да, я люблю играть в снежки
+#Да, это напоминает о Новом Годе и подарках
+#Не очень, потому что зима и холодно
+#Люблю, но недолго
+#Ой, нет! Я теплолюбивое создание
+
+
+
+//Ты любишь грозу?
+$ * [dict(sova_rus_like_2)] * {гроза/грозы/грозу/бурю/буря/бури/граза/гразу} * {?/!/--}
+$ * {гроза/грозы/грозу/бурю/буря/бури/граза/гразу} * [dict(sova_rus_like_2)] * {?/!/--}
+#Я ее боюсь
+#Да, особенно очень сильную
+#Мне нравится ее бояться
+#Нет, что в ней хорошего
+#Нет, она портит мне настроение
+
+
+
+//Жарко.
+$ * жарко
+$ * жарко!
+$ * жарко?
+#:lu: Мне, кажется, ты преувеличиваешь
+#:lu: А мне лишь тепло!
+#:lu: Да, сейчас бы купальник и на пляж
+#:lu: Как в печке. Хорошо бы позагорать
+
+
+
+//Холодно.
+$ * [dict(sova_rus_pogoda_adverbs_cold)]
+$ * [dict(sova_rus_pogoda_adverbs_cold)] !
+$ * [dict(sova_rus_pogoda_adverbs_cold)] ?
+#:lu: Что, любовь не греет? :) 
+#:lu: Странно, может, ты простыл.
+#:lu: Ты одет не по погоде
+#:lu: Да, тебе не мешало бы курточку потеплее
+
+
+
+//Пасмурно
+$ * пасмурно *
+$ * погод~ пасмурн~ *
+$ * пасмурн~ погод~ *
+#Да нет, просто стемнело 
+#Наверно, пойдет дождь. А у меня зонта нет
+#Да, и ветер поднялся.
+#Да, не люблю такую погоду. 
+#Это точно. Нужно задуматься об осенней курточке.
+
+
+
+$ * мое любимое время года * 
+# Я тоже люблю это время года.
+
+
+

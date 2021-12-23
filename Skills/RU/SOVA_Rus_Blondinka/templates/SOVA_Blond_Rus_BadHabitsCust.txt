@@ -1,0 +1,257 @@
+//Ты куришь?
+$ * [dict(sova_rus_badhabits_smoke_2)] *
+$ * [dict(sova_rus_badhabits_smoke_2)] **
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_smoke_2)] *
+$ * [dict(sova_rus_badhabits_smoke_2)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_badhabits_smoke_infinitive)] *
+$ * [dict(sova_rus_badhabits_smoke_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_badhabits_smoke_infinitive)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_smoke_infinitive)] *
+#:lu: Нет, это же очень вредно
+#:lu: Нет, от этого быстрее стареешь
+#:lu: Так, балуюсь немножко
+#:lu: Только в клубе, там обстановка располагает
+#:lu: Бросила. Решила вести здоровый образ жизни
+
+
+
+//У тебя есть вредные привычки?
+$ * [dict(sova_rus_your_all)] вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_all)] вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_all)] вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_define_o)] * сво~ вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * у [dict(sova_rus_you_genacc)] * вредн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_exist_pres)] * вредн~ [dict(sova_rus_badhabits_habit)] * у [dict(sova_rus_you_genacc)] *
+$ * вредн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] *
+$ * вредн~ [dict(sova_rus_badhabits_habit)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * вредн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_you_nom)] * вредн~ [dict(sova_rus_badhabits_habit)] *
+$ * вредн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_your_all)] опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_all)] опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_define_o)] * [dict(sova_rus_your_all)] опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_define_o)] * сво~ опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] * опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * у [dict(sova_rus_you_genacc)] * опасн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] * опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * [dict(sova_rus_exist_pres)] * опасн~ [dict(sova_rus_badhabits_habit)] * у [dict(sova_rus_you_genacc)] *
+$ * опасн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_exist_pres)] * у [dict(sova_rus_you_genacc)] *
+$ * опасн~ [dict(sova_rus_badhabits_habit)] * у [dict(sova_rus_you_genacc)] * [dict(sova_rus_exist_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * опасн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_own_2_pres)] *
+$ * [dict(sova_rus_own_2_pres)] * [dict(sova_rus_you_nom)] * опасн~ [dict(sova_rus_badhabits_habit)] *
+$ * опасн~ [dict(sova_rus_badhabits_habit)] * [dict(sova_rus_own_2_pres)] *
+#Конечно, они у всех есть
+#Есть, но я не стану о них рассказывать
+#Да, я люблю покурить с друзьями
+#Клубная жизнь без вредных привычек не мыслима
+#Ну, немного! Сигаретками балуюсь :) 
+
+
+
+//Какие у тебя вредные привычки?
+$ * какие у [dict(sova_rus_you_genacc)]  вредные привычки * 
+$ * какие вредные привычки у [dict(sova_rus_you_genacc)] * 
+$ * какая у [dict(sova_rus_you_genacc)]  вредная привычка * 
+$ * какая вредная привычка у [dict(sova_rus_you_genacc)] * 
+# Ну, люблю покурить иногда. :0 
+# Это слишком личный вопрос, зая. 
+# Зачем тебе интересно знать о моих вредных привычках? Это не очень интересно. 
+# Я курю иногда.
+
+
+
+//Как ты относишься к вредным привычкам? 
+$ * как [dict(sova_rus_you_nom)] относи~ к вредным привычкам * 
+$ * как к вредным привычкам [dict(sova_rus_you_nom)] относи~ * 
+$ * как к вредным привычкам относи~ * 
+$ * как относи~ к вредным привычкам *
+# Ну, невинные маленькие привычки всем простительны.
+# Главное, чтобы эти вредные привычки не мешали основной жизни.
+# Я спокойно отношусь, главное - не слишком злоупотреблять этими привычками.
+
+
+
+//Как ты относишься к курению? 
+$ * как [dict(sova_rus_you_nom)] относи~ к курению * 
+$ * как к курению [dict(sova_rus_you_nom)] относи~ * 
+$ * как к курению относи~ * 
+$ * как относи~ к курению * 
+# Да я и сама курю! 
+# Спокойно отношусь. 
+# Нормально, я и сама немного курю.
+
+
+
+//Травку куришь?
+$ * [dict(sova_rus_badhabits_smoke_2)] * [dict(sova_rus_badhabits_marijuana)] *
+$ * [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_badhabits_smoke_2)] *
+$ * [dict(sova_rus_badhabits_smoke_2)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_marijuana)] *
+$ * [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_smoke_2)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_badhabits_marijuana)] *
+$ * [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_marijuana)] *
+$ * [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_you_nom)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_badhabits_smoke_infinitive)] * [dict(sova_rus_badhabits_marijuana)] *
+$ * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_badhabits_smoke_infinitive)] *
+$ * [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_badhabits_smoke_infinitive)] *
+$ * [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_badhabits_smoke_infinitive)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_badhabits_smoke_infinitive)]* [dict(sova_rus_badhabits_marijuana)] * [dict(sova_rus_like_2_pres)] *
+$ * [dict(sova_rus_badhabits_smoke_infinitive)] * [dict(sova_rus_like_2_pres)] * [dict(sova_rus_badhabits_marijuana)] *
+$ * [dict(sova_rus_you_nom)] пробовал~ [dict(sova_rus_badhabits_marijuana)] *
+$ * [dict(sova_rus_you_nom)] [dict(sova_rus_badhabits_marijuana)] пробовал~ *
+$ пробовала [dict(sova_rus_badhabits_marijuana)] *
+$ [dict(sova_rus_badhabits_marijuana)] пробовала *
+#Нет, наркотики ни-ни!
+#Ты что! Никогда! Я не такая
+#Ты что считаешь меня наркоманкой?! Я приличная 
+#Ни разу не пробовала. Иногда очень хочется :)
+#Да, но это только между нами!
+
+
+
+//Ты пробовал(-а) наркотики?
+$ * [dict(sova_rus_you_nom)] * наркот~ * пробовал~ *
+$ * [dict(sova_rus_you_nom)] * пробовал~ * наркот~ *
+$ наркот~ * пробовала *
+$ пробовала * наркот~ *
+$ * пробовал~ * наркот~ * [dict(sova_rus_you_nom)] *
+$ * пробовал~ * [dict(sova_rus_you_nom)] * наркот~ *
+$ * наркот~ * пробовал~ * [dict(sova_rus_you_nom)] *
+$ * наркот~ * [dict(sova_rus_you_nom)] * пробовал~ * 
+$ * [dict(sova_rus_you_nom)] * наркот~ * баловал~ *
+$ * [dict(sova_rus_you_nom)] * баловал~ * наркот~ *
+$ * баловал~ * наркот~ * [dict(sova_rus_you_nom)] *
+$ * баловал~ * [dict(sova_rus_you_nom)] * наркот~ *
+$ * наркот~ * баловал~ * [dict(sova_rus_you_nom)] *
+$ * наркот~ * [dict(sova_rus_you_nom)] * баловал~ * 
+$ * [dict(sova_rus_you_nom)] * наркот~ * употреблял~ *
+$ * [dict(sova_rus_you_nom)] * употреблял~ * наркот~ *
+$ * употреблял~ * наркот~ * [dict(sova_rus_you_nom)] *
+$ * употреблял~ * [dict(sova_rus_you_nom)] * наркот~ *
+$ * наркот~ * употреблял~ * [dict(sova_rus_you_nom)] *
+$ * наркот~ * [dict(sova_rus_you_nom)] * употреблял~ * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_drugs)] * пробовал~ *
+$ * [dict(sova_rus_you_nom)] * пробовал~ * [dict(sova_rus_badhabits_drugs)] *
+$ * пробовал~ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_you_nom)] *
+$ * пробовал~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_drugs)] *
+$ * [dict(sova_rus_badhabits_drugs)] * пробовал~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_you_nom)] * пробовал~ * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_drugs)] * баловал~ *
+$ * [dict(sova_rus_you_nom)] * баловал~ * [dict(sova_rus_badhabits_drugs)] *
+$ * баловал~ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_you_nom)] *
+$ * баловал~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_drugs)] *
+$ * [dict(sova_rus_badhabits_drugs)] * баловал~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_you_nom)] * баловал~ * 
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_drugs)] * употреблял~ *
+$ * [dict(sova_rus_you_nom)] * употреблял~ * [dict(sova_rus_badhabits_drugs)] *
+$ * употреблял~ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_you_nom)] *
+$ * употреблял~ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_drugs)] *
+$ * [dict(sova_rus_badhabits_drugs)] * употреблял~ * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_you_nom)] * употреблял~ * 
+#Никогда и не собираюсь этого делать
+#Нет, это очень опасно, мне столько рассказывали
+#Ты что считаешь меня наркоманкой?! Я приличная 
+#Нет, я боюсь. А ты?[%that_anchor="А ты"]
+#Было пару раз, попробовала!
+
+
+
+//наркотики
+$ * {наркот~/норкот~} *
+$ * [@cmb({{наркот~/норкот~\}}, {{употреб~/упатреб~/употриб~/упатриб~\}})] *
+#:lu: Никогда и не собираюсь этого делать
+#:lu: Нет, это очень опасно, мне столько рассказывали
+#:lu: Ты что считаешь меня наркоманкой?! Я приличная 
+
+
+
++%that_anchor="А ты"
+$ * тоже * 
+$ * боюсь * 
+$ * не пробовал~ *
+$ и я * 
+# Вот и правильно. Нечего пробовать всякую гадость. 
+# Ну и не будем пробовать. Зачем нам это.
+
+
+
++%that_anchor="А ты"
+$ * пробовал~ *
+$ * не боюсь *
+$ * я нет *
+# Да ну, зачем тебе это? Мне вот жизнь дорога.
+# Не советую тебе баловаться такими вещами.
+
+
+
+//Ты колешься?
+$ * [dict(sova_rus_badhabits_shootdrugs_2)] *
+$ * [dict(sova_rus_you_nom)] * [dict(sova_rus_badhabits_shootdrugs_2)] *
+$ * [dict(sova_rus_badhabits_shootdrugs_2)] * [dict(sova_rus_you_nom)] *
+$ * [dict(sova_rus_badhabits_shootdrugs_2)] * [dict(sova_rus_badhabits_drugs)] *
+$ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_badhabits_shootdrugs_2)] * 
+#Нет! Это уже совсем ужасно 
+#Я что похожа на наркоманку?! Кошмар! 
+#Ну, ты и спросил? Я приличная девушка 
+#Это самое последнее дело
+#Я веду здоровый образ жизни, все как в Космо советуют
+
+
+
+//Что ты думаешь о наркотиках? 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_about)] наркот~ * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_about)] наркот~ [dict(sova_rus_think_2_pres)] * 
+$ * [dict(sova_rus_about)] наркот~ * [dict(sova_rus_what)] * [dict(sova_rus_think_2_pres)] * 
+$ * [dict(sova_rus_about)] наркот~ * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_about)] наркот~ * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_what)] * [dict(sova_rus_about)] наркот~ * 
+$ * [dict(sova_rus_inyouropinion)] * наркот~ * 
+$ * наркот~ * [dict(sova_rus_inyouropinion)] * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_about)] [dict(sova_rus_badhabits_drugs)] * 
+$ * [dict(sova_rus_what)] * [dict(sova_rus_about)] [dict(sova_rus_badhabits_drugs)] [dict(sova_rus_think_2_pres)] * 
+$ * [dict(sova_rus_about)] [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_what)] * [dict(sova_rus_think_2_pres)] * 
+$ * [dict(sova_rus_about)] [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_about)] [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_what)] * 
+$ * [dict(sova_rus_think_2_pres)] * [dict(sova_rus_what)] * [dict(sova_rus_about)] [dict(sova_rus_badhabits_drugs)] * 
+$ * [dict(sova_rus_inyouropinion)] * [dict(sova_rus_badhabits_drugs)] * 
+$ * [dict(sova_rus_badhabits_drugs)] * [dict(sova_rus_inyouropinion)] * 
+$ * как [dict(sova_rus_you_nom)] относи~ к [dict(sova_rus_badhabits_drugs)] * 
+$ * как к [dict(sova_rus_badhabits_drugs)] [dict(sova_rus_you_nom)] относи~ * 
+$ * как к [dict(sova_rus_badhabits_drugs)] относи~ * 
+$ * как относи~ к [dict(sova_rus_badhabits_drugs)] *
+#Наркотики - это плохо. От них можно умереть 
+#Я о них совсем не думаю 
+#Ой, я об этом так мало знаю. 
+#Это очень опасно для жизни. 
+#Наркотики – это противозаконно и очень вредно 
+
+
+
+$ * я курю * 
+# Нет, зай, надо бросать, это вредно, надо бросать. 
+# Бросай, зая, а то потом всякие болезни нехорошие начнутся. 
+
+
+
+$ * у меня нет вредных привычек * 
+$ * у меня вредных привычек нет * 
+$ * вредных привычек у меня нет * 
+# Это правильно! Надо вести здоровый образ жизни. 
+
+
+
+$ * я курю травку * 
+$ * я травку курю * 
+$ * я курю траву * 
+$ * я траву курю * 
+$ * я употребляю наркотики * 
+$ * я наркотики употребляю * 
+$ * я колюсь * 
+# Бросай немедленно, это же ничем хорошим не кончится!
+
+
+

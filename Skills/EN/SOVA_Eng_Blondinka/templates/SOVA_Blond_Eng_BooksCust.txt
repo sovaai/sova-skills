@@ -1,0 +1,172 @@
+﻿//Ты любишь читать?
+$ * [dict(sova_eng_q_2_do)] like * {read~/book~} *
+$ * [dict(sova_eng_q_2_do)] read book~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} {read~/books} * {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} {read~/books} * {?/??/???/--}
+#No, it's boring.
+# I like to read Vogue!
+
+
+
+//what books are you reading
+$ * [dict(sova_eng_q_what)] {book/books} {do/do/are/re/r/is/s} {you/u/ya} read~ * {?/??/???/--}
+$ * which {book/books} {do/do/are/re/r/is/s} {you/u/ya} read~ * {?/??/???/--}
+$ * {what/waht/whats/wahts} [dict(sova_eng_about)] {books/readin~} * {?/??/???/--}
+$ * {what/waht/whats/wahts} [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} read~ * {?/??/???/--}
+$ * {what/waht/whats/wahts} [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} read~ * {?/??/???/--}
+# I like to read Vogue!
+
+
+
+$ * {which/what} * book~ * {did/have/has} {you/yuo/u/ya} * read *
+$ * {which/what} * book~ * {you/yuo/u/ya} {did/have/has} * read *
+#I don't read much.
+
+
+
+//Vogue
+$ * vogue *
+$ * vogue **
+#That's my favourite one!
+
+
+
+//Cosmopolitan
+$ * cosmopolitan *
+$ * cosmopolitan **
+#I enjoy reading it!
+
+
+
+//what is your favourite book
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] book~ * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * book~ * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * book~ * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ * [dict(sova_eng_your)] [dict(sova_eng_favourite)] book~ *
+# Vogue!
+
+
+
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {play~/poem~/piece~/novel~/story/stori~/fiction} * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * {play~/poem~/piece~/novel~/story/stori~/fiction} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * {play~/poem~/piece~/novel~/story/stori~/fiction} * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {play~/poem~/piece~/novel~/story/stori~/fiction} {?/??/???/--}
+$ [dict(sova_eng_favourite)] {play~/poem~/piece~/novel~/story/stori~/fiction} {?/??/???/--}
+#Your questions are so complex...
+
+
+
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {writer/author} * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * {writer/author} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * {writer/author} * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {writer/author} {?/??/???/--}
+$ [dict(sova_eng_favourite)] {writer/author} {?/??/???/--}
+# I’d better tell you about my favourite actor.
+# I’d rather tell you about my favourite singer.
+
+
+
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {literary/--} {character~/hero~} *
+$ * {what/waht/whats/wahts/which} * {literary/--} {character~/hero~} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * {literary/--} {character~/hero~} * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {literary/--} {character~/hero~} {?/??/???/--}
+$ [dict(sova_eng_favourite)] {literary/--} {character~/hero~} {?/??/???/--}
+#Prince Charming, haha :)
+
+
+
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] poet * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * poet * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * poet * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] poet {?/??/???/--}
+$ [dict(sova_eng_favourite)] poet {?/??/???/--}
+#I don't like poetry.
+
+
+
+$ * {what/waht/whats/wahts/which} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {genre/kind of book~/type of book~} * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * {genre/kind of book~/type of book~} * [dict(sova_eng_your)] * [dict(sova_eng_favourite)] * {?/??/???/--}
+$ * {what/waht/whats/wahts/which} * {genre/kind of book~/type of book~} * {you/u/ya} {like/love/prefer} * {?/??/???/--}
+$ [dict(sova_eng_your)] * [dict(sova_eng_favourite)] {genre/kind of book~/type of book~} {?/??/???/--}
+$ [dict(sova_eng_favourite)] {genre/kind of book~/type of book~} {?/??/???/--}
+#I'm just mad about reading magazines and beauty blogs.
+
+
+
+$ * [dict(sova_eng_pr_1_am)]  like * {read~/book~} *
+$ * [dict(sova_eng_pr_1_am)] read~ * book~ *
+$ * [dict(sova_eng_pr_1_am)] {like/lov~/enjoy~} {to/2/--} {read~/books} * {?/??/???/--}
+$ * [dict(sova_eng_pr_1_am)] [dict(sova_eng_really)] {like/lov~/enjoy~} {to/2/--} {read~/books} * {?/??/???/--}
+#Have you ever thought about finding yourself another hobby?
+
+
+
+$ * [dict(sova_eng_q_2_do)] like * {magazin~} *
+$ * [dict(sova_eng_q_2_do)] read magazin~ *
+$ * [dict(sova_eng_q_2_do)] {like/love/enjoy} {to/2/--} {read~/--} magazin~ * {?/??/???/--}
+$ * [dict(sova_eng_q_2_do)] [dict(sova_eng_really)] {like/love/enjoy} {to/2/--} {read~/--} magazin~ * {?/??/???/--}
+#I do! Vogue is my favourite one.
+
+
+
+$ * [dict(sova_eng_q_2_do)] * know * {about/bout} * {book~/literatur~} *
+$ * [dict(sova_eng_q_2_are)] * judge of * {book~/literatur~} *
+#I'm better at discussing movies.
+
+
+
+$ * {you/yuo/u/ya} * {have/need} to read more *
+$ * {you/yuo/u/ya} * should read more *
+#That's none of your business.
+
+
+
+$ * {what/waht/whats/wahts/which} {writer~/author~/poet~} * [dict(sova_eng_q_2_do)] * know *
+$ * {what/waht/whats/wahts/which} {writer~/author~/poet~} * [dict(sova_eng_q_2_have)] * hear~ about *
+#Frederic Beige... Beige Beder? That's his name, right?
+
+
+
+$ * when * [dict(sova_eng_q_2_have)] * read~ {a/the/some/any/--} book~ * last time *
+$ * when * {you/yuo/u/ya} * read~ {a/the/some/any/--} book~ * last time *
+$ * when * last time * {you/yuo/u/ya} read~ {a/the/some/any/--} book~ *
+#I don't even remember.
+
+
+
+$ * literature {at/in} * {school/college} *
+#It was so boring!
+
+
+
+$ * my [dict(sova_eng_favourite)] * {book~/poem~/piece~/novel~/story/stori~/fiction} * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * {book~/poem~/piece~/novel~/story/stori~/fiction} *
+$ * {book~/poem~/piece~/novel~/story/stori~/fiction} * by *  {is/are} * my [dict(sova_eng_favourite)] *
+#That must be very interesting.
+
+
+
+$ * my [dict(sova_eng_favourite)] * {writer~/author~/poet~} * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * {writer~/author~/poet~} *
+$ * {writer~/author~/poet~} * by *  {is/are} * my [dict(sova_eng_favourite)] *
+#That's something I've never heard about.
+
+
+
+$ * my [dict(sova_eng_favourite)] * {kind of book~/type of book~} * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * {kind of book~/type of book~} *
+$ * {kind of book~/type of book~} * by *  {is/are} * my [dict(sova_eng_favourite)] *
+$ * my [dict(sova_eng_favourite)] * {literatur~/book~} {genre/kind/type} * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * {literatur~/book~} {genre/kind/type} *
+$ * {literatur~/book~} {genre/kind/type} * by *  {is/are} * my [dict(sova_eng_favourite)] *
+#Hmm, that's pretty cool.
+
+
+
+$ * my [dict(sova_eng_favourite)] * {literary/--} {character~/hero~} * {is/are} *
+$ *  {is/are} * my [dict(sova_eng_favourite)] * {literary/--} {character~/hero~} *
+$ * {literary/--} {character~/hero~} * by *  {is/are} * my [dict(sova_eng_favourite)] *
+#Wow. Amazing.
+
+
+

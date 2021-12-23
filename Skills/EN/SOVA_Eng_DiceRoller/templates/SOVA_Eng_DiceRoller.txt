@@ -1,0 +1,25 @@
+//Roll the dice
+$ * [@cmb({{roll~/hit~/throw~/toss~\}}, {dice})] *
+#You've got: [@Random( "1", "6")].[%that_anchor="dice_again"]
+
+
+//Roll the dice again
++%that_anchor="dice_again"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)]} *
+$ * [<dict(sova_eng_thanks)>] * {redo~/retoss~/repeat~/iterat~} *
+#You've got: [@Random( "1", "6")].[%that_anchor="dice_again"]
+
+
+//Roll 2 dices
+$ * [@cmb({{roll~/hit~/throw~/toss~\}}, {dice~}, {{2/two/couple/both/twice\}})] *
+#You've got: [@Random( "2", "12")].[%that_anchor="dice_again2"]
+
+
+//Roll 2 dices again
++%that_anchor="dice_again2"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)]} *
+$ * [<dict(sova_eng_thanks)>] * {redo~/retoss~/repeat~/iterat~} *
+#You've got: [@Random( "2", "12")].[%that_anchor="dise_again2"]
+
+
+
