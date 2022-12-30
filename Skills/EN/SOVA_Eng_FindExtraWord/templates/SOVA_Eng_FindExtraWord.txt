@@ -1,0 +1,191 @@
+//find extra word
+$ * [@cmb({{play~/start~/let~/--\}}, {{what/which/find~/found~/out~/letout~/choos~/chos~/choic~/select~/pick~/extract~/take~\}}, {{extra~/alias~/alien~/odd~/excess/differ~\}})] *
+#:lu:Find the odd one:[br][udict(sova_eng_fruits_ul)] [udict(sova_eng_fruits_ul)] [udict(sova_eng_vegetables_ul)] [udict(sova_eng_fruits_ul)][%that_anchor="fruits"]
+#:lu:Find the odd one:[br][udict(sova_eng_vegetables_ul)] [udict(sova_eng_vegetables_ul)] [udict(sova_eng_vegetables_ul)] [udict(sova_eng_fruits_ul)][%that_anchor="vegetables"]
+#:lu:Find the odd one:[br][udict(sova_eng_predators_ul)] [udict(sova_eng_herbivores_ul)] [udict(sova_eng_herbivores_ul)] [udict(sova_eng_herbivores_ul)][%that_anchor="herbivores"]
+#:lu:Find the odd one:[br][udict(sova_eng_predators_ul)] [udict(sova_eng_herbivores_ul)] [udict(sova_eng_predators_ul)] [udict(sova_eng_predators_ul)][%that_anchor="predators"]
+#:lu:Find the odd one:[br][udict(sova_eng_stars_ul)] [udict(sova_eng_stars_ul)] [udict(sova_eng_stars_ul)] [udict(sova_eng_planets_ul)][%that_anchor="stars"]
+#:lu:Find the odd one:[br][udict(sova_eng_stars_ul)] [udict(sova_eng_planets_ul)] [udict(sova_eng_planets_ul)] [udict(sova_eng_planets_ul)][%that_anchor="planets"]
+#:lu:Find the odd one:[br][udict(sova_eng_birds_ul)] [udict(sova_eng_birds_ul)] [udict(sova_eng_fishes_ul)] [udict(sova_eng_birds_ul)][%that_anchor="birds"]
+#:lu:Find the odd one:[br][udict(sova_eng_fishes_ul)] [udict(sova_eng_birds_ul)] [udict(sova_eng_fishes_ul)] [udict(sova_eng_fishes_ul)][%that_anchor="fishes"]
+#:lu:Find the odd one:[br][udict(sova_eng_arachnides_ul)] [udict(sova_eng_arachnides_ul)] [udict(sova_eng_arachnides_ul)] [udict(sova_eng_insects_ul)][%that_anchor="arachnides"]
+#:lu:Find the odd one:[br][udict(sova_eng_insects_ul)] [udict(sova_eng_arachnides_ul)] [udict(sova_eng_insects_ul)] [udict(sova_eng_insects_ul)][%that_anchor="insects"]
+#:lu:Find the odd one:[br][udict(sova_eng_conifer_ul)] [udict(sova_eng_conifer_ul)] [udict(sova_eng_conifer_ul)] [udict(sova_eng_leaved_ul)][%that_anchor="conifer"]
+#:lu:Find the odd one:[br][udict(sova_eng_leaved_ul)] [udict(sova_eng_conifer_ul)] [udict(sova_eng_leaved_ul)] [udict(sova_eng_leaved_ul)][%that_anchor="leaved"]
+
+
+
+//find extra word again
++%that_anchor="find extra again"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_yes)] *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)] *
+$ * [@cmb({{play~/start~/let~/--\}}, {{what/which/find~/found~/out~/letout~/choos~/chos~/choic~/select~/pick~/extract~/take~\}}, {{extra~/alias~/alien~/odd~/excess/differ~\}})] *
+#:lu:Find the odd one:[br][udict(sova_eng_fruits_ul)] [udict(sova_eng_fruits_ul)] [udict(sova_eng_vegetables_ul)] [udict(sova_eng_fruits_ul)][%that_anchor="fruits"]
+#:lu:Find the odd one:[br][udict(sova_eng_vegetables_ul)] [udict(sova_eng_vegetables_ul)] [udict(sova_eng_vegetables_ul)] [udict(sova_eng_fruits_ul)][%that_anchor="vegetables"]
+#:lu:Find the odd one:[br][udict(sova_eng_predators_ul)] [udict(sova_eng_herbivores_ul)] [udict(sova_eng_herbivores_ul)] [udict(sova_eng_herbivores_ul)][%that_anchor="herbivores"]
+#:lu:Find the odd one:[br][udict(sova_eng_predators_ul)] [udict(sova_eng_herbivores_ul)] [udict(sova_eng_predators_ul)] [udict(sova_eng_predators_ul)][%that_anchor="predators"]
+#:lu:Find the odd one:[br][udict(sova_eng_stars_ul)] [udict(sova_eng_stars_ul)] [udict(sova_eng_stars_ul)] [udict(sova_eng_planets_ul)][%that_anchor="stars"]
+#:lu:Find the odd one:[br][udict(sova_eng_stars_ul)] [udict(sova_eng_planets_ul)] [udict(sova_eng_planets_ul)] [udict(sova_eng_planets_ul)][%that_anchor="planets"]
+#:lu:Find the odd one:[br][udict(sova_eng_birds_ul)] [udict(sova_eng_birds_ul)] [udict(sova_eng_fishes_ul)] [udict(sova_eng_birds_ul)][%that_anchor="birds"]
+#:lu:Find the odd one:[br][udict(sova_eng_fishes_ul)] [udict(sova_eng_birds_ul)] [udict(sova_eng_fishes_ul)] [udict(sova_eng_fishes_ul)][%that_anchor="fishes"]
+#:lu:Find the odd one:[br][udict(sova_eng_arachnides_ul)] [udict(sova_eng_arachnides_ul)] [udict(sova_eng_arachnides_ul)] [udict(sova_eng_insects_ul)][%that_anchor="arachnides"]
+#:lu:Find the odd one:[br][udict(sova_eng_insects_ul)] [udict(sova_eng_arachnides_ul)] [udict(sova_eng_insects_ul)] [udict(sova_eng_insects_ul)][%that_anchor="insects"]
+#:lu:Find the odd one:[br][udict(sova_eng_conifer_ul)] [udict(sova_eng_conifer_ul)] [udict(sova_eng_conifer_ul)] [udict(sova_eng_leaved_ul)][%that_anchor="conifer"]
+#:lu:Find the odd one:[br][udict(sova_eng_leaved_ul)] [udict(sova_eng_conifer_ul)] [udict(sova_eng_leaved_ul)] [udict(sova_eng_leaved_ul)][%that_anchor="leaved"]
+
+
+
++%that_anchor="find extra again"
+$ * [<dict(sova_eng_thanks)>] * [<dict(sova_eng_again)>] * [dict(sova_eng_no)] *
+# It was not bad, right?!
+
+
++%that_anchor="find extra again"
+$ * [<dict(sova_eng_thanks)>] * [<dict(sova_eng_again)>] * [dict(sova_eng_no)] *
+# It was not bad, was it?!
+
+
++%that_anchor="fruits"
+$ [dict(sova_eng_fruits)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="fruits"
+$ [-[dict(sova_eng_vegetables)]-]
+# Turific: [&1] is a vegetable, the others are fruits. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="vegetables"
+$ [dict(sova_eng_vegetables)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="vegetables"
+$ [-[dict(sova_eng_fruits)]-]
+# Greate: [&1] is a fruit, the others are vegetables. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="herbivores"
+$ [dict(sova_eng_herbivores)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="herbivores"
+$ [-[dict(sova_eng_predators)]-]
+# Amazingly so: [&1] is a predator, the others are herbivores. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="predators"
+$ [dict(sova_eng_predators)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="predators"
+$ [-[dict(sova_eng_herbivores)]-]
+# Right: [&1] is a herbivore, the others are predators. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="stars"
+$ [dict(sova_eng_stars)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="stars"
+$ [-[dict(sova_eng_planets)]-]
+# Correct: [&1] is a planet, the others are stars. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="planets"
+$ [dict(sova_eng_planets)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="planets"
+$ [-[dict(sova_eng_stars)]-]
+# Sure: [&1] is a star, the others are planets. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="birds"
+$ [dict(sova_eng_birds)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="birds"
+$ [-[dict(sova_eng_fishes)]-]
+# Definitely so: [&1] is a fish, the others are birds. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="fishes"
+$ [dict(sova_eng_fishes)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="fishes"
+$ [-[dict(sova_eng_birds)]-]
+# True: [&1] is a bird, the others are fishes. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="arachnides"
+$ [dict(sova_eng_arachnides)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="arachnides"
+$ [-[dict(sova_eng_insects)]-]
+# Smart you are: [&1] is an insect, the others belong to arachnides. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="insects"
+$ [dict(sova_eng_insects)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="insects"
+$ [-[dict(sova_eng_arachnides)]-]
+# Genious: [&1] belongs to arachnides, the others are insects. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="conifer"
+$ [dict(sova_eng_conifer)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="conifer"
+$ [-[dict(sova_eng_leaved)]-]
+# Fairly right: [&1] is a leaved tree, the others belong to conifer. Let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="leaved"
+$ [dict(sova_eng_leaved)]
+# It's a miss, let's play again? [%that_anchor="find extra again"]
+
+
+
++%that_anchor="leaved"
+$ [-[dict(sova_eng_conifer)]-]
+# Brilliant: [&1] belongs to conifer, the others are leaved trees. Let's play again? [%that_anchor="find extra again"]
+
+
+

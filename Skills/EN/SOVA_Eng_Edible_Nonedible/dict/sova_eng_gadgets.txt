@@ -1,0 +1,12 @@
+tablet
+smartphone
+telephone
+computer
+headphone
+loudspeaker
+printer
+pager
+laptop
+
+
+

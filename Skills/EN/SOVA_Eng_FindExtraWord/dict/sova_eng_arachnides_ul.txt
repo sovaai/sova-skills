@@ -1,0 +1,12 @@
+<userlink>spider</userlink>
+<userlink>scorpion</userlink>
+<userlink>mite</userlink>
+<userlink>amblypygid</userlink>
+<userlink>solifuga</userlink>
+<userlink>schizomid</userlink>
+<userlink>thelyphonid</userlink>
+<userlink>palpigrade</userlink>
+<userlink>pseudoscorpion</userlink>
+<userlink>opilion</userlink>
+
+

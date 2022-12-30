@@ -1,0 +1,15 @@
+cucumber
+tomato
+potato
+cabbage
+zucchini
+aubergine
+pattison
+paprika
+pumkin
+carrot
+beet
+onion
+garlic
+
+

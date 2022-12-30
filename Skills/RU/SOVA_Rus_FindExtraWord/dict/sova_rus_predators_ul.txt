@@ -1,0 +1,13 @@
+<userlink>медведь</userlink>
+<userlink>гепард</userlink>
+<userlink>тигр</userlink>
+<userlink>гиена</userlink>
+<userlink>леопард</userlink>
+<userlink>пума</userlink>
+<userlink>пантера</userlink>
+<userlink>волк</userlink>
+<userlink>лиса</userlink>
+<userlink>лев</userlink>
+
+
+

@@ -1,0 +1,154 @@
+//Dante Alighieri
+$ * Dante *
+$ Dante Alighieri
+# Dante Alighieri (1265 – 1321), often referred to as Dante, was an Italian poet, writer and philosopher. His [inf]{Divine Comedy}, originally called Comedìa, is widely considered one of the most important poems of the Middle Ages and the greatest literary work in the Italian language.
+
+
+
+//Dante Alighieri — The Divine Comedy
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Divine Comed~})] *
+$ Divine Comedy
+# The Divine Comedy is an Italian narrative poem by [inf]{Dante Alighieri}, begun c. 1308 and completed in 1320, a year before his death in 1321. It is widely considered the pre-eminent work in Italian literature and one of the greatest works of world literature.
+
+
+
+//Jane Austen
+$ * Austen *
+$ Jane Austen
+# Jane Austen (1775 – 1817) was an English novelist known primarily for her six major novels, which interpret, critique, and comment upon the British landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage in the pursuit of favourable social standing and economic security. Her works critique the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism. With the publication of the four novels including [inf]{Pride and Prejudice} (1813), she achieved modest success but only little fame in her lifetime since the books were published anonymously.
+
+
+
+//Jane Austen — Pride and Prejudice 	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Pride * Prejudice})] *
+$ Pride and Prejudice
+# Pride and Prejudice is an 1813 novel of manners by [inf]{Jane Austen}. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness. 
+
+
+
+//Miguel de Cervantes
+$ * Cervantes *
+$ Miguel de Cervantes
+# Miguel de Cervantes Saavedra (1547 (assumed) – 1616) was an Early Modern Spanish writer widely regarded as the greatest writer in the Spanish language and one of the world's pre-eminent novelists. He is best known for his novel [inf]{Don Quixote}, a work often cited as both the first modern novel and one of the pinnacles of world literature.
+
+
+
+//Miguel de Cervantes — Don Quixote 	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Don Quixote})] *
+$ Don Quixote
+# Don Quixote is a Spanish epic novel by [inf]{Miguel de Cervantes}. Originally published in two parts, in 1605 and 1615, its full title is The Ingenious Gentleman Don Quixote of La Mancha. A founding work of Western literature, it is often labelled as the first modern novel and one of the greatest works ever written. Don Quixote is also one of the most-translated books in the world.
+
+
+
+//Geoffrey Chaucer
+$ * Chaucer *
+$ Geoffrey Chaucer
+# Geoffrey Chaucer (c.1340s – 1400) was an English poet, author, and civil servant best known for [inf]{The Canterbury Tales}. He has been called the "father of English literature", or, alternatively, the "father of English poetry". He was the first writer to be buried in what has since come to be called Poets' Corner, in Westminster Abbey. Chaucer also gained fame as a philosopher and astronomer.
+
+
+
+//Geoffrey Chaucer — The Canterbury Tales	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Canterbury Tale~})] *
+$ The Canterbury Tales
+# The Canterbury Tales is a collection of twenty-four stories that runs to over 17,000 lines written in Middle English by [inf]{Geoffrey Chaucer} between 1387 and 1400. It is widely regarded as Chaucer's magnum opus. The tales (mostly written in verse, although some are in prose) are presented as part of a story-telling contest by a group of pilgrims as they travel together from London to Canterbury to visit the shrine of Saint Thomas Becket at Canterbury Cathedral. The prize for this contest is a free meal at the Tabard Inn at Southwark on their return. 
+
+
+
+//Charles Dickens
+$ * Dickens *
+$ Charles Dickens
+# Charles John Huffam Dickens (/ˈdɪkɪnz/&#59 7 February 1812 – 9 June 1870) was an English writer and social critic. He created some of the world's best-known fictional characters and is regarded by many as the greatest novelist of the Victorian era. His works enjoyed unprecedented popularity during his lifetime and, by the 20th century, critics and scholars had recognised him as a literary genius. His novels and short stories are widely read today. His novels [inf]{Oliver Twist} and [inf]{Great Expectations} remain especially popular and continues to inspire adaptations in every artistic genre.
+
+
+
+//Charles Dickens — Oliver Twist	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Oliver Twist})] *
+$ Oliver Twist
+# Oliver Twist, or the Parish Boy's Progress, [inf]{Charles Dickens}'s second novel, was published as a serial from 1837 to 1839, and as a three-volume book in 1838.
+
+
+
+//Charles Dickens — Great Expectations	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Great Expectations})] *
+$ Great Expectations
+# Great Expectations is the thirteenth novel by [inf]{Charles Dickens} and his penultimate completed novel. It depicts the education of an orphan nicknamed Pip (the book is a bildungsroman&#59 a coming-of-age story).
+
+
+
+//George Orwell
+$ * Orwell *
+$ George Orwell
+# Eric Arthur Blair (1903 – 1950), better known by his pen name George Orwell, was an English novelist, essayist, journalist, and critic. His work is characterised by lucid prose, social criticism, opposition to totalitarianism, and support of democratic socialism. Orwell produced literary criticism, poetry, fiction and polemical journalism. He is known for the dystopian novel [inf]{Nineteen Eighty-Four} (1949).
+
+
+
+//George Orwell — Nineteen Eighty-Four	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {{1984/Nineteen Eighty-Four\}})] *
+$ Nineteen Eighty-Four
+# Nineteen Eighty-Four (also stylised as 1984) is a dystopian social science fiction novel and cautionary tale written by the English writer [inf]{George Orwell}. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society. Orwell, a democratic socialist, modelled the authoritarian state in the novel on Stalinist Russia and Nazi Germany. More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated.
+
+
+
+//Marcel Proust
+$ * Proust *
+$ Marcel Proust
+# Valentin Louis Georges Eugène Marcel Proust (1871 – 1922) was a French novelist, critic, and essayist who wrote the monumental novel [inf]{In Search of Lost Time}, originally published in French in seven volumes between 1913 and 1927. He is considered by critics and writers to be one of the most influential authors of the 20th century.
+
+
+
+//Marcel Proust — In Search of Lost Time	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {In Search of Lost Time})] *
+$ In Search of Lost Time
+# In Search of Lost Time (French: À la recherche du temps perdu), first translated into English as Remembrance of Things Past, and sometimes referred to in French as La Recherche (The Search), is a novel in seven volumes by French author [inf]{Marcel Proust}. This early 20th-century work is his most prominent, known both for its length and its theme of involuntary memory.
+
+
+
+//William Shakespeare
+$ * Shakespeare *
+$ William Shakespeare
+# William Shakespeare (1564 – 1616) was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon" (or simply "the Bard"). His extant works, including collaborations, consist of some 39 plays, 154 sonnets, three long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed more often than those of any other playwright. He remains arguably the most influential writer in the English language, and his works continue to be studied and reinterpreted. He then wrote mainly tragedies until 1608, among them [inf]{Hamlet}, [inf]{Romeo and Juliet}, all considered to be among the finest works in the English language.
+
+
+
+//William Shakespeare — Hamlet	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Hamlet})] *
+$ Hamlet
+# The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet, is a tragedy written by [inf]{William Shakespeare} sometime between 1599 and 1601. It is Shakespeare's longest play, with 29,551 words. Hamlet is considered among the "most powerful and influential tragedies in the English language", with a story capable of "seemingly endless retelling and adaptation by others".
+
+
+
+//William Shakespeare — Romeo and Juliet	
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Romeo and Juliet})] *
+$ Romeo and Juliet
+# Romeo and Juliet is a tragedy written by [inf]{William Shakespeare} early in his career about the romance between two Italian youths from fueding families. It was among Shakespeare's most popular plays during his lifetime and, along with [inf]{Hamlet}, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers. 
+
+
+
+//Jonathan Swift
+$ * Swift *
+$ Jonathan Swift
+# Jonathan Swift (1667 – 1745) was an Anglo-Irish satirist, author, essayist, political pamphleteer, poet, and Anglican cleric who became Dean of St Patrick's Cathedral, Dublin, hence his common sobriquet, "Dean Swift". Swift is remembered for his outstanding works e.g. [inf]{Travels of Gulliver} (1726). He is regarded by the Encyclopædia Britannica as the foremost prose satirist in the English language.
+
+
+
+//Jonathan Swift — Gulliver's Travels
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {Gulliver~}, {Travel~})] *
+$ Travels of Gulliver
+# Gulliver's Travels, or Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships is a 1726 prose satire by [inf]{Jonathan Swift}, satirising both human nature and the "travellers' tales" literary subgenre. It is Swift's best known full-length work, and a classic of English literature. Swift claimed that he wrote Gulliver's Travels "to vex the world rather than divert it". The book was an immediate success. 
+
+
+
+//Herman Melville
+$ * Melvil~ *
+$ Herman Melville
+# Herman Melville (born Melvill; 1819 – 1891) was an American novelist, short story writer, and poet of the American Renaissance period. Among his best-known works  is [inf]{Moby-Dick} (1851).
+
+
+
+//Herman Melville — Moby-Dick
+$ * [@cmb({{author~/writ~/creat~/poem~/poet~/roman~/novel~/dram~/traged~/comed~/litera~/work~/narrat~/--\}}, {{Moby Dick/mobydick\}})] *
+$ Moby-Dick
+# Moby-Dick&#59 or, The Whale is an 1851 novel by American writer [inf]{Herman Melville}. The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge against Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee. A contribution to the literature of the American Renaissance, Moby-Dick was published to mixed reviews, was a commercial failure, and was out of print at the time of the author's death in 1891. Its reputation as a "Great American Novel" was established only in the 20th century, after the 1919 centennial of its author's birth.
+
+
+

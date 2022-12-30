@@ -1,0 +1,72 @@
+//edible-non-edible
+$ * edible * {non-edible/nonedible} *
+$ * [@cmb({{play~/start~/let~/--\}}, {{what/which/find~/found~/out~/letout~/choos~/chos~/choic~/select~/pick~/extract~/take~\}}, {{edible/non-edible/nonedible\}})] *
+# Ok, let's play! [ExtendAnswer("sova_eng_edible_nonedible")]
+
+
+
+//edible-non-edible
+--Label sova_eng_edible_nonedible
+$ sovaengediblenonedible
+#:lu: What is edible here:[br][udict(sova_eng_utensils_ul)] [udict(sova_eng_gadgets_ul)] [udict(sova_eng_vegetables_ul)]  [udict(sova_eng_furniture_ul)][%that_anchor="edible"]
+#:lu:What is non-edible here:[br][udict(sova_eng_vegetables_ul)]  [udict(sova_eng_desserts_ul)] [udict(sova_eng_furniture_ul)]  [udict(sova_eng_fruits_ul)][%that_anchor="nonedible"]
+#:lu:What is edible here:[br][udict(sova_eng_furniture_ul)] [udict(sova_eng_gadgets_ul)] [udict(sova_eng_fruits_ul)]  [udict(sova_eng_utensils_ul)][%that_anchor="edible"]
+#:lu:What is non-edible here:[br][udict(sova_eng_desserts_ul)] [udict(sova_eng_gadgets_ul)] [udict(sova_eng_fruits_ul)]  [udict(sova_eng_vegetables_ul)][%that_anchor="nonedible"]
+#:lu:What is edible here:[br][udict(sova_eng_utensils_ul)] [udict(sova_eng_desserts_ul)] [udict(sova_eng_furniture_ul)]  [udict(sova_eng_gadgets_ul)][%that_anchor="edible"]
+#:lu:What is non-edible here:[br][udict(sova_eng_utensils_ul)] [udict(sova_eng_fruits_ul)] [udict(sova_eng_vegetables_ul)]  [udict(sova_eng_desserts_ul)][%that_anchor="nonedible"]
+
+
+
+//edible-non-edible
++%that_anchor="more edible-nonedible"
+$ * [<dict(sova_eng_thanks)>] * {repeat~/restart~/replay~/redo~} *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)] *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_yes)] *
+$ * edible * {non-edible/nonedible} *
+$ * [@cmb({{play~/start~/let~/--\}}, {{what/which/find~/found~/out~/letout~/choos~/chos~/choic~/select~/pick~/extract~/take~\}}, {{edible/non-edible/nonedible\}})] *
+#[ExtendAnswer("sova_eng_edible_nonedible")]
+
+
+
+//edible-non-edible
++%that_anchor="nonedible"
+$ [dict(sova_eng_fruits)]
+$ [dict(sova_eng_vegetables)]
+$ [dict(sova_eng_desserts)]
+# I guess, it's a wrong choice, want to try again? [%that_anchor="more edible-nonedible"]
+
+
+
+//edible-non-edible
++%that_anchor="nonedible"
+$ [udict(sova_eng_furniture)]
+$ [dict(sova_eng_gadgets)]
+$ [dict(sova_eng_utensils)]
+# Exactly! Playing again? [%that_anchor="more edible-nonedible"]
+
+
+
+//edible-non-edible
++%that_anchor="edible"
+$ [dict(sova_eng_fruits)]
+$ [dict(sova_eng_vegetables)]
+$ [dict(sova_eng_desserts)]
+# Right you are! Want to play again? [%that_anchor="more edible-nonedible"]
+
+
+
+//edible-non-edibleе
++%that_anchor="edible"
+$ [udict(sova_eng_furniture)]
+$ [dict(sova_eng_gadgets)]
+$ [dict(sova_eng_utensils)]
+# It's a mistake, let's try again? [%that_anchor="more edible-nonedible"]
+
+
+
++%that_anchor="more edible-nonedible"
+$ * [<dict(sova_eng_thanks)>] * [<dict(sova_eng_again)>] * [dict(sova_eng_no)] *
+# It was not bad, right?!
+
+
+

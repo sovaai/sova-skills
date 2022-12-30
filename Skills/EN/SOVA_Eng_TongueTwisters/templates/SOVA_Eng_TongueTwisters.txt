@@ -1,0 +1,19 @@
+//Give a tongue twister
+--Label sova_eng_tonguetwisters
+
+$ * {tonguetwister~/tongue twister~/diction~/logoped~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/say~/hav~/tell~/narrat~/giv~/mak~\}}, {{tonguetwister~/tongue twister~/diction~/logoped~\}})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {{tonguetwister~/tongue twister~/diction~/logoped~\}})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {{tonguetwister~/tongue twister~/diction~/logoped~\}})] *
+
+# [udict(sova_eng_tonguetwisters)] [%that_anchor="eng_tonguetwisters_more"]
+
+
+//More tongue twisters
++%that_anchor="eng_tonguetwisters_more"
+
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]}, {{tonguetwister~/tongue twister~/diction~/logoped~/--\}})] *
+
+# [udict(sova_eng_tonguetwisters)] [%that_anchor="eng_tonguetwisters_more"]
+
+

@@ -1,0 +1,15 @@
+<userlink>яблоко</userlink>
+<userlink>банан</userlink>
+<userlink>апельсин</userlink>
+<userlink>виноград</userlink>
+<userlink>груша</userlink>
+<userlink>манго</userlink>
+<userlink>лимон</userlink>
+<userlink>мандарин</userlink>
+<userlink>ананас</userlink>
+<userlink>папайя</userlink>
+<userlink>киви</userlink>
+<userlink>клубника</userlink>
+
+
+

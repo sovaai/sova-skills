@@ -1,0 +1,20 @@
+//Расскажи считалочку
+--Label sova_rus_tonguetwisters
+
+$ * {скороговор~/дикц~/логопед~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({[dict(sova_rus_please)]}, {{скороговор~/дикц~/логопед~\}})] *
+$ * [@cmb({{мож~/хочу/хачу/давай/го/услыш~/слыш~/слуш~/послуш~/выдай~/выдать\}}, {{скороговор~/дикц~/логопед~\}})] *
+$ * [@cmb({[dict(sova_rus_tell)]}, {{скороговор~/дикц~/логопед~\}})] *
+
+# [udict(sova_rus_tonguetwisters)][%that_anchor="ещё_скороговорки"]
+
+
+//Ещё скороговорку
+
++%that_anchor="ещё_скороговорки"
+
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[dict(sova_rus_again)]}, {{скороговор~/дикц~/логопед~/--\}})] *
+
+#  [ExtendAnswer("sova_rus_tonguetwisters")] [%that_anchor="ещё_скороговорки"]
+
+

@@ -1,0 +1,16 @@
+<userlink>огурец</userlink>
+<userlink>помидор</userlink>
+<userlink>картофель</userlink>
+<userlink>капуста</userlink>
+<userlink>кабачок</userlink>
+<userlink>баклажан</userlink>
+<userlink>патиссон</userlink>
+<userlink>перец</userlink>
+<userlink>тыква</userlink>
+<userlink>морковь</userlink>
+<userlink>свёкла</userlink>
+<userlink>лук</userlink>
+<userlink>чеснок</userlink>
+
+
+

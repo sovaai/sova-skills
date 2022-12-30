@@ -1,0 +1,20 @@
+//Give a proverb
+--Label sova_eng_proverbs
+
+$ * proverb~ * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/say~/hav~/tell~/narrat~/giv~/mak~\}}, {proverb~})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {proverb~})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {proverb~})] *
+
+# [udict(sova_eng_proverbs)] [%that_anchor="eng_proverbs_more"]
+
+
+
+//More proverbs
++%that_anchor="eng_proverbs_more"
+
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]}, {{proverb~/--\}})] *
+
+# [udict(sova_eng_proverbs)] [%that_anchor="eng_proverbs_more"]
+
+

@@ -1,0 +1,12 @@
+bear
+cheetar
+tiger
+hyena
+leopard
+cougar
+panther
+wolf
+fox
+lion
+
+

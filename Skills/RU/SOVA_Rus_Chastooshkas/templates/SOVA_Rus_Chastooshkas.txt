@@ -1,0 +1,20 @@
+//Хочу частушку
+--Label sova_rus_chastooshkas
+
+$ * {частуш~/честуш~/чистуш~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({[dict(sova_rus_please)]}, {{частуш~/честуш~/чистуш~\}})] *
+$ * [@cmb({{пой~/спой~/пропой~/спел/пропел/спеть/пропеть/мож~/хочу/хачу/давай/го/услыш~/слыш~/слуш~/послуш~/выдай~/выдать\}},{{частуш~/честуш~/чистуш~\}})] *
+$ * [@cmb({[dict(sova_rus_tell)]}, {{частуш~/честуш~/чистуш~\}})] *
+
+# [udict(sova_rus_chastooshkas)][%that_anchor="ещё_частушки"]
+
+
+//Ещё частушку
+
++%that_anchor="ещё_частушки"
+
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[dict(sova_rus_again)]}, {{частуш~/честуш~/чистуш~/--\}})] *
+
+#  [ExtendAnswer("sova_rus_chastooshkas")] [%that_anchor="ещё_частушки"]
+
+

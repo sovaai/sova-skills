@@ -1,0 +1,233 @@
+//True or false
+$ * [@cmb({{play~/start~/let~/--\}}, {{what/which/find~/found~/out~/letout~/choos~/chos~/choic~/select~/pick~/extract~/take~\}}, {{true/false\}})] *
+$ * [@cmb({true}, {false})] *
+$ * true or false *
+#Let's play then! [ExtendAnswer("sova_eng_truefalse")]
+
+
+
+//True or false
++%that_anchor="more_true_false"
+$ Next
+$ more
+$ again
+#[ExtendAnswer("sova_eng_truefalse")]
+
+
+
+//True or false
+--Label sova_eng_truefalse
+$ sovarustruefalse
+#:lu:Tug-of-war was once an Olympic sport[br] [inf]{True}[br][inf]{False}[%that_anchor="tug-of-war"]
+#:lu:The Indy 500 car race is the largest single-day, spectator-attended sporting event.[br] [inf]{True}[br][inf]{False}[%that_anchor="indy race"]
+#:lu:Dracula was a real-life figure in history.[br] [inf]{True}[br][inf]{False}[%that_anchor="dracula"]
+#:lu:In the famous novel of the same name, Frankenstein is a monster constructed from body parts.[br] [inf]{True}[br][inf]{False}[%that_anchor="frankenstein"]
+#:lu:"Give me your tired, your poor / Your huddled masses" reads the plaque at the base of the Statue of Liberty.[br] [inf]{True}[br][inf]{False}[%that_anchor="statue of liberty"]
+#:lu:The tiniest bones in the human body are found in the hand.[br] [inf]{True}[br][inf]{False}[%that_anchor="tiny bones"]
+#:lu:The African elephant is the largest carnivore on land.[br] [br] [inf]{True}[br][inf]{False}[%that_anchor="elephant"]
+#:lu:The deadliest weapon of World War I was the machine gun.[br] [inf]{True}[br][inf]{False}[%that_anchor="machine gun"]
+#:lu:The modern Caesar salad is derived from a recipe dating back to ancient Rome.[br] [inf]{True}[br][inf]{False}[%that_anchor="caesar salad"]
+#:lu:A penny dropped from a tall building can reach sufficient velocity to kill a pedestrian below.[br] [inf]{True}[br][inf]{False}[%that_anchor="penny"]
+#:lu:Flight recorders onboard planes are painted black boxes.[br] [inf]{True}[br][inf]{False}[%that_anchor="black boxes"]
+#:lu:Louis Braille, creator of the Braille system of writing for the blind, was himself blind.[br] [inf]{True}[br][inf]{False}[%that_anchor="braille"]
+#:lu:Ostriches bury their heads up to 18 inches in the sand.[br] [inf]{True}[br][inf]{False}[%that_anchor="ostriches"]
+#:lu:Other than water, coffee is the world's most popular drink.[br] [br] [inf]{True}[br][inf]{False}[%that_anchor="coffee"]
+
+
+
+//True or false
++%that_anchor="tug-of-war"
+$ false
+#Actually, it's true. It was a team event in every Summer Olympics from 1900-1920.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="tug-of-war"
+$ true
+#You're right, it's true. It was a team event in every Summer Olympics from 1900-1920.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="indy race"
+$ false
+#Actually, it's true. Some 400,000 people routinely attend the event in person. World Cup final matches are usually the largest watched (via television).[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="indy race"
+$ true
+#You're right, it's true. Some 400,000 people routinely attend the event in person. World Cup final matches are usually the largest watched (via television).[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="dracula"
+$ false
+#Well, actually, it's true. Vlad III Dracula, the cruel 15th-century ruler from Transylvania nicknamed "The Impaler," may have inspired Bram Stoker's fictional character of Dracula.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="dracula"
+$ true
+#Exactly, it's true. Vlad III Dracula, the cruel 15th-century ruler from Transylvania nicknamed "The Impaler," may have inspired Bram Stoker's fictional character of Dracula.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="frankenstein"
+$ false
+#Right you are, "Frankenstein" is the name of the doctor who creates the monster; the monster is unnamed.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="frankenstein"
+$ true
+#A common mistake, "Frankenstein" is the name of the doctor who creates the monster; the monster is unnamed.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="statue of liberty"
+$ false
+#However, it's true. The lines come from a poem that Emma Lazarus wrote to raise money for the statue's pedestal.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="statue of liberty"
+$ true
+#Exactly, the lines come from a poem that Emma Lazarus wrote to raise money for the statue's pedestal.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="tiny bones"
+$ false
+#Right. The tiniest bones, by far, are found in the ear.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="tiny bones"
+$ true
+#The tiniest bones, by far, are found in the ear.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="elephant"
+$ false
+#Exactly. The elephant isn't a carnivore. The Kodiak bear is the largest carnivore on land.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="elephant"
+$ true
+#The elephant isn't a carnivore. The Kodiak bear is the largest carnivore on land.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="machine gun"
+$ false
+#But it was. The machine gun had a devastating effect against frontal attacks, and changed how wars were fought.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="machine gun"
+$ true
+#Right. The machine gun had a devastating effect against frontal attacks, and changed how wars were fought.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="caesar salad"
+$ false
+# Surely. It was reportedly invented in Tijuana, Mexico, in the 1920s by Caesar Cardini, an Italian immigrant restaurateur.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="caesar salad"
+$ true
+#As it is known, no. It was reportedly invented in Tijuana, Mexico, in the 1920s by Caesar Cardini, an Italian immigrant restaurateur.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="penny"
+$ false
+# You're right. The aerodynamics of a penny are insufficient to kill someone upon impact.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="penny"
+$ true
+#As the science considers it, no. The aerodynamics of a penny are insufficient to kill someone upon impact.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="black boxes"
+$ false
+# Exactly. Though called "black boxes," the recorders are bright orange to aid in their retrievability at crash sites.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="black boxes"
+$ true
+#Though called "black boxes," the recorders are bright orange to aid in their retrievability at crash sites.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="braille"
+$ false
+# However it's actually true. Despite being blinded at an early age, Braille was an accomplished musician, inventor, and teacher of the blind.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="braille"
+$ true
+#Right. Despite being blinded at an early age, Braille was an accomplished musician, inventor, and teacher of the blind.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="ostriches"
+$ false
+# Surely. Ostriches don't "bury their heads"; when scared, they flop on the ground, and their lightly colored head simply appears to be buried.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="ostriches"
+$ true
+#Ostriches don't "bury their heads"; when scared, they flop on the ground, and their lightly colored head simply appears to be buried.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="coffee"
+$ false
+# Nevertheless, this is true. Coffee is consumed by about one-third of Earth's population.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+
+//True or false
++%that_anchor="coffee"
+$ true
+#Exactly. Coffee is consumed by about one-third of Earth's population.[inf]{Next}[%that_anchor="more_true_false"]
+
+
+

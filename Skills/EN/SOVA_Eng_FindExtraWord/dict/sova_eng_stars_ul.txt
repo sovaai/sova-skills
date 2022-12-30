@@ -1,0 +1,14 @@
+<userlink>Sun</userlink>
+<userlink>Sirius</userlink>
+<userlink>Polar star</userlink>
+<userlink>Antares</userlink>
+<userlink>Altair</userlink>
+<userlink>Betelgeuse</userlink>
+<userlink>Vega</userlink>
+<userlink>Canopus</userlink>
+<userlink>Alpha Centauri</userlink>
+<userlink>Arcturus</userlink>
+<userlink>Procion</userlink>
+
+
+

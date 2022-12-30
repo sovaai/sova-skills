@@ -1,0 +1,12 @@
+spider
+scorpion
+mite
+amblypygid
+solifuga
+schizomid
+thelyphonid
+palpigrad
+pseudoscorpion
+opilion
+
+

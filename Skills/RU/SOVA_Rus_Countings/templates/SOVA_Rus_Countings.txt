@@ -1,0 +1,20 @@
+//Расскажи считалочку
+--Label sova_rus_countings
+
+$ * {считалк~/считалок~/считалоч~/щитал~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({[dict(sova_rus_please)]}, {{считалк~/считалок~/считалоч~/щитал~\}})] *
+$ * [@cmb({{мож~/хочу/хачу/давай/го/услыш~/слыш~/слуш~/послуш~/выдай~/выдать\}}, {{считалк~/считалок~/считалоч~/щитал~\}})] *
+$ * [@cmb({[dict(sova_rus_tell)]}, {{считалк~/считалок~/считалоч~/щитал~\}})] *
+
+# [udict(sova_rus_countings)][%that_anchor="ещё_считалки"]
+
+
+//Ещё считалочку
+
++%that_anchor="ещё_считалки"
+
+$ * [@cmb({[<dict(sova_rus_thanks)>]}, {[dict(sova_rus_again)]}, {{считалк~/считалок~/считалоч~/щитал~/--\}})] *
+
+#  [ExtendAnswer("sova_rus_countings")] [%that_anchor="ещё_считалки"]
+
+

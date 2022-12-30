@@ -1,0 +1,19 @@
+//Tell me a tale
+--Label sova_eng_tales
+
+$ * {tale~/fairy~/story/stori~/fable~} * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/say~/hav~/tell~/narrat~/giv~/mak~\}}, {{me/--\}}, {{tale~/fairy~/story/stori~/fable~\}})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {{tale~/fairy~/story/stori~/fable~\}})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {{tale~/fairy~/story/stori~/fable~\}})] *
+
+# [udict(sova_eng_tales)] [%that_anchor="eng_tales_more"]
+
+
+//More tales
++%that_anchor="eng_tales_more"
+
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]}, {{tale~/fairy~/story/stori~/fable~/--\}})] *
+
+#  [ExtendAnswer("sova_eng_tales")]
+
+

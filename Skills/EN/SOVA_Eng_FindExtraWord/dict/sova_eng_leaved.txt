@@ -1,0 +1,14 @@
+ash
+oak
+birch
+maple
+poplar
+aspen
+alder
+rowan
+linden
+chestnut
+platanus
+willow
+
+

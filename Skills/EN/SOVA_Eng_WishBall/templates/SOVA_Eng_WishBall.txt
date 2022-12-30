@@ -1,0 +1,34 @@
+//Wishing Ball
+$ * [@cmb({{wish~/will~\}}, {{spher~/ball/reali~/true\}})] *
+# The Wishing Ball can see your future. Learn if your wish comes true! [%that_anchor="wish ball"]
+# The Wish Sphere will answer whether your wish gets real. Make your wish here and now! [%that_anchor="wish ball"]
+# The Will Sphere can predict if your wish comes into reality, reveal your wish now! [%that_anchor="wish ball"]
+
+
+
+//Wishing Ball
++%that_anchor="wish ball"
+$ *
+# Yes, you will have your wish come true, the thing is to identify when it finally happens. Want to ask something else? [%that_anchor="wish ball again"]
+# Absolutely yes, the world will give all you want if you really do want it. Have you got more wishes? [%that_anchor="wish ball again"]
+# Possibly yes, by it won't determine your future that will be shiny anyway. Have you got another wish to try? [%that_anchor="wish ball again"]
+
+
+
+//Wishing Ball
++%that_anchor="wish ball again"
+$  * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_yes)] *
+# Waiting for your wish [%that_anchor="wish ball"]
+# Now make your wish freely [%that_anchor="wish ball"]
+# Don't hesitate, all your wishes are welcome [%that_anchor="wish ball"]
+
+
+
+//Wishing Ball
++%that_anchor="wish ball again"
+$ * [<dict(sova_eng_thanks)>] * [<dict(sova_eng_again)>] * [dict(sova_eng_no)] *
+# Well, remember, the Wish Ball can spin for you whenever you need.
+
+
+

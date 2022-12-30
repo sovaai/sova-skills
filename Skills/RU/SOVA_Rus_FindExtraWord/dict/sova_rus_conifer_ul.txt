@@ -1,0 +1,14 @@
+<userlink>ель</userlink>
+<userlink>сосна</userlink>
+<userlink>туя</userlink>
+<userlink>можжевельник</userlink>
+<userlink>лиственница</userlink>
+<userlink>пихта</userlink>
+<userlink>кипарис</userlink>
+<userlink>кедр</userlink>
+<userlink>секвойя</userlink>
+<userlink>тис</userlink>
+<userlink>каури</userlink>
+<userlink>араукария</userlink>
+
+

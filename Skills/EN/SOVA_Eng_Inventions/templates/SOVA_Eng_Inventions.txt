@@ -1,0 +1,215 @@
+//Tell me some interesting facts about inventions, discoveries
+
+$ * [@cmb({{know/hav~/giv~/say~/tell~/narrat~/--\}}, {{question~/quer~/fact~/info/information/data\}}, {{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}})] *
+$ * [@cmb({{know/hav~/giv~/say~/tell~/narrat~/--\}}, {[dict(sova_eng_something)]}, {{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}})] *
+
+# [udict(sova_eng_inventions)][%that_anchor="more_inventions"]
+
+
+
+//Tell me some interesting facts about inventions, discoveries - more
++%that_anchor="more_inventions"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)]} *
+# [udict(sova_eng_inventions)][%that_anchor="more_inventions"]
+
+
+
+//who, when, how invented, discovered paper, airplane
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {fire})] *
+# Although fire wasn’t technically invented, the ability to control fire was both fundamental and crucial for human civilization. Ancient humans who walked the Earth around two million years ago discovered and used fire for their benefit, but it wasn’t until 125,000 years ago that fire was fully utilized to the point where it was considered a tool. Apart from giving us warmth in the cold and light in the dark, fire led us to develop skills like cooking. The ability to prepare healthier food and cleaner drinking water helped ensure not only human survival, but also higher intelligence due to proper nutrient intake.
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {wheel~})] *
+# Many people think that the wheel is the greatest invention of all time. Around 3500 B.C.E., the Mesopotamians invented the wheel, but mainly for pottery-making. It took about three centuries before the first wheel was attached to a chariot and it could only get better after that. In our modern life, we take the wheel as a ubiquitous piece of engineering that we rarely pay attention to. Before this invention came to surface, humans were limited in terms of transportation and haulage. That being said, the wheel was only one part of another life-changing invention: the wheel-and-axle. In other words, the idea of attaching a wheel to a non-moving platform in a proper configuration so the two could work together.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {nail~})] *
+# Just like a building, human civilization would crumble without nails. Before these metal fasteners came to be, wooden structures were built by attaching each piece to another one-by-one through exhausting geometrical work. Nails have been used since around 3400 B.C.E. by the people of Ancient Egypt. They were fully developed in Ancient Rome when people learned how to cast and shape metals. Screws, on the other hand, were used for the first time in Ancient Greece around 2nd century B.C.E. You may find it hard to believe, but until the early 1800s, most nails were made from hand-wrought iron. Blacksmiths had to hammer the iron and make an arrow-like shape out of it. One of the first nail-making machines appeared in the 1790s.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {compas~})] *
+# Magnetic compasses have lost their place as the prominent navigational equipment to global positioning systems and satellites, but their importance in history — especially in the field of land and sea exploration — will always be remembered. A lodestone, a naturally magnetized mineral, was used to make early compasses in China around 300–200 B.C.E. Before these compasses, navigational systems mainly relied on astronomical signs. The compass was the single object that brought us to the Age of Discovery. It played an important role in the development of European countries in their efforts to gain wealth and power that eventually led to the Industrial Revolution.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {paper {currenc~/mone~\}})] *
+# Before money, trade was the commercial exchange of goods and services. Money took various forms throughout history including precious metals, coins, foods, vegetables, livestock, and basically anything else useful as tradable bartering assets. Again, China was the first to make use of paper money in the 9th century, and Europe followed suit in the late 1600s. Despite having no intrinsic value and initially being used as legal-binding notes issued by banks as a promise of future payments, paper money soon became the most common bartering asset to purchase goods and services. Paper money started a new era of trade that transformed the face of economics at a global scale.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {gunpowder})] *
+# Gunpowder was invented in China and made available around the same time as paper money. Gunpowder has always been a major factor in military and warfare. It took part in deciding the course of history through wars.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {electricity})] *
+# It would be unfair to credit the invention of electricity to one person, as the idea developed over the course of thousands of years. Thales of Miletus was the first to research the phenomenon, but Benjamin Franklin is generally regarded as an American Renaissance man who helped us get a better understanding of electricity. It is certainly impossible to overestimate the importance of electricity in human civilization. Other inventions such as the light bulb, battery, computers, toasters, and even coffee machines are the extensions of electricity’s potentials. We have arrived at a point where we can safely say that we can’t live without electricity.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {steam~ engin~})] *
+# In 1781, James Watt patented a steam engine capable of continuous rotary motion that he invented somewhere between 1763 and 1775. Soon enough, his engine became the driving force in the mining industry, factories, ships, trains, and the Industrial Revolution as a whole. Throughout the 1800s, the steam engine played a major part in the exponential growth and advancement in manufacturing, agriculture, and transportation. James Watt’s steam engine design continued to be modernized by others over time. The latest major evolution of it was the steam turbine, which powers most of the electricity in the United States using various heat sources.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {steel})] *
+# The unaware will think that steel is a naturally occurring metal, but it isn’t. Steel is an alloy comprised of mostly iron and a very small percentage of carbon. The utilization of various metals such as iron and bronze started earlier than 4,000 years ago, but steel took a prominent role in human civilization during the Industrial Revolution. Mass production of steel began in the 1850s using the “Bessemer Process”, a technique used to create steel by using molten pig iron. Since then, steel has been used in the construction of everything from bridges and houses to engines and skyscrapers.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {antibiotic~})] *
+# Joseph Lister and Louis Pasteur were the first to start the war against bacteria, but it was Alexander Fleming who propelled the medical world to take a giant leap ahead in the same battle thanks to his discovery – albeit accidental – of the bacteria-inhibiting mold we now call penicillin in 1928. Penicillin proved to be a major step forward in the world of antibiotics and was used widely throughout the 20th century. Although Fleming eventually abandoned his works on penicillin in the 1940s, his findings were further researched at the Radcliffe Infirmary in Oxford by Howard Florey and Ernst Boris Chain, funded by the U.S. and British governments. Penicillin finally entered mass-production after the Pearl Harbor bombing. In fact, by 1944, we had enough penicillin to treat all the wounded Allied Forces in World War II. Death by bacterial infection dropped to only 1% in WWII from 20% in the previous war. Penicillin has found to be effective at fighting all kinds of infection such as influenza, tuberculosis, and some sexually transmitted diseases.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {paper})] *
+# A crucial invention out of China is paper. Since 100 B.C.E., people all around the world have been using it to keep historical records and pass on knowledge to the next generation.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{automobil~/car/cars\}})] *
+# The steam engine cleared the path for the industrial revolution, and the automobile came out of it. While automobiles are not the first means of land transportation, the way that it’s propelled by the engine makes traveling much quicker. The automobile is also a combination of many inventions; some people may even say that it’s like a small home filled with a collection of innovations including wheels, internal combustion, the radio, air conditioning, batteries, and in some cases, a refrigerator. The 1885 Motorwagen was broadly considered the first automobile, and automobiles are being developed as we speak. The automobile, at least in its early days, was mainly a luxury item designed for the wealthy; the poor simply walked on. Henry Ford with his revolutionary assembly line made cars more affordable for the lower classes.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{arabic~/10/ten\} {num~/figur~\}})] *
+# The counting system comprised of 10 numbers (0, 1, 2, 3, 4, 5, 6, 7, 8, and 9) along with their positional numerical values (123 refers to one hundred plus twenty plus three) is now used as the foundation in most (if not all) quantitative sciences including mathematics and economy. Development started in India before being adopted by the Arabs, the Europeans, and then it was used worldwide.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {plow~})] *
+# It’s hard to figure out a single individual who came up with the idea of plowing equipment, and it’s equally difficult to say that the plow didn’t change the course of human history. Early humans were essentially farmers and hunter/gatherers who devoted their lives to find food and ensure survival. Their modern counterparts have found new ways to sustain life and their needs have also improved from just eating to demanding comfort as well as luxuries. Plowing, at least for our ancestors and farmers, removed the necessity to live a nomadic life. The seemingly simple idea of plowing allowed our ancestors to have a steadier way of life, collect and store foods, and develop civilizations in the area they resided. Because plowing continued to improve, they managed to harvest more foods than they needed, leading to the thought of trading.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{refrig~/frig~\}})] *
+# Up until the early 20th century, ice and snow useful natural elements to help preserve foods and medicines. Ice-making machines were available but mainly used in large factories and breweries. Home refrigerators became typical household appliances in the 1920s following the development of environmentally-safe chemicals used to refrigerate. The ability to keep food at a cold temperature revolutionized the food industry and eating habits; refrigerated trucks also made sure that all food would be delivered in desirable condition. It is certainly convenient to have easy access to fresh meats, vegetables, and fruits every single day even if there isn’t a farm nearby where you live.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{contracept~/condom~\}})] *
+# Contraceptives benefit human civilization in a simple way but have profound effects. With fewer mouths to feed, every family has achieved a higher standard of living and can provide for each child they have more sufficiently. In many countries where contraceptives are used (as well as easily available), the average number of offspring per woman has drastically reduced. Birth control has slowly yet steadily helped prevent unnecessary and potentially dangerous rapid population growth on a global scale. Certain types of contraceptives, such as condoms, are effective at preventing sexually transmitted diseases as well. People have used various forms of contraceptives including those made of only natural substances. Condoms have been used since the 18th century, while the contraceptive pill came into use in the 1930s; the brainchild of Russell Marker. Birth control remains an interesting field of study and new methods are always being developed.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{gregorian/contemporary/modern\} calendar})] *
+# Created by Pope Gregory XIII in 1582, the Gregorian calendar is the most widely used civil calendar today. It was intended as a revision to the Julian calendar. It jumped ahead 10 days in an effort to synchronize world time with the four seasons.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{pasteur~/thermo/thermal\}})] *
+# It may sound obvious, but back in the 1800s, nobody really understood that germs or microorganisms had the power to invade living hosts such as humans or animals. We soon came to understand that microorganisms were living organisms existing anywhere including in the air humans breathe. Both were the works of Louis Pasteur based on the theories proposed by many others. One of the first most practical implementations of the theory was the pasteurization method to sterilize bacteria in wine, milk, and beer.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {alphabet~})] *
+# The alphabet was developed over the course of hundreds of years by many people in many places including ancient Egyptians, ancient Greeks, ancient Romans, ancient Hebrews, and even ancient Chinese. Alphabetization came to surface around the first millennium B.C.E. Yes, it took a thousand years for the world to make a universal alphabetical order that kids in today’s elementary schools can memorize easily. Alphabetization has made everything much more searchable.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {clock~})] *
+# The obelisks, constructed by ancient Egyptians around 3,500 B.C.E., were among the earliest models of shadow clock. The sundial also came from Egypt about two thousand years after. Both were great representations of the time-keeping instruments we use now.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{airplane~/plane/planes\}})] *
+# Just like the invention of the automobile, airplanes combine multiple brilliant ideas including wheels and steam turbines into a single sturdy vehicle. Beyond the engineering magnificence, the airplane transformed our view into something larger, wider, and broader. It has changed the way we travel and manner of warfare.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {soap})] *
+# Northern Scotland came up with the first indoor toilet in 3000 B.C.E. The ancient Mesopotamians, around the same time, started to realize the importance of hygiene to maintain good health and came up with the idea of cleansing soap made of animal fat and wood ash.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {radio})] *
+# Long-distance radio transmission is an important piece of technology for modern life. The communication system was the result of continuous development by many different people, but the first workable radio apparatus was the brainchild of a single Italian, Guglielmo Marconi. He devised this wireless telegraphy system in 1895.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {language~})] *
+# There is no single clear point when and how language started to develop. Human’s ability to invent and use many forms of language — verbal, written, body language, codes, symbols — is arguably the most powerful force behind civilization. It’s a system we use to communicate ideas, feelings, emotions, war strategies, and intentions. Without understandable language, people would not be able to cooperate and negotiate their terms; simply put, we probably wouldn’t survive this long without language.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {turing})] *
+# The Turing machine worked by using mathematical formulas that were then used to build the Bombe, an Enigma code-breaker. Alan Turing invented the Universal Turing Machine with the capability of doing different kinds of computation depending on the program or input. The weakness was that it could only compute one program at a time. Regardless of its limitations, the Universal Turing Machine can be considered the forerunner of modern computers.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {atom~ bomb~})] *
+# Compared to any other technological developments and inventions in the last 2000 years, the atomic bomb had the greatest effects on human history. In just a matter of seconds, a single atomic bomb eliminated around 200,000 people in Hiroshima. The ability to destroy the planet is now within the realm of possibility as superpower countries arm themselves with more weapons than they would ever need. To some extent, atomic and nuclear weapons now take part in keeping the world safe as countries have to think many times before they start wars.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {anesthe~})] *
+# Imagine you (or someone else) undergoing a surgical procedure without having anesthesia administered beforehand. Anesthetic drugs, in simple words, put your body and mind to sleep or make certain parts of the body numb enough that you don’t feel anything when it’s treated. Anesthetic frees you from the threat of agony, and it also helps the scientific world understand the mechanism of human consciousness.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {{copernic~/solar system model/model of the solar system\}})] *
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {solar system}, {{model/theory\}})] *
+# Copernican Theory<br>Published for the first time in 1543 by Copernicus, it was basically both revolutionary and blasphemous at the same time. It was revolutionary because it defied common sense: anybody could see (not observe) that the sun revolved around the earth and it moved from east to west. It was blasphemy because it contradicted the church. While there are some inaccuracies in Copernican theory, it did set the movement of modern astronomical observation. It would take a person of great courage to propose an idea that defied common beliefs and religious orders back then.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {theory}, {evolution})] *
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {darvin})] *
+# In many cases, the study of physics is much more complex than any other branch of knowledge, except perhaps when it comes to Darwin’s theory of evolution. At least until now, Darwin’s ideas of evolution offer the best explanation of our origins and the rest of living organisms in the planet; who our ancestors are, what animals are direct descendants of dinosaurs, why and what lives where, and so on. The search for the true first origin of life continues, but from all discoveries so far, nothing contradicts the theory of evolution.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {eraser~})] *
+# As an idea or concept, the eraser is marvelous. It comes in all sorts of shapes such as the delete button, white tape, black tape, and the more literal rubber-eraser. This simple thing allows you to make revisions, correct inaccurate measurements, make constitutional amendments, change identities, modify a structure, or alter an existing order. The ability to go back and correct previous mistakes builds the foundation of scientific methods, improve regulations, develop cultures, and even rewrite history.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {mirror~})] *
+# Prior to the mass production and widespread use of mirrors, people could only see their reflections on calm water or very shiny metallic surfaces. Of course, what they saw could not do justice to their actual reflections, mainly due to an uneven surface or poor lighting. The mirror, which came about during the Renaissance, changed that. A single mirror can show exactly how you look in front of others, which in turn forces us to develop manners of eating, grooming, shaving, and behaving.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {concrete})] *
+# Concrete-like structures began to appear for the first time in northern Jordan and southern Syria regions around 6500 B.C.E. Comprised of rough composite mixed with fluid cement, concrete is the most widely used man-made material. The mix hardens over time and makes a very sturdy, strong foundation of a structure. When it’s still wet, however, the material is very easy to manipulate into different shapes.
+
+
+
+//who, when, how invented, discovered 
+$ * [@cmb({{invent~/discover~/appear~/creat~/idea~/emerg~/develop~\}}, {DNA fingerprint~})] *
+# In 1984, molecular biologist Alec Jeffreys devised a method to analyze DNA sequences in humans which involves more or less three billion units. He did that by comparing only the part of the sequence that demonstrated the greatest variation among people. One of the important implementations of DNA fingerprinting is in police investigations. Without the method, for instance, the police could incriminate a wrong person in rape-murder cases.
+
+
+

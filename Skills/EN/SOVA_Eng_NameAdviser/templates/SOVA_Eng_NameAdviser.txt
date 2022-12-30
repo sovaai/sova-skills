@@ -1,0 +1,490 @@
+//Advise a name
+$ * [@cmb({{advis~/advic~/gues~/nam~/choos~/find~/pick~/defin~\}}, {name~})] *
+$ * [@cmb({help~}, {{nam~/choos~/find~/pick~/defin~/--\}}, {name~})] *
+#Do you need a name for [inf]{a girl}[br][inf]{a boy}[br][inf]{both}[%that_anchor="choose gender"]
+
+
+
+//Advise a name - choose gender
++%that_anchor="choose gender"
+$ * girl *
+#Choose the initial letter[br][inf]{A}[br][inf]{B}[br][inf]{C}[br][inf]{D}[br][inf]{E}[br][inf]{F}[br][inf]{G}[br][inf]{H}[br][inf]{I}[br][inf]{J}[br][inf]{K}[br][inf]{L}[br][inf]{M}[br][inf]{N}[br][inf]{O}[br][inf]{P}[br][inf]{R}[br][inf]{S}[br][inf]{T}[br][inf]{V}[br][inf]{W}[br][inf]{Z}[%that_anchor="girl choose letter"]
+
+
+
+//Advise a name - choose gender
++%that_anchor="choose gender"
+$ * boy *
+#Choose the initial letter[br][inf]{A}[br][inf]{B}[br][inf]{C}[br][inf]{D}[br][inf]{E}[br][inf]{F}[br][inf]{G}[br][inf]{H}[br][inf]{I}[br][inf]{J}[br][inf]{K}[br][inf]{L}[br][inf]{M}[br][inf]{N}[br][inf]{O}[br][inf]{P}[br][inf]{R}[br][inf]{S}[br][inf]{T}[br][inf]{V}[br][inf]{W}[br][inf]{X}[br][inf]{Z}[%that_anchor="boy choose letter"]
+
+
+
+//Advise a name - choose gender
++%that_anchor="choose gender"
+$ * both *
+#Choose the initial letter[br][inf]{A}[br][inf]{B}[br][inf]{C}[br][inf]{D}[br][inf]{E}[br][inf]{F}[br][inf]{G}[br][inf]{H}[br][inf]{I}[br][inf]{J}[br][inf]{K}[br][inf]{L}[br][inf]{M}[br][inf]{N}[br][inf]{O}[br][inf]{P}[br][inf]{Q}[br][inf]{R}[br][inf]{S}[br][inf]{T}[br][inf]{U}[br][inf]{V}[br][inf]{W}[br][inf]{X}[br][inf]{Z}[%that_anchor="both choose letter"]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ A
+# [udict(sova_eng_names_girl_a)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ B
+# [udict(sova_eng_names_girl_b)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ C
+# [udict(sova_eng_names_girl_c)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ D
+# [udict(sova_eng_names_girl_d)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ E
+# [udict(sova_eng_names_girl_e)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ F
+# [udict(sova_eng_names_girl_f)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ G
+# [udict(sova_eng_names_girl_g)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ H
+# [udict(sova_eng_names_girl_h)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ I
+# [udict(sova_eng_names_girl_i)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ J
+# [udict(sova_eng_names_girl_j)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ K
+# [udict(sova_eng_names_girl_k)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ L
+# [udict(sova_eng_names_girl_l)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ M
+# [udict(sova_eng_names_girl_m)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ N
+# [udict(sova_eng_names_girl_n)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ O
+# [udict(sova_eng_names_girl_o)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ P
+# [udict(sova_eng_names_girl_p)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ R
+# [udict(sova_eng_names_girl_r)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ S
+# [udict(sova_eng_names_girl_s)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ V
+# [udict(sova_eng_names_girl_v)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ W
+# [udict(sova_eng_names_girl_w)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="girl choose letter"
+$ Z
+# [udict(sova_eng_names_girl_z)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ A
+# [udict(sova_eng_names_boy_a)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ B
+# [udict(sova_eng_names_boy_b)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ C
+# [udict(sova_eng_names_boy_c)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ D
+# [udict(sova_eng_names_boy_d)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ E
+# [udict(sova_eng_names_boy_e)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ F
+# [udict(sova_eng_names_boy_f)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ G
+# [udict(sova_eng_names_boy_g)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ H
+# [udict(sova_eng_names_boy_h)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ I
+# [udict(sova_eng_names_boy_i)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ J
+# [udict(sova_eng_names_boy_j)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ K
+# [udict(sova_eng_names_boy_k)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ L
+# [udict(sova_eng_names_boy_l)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ M
+# [udict(sova_eng_names_boy_m)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ N
+# [udict(sova_eng_names_boy_n)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ O
+# [udict(sova_eng_names_boy_o)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ P
+# [udict(sova_eng_names_boy_p)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ R
+# [udict(sova_eng_names_boy_r)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ S
+# [udict(sova_eng_names_boy_s)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ V
+# [udict(sova_eng_names_boy_v)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ W
+# [udict(sova_eng_names_boy_w)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ X
+# [udict(sova_eng_names_boy_x)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="boy choose letter"
+$ Z
+# [udict(sova_eng_names_boy_z)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ A
+# [udict(sova_eng_names_unisex_a)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ B
+# [udict(sova_eng_names_unisex_b)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ C
+# [udict(sova_eng_names_unisex_c)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ D
+# [udict(sova_eng_names_unisex_d)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ E
+# [udict(sova_eng_names_unisex_e)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ F
+# [udict(sova_eng_names_unisex_f)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ G
+# [udict(sova_eng_names_unisex_g)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ H
+# [udict(sova_eng_names_unisex_h)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ I
+# [udict(sova_eng_names_unisex_i)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ J
+# [udict(sova_eng_names_unisex_j)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ K
+# [udict(sova_eng_names_unisex_k)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ L
+# [udict(sova_eng_names_unisex_l)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ M
+# [udict(sova_eng_names_unisex_m)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ N
+# [udict(sova_eng_names_unisex_n)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ O
+# [udict(sova_eng_names_unisex_o)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ P
+# [udict(sova_eng_names_unisex_p)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ Q
+# [udict(sova_eng_names_unisex_q)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ R
+# [udict(sova_eng_names_unisex_r)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ S
+# [udict(sova_eng_names_unisex_s)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ U
+# [udict(sova_eng_names_unisex_u)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ V
+# [udict(sova_eng_names_unisex_v)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ W
+# [udict(sova_eng_names_unisex_w)]
+
+
+
+//Advise a name - choose gender - choose letter
++%that_anchor="unisex choose letter"
+$ Z
+# [udict(sova_eng_names_unisex_z)]
+
+
+

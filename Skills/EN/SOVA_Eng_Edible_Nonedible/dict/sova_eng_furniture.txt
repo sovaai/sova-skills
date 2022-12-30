@@ -1,0 +1,12 @@
+sofa
+armchair
+chair
+table
+wardrobe
+shelf
+bed
+couch
+tabouret
+commode
+
+

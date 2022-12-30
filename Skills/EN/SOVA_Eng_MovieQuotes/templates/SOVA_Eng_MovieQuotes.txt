@@ -1,0 +1,262 @@
+//Guess a Movie catchphrase
+--Label sova_eng_moviequotes
+$ * [@cmb({{catchphras~/phras~/quot~/cit~\}}, {{movi~/film~/cinema~/cartoon~\}})] *
+#:lu:OK, let's play! Why so serious?[br][inf]{The Dark Knight}[br][inf]{Casablanca}[%that_anchor="The Dark Knight"]
+#:lu:Good, let's see! I’ll be back[br][inf]{Terminator 1}[br][inf]{Bond, James Bond}[%that_anchor="Terminator 1"]
+#:lu:Ok! Here’s looking at you, kid[br][inf]{Toy Story}[br][inf]{Casablanca}[%that_anchor="Casablanca"]
+#:lu:Here you are! May the Force be with you[br][inf]{Star wars}[br][inf]{Terminator 1}[%that_anchor="Star wars"]
+#:lu:Let's do it! Bond, James Bond[br][inf]{Bond}[br][inf]{Taxi Driver}[%that_anchor="Bond"]
+#:lu:Go-go-go! Show me the money![br][inf]{Bond}[br][inf]{Jerry Maguire}[%that_anchor="Jerry Maguire"]
+#:lu:Let's play! You talkin’ to me?[br][inf]{Taxi Driver}[br][inf]{Star wars}[%that_anchor="Taxi Driver"]
+#:lu:Let's go! I’m going to make him an offer he can’t refuse[br][inf]{The Dark Knight}[br][inf]{The Godfather}[%that_anchor="The Godfather"]
+#:lu:Here we are! I’m king of the world![br][inf]{The Godfather}[br][inf]{Titanic}[%that_anchor="Titanic"]
+#:lu:I'm in! I drink your milkshake![br][inf]{There Will Be Blood}[br][inf]{Jerry Maguire}[%that_anchor="There Will Be Blood"]
+#:lu:let's check! To infinity, and beyond![br][inf]{Gone With the Wind}[br][inf]{Toy Story}[%that_anchor="Toy Story"]
+#:lu:Are you ready? Frankly my dear, I don’t give a damn[br][inf]{Gone With the Wind}[br][inf]{Terminator 2}[%that_anchor="Gone With the Wind"]
+#:lu:Take you question! You can’t handle the truth![br][inf]{Lord of the Rings}[br][inf]{A Few Good Men}[%that_anchor="A Few Good Men"]
+#:lu:Here it is! Hasta la vista, baby[br][inf]{Terminator 2}[br][inf]{Titanic}[%that_anchor="Terminator 2"]
+#:lu:Well, it's coming! My precious[br][inf]{There Will Be Blood}[br][inf]{Lord of the Rings}[%that_anchor="Lord of the Rings"]
+#:lu:Now then! There’s no crying in baseball![br][inf]{A League of Their Own}[br][inf]{A Few Good Men}[%that_anchor="A League of Their Own"]
+
+
+
+//Guess a Movie catchphrase - more yes
++%that_anchor="more moviequotes"
+$ Next
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]})] *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_yes)] *
+# [ExtendAnswer("sova_eng_moviequotes")]
+
+
+
+//Guess a Movie catchphrase - more no
++%that_anchor="more moviequotes"
+$ * [<dict(sova_eng_thanks)>] * [<dict(sova_eng_again)>] * [dict(sova_eng_no)] *
+# It was not bad, right?
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="The Dark Knight"
+$ * Dark Knight *
+#Exactly! “The Dark Knight” really clicked with audiences, and it won Heath Ledger an Oscar for his turn as Joker. While many of us enjoyed the impish malevolence of Jack Nicholson’s turn as the Clown Prince of Crime, or even better Cesar Romero’s campy run on TV’s “Batman,” Ledger’s Joker was searingly dark. And yet, he also had a bit of a catchphrase in “Why so serious?” [inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="The Dark Knight"
+$ *
+#Doubts? “The Dark Knight” really clicked with audiences, and it won Heath Ledger an Oscar for his turn as Joker. While many of us enjoyed the impish malevolence of Jack Nicholson’s turn as the Clown Prince of Crime, or even better Cesar Romero’s campy run on TV’s “Batman,” Ledger’s Joker was searingly dark. And yet, he also had a bit of a catchphrase in “Why so serious?” [inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Terminator 1"
+$ * Terminator 1 *
+#Right you are! In the first “Terminator” movie, Arnold Schwarzenegger’s killer android from the future doesn’t say much. When he does speak, though, it can be ominous. That’s definitely true with the iconic line he ends up using multiple times through the series, “I’ll be back.” [inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Terminator 1"
+$ *
+#Don't know?! In the first “Terminator” movie, Arnold Schwarzenegger’s killer android from the future doesn’t say much. When he does speak, though, it can be ominous. That’s definitely true with the iconic line he ends up using multiple times through the series, “I’ll be back.” [inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Casablanca"
+$ * Casablanca *
+#Perfect! “Casablanca” is full of many memorable lines. “Play it, Sam.” “Round up the usual suspects.” The list goes on. At the top of the list, though, is Rick’s parting line to Ilsa, a line he had used before: “Here’s looking at you, kid.”[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Casablanca"
+$ *
+#Confused? “Casablanca” is full of many memorable lines. “Play it, Sam.” “Round up the usual suspects.” The list goes on. At the top of the list, though, is Rick’s parting line to Ilsa, a line he had used before: “Here’s looking at you, kid.”[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Star wars"
+$ * Star wars *
+#Perfect! You would think we’d go with “Luke, I am your father,” but as you may know that’s not what Darth Vader actually says. Plenty of characters say “May the Force be with you,” however. It’s a true catchphrase that still pops up even in “The Mandalorian.”[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Star wars"
+$ *
+#Confused? You would think we’d go with “Luke, I am your father,” but as you may know that’s not what Darth Vader actually says. Plenty of characters say “May the Force be with you,” however. It’s a true catchphrase that still pops up even in “The Mandalorian.”[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Bond"
+$ * Bond *
+#You knew it! Several men have said this line at this point. James Bond has a specific way of introducing himself. It began with Sean Connery in “Dr. No” and became a staple of the series. Even the serious Daniel Craig has busted out a “Bond, James Bond” or two.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Bond"
+$ *
+#Are you serious? Several men have said this line at this point. James Bond has a specific way of introducing himself. It began with Sean Connery in “Dr. No” and became a staple of the series. Even the serious Daniel Craig has busted out a “Bond, James Bond” or two.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Jerry Maguire"
+$ * Jerry Maguire *
+#Good! “Show me the money!” is said multiple times in “Jerry Maguire,” but admittedly it’s just in one scene. Tom Cruise’s Maguire” and Cuba Gooding Jr.’s Rod Tidwell are saying it – and eventually yelling it – back and forth at each other over the phone. Let’s just say this catchphrase had us at hello.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Jerry Maguire"
+$ *
+#Didn't you know? “Show me the money!” is said multiple times in “Jerry Maguire”, but admittedly it’s just in one scene. Tom Cruise’s Maguire” and Cuba Gooding Jr.’s Rod Tidwell are saying it – and eventually yelling it – back and forth at each other over the phone. Let’s just say this catchphrase had us at hello.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Taxi Driver"
+$ * Taxi Driver *
+#Right! Even people who have never seen “Taxi Driver” know “You talkin’ to me?.” It’s a quote that has been parodied time and time again over the years. In the context of the movie the quote is pretty disconcerting, in part because nobody is, in fact, talkin’ to Travis Bickle. He’s imagining a confrontation in a mirror, the better to try out his new gun apparatus.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Taxi Driver"
+$ *
+#Are you kidding? Even people who have never seen “Taxi Driver” know “You talkin’ to me?.” It’s a quote that has been parodied time and time again over the years. In the context of the movie the quote is pretty disconcerting, in part because nobody is, in fact, talkin’ to Travis Bickle. He’s imagining a confrontation in a mirror, the better to try out his new gun apparatus.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="The Godfather"
+$ * The Godfather *
+#Surely! Michael Corleone introduces the idea of an offer you can’t refuse early in “The Godfather.” As such, when Don Corleone says this line later in the movie, it’s been established conceptually. Marlon Brando’s distinct voice definitely helped this line become a catchphrase, one people often say mimicking Don Vito in the process.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="The Godfather"
+$ *
+#It's strang, you know? Michael Corleone introduces the idea of an offer you can’t refuse early in “The Godfather.” As such, when Don Corleone says this line later in the movie, it’s been established conceptually. Marlon Brando’s distinct voice definitely helped this line become a catchphrase, one people often say mimicking Don Vito in the process.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Titanic"
+$ * Titanic *
+#Greate! “Titanic” was the highest-grossing movie of all-time for years, and it inspired a massive hit song in “My Heart Will Go On” by Celine Dion. It also inspired a catchphrase in “I’m king of the world.” One of the people who said that outside of the movie? That would be director James Cameron when he took home the Oscar for Best Director. He really gave himself a good line there.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Titanic"
+$ *
+#Surprising, because... “Titanic” was the highest-grossing movie of all-time for years, and it inspired a massive hit song in “My Heart Will Go On” by Celine Dion. It also inspired a catchphrase in “I’m king of the world.” One of the people who said that outside of the movie? That would be director James Cameron when he took home the Oscar for Best Director. He really gave himself a good line there.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="There Will Be Blood"
+$ * There Will Be Blood *
+#Turific! Usually, catchphrases come from popcorn movies. They rarely come from moody, grim Oscar bait. And yet, “There Will Be Blood” gave us a line that has endured through pop culture and been spouted many times over. After all, who can resist yelling “I drink your milkshake!” like Daniel Plainview? It’s just too much fun.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="There Will Be Blood"
+$ *
+#Doubts? It seems natural, usually, catchphrases come from popcorn movies. They rarely come from moody, grim Oscar bait. And yet, “There Will Be Blood” gave us a line that has endured through pop culture and been spouted many times over. After all, who can resist yelling “I drink your milkshake!” like Daniel Plainview? It’s just too much fun.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Toy Story"
+$ * Toy Story *
+#Yes! “Toy Story” basically made computer animation a success, and it turned Pixar into a monolith. The movie changed film animation forever. Woody and Buzz Lightyear are now iconic characters, and who can forget “To infinity, and beyond!” Buzz’s catchphrase? It’s his catchphrase in the world of the movie, but also in our world as well.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Toy Story"
+$ *
+#No idea? “Toy Story” basically made computer animation a success, and it turned Pixar into a monolith. The movie changed film animation forever. Woody and Buzz Lightyear are now iconic characters, and who can forget “To infinity, and beyond!” Buzz’s catchphrase? It’s his catchphrase in the world of the movie, but also in our world as well.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Gone With the Wind"
+$ * Gone With the Wind *
+#Greate! This is one of the very first movie catchphrases from the film that, adjusting for inflation, is still the highest-grossing movie of all time. “Gone With the Wind” was a true epic, and it has a few famous lines. The one that is often called the best movie quote ever, though, is Rhett’s line “Frankly my dear, I don’t give a damn.” Swearing in a 1939 movie? What a scandal![inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Gone With the Wind"
+$ *
+#Don't remember? This is one of the very first movie catchphrases from the film that, adjusting for inflation, is still the highest-grossing movie of all time. “Gone With the Wind” was a true epic, and it has a few famous lines. The one that is often called the best movie quote ever, though, is Rhett’s line “Frankly my dear, I don’t give a damn.” Swearing in a 1939 movie? What a scandal![inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Terminator 2"
+$ * Terminator 2 *
+#Awesome! The Terminator did say he’d be back, and he is indeed. The only character with two catchphrases on our list, Arnold dropped this line on us for the first time in the action thriller “Terminator 2: Judgment Day.” Sure, “Hasta la vista, baby” is incredibly silly, but it undoubtedly stood out. There’s a reason why everybody remembers it to this day.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="Terminator 2"
+$ *
+#Are you sure? Hey, the Terminator did say he’d be back, and he is indeed. The only character with two catchphrases on our list, Arnold dropped this line on us for the first time in the action thriller “Terminator 2: Judgment Day.” Sure, “Hasta la vista, baby” is incredibly silly, but it undoubtedly stood out. There’s a reason why everybody remembers it to this day.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="A Few Good Men"
+$ * A Few Good Men *
+#OK! Aaron Sorkin knows how to write a memorable line. “A Few Good Men” has a few of them, mostly from Jack Nicholson, who also is the one who said “Heeeere’s Johnny!.” During a heated exchange, Tom Cruise asks for the truth, to which Colonel Jessup angrily replies “You can’t handle the truth!” A line that would exist outside the film was born at that moment.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="A Few Good Men"
+$ *
+#Don't know the answer? Aaron Sorkin knows how to write a memorable line. “A Few Good Men” has a few of them, mostly from Jack Nicholson, who also is the one who said “Heeeere’s Johnny!.” During a heated exchange, Tom Cruise asks for the truth, to which Colonel Jessup angrily replies “You can’t handle the truth!” A line that would exist outside the film was born at that moment.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="My precious"
+$ * My precious *
+#No doubt! This one is probably based entirely on the voice. Gollum says it all the time through the “Lord of the Rings” and “Hobbit” films. That definitely makes it a catchphrase in that sense. However, people also grew fond of saying it in real life, mostly because they liked to do Gollum’s voice in the process.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="My precious"
+$ *
+#Really don't remember? This one is probably based entirely on the voice. Gollum says it all the time through the “Lord of the Rings” and “Hobbit” films. That definitely makes it a catchphrase in that sense. However, people also grew fond of saying it in real life, mostly because they liked to do Gollum’s voice in the process.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="A League of Their Own"
+$ * A League of Their Own *
+#Absolutely right! Tom Hanks usually plays nice guys and kind people. His Jimmy Dugan is a little rougher around the edges. The alcoholic ex-baseball player finds himself managing an all-women's team in “A League of Their Own.” When one of his players starts to cry, Jimmy loses it, memorably yelling this line, before repeating it again in a sterner tone a little while later.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+
+//Guess a Movie catchphrase - Movie
++%that_anchor="A League of Their Own"
+$ *
+#Any ideas? Tom Hanks usually plays nice guys and kind people. His Jimmy Dugan is a little rougher around the edges. The alcoholic ex-baseball player finds himself managing an all-women's team in “A League of Their Own.” When one of his players starts to cry, Jimmy loses it, memorably yelling this line, before repeating it again in a sterner tone a little while later.[inf]{Next}[%that_anchor="more moviequotes"]
+
+
+

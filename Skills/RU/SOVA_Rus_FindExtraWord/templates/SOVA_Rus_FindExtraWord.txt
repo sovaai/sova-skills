@@ -1,0 +1,192 @@
+//выбери лишнее слово
+$ * [@cmb({{игр~/сыгр~/разыгр~/--\}}, {{что/какое/найти/найд~/искать/ищи/выкин~/выкид~/выбер~/выбр~/выбор~/убер~/убир~/убр~/угад~/назв~/назови~\}}, {{лишн~/неподход~/не подход~/не то~\}})] *
+#:lu: Что здесь лишнее:[br][udict(sova_rus_fruits_ul)] [udict(sova_rus_fruits_ul)] [udict(sova_rus_vegetables_ul)]  [udict(sova_rus_fruits_ul)][%that_anchor="фрукты"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_vegetables_ul)]  [udict(sova_rus_vegetables_ul)] [udict(sova_rus_vegetables_ul)]  [udict(sova_rus_fruits_ul)][%that_anchor="овощи"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_predators_ul)] [udict(sova_rus_herbivores_ul)] [udict(sova_rus_herbivores_ul)]  [udict(sova_rus_herbivores)][%that_anchor="травоядные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_predators_ul)] [udict(sova_rus_herbivores_ul)] [udict(sova_rus_predators_ul)]  [udict(sova_rus_predators_ul)][%that_anchor="хищные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_stars_ul)] [udict(sova_rus_stars_ul)] [udict(sova_rus_stars_ul)]  [udict(sova_rus_planets_ul)][%that_anchor="звезды"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_stars_ul)] [udict(sova_rus_planets_ul)] [udict(sova_rus_planets_ul)]  [udict(sova_rus_planets_ul)][%that_anchor="планеты"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_birds_ul)] [udict(sova_rus_birds_ul)] [udict(sova_rus_fishes_ul)]  [udict(sova_rus_birds_ul)][%that_anchor="птицы"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_fishes_ul)] [udict(sova_rus_birds_ul)] [udict(sova_rus_fishes_ul)]  [udict(sova_rus_fishes_ul)][%that_anchor="рыбы"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_arachnides_ul)] [udict(sova_rus_arachnides_ul)] [udict(sova_rus_arachnides_ul)]  [udict(sova_rus_insects_ul)][%that_anchor="паукообразные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_insects_ul)] [udict(sova_rus_arachnides_ul)] [udict(sova_rus_insects_ul)]  [udict(sova_rus_insects_ul)][%that_anchor="насекомые"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_conifer_ul)] [udict(sova_rus_conifer_ul)] [udict(sova_rus_conifer_ul)]  [udict(sova_rus_leaved_ul)][%that_anchor="хвойные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_leaved_ul)] [udict(sova_rus_conifer_ul)] [udict(sova_rus_leaved_ul)]  [udict(sova_rus_leaved_ul)][%that_anchor="лиственные"]
+
+
++%that_anchor="еще лишнее"
+$ * [<dict(sova_rus_thanks)>] * [dict(sova_rus_yes)] *
+$ * [<dict(sova_rus_thanks)>] * [dict(sova_rus_again)] *
+$ * [<dict(sova_rus_thanks)>] * {давай/хорошо/я за/конечно} *
+$ * [@cmb({{игр~/сыгр~/разыгр~/--\}}, {{что/какое/выкин~/выкид~/выбр~/выбор~/убер~/убир~\}}, {{лишн~/не то~\}})] *
+$ * [@cmb({{игр~/сыгр~/разыгр~/--\}}, {{что/какое/найти/найд~/искать/ищи/выкин~/выкид~/выбер~/выбр~/выбор~/убер~/убир~/убр~\}}, {{лишн~/неподход~/не подход~/не то~\}})] *
+#:lu: Что здесь лишнее:[br][udict(sova_rus_fruits_ul)] [udict(sova_rus_fruits_ul)] [udict(sova_rus_vegetables_ul)]  [udict(sova_rus_fruits_ul)][%that_anchor="фрукты"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_vegetables_ul)]  [udict(sova_rus_vegetables_ul)] [udict(sova_rus_vegetables_ul)]  [udict(sova_rus_fruits_ul)][%that_anchor="овощи"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_predators_ul)] [udict(sova_rus_herbivores_ul)] [udict(sova_rus_herbivores_ul)]  [udict(sova_rus_herbivores)][%that_anchor="травоядные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_predators_ul)] [udict(sova_rus_herbivores_ul)] [udict(sova_rus_predators_ul)]  [udict(sova_rus_predators_ul)][%that_anchor="хищные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_stars_ul)] [udict(sova_rus_stars_ul)] [udict(sova_rus_stars_ul)]  [udict(sova_rus_planets_ul)][%that_anchor="звезды"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_stars_ul)] [udict(sova_rus_planets_ul)] [udict(sova_rus_planets_ul)]  [udict(sova_rus_planets_ul)][%that_anchor="планеты"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_birds_ul)] [udict(sova_rus_birds_ul)] [udict(sova_rus_fishes_ul)]  [udict(sova_rus_birds_ul)][%that_anchor="птицы"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_fishes_ul)] [udict(sova_rus_birds_ul)] [udict(sova_rus_fishes_ul)]  [udict(sova_rus_fishes_ul)][%that_anchor="рыбы"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_arachnides_ul)] [udict(sova_rus_arachnides_ul)] [udict(sova_rus_arachnides_ul)]  [udict(sova_rus_insects_ul)][%that_anchor="паукообразные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_insects_ul)] [udict(sova_rus_arachnides_ul)] [udict(sova_rus_insects_ul)]  [udict(sova_rus_insects_ul)][%that_anchor="насекомые"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_conifer_ul)] [udict(sova_rus_conifer_ul)] [udict(sova_rus_conifer_ul)]  [udict(sova_rus_leaved_ul)][%that_anchor="хвойные"]
+#:lu:Что здесь лишнее:[br][udict(sova_rus_leaved_ul)] [udict(sova_rus_conifer_ul)] [udict(sova_rus_leaved_ul)]  [udict(sova_rus_leaved_ul)][%that_anchor="лиственные"]
+
+
++%that_anchor="еще лишнее"
+$ * [<dict(sova_rus_thanks)>] * [<dict(sova_rus_again)>] * [dict(sova_rus_no)] *
+$ * {хорош/харош} {там/--} {уже/--} *
+$ * {всё/фсе} *
+$ * {хватит/хватет/достаточно/довольно/стоп} *
+$ * {не хочу/нехочу/ни хочу/нихочу/не хачу/нехачу/ни хачу/нихачу} {больше/--} *
+$ * {не надо/ненадо/ни надо/нинадо} *
+# Неплохо сыграли!
+
+
+
+
++%that_anchor="фрукты"
+$ [dict(sova_rus_fruits)]
+# Похоже, рука дрогнула, промах, пробуем еще раз? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="фрукты"
+$ [-[dict(sova_rus_vegetables)]-]
+# Верно: [&1] - овощ, остальные - фрукты. Играем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="овощи"
+$ [dict(sova_rus_vegetables)]
+# Кажется, промах, сыграем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="овощи"
+$ [-[dict(sova_rus_fruits)]-]
+# Отлично: [&1] - фрукт, остальные - овощи. Играем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="травоядные"
+$ [dict(sova_rus_herbivores)]
+# Ой, неверно. Сыграем снова? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="травоядные"
+$ [-[dict(sova_rus_predators)]-]
+# Вернее не бывает: [&1] - хищник, остальные животные - травоядные. Играем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="хищные"
+$ [dict(sova_rus_predators)]
+# Так, это не похоже на правду. Может, сыграем снова? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="хищные"
+$ [-[dict(sova_rus_herbivores)]-]
+# Точно: [&1] - травоядное, остальные - хищные. Сыграем еще раз? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="звезды"
+$ [dict(sova_rus_stars)]
+# Ну вот, какая-то путаница, попробуем снова? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="звезды"
+$ [-[dict(sova_rus_planets)]-]
+# Везение или эрудиция? Верно: [&1] - планета, остальные - звезды. Продолжаем игру? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="планеты"
+$ [dict(sova_rus_planets)]
+# Да, вопрос непростой, к сожалению, неверно, сыграем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="планеты"
+$ [-[dict(sova_rus_stars)]-]
+# Вот это кругозор! Правильно: [&1] - звезда, остальные - планеты. Играем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="птицы"
+$ [dict(sova_rus_birds)]
+# Пальцем в небо, сыграем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="птицы"
+$ [-[dict(sova_rus_fishes)]-]
+# Конечно: [&1] - рыба, остальные - птицы. Играем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="рыбы"
+$ [dict(sova_rus_fishes)]
+# Как же так, мимо, сыграем снова? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="рыбы"
+$ [-[dict(sova_rus_birds)]-]
+# Глаз-алмаз! Точно: [&1] - птица, остальные - рыбы. Еще сыграем? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="паукообразные"
+$ [dict(sova_rus_arachnides)]
+# Да, это не так просто, жаль, но это не то слово, пробуем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="паукообразные"
+$ [-[dict(sova_rus_insects)]-]
+# Вот почерк знатока! Правильно: [&1] - насекомое, остальные - паукообразные. Играем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="насекомые"
+$ [dict(sova_rus_insects)]
+# Да, стоит признать, что это нелегко угадать, неверно, может, сыграем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="насекомые"
+$ [-[dict(sova_rus_arachnides)]-]
+# Поразительная эрудиция! Верно: [&1] - паукообразное, остальные - насекомые. Играем снова? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="хвойные"
+$ [dict(sova_rus_conifer)]
+# Вот дела, мимо, давай сыграем снова? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="хвойные"
+$ [-[dict(sova_rus_leaved)]-]
+# Король ботаники! Это верно: [&1] - лиственное дерево, остальные - хвойные. Играем снова? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="лиственные"
+$ [dict(sova_rus_leaved)]
+# Видимо, тут был подвох, к сожалению, мимо, сыграем еще? [%that_anchor="еще лишнее"]
+
+
+
++%that_anchor="лиственные"
+$ [-[dict(sova_rus_conifer)]-]
+# Абсолютно верно: [&1] - хвойное дерево, остальные - лиственные. Играем еще? [%that_anchor="еще лишнее"]
+
+
+

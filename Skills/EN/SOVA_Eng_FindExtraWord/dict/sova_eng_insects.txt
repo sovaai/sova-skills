@@ -1,0 +1,16 @@
+ant
+mosquito
+fly
+butterfly
+grasshopper
+cricket
+beetle
+dragonfly
+cockroach
+mantis
+flea
+bee
+wasp
+bumblebee
+
+

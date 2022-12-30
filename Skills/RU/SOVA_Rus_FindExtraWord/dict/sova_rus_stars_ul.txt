@@ -1,0 +1,21 @@
+<userlink>Солнце</userlink>
+<userlink>Сириус</userlink>
+<userlink>Полярная звезда</userlink>
+<userlink>Антарес</userlink>
+<userlink>Альтаир</userlink>
+<userlink>Бетельгейзе</userlink>
+<userlink>Вега</userlink>
+<userlink>Канопус</userlink>
+<userlink>Альфа Центавра</userlink>
+<userlink>Арктур</userlink>
+<userlink>Процион</userlink>
+
+
+
+
+
+
+
+
+
+

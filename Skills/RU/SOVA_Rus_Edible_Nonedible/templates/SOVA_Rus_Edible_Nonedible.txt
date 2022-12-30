@@ -1,0 +1,76 @@
+//съедобное-несъедобное
+$ * съедоб~ * несъедоб~ *
+$ * [@cmb({{игр~/сыгр~/разыгр~/--\}}, {{что/какое/выкин~/выкид~/выбр~/выбор~/убер~/убир~\}}, {{съедоб~/несъедоб~\}})] *
+# Хорошо, давай сыграем! [ExtendAnswer("sova_rus_edible_nonedible")]
+
+
+
+//съедобное-несъедобное
+--Label sova_rus_edible_nonedible
+$ sovarusediblenonedible
+#:lu: Что из этого можно есть:[br][udict(sova_rus_utensils)] [udict(sova_rus_gadgets)] [udict(sova_rus_vegetables)]  [udict(sova_rus_furniture)][%that_anchor="съедобное"]
+#:lu:Что из этого нельзя есть:[br][udict(sova_rus_vegetables)]  [udict(sova_rus_desserts)] [udict(sova_rus_furniture)]  [udict(sova_rus_fruits)][%that_anchor="несъедобное"]
+#:lu:Что из этого можно есть:[br][udict(sova_rus_furniture)] [udict(sova_rus_gadgets)] [udict(sova_rus_fruits)]  [udict(sova_rus_utensils)][%that_anchor="съедобное"]
+#:lu:Что из этого нельзя есть:[br][udict(sova_rus_desserts)] [udict(sova_rus_gadgets)] [udict(sova_rus_fruits)]  [udict(sova_rus_vegetables)][%that_anchor="несъедобное"]
+#:lu:Что из этого можно есть:[br][udict(sova_rus_utensils)] [udict(sova_rus_desserts)] [udict(sova_rus_furniture)]  [udict(sova_rus_gadgets)][%that_anchor="съедобное"]
+#:lu:Что из этого нельзя есть:[br][udict(sova_rus_utensils)] [udict(sova_rus_fruits)] [udict(sova_rus_vegetables)]  [udict(sova_rus_desserts)][%that_anchor="несъедобное"]
+
+
+
+//съедобное-несъедобное
++%that_anchor="еще съедобное-несъедобное"
+$ * [<dict(sova_rus_thanks)>] * {повтор~/повтар~/павтар~/павтор~} *
+$ * [<dict(sova_rus_thanks)>] * [dict(sova_rus_again)] *
+$ * съедоб~ * несъедоб~ *
+$ * [@cmb({{игр~/сыгр~/разыгр~/--\}}, {{что/какое/выкин~/выкид~/выбр~/выбор~/убер~/убир~\}}, {{съедоб~/несъедоб~\}})] *
+#[ExtendAnswer("sova_rus_edible_nonedible")]
+
+
+
++%that_anchor="еще съедобное-несъедобное"
+$ * [<dict(sova_rus_thanks)>] * [<dict(sova_rus_again)>] * [dict(sova_rus_no)] *
+$ * {хорош/харош} {там/--} {уже/--} *
+$ * {всё/фсе} *
+$ * {хватит/хватет/достаточно/довольно/стоп} *
+$ * {не хочу/нехочу/ни хочу/нихочу/не хачу/нехачу/ни хачу/нихачу} {больше/--} *
+$ * {не надо/ненадо/ни надо/нинадо} *
+# Кажется, неплохо поиграли :)
+
+
+
+//съедобное-несъедобное
++%that_anchor="несъедобное"
+$ [dict(sova_rus_fruits)]
+$ [dict(sova_rus_vegetables)]
+$ [dict(sova_rus_desserts)]
+# Неправильно, пробуем еще? [%that_anchor="еще съедобное-несъедобное"]
+
+
+
+//съедобное-несъедобное
++%that_anchor="несъедобное"
+$ [udict(sova_rus_furniture)]
+$ [dict(sova_rus_gadgets)]
+$ [dict(sova_rus_utensils)]
+# Точно! Играем еще? [%that_anchor="еще съедобное-несъедобное"]
+
+
+
+//съедобное-несъедобное
++%that_anchor="съедобное"
+$ [dict(sova_rus_fruits)]
+$ [dict(sova_rus_vegetables)]
+$ [dict(sova_rus_desserts)]
+# Верно! Играем еще? [%that_anchor="еще съедобное-несъедобное"]
+
+
+
+//съедобное-несъедобное
++%that_anchor="съедобное"
+$ [udict(sova_rus_furniture)]
+$ [dict(sova_rus_gadgets)]
+$ [dict(sova_rus_utensils)]
+# Неверно, попробуем еще? [%that_anchor="еще съедобное-несъедобное"]
+
+
+

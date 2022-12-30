@@ -1,0 +1,19 @@
+//Give a counting
+--Label sova_eng_countings
+
+$ * counting~ * [<dict(sova_question_marks)>] [<dict(sova_exclamation_marks)>]
+$ * [@cmb({{know/say~/hav~/tell~/narrat~/giv~/mak~\}}, {counting~})] *
+$ * [@cmb({[dict(sova_eng_want)]}, {counting~})] *
+$ * [@cmb({[dict(sova_eng_please)]}, {counting~})] *
+
+# [udict(sova_eng_countings)] [%that_anchor="eng_countings_more"]
+
+
+//More countings
++%that_anchor="eng_countings_more"
+
+$ * [<dict(sova_eng_thanks)>] * [@cmb({[dict(sova_eng_again)]}, {{counting~/--\}})] *
+
+# [udict(sova_eng_countings)] [%that_anchor="eng_countings_more"]
+
+

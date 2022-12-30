@@ -1,0 +1,1200 @@
+//Currency of Abkhazia
+$ * [@cmb({{currenc~/mone~\}}, {abkhaz~})] *
+# The currency of Abkhazia is the apsar, the Russian ruble is used in practice.
+
+
+
+//Currency of Afghanistan
+$ * [@cmb({{currenc~/mone~\}}, {afghan~})] *
+# The currency of Afghanistan is the afghani.
+
+
+
+//Currency of Albania
+$ * [@cmb({{currenc~/mone~\}}, {alban~})] *
+# The currency of Albania is the lek.
+
+
+
+//Currency of Algeria
+$ * [@cmb({{currenc~/mone~\}}, {algeria~})] *
+# The currency of Algeria is The Algerian dinar.
+
+
+
+//Currency of Andorra
+$ * [@cmb({{currenc~/mone~\}}, {andorr~})] *
+# The currency of Andorra is the euro.
+
+
+
+//Currency of Angola
+$ * [@cmb({{currenc~/mone~\}}, {angol~})] *
+# The currency of Angola is the kwanza.
+
+
+
+//Currency of Antigua and Barbuda
+$ * [@cmb({{currenc~/mone~\}}, {antigua~ and barbuda~})] *
+# The currency of Antigua and Barbuda is the East Caribbean dollar.
+
+
+
+//Currency of Argentina
+$ * [@cmb({{currenc~/mone~\}}, {argentin~})] *
+# The currency of Argentina is the Argentine peso.
+
+
+
+//Currency of Armenia
+$ * [@cmb({{currenc~/mone~\}}, {armenia~})] *
+# The currency of Armenia is the dram.
+
+
+
+//Currency of Australia
+$ * [@cmb({{currenc~/mone~\}}, {australia~})] *
+# The currency of Australia is the Australian dollar.
+
+
+
+//Currency of Austria
+$ * [@cmb({{currenc~/mone~\}}, {austria~})] *
+# The currency of Austria is the euro.
+
+
+
+//Currency of Azerbaijan
+$ * [@cmb({{currenc~/mone~\}}, {azerbaijan~})] *
+# The currency of Azerbaijan is the Azerbaijan Manat.
+
+
+
+//Currency of Bahamas
+$ * [@cmb({{currenc~/mone~\}}, {baham~})] *
+# The currency of Bahamas is the Bahamian dollar.
+
+
+
+//Currency of Bahrain
+$ * [@cmb({{currenc~/mone~\}}, {bahrain})] *
+# The currency of Bahrain is the Bahraini dinar.
+
+
+
+//Currency of Bangladesh
+$ * [@cmb({{currenc~/mone~\}}, {bangladesh})] *
+# The currency of Bangladesh is the Bangladeshi taka.
+
+
+
+//Currency of Barbados
+$ * [@cmb({{currenc~/mone~\}}, {barbados})] *
+# The currency of Barbados is the Barbadian dollar.
+
+
+
+//Currency of Belarus
+$ * [@cmb({{currenc~/mone~\}}, {belarus~})] *
+# The currency of Belarus is the Belarusian ruble.
+
+
+
+//Currency of Belgium
+$ * [@cmb({{currenc~/mone~\}}, {belgi~})] *
+# The currency of Belgium is the euro.
+
+
+
+//Currency of Belize
+$ * [@cmb({{currenc~/mone~\}}, {belize})] *
+# The currency of Belize is the Belize dollar.
+
+
+
+//Currency of Benin
+$ * [@cmb({{currenc~/mone~\}}, {benin})] *
+# The currency of Benin is the CFA Franc BCEAO.
+
+
+
+//Currency of Bhutan
+$ * [@cmb({{currenc~/mone~\}}, {bhutan})] *
+# The currency of Bhutan is the ngultrum.
+
+
+
+//Currency of Bolivia
+$ * [@cmb({{currenc~/mone~\}}, {bolivia})] *
+# The currency of Bolivia is The boliviano.
+
+
+
+//Currency of Bosnia and Herzegovina
+$ * [@cmb({{currenc~/mone~\}}, {bosnia and Herzegovina})] *
+# The currency of Bosnia and Herzegovina is the convertible mark.
+
+
+
+//Currency of Botswana
+$ * [@cmb({{currenc~/mone~\}}, {botswana})] *
+# The currency of Botswana is the pula.
+
+
+
+//Currency of Brasíl
+$ * [@cmb({{currenc~/mone~\}}, {{brasil/brasíl\}})] *
+# The currency of Brasíl is the Brazilian real.
+
+
+
+//Currency of Brunei
+$ * [@cmb({{currenc~/mone~\}}, {brunei})] *
+# The currency of Brunei is the Brunei dollar.
+
+
+
+//Currency of Bulgaria
+$ * [@cmb({{currenc~/mone~\}}, {bulgaria})] *
+# The currency of Bulgaria is the lev.
+
+
+
+//Currency of Burkina Faso
+$ * [@cmb({{currenc~/mone~\}}, {burkina faso})] *
+# The currency of Burkina Faso is the West African CFA franc.
+
+
+
+//Currency of Burundi
+$ * [@cmb({{currenc~/mone~\}}, {burundi})] *
+# The currency of Burundi is the Burundian franc BIF.
+
+
+
+//Currency of Cambodia
+$ * [@cmb({{currenc~/mone~\}}, {cambodia})] *
+# The currency of Cambodia is the Cambodian riel.
+
+
+
+//Currency of Cameroon
+$ * [@cmb({{currenc~/mone~\}}, {cameroon})] *
+# The currency of Cameroon is the Central African CFA franc.
+
+
+
+//Currency of Canada
+$ * [@cmb({{currenc~/mone~\}}, {canada})] *
+# The currency of Canada is the Canadian dollar.
+
+
+
+//Currency of Cape Verde
+$ * [@cmb({{currenc~/mone~\}}, {cape verde})] *
+# The currency of Cape Verde is the Cape Verde escudo.
+
+
+
+//Currency of Central African Republic
+$ * [@cmb({{currenc~/mone~\}}, {{central african republic/car\}})] *
+# The currency of Central African Republic is the Central African CFA franc.
+
+
+
+//Currency of Chad
+$ * [@cmb({{currenc~/mone~\}}, {chad})] *
+# The currency of Chad is the Central African CFA franc.
+
+
+
+//Currency of Chile
+$ * [@cmb({{currenc~/mone~\}}, {chil~})] *
+# The currency of Chile is the Chilean peso.
+
+
+
+//Currency of China
+$ * [@cmb({{currenc~/mone~\}}, {{china/chinese/peopl~ republic~ of china/prc\}})] *
+# The currency of China is the Chinese yuan (also called renminbi).
+
+
+
+//Currency of Colombia
+$ * [@cmb({{currenc~/mone~\}}, {colombia~})] *
+# The currency of Colombia is the Colombian peso.
+
+
+
+//Currency of Comoros
+$ * [@cmb({{currenc~/mone~\}}, {comor~})] *
+# The currency of Comoros is the Comoros franc.
+
+
+
+//Currency of Costa Rica
+$ * [@cmb({{currenc~/mone~\}}, {{costa rica~/costarica~\}})] *
+# The currency of Costa Rica is the Costa Rican Colon.
+
+
+
+//Currency of Croatia
+$ * [@cmb({{currenc~/mone~\}}, {croatia~})] *
+# The currency of Croatia is the  Croatian kuna.
+
+
+
+//Currency of Cuba
+$ * [@cmb({{currenc~/mone~\}}, {cuba~})] *
+# The currency of Cuba is the Cuban peso.
+
+
+
+//Currency of Cyprus
+$ * [@cmb({{currenc~/mone~\}}, {cypr~})] *
+# The currency of Cyprus is the euro.
+
+
+
+//Currency of Czech Republic
+$ * [@cmb({{currenc~/mone~\}}, {{czech/chechi\}})] *
+# The currency of Czech republic is the Czech koruna.
+
+
+
+//Currency of D.R. Congo
+$ * [@cmb({{currenc~/mone~\}}, {{dr/d. r./d.r./d r/d.r~/democratic\}}, {{republic/--\}}, {congo~})] *
+# The currency of D.R. Congo is the Congolese franc.
+
+
+
+//Currency of Denmark
+$ * [@cmb({{currenc~/mone~\}}, {{denmark/danish\}})] *
+# The currency of Denmark is the Danish krone.
+
+
+
+//Currency of Dominica
+$ * [@cmb({{currenc~/mone~\}}, {dominica})] *
+# The currency of Dominica is the East Caribbean dollar.
+
+
+
+//Currency of Dominican Republic
+$ * [@cmb({{currenc~/mone~\}}, {dominican~})] *
+# The currency of Dominican Republic is the Dominican peso.
+
+
+
+//Currency of East Timor
+$ * [@cmb({{currenc~/mone~\}}, {timor~})] *
+# The currency of East Timor is the US dollar.
+
+
+
+//Currency of Ecuador
+$ * [@cmb({{currenc~/mone~\}}, {ecuador~})] *
+# The currency of Ecuador is the Ecuadorian sucre.
+
+
+
+//Currency of Egypt
+$ * [@cmb({{currenc~/mone~\}}, {egypt~})] *
+# The currency of Egypt is the Egyptian pound.
+
+
+
+//Currency of El Salvador
+$ * [@cmb({{currenc~/mone~\}}, {salvador~})] *
+# The currency of El Salvador is the Salvadoran colon.
+
+
+
+//Currency of Equatorial Guinea
+$ * [@cmb({{currenc~/mone~\}}, {equator~ guinea})] *
+# The currency of Equatorial Guinea is the Central African CFA franc.
+
+
+
+//Currency of Eritrea
+$ * [@cmb({{currenc~/mone~\}}, {eritrea~})] *
+# The currency of Eritrea is the Eritrean nakfa.
+
+
+
+//Currency of Estonia
+$ * [@cmb({{currenc~/mone~\}}, {estonia~})] *
+# The currency of Estonia is the euro.
+
+
+
+//Currency of Ethiopia
+$ * [@cmb({{currenc~/mone~\}}, {ethiopia~})] *
+# The currency of Ethiopia is the Ethiopian birr.
+
+
+
+//Currency of Fiji
+$ * [@cmb({{currenc~/mone~\}}, {fiji~})] *
+# The currency of Fiji is the Fijian dollar.
+
+
+
+//Currency of Finland
+$ * [@cmb({{currenc~/mone~\}}, {{finland~/finn~\}})] *
+# The currency of Finland is the euro.
+
+
+
+//Currency of France
+$ * [@cmb({{currenc~/mone~\}}, {fran~})] *
+# The currency of France is the euro.
+
+
+
+//Currency of Gabon
+$ * [@cmb({{currenc~/mone~\}}, {gabon~})] *
+# The currency of Gabon is the Central African franc.
+
+
+
+//Currency of Gambia
+$ * [@cmb({{currenc~/mone~\}}, {gambia~})] *
+# The currency of Gambia is the Gambian dalasi.
+
+
+
+//Currency of Georgia
+$ * [@cmb({{currenc~/mone~\}}, {georgia~})] *
+# The currency of Georgia is the Georgian Lari.
+
+
+
+//Currency of Germany
+$ * [@cmb({{currenc~/mone~\}}, {german~})] *
+# The currency of Germany is the euro.
+
+
+
+//Currency of Ghana
+$ * [@cmb({{currenc~/mone~\}}, {ghan~})] *
+# The currency of Ghana is the Ghanaian cedi.
+
+
+
+//Currency of Greece
+$ * [@cmb({{currenc~/mone~\}}, {{greece~/greek\}})] *
+# The currency of Greece is the euro.
+
+
+
+//Currency of Grenada
+$ * [@cmb({{currenc~/mone~\}}, {{grenada/grenade\}})] *
+# The currency of Grenada is the East Caribbean dollar.
+
+
+
+//Currency of Guatemala
+$ * [@cmb({{currenc~/mone~\}}, {guatemal~})] *
+# The currency of Guatemala is the Guatemalan quetzal.
+
+
+
+//Currency of Guinea
+$ * [@cmb({{currenc~/mone~\}}, {guinea~})] *
+# The currency of Guinea is the Guinean franc.
+
+
+
+//Currency of Guinea-Bissau
+$ * [@cmb({{currenc~/mone~\}}, {guinea bissau})] *
+# The currency of Guinea-Bissau is the West African franc CFA.
+
+
+
+//Currency of Guyana
+$ * [@cmb({{currenc~/mone~\}}, {guyana~})] *
+# The currency of Guyana is the Guyanese dollar.
+
+
+
+//Currency of Haiti
+$ * [@cmb({{currenc~/mone~\}}, {haiti~})] *
+# The currency of Haiti is the Haitian gourde.
+
+
+
+//Currency of Honduras
+$ * [@cmb({{currenc~/mone~\}}, {honduras~})] *
+# The currency of Honduras is the Honduran lempira.
+
+
+
+//Currency of Hungary
+$ * [@cmb({{currenc~/mone~\}}, {hungar~})] *
+# The currency of Hungary is the forint.
+
+
+
+//Currency of Iceland
+$ * [@cmb({{currenc~/mone~\}}, {iceland~})] *
+# The currency of Iceland is the Icelandic krona.
+
+
+
+//Currency of India
+$ * [@cmb({{currenc~/mone~\}}, {india~})] *
+# The currency of India is the Indian rupee.
+
+
+
+//Currency of Indonesia
+$ * [@cmb({{currenc~/mone~\}}, {indonesia~})] *
+# The currency of Indonesia is the Indonesian rupiah.
+
+
+
+//Currency of Iran
+$ * [@cmb({{currenc~/mone~\}}, {iran~})] *
+# The currency of Iran is the Iranian rial.
+
+
+
+//Currency of Iraq
+$ * [@cmb({{currenc~/mone~\}}, {iraq~})] *
+# The currency of Iraq is the Iraqi dinar.
+
+
+
+//Currency of Ireland
+$ * [@cmb({{currenc~/mone~\}}, {{ireland/irish\}})] *
+# The currency of Ireland is the euro.
+
+
+
+//Currency of Israel
+$ * [@cmb({{currenc~/mone~\}}, {israel~})] *
+# The currency of Israel is the Israeli shekel.
+
+
+
+//Currency of Italy
+$ * [@cmb({{currenc~/mone~\}}, {ital~})] *
+# The currency of Italy is the euro.
+
+
+
+//Currency of Ivory Coast
+$ * [@cmb({{currenc~/mone~\}}, {ivory coast})] *
+# The currency of Ivory Coast is the West African CFA franc.
+
+
+
+//Currency of Jamaica
+$ * [@cmb({{currenc~/mone~\}}, {jamaic~})] *
+# The currency of Jamaica is the Jamaican dollar.
+
+
+
+//Currency of Japan
+$ * [@cmb({{currenc~/mone~\}}, {japan})] *
+# The currency of Japan is the yen.
+
+
+
+//Currency of Jordan
+$ * [@cmb({{currenc~/mone~\}}, {jordan~})] *
+# The currency of Jordan is the Jordanian dinar.
+
+
+
+//Currency of Kazakhstan
+$ * [@cmb({{currenc~/mone~\}}, {kazakh~})] *
+# The currency of Kazakhstan is the tenge.
+
+
+
+//Currency of Kenya
+$ * [@cmb({{currenc~/mone~\}}, {kenya~})] *
+# The currency of Kenya is the Kenyan shilling.
+
+
+
+//Currency of Kiribati
+$ * [@cmb({{currenc~/mone~\}}, {kiribati~})] *
+# The currency of Kiribati is the Australian dollar.
+
+
+
+//Currency of Kuwait
+$ * [@cmb({{currenc~/mone~\}}, {kuwait~})] *
+# The currency of Kuwait is the Kuwaiti dinar.
+
+
+
+//Currency of Kyrgyzstan
+$ * [@cmb({{currenc~/mone~\}}, {{kyrgyz~/kirgiz~\}})] *
+# The currency of Kyrgyzstan is the som.
+
+
+
+//Currency of Laos
+$ * [@cmb({{currenc~/mone~\}}, {laos~})] *
+# The currency of Laos is the kip.
+
+
+
+//Currency of Latvia
+$ * [@cmb({{currenc~/mone~\}}, {latvia~})] *
+# The currency of Latvia is the euro.
+
+
+
+//Currency of Lebanon
+$ * [@cmb({{currenc~/mone~\}}, {leban~})] *
+# The currency of Lebanon is the Lebanese pound or lira.
+
+
+
+//Currency of Lesotho
+$ * [@cmb({{currenc~/mone~\}}, {lesoth~})] *
+# The currency of Lesotho is the loti.
+
+
+
+//Currency of Liberia
+$ * [@cmb({{currenc~/mone~\}}, {liberia~})] *
+# The currency of Liberia is the Liberian dollar.
+
+
+
+//Currency of Libya
+$ * [@cmb({{currenc~/mone~\}}, {libya~})] *
+# The currency of Libya is the Libyan dinar.
+
+
+
+//Currency of Liechtenstein
+$ * [@cmb({{currenc~/mone~\}}, {liechtenstein})] *
+# The currency of Liechtenstein is the Swiss franc.
+
+
+
+//Currency of Lithuania
+$ * [@cmb({{currenc~/mone~\}}, {lithuania~})] *
+# The currency of Lithuania is the euro.
+
+
+
+//Currency of Luxembourg
+$ * [@cmb({{currenc~/mone~\}}, {luxembourg~})] *
+# The currency of Luxembourg is the euro.
+
+
+
+//Currency of Macedonia
+$ * [@cmb({{currenc~/mone~\}}, {macedonia~})] *
+# The currency of Macedonia is the Macedonian denar.
+
+
+
+//Currency of Madagascar
+$ * [@cmb({{currenc~/mone~\}}, {madagascar~})] *
+# The currency of Madagascar is the ariary.
+
+
+
+//Currency of Malawi
+$ * [@cmb({{currenc~/mone~\}}, {malawi~})] *
+# The currency of Malawi is the kwacha.
+
+
+
+//Currency of Malaysia
+$ * [@cmb({{currenc~/mone~\}}, {malaysia~})] *
+# The currency of Malaysia is the Malaysian ringgit.
+
+
+
+//Currency of Maldives
+$ * [@cmb({{currenc~/mone~\}}, {maldiv~})] *
+# The currency of Maldives is the Maldivian rufiyaa.
+
+
+
+//Currency of Mali
+$ * [@cmb({{currenc~/mone~\}}, {mali~})] *
+# The currency of Mali is the Malian franc.
+
+
+
+//Currency of Malta
+$ * [@cmb({{currenc~/mone~\}}, {Malt~})] *
+# The currency of Malta is the euro.
+
+
+
+//Currency of Marshall Islands
+$ * [@cmb({{currenc~/mone~\}}, {marshall~})] *
+# The currency of Marshall Islands is the US dollar.
+
+
+
+//Currency of Mauritania
+$ * [@cmb({{currenc~/mone~\}}, {mauritania~})] *
+# The currency of Mauritania is the ouguiya.
+
+
+
+//Currency of Mauritius
+$ * [@cmb({{currenc~/mone~\}}, {mauriti~})] *
+# The currency of Mauritius is the Mauritian rupee.
+
+
+
+//Currency of Mexico
+$ * [@cmb({{currenc~/mone~\}}, {mexic~})] *
+# The currency of Mexico is the Mexican peso.
+
+
+
+//Currency of Micronesia
+$ * [@cmb({{currenc~/mone~\}}, {micronesia~})] *
+# The currency of Micronesia is the US dollar.
+
+
+
+//Currency of Moldova
+$ * [@cmb({{currenc~/mone~\}}, {{moldov~/moldav~\}})] *
+# The currency of Moldova is the Moldovan leu.
+
+
+
+//Currency of Monaco
+$ * [@cmb({{currenc~/mone~\}}, {monac~})] *
+# The currency of Monaco is the euro.
+
+
+
+//Currency of Mongolia
+$ * [@cmb({{currenc~/mone~\}}, {mongolia~})] *
+# The currency of Mongolia is the Mongolian tugrik.
+
+
+
+//Currency of Montenegro
+$ * [@cmb({{currenc~/mone~\}}, {{montenegr~/monte negr~\}})] *
+# The currency of Montenegro is the euro.
+
+
+
+//Currency of Morocco
+$ * [@cmb({{currenc~/mone~\}}, {{moroc~/maroc~/marac~\}})] *
+# The currency of Morocco is the Moroccan dirham.
+
+
+
+//Currency of Mozambique
+$ * [@cmb({{currenc~/mone~\}}, {mozambi~})] *
+# The currency of Mozambique is the metical.
+
+
+
+//Currency of Myanmar
+$ * [@cmb({{currenc~/mone~\}}, {myanmar~})] *
+# The currency of Myanmar is the Myanmar kyat.
+
+
+
+//Currency of Namibia
+$ * [@cmb({{currenc~/mone~\}}, {namibia~})] *
+# The currency of Namibia is the Namibian dollar.
+
+
+
+//Currency of Nauru
+$ * [@cmb({{currenc~/mone~\}}, {naur~})] *
+# The currency of Nauru is the Australian dollar.
+
+
+
+//Currency of Nepal
+$ * [@cmb({{currenc~/mone~\}}, {nepal~})] *
+# The currency of Nepal is the Nepalese rupee.
+
+
+
+//Currency of Netherlands
+$ * [@cmb({{currenc~/mone~\}}, {{netherland~/holland~\}})] *
+# The currency of Netherlands is the euro.
+
+
+
+//Currency of New Zealand
+$ * [@cmb({{currenc~/mone~\}}, {new zealand~})] *
+# The currency of New Zealand is the New Zealand dollar
+
+
+
+//Currency of Nicaragua
+$ * [@cmb({{currenc~/mone~\}}, {nicaragua~})] *
+# The currency of Nicaragua is Managua.
+
+
+
+//Currency of Niger
+$ * [@cmb({{currenc~/mone~\}}, {niger})] *
+# The currency of Niger is the West African CFA franc.
+
+
+
+//Currency of Nigeria
+$ * [@cmb({{currenc~/mone~\}}, {nigeria~})] *
+# The currency of Nigeria is the naira.
+
+
+
+//Currency of North Korea
+$ * [@cmb({{currenc~/mone~\}}, {{north~ korea~/demo~ people~ republic of korea/demo~ people~ s republic of korea/korea~ demo~ people~ republic/korea~ demo~ people~ s republic/dprk\}})] *
+# The currency of Democratic People's Republic of Korea is the North Korean won.
+
+
+
+//Currency of Norway
+$ * [@cmb({{currenc~/mone~\}}, {{norway~/norweg~\}})] *
+# The currency of Norway is the Norwegian krone.
+
+
+
+//Currency of Oman
+$ * [@cmb({{currenc~/mone~\}}, {oman~})] *
+# The currency of Oman is the Omani rial.
+
+
+
+//Currency of Pakistan
+$ * [@cmb({{currenc~/mone~\}}, {pakistan~})] *
+# The currency of Pakistan is the Pakistani rupee.
+
+
+
+//Currency of Palau
+$ * [@cmb({{currenc~/mone~\}}, {palau})] *
+# The currency of Palau is the US dollar.
+
+
+
+//Currency of Palestine
+$ * [@cmb({{currenc~/mone~\}}, {palestin~})] *
+# The currency of Palestine is the New Israeli shekel/Jordanian dinar.
+
+
+
+//Currency of Panama
+$ * [@cmb({{currenc~/mone~\}}, {panam~})] *
+# The currency of Panama is the Panamanian balboa.
+
+
+
+//Currency of Papua New Guinea
+$ * [@cmb({{currenc~/mone~\}}, {papua new guinea~})] *
+# The currency of Papua New Guinea is the Papua New Guinean kina.
+
+
+
+//Currency of Paraguay
+$ * [@cmb({{currenc~/mone~\}}, {paragua~})] *
+# The currency of Paraguay is the Paraguayan Guarani.
+
+
+
+//Currency of Peru
+$ * [@cmb({{currenc~/mone~\}}, {peru})] *
+# The currency of Peru is the Peruvian sol.
+
+
+
+//Currency of Philippines
+$ * [@cmb({{currenc~/mone~\}}, {{philippin~/philipin~\}})] *
+# The currency of Philippines is the Philippine peso.
+
+
+
+//Currency of Poland
+$ * [@cmb({{currenc~/mone~\}}, {{poland/polish\}})] *
+# The currency of Poland is the złoty.
+
+
+
+//Currency of Portugal
+$ * [@cmb({{currenc~/mone~\}}, {portug~})] *
+# The currency of Portugal is the euro.
+
+
+
+//Currency of Qatar
+$ * [@cmb({{currenc~/mone~\}}, {qatar~})] *
+# The currency of Qatar is the Qatari riyal.
+
+
+
+//Currency of Republic of the Congo
+$ * [@cmb({{currenc~/mone~\}}, {republic}, {congo~})] *
+# The currency of Republic of the Congo is the Central African Franc.
+
+
+
+//Currency of Romania
+$ * [@cmb({{currenc~/mone~\}}, {romania~})] *
+# The currency of Romania is the Romanian leu.
+
+
+
+//Currency of Russia
+$ * [@cmb({{currenc~/mone~\}}, {rus~})] *
+# The currency of Russia is the Russian ruble.
+
+
+
+//Currency of Rwanda
+$ * [@cmb({{currenc~/mone~\}}, {{rwand~/ruand~\}})] *
+# The currency of Rwanda is the Rwandan franc.
+
+
+
+//Currency of Saint Kitts and Nevis
+$ * [@cmb({{currenc~/mone~\}}, {saint kit~ and nevis~})] *
+# The currency of Saint Kitts and Nevis is the East Caribbean dollar.
+
+
+
+//Currency of Saint Lucia
+$ * [@cmb({{currenc~/mone~\}}, {saint lucia~})] *
+# The currency of Saint Lucia is the East Caribbean dollar.
+
+
+
+//Currency of Saint Vincent and the Grenadines
+$ * [@cmb({{currenc~/mone~\}}, {saint vincent * grenadin~})] *
+# The currency of Saint Vincent and the Grenadines is the East Caribbean dollar.
+
+
+
+//Currency of Samoa
+$ * [@cmb({{currenc~/mone~\}}, {samoa~})] *
+# The currency of Samoa is the Samoan tala.
+
+
+
+//Currency of San Marino
+$ * [@cmb({{currenc~/mone~\}}, {san marin~})] *
+# The currency of San Marino is the euro.
+
+
+
+//Currency of São Tomé and Príncipe
+$ * [@cmb({{currenc~/mone~\}}, {{san tom~/são tom~\} * {princip~/príncip~\}})] *
+# The currency of São Tomé and Príncipe is the dobra.
+
+
+
+//Currency of Saudi Arabia
+$ * [@cmb({{currenc~/mone~\}}, {saudi arabia~})] *
+# The currency of Saudi Arabia is the Saudi riyal.
+
+
+
+//Currency of Senegal
+$ * [@cmb({{currenc~/mone~\}}, {senegal~})] *
+# The currency of Senegal is the West African CFA franc.
+
+
+
+//Currency of Serbia
+$ * [@cmb({{currenc~/mone~\}}, {serbia~})] *
+# The currency of Serbia is Serbian dinar.
+
+
+
+//Currency of Seychelles
+$ * [@cmb({{currenc~/mone~\}}, {seychel~})] *
+# The currency of Seychelles is the Seychelles rupee.
+
+
+
+//Currency of Sierra Leone
+$ * [@cmb({{currenc~/mone~\}}, {sier~ leon~})] *
+# The currency of Sierra Leone is the leone.
+
+
+
+//Currency of Singapore
+$ * [@cmb({{currenc~/mone~\}}, {singap~})] *
+# The currency of Singapore is the Singapore dollar.
+
+
+
+//Currency of Slovakia
+$ * [@cmb({{currenc~/mone~\}}, {slovak~})] *
+# The currency of the Slovak koruna or Slovak crown.
+
+
+
+//Currency of Slovenia
+$ * [@cmb({{currenc~/mone~\}}, {sloven~})] *
+# The currency of Slovenia is the euro.
+
+
+
+//Currency of Solomon Islands
+$ * [@cmb({{currenc~/mone~\}}, {solomon~ island~})] *
+# The currency of Solomon Islands is the Solomon Islands dollar.
+
+
+
+//Currency of Somalia
+$ * [@cmb({{currenc~/mone~\}}, {somali~})] *
+# The currency of Somalia is the Somali shilling.
+
+
+
+//Currency of South Africa
+$ * [@cmb({{currenc~/mone~\}}, {south~ afric~})] *
+# The currency of South Africa is the South African rand.
+
+
+
+//Currency of South Korea
+$ * [@cmb({{currenc~/mone~\}}, {{south~ korea~/republic of korea/korea~ republic/rok\}})] *
+# The currency of South Korea is the South Korean won.
+
+
+
+//Currency of South Ossetia
+$ * [@cmb({{currenc~/mone~\}}, {south~ {oseti~/osseti~\}})] *
+# The currency of South Ossetia is the Russian ruble.
+
+
+
+//Currency of South Sudan
+$ * [@cmb({{currenc~/mone~\}}, {south~ sudan~})] *
+# The currency of South Sudan is the South Sudanese Pound.
+
+
+
+//Currency of Spain
+$ * [@cmb({{currenc~/mone~\}}, {{spain/spanish\}})] *
+# The currency of Spain is the euro.
+
+
+
+//Currency of Sri Lanka
+$ * [@cmb({{currenc~/mone~\}}, {sri lanka})] *
+# The currency of Sri Lanka is the Sri Lankan Rupee.
+
+
+
+//Currency of Sudan
+$ * [@cmb({{currenc~/mone~\}}, {sudan~})] *
+# The currency of Sudan is the Sudanese Pound.
+
+
+
+//Currency of Suriname
+$ * [@cmb({{currenc~/mone~\}}, {surinam~})] *
+# The currency of Suriname is the Surinamese dollar.
+
+
+
+//Currency of Eswatini (Swaziland)
+$ * [@cmb({{currenc~/mone~\}}, {{eswatini/swaziland\}})] *
+# The currency of Eswatini (Swaziland) is the Eswatini lilangeni.
+
+
+
+//Currency of Sweden
+$ * [@cmb({{currenc~/mone~\}}, {swed~})] *
+# The currency of Sweden is the Swedish Krona.
+
+
+
+//Currency of Switzerland
+$ * [@cmb({{currenc~/mone~\}}, {{switzerland/swiss\}})] *
+# The currency of Switzerland is the Swiss franc.
+
+
+
+//Currency of Syria
+$ * [@cmb({{currenc~/mone~\}}, {syria~})] *
+# The currency of Syria is the Syrian pound or Syrian lira.
+
+
+
+//Currency of Taiwan
+$ * [@cmb({{currenc~/mone~\}}, {{taiwan/thaiwan/republic~ of china/roc\}})] *
+# The currency of Taiwan is the New Taiwan dollar.
+
+
+
+//Currency of Tajikistan
+$ * [@cmb({{currenc~/mone~\}}, {{tajik~/tadzhik~/tadzhyk~\}})] *
+# The currency of Tajikistan is the somoni.
+
+
+
+//Currency of Tanzania
+$ * [@cmb({{currenc~/mone~\}}, {tanzan~})] *
+# The currency of Tanzania is the Tanzanian shilling.
+
+
+
+//Currency of Thailand
+$ * [@cmb({{currenc~/mone~\}}, {{thai/Thailand~\}})] *
+# The currency of Thailand is the Thai baht.
+
+
+
+//Currency of Togo
+$ * [@cmb({{currenc~/mone~\}}, {tog~})] *
+# The currency of Togo is the West African CFA franc.
+
+
+
+//Currency of Tonga
+$ * [@cmb({{currenc~/mone~\}}, {tong~})] *
+# The currency of Tonga is the Tongan Pa'anga.
+
+
+
+//Currency of Trinidad and Tobago
+$ * [@cmb({{currenc~/mone~\}}, {trinidad~ * tobag~})] *
+# The currency of Trinidad and Tobago is the Trinidad and Tobago dollar.
+
+
+
+//Currency of Tunisia
+$ * [@cmb({{currenc~/mone~\}}, {tunisia~})] *
+# The currency of Tunisia is the Tunisian dinar.
+
+
+
+//Currency of Turkey
+$ * [@cmb({{currenc~/mone~\}}, {turk~})] *
+# The currency of Turkey is the Turkish lira.
+
+
+
+//Currency of Turkmenistan
+$ * [@cmb({{currenc~/mone~\}}, {turkmen~})] *
+# The currency of Turkmenistan is the Turkmenistani manat.
+
+
+
+//Currency of Tuvalu
+$ * [@cmb({{currenc~/mone~\}}, {tuvalu~})] *
+# The currency of Tuvalu is the Tuvaluan dollar.
+
+
+
+//Currency of Uganda
+$ * [@cmb({{currenc~/mone~\}}, {ugand~})] *
+# The currency of Uganda is the Uganda Shilling.
+
+
+
+//Currency of Ukraine
+$ * [@cmb({{currenc~/mone~\}}, {ukrain~})] *
+# The currency of Ukraine is the hryvnia (hryvna).
+
+
+
+//Currency of the United Arab Emirates
+$ * [@cmb({{currenc~/mone~\}}, {{uae/emirates~\}})] *
+# The currency of the United Arab Emirates is the United Arab Emirates dirham.
+
+
+
+//Currency of the United Kingdom
+$ * [@cmb({{currenc~/mone~\}}, {{united kingdom/brit~/uk/engl~\}})] *
+# The currency of the United Kingdom (and England) is the pound sterling.
+
+
+
+//Currency of Scotland
+$ * [@cmb({{currenc~/mone~\}}, {scot~})] *
+# The currency of Scotland is the pound sterling.
+
+
+
+//Currency of Wales
+$ * [@cmb({{currenc~/mone~\}}, {{wales/welsh\}})] *
+# The currency of Wales is the pound sterling.
+
+
+
+//Currency of Nothern Ireland
+$ * [@cmb({{currenc~/mone~\}}, {north~ ir~})] *
+# The currency of Northen Ireland is the pound sterling.
+
+
+
+//Currency of the United States
+$ * [@cmb({{currenc~/mone~\}}, {{united states/us/usa/america~\}})] *
+# The currency of the United States is the US dollar.
+
+
+
+//Currency of Uruguay
+$ * [@cmb({{currenc~/mone~\}}, {urugua~})] *
+# The currency of Uruguay is the Uruguayan peso.
+
+
+
+//Currency of Uzbekistan
+$ * [@cmb({{currenc~/mone~\}}, {uzbek~})] *
+# The currency of Uzbekistan is Uzbekistan som.
+
+
+
+//Currency of Vanuatu
+$ * [@cmb({{currenc~/mone~\}}, {vanuatu})] *
+# The currency of Vanuatu is Port the vatu.
+
+
+
+//Currency of Vatican City
+$ * [@cmb({{currenc~/mone~\}}, {vatican~})] *
+# The currency of Vatican City is the euro.
+
+
+
+//Currency of Venezuela
+$ * [@cmb({{currenc~/mone~\}}, {venezuel~})] *
+# The currency of Venezuela is the bolivar.
+
+
+
+//Currency of Vietnam
+$ * [@cmb({{currenc~/mone~\}}, {vietnam~})] *
+# The currency of Vietnam is the Vietnamese dong.
+
+
+
+//Currency of Yemen
+$ * [@cmb({{currenc~/mone~\}}, {yemen~})] *
+# The currency of Yemen is the Yemeni rial.
+
+
+
+//Currency of Zambia
+$ * [@cmb({{currenc~/mone~\}}, {zambia~})] *
+# The currency of Zambia is the kwacha.
+
+
+
+//Currency of Zimbabwe
+$ * [@cmb({{currenc~/mone~\}}, {Zimbabw~})] *
+# The currency of Zimbabwe is the Zimbabwean dollar.
+
+
+

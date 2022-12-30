@@ -1,0 +1,17 @@
+<userlink>муравей</userlink>
+<userlink>комар</userlink>
+<userlink>муха</userlink>
+<userlink>бабочка</userlink>
+<userlink>кузнечик</userlink>
+<userlink>сверчок</userlink>
+<userlink>жук</userlink>
+<userlink>стрекоза</userlink>
+<userlink>таракан</userlink>
+<userlink>богомол</userlink>
+<userlink>блоха</userlink>
+<userlink>пчела</userlink>
+<userlink>оса</userlink>
+<userlink>шмель</userlink>
+
+
+

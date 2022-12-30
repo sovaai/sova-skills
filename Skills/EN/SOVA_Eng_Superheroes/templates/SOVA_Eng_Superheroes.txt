@@ -1,0 +1,223 @@
+//Guess a superhero
+--Label sova_eng_superheroes
+$ * [@cmb({{gues~/nam~/choos~/find~/pick~\}}, {{superhero~/super hero~\}})] *
+#:lu:Ok, let's do it! A wealthy American business magnate, playboy, philanthropist, inventor and ingenious scientist, suffers a severe chest injury during a kidnapping. When his captors attempt to force him to build a weapon of mass destruction, he instead creates a mechanized suit of armor to save his life and escape captivity. Later, he develops his suit, adding weapons and other technological devices he designed through his company. Well, who he may be: [inf]{Iron Man} [inf]{Spider-man} [inf]{Hulk} [inf]{Batman}[%that_anchor="Iron Man"]
+#:lu:It's breathtaking! Не has agility, strength, speed, endurance, and reaction time superior to any Olympic athlete who ever competed. The Super-Soldier formula that he has metabolized has enhanced all of his bodily functions to the peak of human efficiency. He has a set of morals and values that is uncompromising. He fights oppression, terrorism, injustice, intolerance, prejudice, bigotry, corruption, and crime. Don't hesitate, name him: [inf]{Чудо-женщина} [inf]{Wolverine} [inf]{Captain America} [inf]{Scarlet Witch}[%that_anchor="Captain America"]
+#:lu:Greate, let's play! He is arguably the strongest character in Marvel. He’s an Asgardian God who possesses immense strength, can control lightning, and wields the hammer, Mjolnir. With Mjolnir by his side, he’s able to fly and travel inter-planetary. Who is he actually: [inf]{Superman} [inf]{Thor} [inf]{Doctor Strange} [inf]{Deadpool}[%that_anchor="Thor"]
+#:lu:Here we go now! Well then... In an accident, a famous neurosurgeon, loses the ability to use his hands. He goes to visit the mysterious Ancient One to heal himself and becomes a great sorcerer under her tutelage. He learns to be a master of both the mystical and the martial arts. He acquires an assortment of mystical objects, including the powerful Eye of Agamotto and Cloak of Levitation. Are you aware of him: [inf]{Iron Man} [inf]{Scarlet Witch} [inf]{Doctor Strange} [inf]{Thor}[%that_anchor="Doctor Strange"]
+#:lu:I'm here with a question! A shy teenager gains supernatural abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy, gets superpowers from a bite from a radioactive arthropod&#59 these include clinging to surfaces and ceilings, superhuman strength, speed, and agility, and detecting danger with his precognition ability. I'm impatient, who is it: [inf]{Iron Man} [inf]{Deadpool} [inf]{Black widow} [inf]{Spider-man}[%that_anchor="Spider-man"]
+#:lu:This is my favorite! Superhuman strength, speed, stamina, and durability Anger empowerment Regeneration Shockwave generation Gamma ray emission and manipulation Incredible superhuman strength, durability, and healing factor. Becomes more powerful as anger increases. As a man, possesses a genius-level intellect & is an expert in multiple scientific fields, particularly the studies of physics & radiation. He's awesome, but who's it: [inf]{Hulk} [inf]{Captain America} [inf]{Batman} [inf]{Wolverine}[%that_anchor="Hulk"]
+#:lu:Get ready! A super-spy who has been enhanced by biotechnology that makes her body resistant to aging and disease and she heals faster than the average human. Trained extensively in the art of espionage and outfitted with state-of-the-art equipment, her combat skills are virtually unmatched. An expert in many forms of martial arts, she is also a skilled gymnast and possesses superhuman strength, speed, agility, and endurance. What's your guess: [inf]{Superman} [inf]{Deadpool} [inf]{Black Widow} [inf]{Spider-man}[%that_anchor="Black Widow"]
+#:lu:Ready for a question?! He is a mutant who possesses animal-keen senses, enhanced physical capabilities, a powerful regenerative ability known as a healing factor, and three retractable claws in each hand. It was revealed that his mutant powers included superhuman strength and reflexes, enhanced senses and tracking abilities, and a special healing power that also slows his aging. You know whom I'm talking about: [inf]{Captain America} [inf]{Doctor Strange} [inf]{Batman} [inf]{Wolverine}[%that_anchor="Wolverine"]
+#:lu:Come and get it! A powerful mutant sorceress, she is a master of the mystical arts. Her abilities include telekinesis, energy manipulation, and some form of neuroelectric interfacing that allows her to both read thoughts and also give her targets waking nightmares. Who do you think he is: [inf]{Black Widow} [inf]{Hulk} [inf]{Scarlet Witch} [inf]{Thor}[%that_anchor="Scarlet Witch"]
+#:lu:This surely must be easy! He was originally introduced as a ruthless vigilante who frequently killed or maimed criminals, but evolved into a character with a stringent moral code and strong sense of justice. Unlike most superheroes, he does not possess any superpowers, instead relying on his intellect, fighting skills, and wealth. You couldn't be wrong: [inf]{Thor} [inf]{Batman} [inf]{Hulk} [inf]{Wolverine}[%that_anchor="Batman"]
+#:lu:This guy is known for everyone! He is actually an alien, and was born on the planet Krypton. He can fly, see through metal (except lead), has extraordinary strength and speed. Do you know him: [inf]{Spider-man} [inf]{Captain America} [inf]{Black Widow} [inf]{Sumerman}[%that_anchor="Superman"]
+#:lu:This is a special case! Needy, and neurotic, He is a wisecracking mercenary who has become mutant as a result of the experimental cancer therapy. He has razor sharp wit, supreme combat skills, and the ability to heal everything in his body bar his disfigured face. Guess who's he: [inf]{Iron Man} [inf]{Deadpool} [inf]{Scarlet Witch} [inf]{Doctor Strange}[%that_anchor="Deadpool"]
+
+
+
++%that_anchor="Iron Man"
+$ Iron Man
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Iron Man"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Captain America"
+$ Captain America
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Captain America"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Thor"
+$ Thor
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Thor"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Doctor Strange"
+$ Doctor Strange
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Doctor Strange"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Hulk"
+$ Hulk
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Hulk"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Black Widow"
+$ Black Widow
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Black Widow"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Spider-man"
+$ Spider-man
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Spider-man"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Wolverine"
+$ Wolverine
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Wolverine"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Scarlet Witch"
+$ Scarlet Witch
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Scarlet Witch"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Batman"
+$ Batman
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Batman"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Superman"
+$ Superman
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Superman"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Deadpool"
+$ Deadpool
+# Turific! Let's play again? [%that_anchor="more_superheroes"]
+# You are an expert! Playing again? [%that_anchor="more_superheroes"]
+# Greate! Want to play again? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="Deadpool"
+$ *
+# Not exactly... Want to try again? [%that_anchor="more_superheroes"]
+# It's not the right choice, sorry... Try again? [%that_anchor="more_superheroes"]
+# It's a mistake, I'm afraid... Another try? [%that_anchor="more_superheroes"]
+
+
+
++%that_anchor="more_superheroes"
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_yes)] *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_again)] *
+#  [ExtendAnswer("sova_eng_superheroes")]
+
+
+
++%that_anchor="more_superheroes"
+$ * [<dict(sova_eng_thanks)>] * [<dict(sova_eng_again)>] * [dict(sova_eng_no)] *
+# It was not bad, right?!
+
+
+

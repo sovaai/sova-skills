@@ -1,0 +1,42 @@
+//Magic sphere
+
+$ * [@cmb({{magic~/fat~/quest~/ask/orac~/predict~/forecast~/prophec~\}}, {{spher~/ball\}})] *
+
+# The Magic Sphere can tell you Yes or No for your question. What do you want to know? [%that_anchor="magic sphere"]
+# The Prophecy Ball will answer Yes or No to your question. Ask what do you doubt about? [%that_anchor="magic sphere"]
+# The Oracle Sphere will give Yes or No answer to your question. Let it help you, make your question! [%that_anchor="magic sphere"]
+
+
+
+//Magic  sphere
+--Label sova_eng_magic_sphere
++%that_anchor="magic sphere"
+
+$ *
+
+# Yes, but things can change. Want to ask something else? [%that_anchor="magic sphere again"]
+# No, but the world is constantly changing. Have you got other questions? [%that_anchor="magic sphere again"]
+
+
+
+//Magic  sphere
++%that_anchor="magic sphere again"
+
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ * [<dict(sova_eng_thanks)>] * [dict(sova_eng_yes)] *
+
+# Waiting for your question [%that_anchor="magic sphere"]
+# Now ask freely [%that_anchor="magic sphere"]
+# Don't hesitate, your question is welcome [%that_anchor="magic sphere"]
+
+
+
+//Magic  sphere
++%that_anchor="magic sphere again"
+
+$ * [<dict(sova_eng_thanks)>] * [<dict(sova_eng_again)>] * [dict(sova_eng_no)] *
+
+# Good. Remember, The Sphere is always here to help you.
+
+
+

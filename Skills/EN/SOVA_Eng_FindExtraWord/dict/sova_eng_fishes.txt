@@ -1,0 +1,15 @@
+carp
+crucian
+catfish
+sturgeon
+bream
+zander
+perch
+pike
+herring
+cod
+salmon
+tuna
+shark
+
+

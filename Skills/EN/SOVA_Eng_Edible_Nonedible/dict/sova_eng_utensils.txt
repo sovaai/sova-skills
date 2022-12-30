@@ -1,0 +1,14 @@
+spoon
+fork
+knife
+kettle
+pan
+pot
+cup
+glass
+ladle
+jar
+dish
+mug
+
+

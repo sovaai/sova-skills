@@ -1,0 +1,205 @@
+//Recommend music
+$ * [@cmb({{advis~/advic~/tell~/suggest~/prompt~/recommend~/offer~/choos~/select~/pick~/find~/seach~\}}, {{music~/composit~/record~/listen~/song~/sing~/pop~ artist~\}})] *
+$ * [@cmb({{help~/assist~\}}, {{advis~/advic~/tell~/suggest~/prompt~/recommend~/choos~/select~/pick~/find~/seach~/--\}}, {{music~/composit~/record~/listen~/song~/sing~/pop~ artist~\}})] *
+# I can offer you selected hits of popular music.[ExtendAnswer("sova_eng_music")]
+
+
+
+//Recommend music
+--Label sova_eng_music
+$ engchoosemusic
+# Please choose a genre: [br] [inf]{Blues} [br] [inf]{Jazz} [br] [inf]{Chançon} [br] [inf]{Electronic} [br] [inf]{Rock} [br] [inf]{Hip-Hop} [br] [inf]{Reggae} [br] [inf]{Rythm-n-Blues}[br] [inf]{Disco} [br] [inf]{Random choice}[%that_anchor="genre"]
+
+
+
+//Genre - all - change a genre
+$ * change * genre *
+# [ExtendAnswer("sova_eng_music")]
+
+
+
+//Genre - blues
++%that_anchor="genre"
+$ * blues~ *
+# I guess, you may like it [br][udict(sova_music_blues)] [br] [inf]{More of Blues} [br] [inf]{Change genre} [%that_anchor="genre_blues"]
+
+
+
+//Genre - blues - more
++%that_anchor="genre_blues"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Blues
+# I hope, you will like it [br][udict(sova_music_blues)] [br] [inf]{More of Blues} [br] [inf]{Change genre} [%that_anchor="genre_blues"]
+# I bet, you'll like it [br][udict(sova_music_blues)] [br] [inf]{More of Blues} [br] [inf]{Change genre} [%that_anchor="genre_blues"]
+# I have a feeling, you may like it [br][udict(sova_music_blues)] [br] [inf]{More of Blues} [br] [inf]{Change genre} [%that_anchor="genre_blues"]
+
+
+
+//Genre - Jazz
++%that_anchor="genre"
+$ * jazz~ *
+# Hope, this will suit you [br][udict(sova_music_jazz)] [br] [inf]{More of Jazz} [br] [inf]{Change genre} [%that_anchor="genre_jazz"]
+
+
+
+//Genre - Jazz - more
++%that_anchor="genre_blues"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Jazz
+# Let's see, what you think of this choice [br][udict(sova_music_jazz)] [br] [inf]{More of Jazz} [br] [inf]{Change genre} [%that_anchor="genre_jazz"]
+# My forecast, you'll like it [br][udict(sova_music_jazz)] [br] [inf]{More of Jazz} [br] [inf]{Change genre} [%that_anchor="genre_jazz"]
+# I bet, you'll like it [br][udict(sova_music_jazz)] [br] [inf]{More of Jazz} [br] [inf]{Change genre} [%that_anchor="genre_jazz"]
+
+
+
+//Genre - Chançon
++%that_anchor="genre"
+$ * chançon *
+# Hope, this will be to your liking [br][udict(sova_music_chanson)] [br] [inf]{More of Chançon} [br] [inf]{Change genre} [%that_anchor="genre_chançon"]
+
+
+
+//Genre - Chançon - more
++%that_anchor="genre_chançon"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Chançon
+# I've no idea, if you heard it before [br][udict(sova_music_chanson)] [br] [inf]{More of Chançon} [br] [inf]{Change genre} [%that_anchor="genre_chançon"]
+# Hope, it will turn out an appropriate choice [br][udict(sova_music_chanson)] [br] [inf]{More of Chançon} [br] [inf]{Change genre} [%that_anchor="genre_chançon"]
+# I have a presentiment, you will be OK with it [br][udict(sova_music_chanson)] [br] [inf]{More of Chançon} [br] [inf]{Change genre} [%that_anchor="genre_chançon"]
+
+
+
+//Genre - Electronic music
++%that_anchor="genre"
+$ * Electronic music *
+# My forecast, you'll like it [br][udict(sova_music_electro)] [br] [inf]{More of Electronic music} [br] [inf]{Change genre} [%that_anchor="genre_electronic"]
+
+
+
+//Genre - Electronic music - more
++%that_anchor="genre_electronic"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Electronic music
+# I bet, you'll like it [br][udict(sova_music_electro)] [br] [inf]{More of Electronic music} [br] [inf]{Change genre} [%that_anchor="genre_electronic"]
+# Hope, it will turn out an appropriate choice [br][udict(sova_music_electro)] [br] [inf]{More of Electronic music} [br] [inf]{Change genre} [%that_anchor="genre_electronic"]
+# I expect, you'll love it [br][udict(sova_music_electro)] [br] [inf]{More of Electronic music} [br] [inf]{Change genre} [%that_anchor="genre_electronic"]
+
+
+
+//Genre - Rock
++%that_anchor="genre"
+$ * rock~ *
+# Hope, it will turn out an appropriate choice [br][udict(sova_music_rock)] [br] [inf]{More of Rock} [br] [inf]{Change genre} [%that_anchor="genre_rock"]
+
+
+
+//Genre - Rock - more
++%that_anchor="genre_rock"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Rock
+# I wish, you approve this [br][udict(sova_music_rock)] [br] [inf]{More of Rock} [br] [inf]{Change genre} [%that_anchor="genre_rock"]
+# I suppose, you may find it interesting [br][udict(sova_music_rock)] [br] [inf]{More of Rock} [br] [inf]{Change genre} [%that_anchor="genre_rock"]
+# Hope, it will turn out an appropriate choice [br][udict(sova_music_rock)] [br] [inf]{More of Rock} [br] [inf]{Change genre} [%that_anchor="genre_rock"]
+
+
+
+//Genre - Hip-hop
++%that_anchor="genre"
+$ * Hip~ hop~ *
+# I guess, it could be OK for you [br][udict(sova_music_hiphop)] [br] [inf]{More of Hip-hop} [br] [inf]{Change genre} [%that_anchor="genre_hiphop"]
+
+
+
+//Genre - Hip-hop - more
++%that_anchor="genre_hiphop"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Hip-hop
+# I have a feeling, you may like it [br][udict(sova_music_hiphop)] [br] [inf]{More of Hip-hop} [br] [inf]{Change genre} [%that_anchor="genre_hiphop"]
+# I guess, it could be OK for you [br][udict(sova_music_hiphop)] [br] [inf]{More of Hip-hop} [br] [inf]{Change genre} [%that_anchor="genre_hiphop"]
+# I suppose, you may find it interesting [br][udict(sova_music_hiphop)] [br] [inf]{More of Hip-hop} [br] [inf]{Change genre} [%that_anchor="genre_hiphop"]
+
+
+
+//Genre - Reggae
++%that_anchor="genre"
+$ * reggae *
+# I have a presentiment, you will be OK with it [br][udict(sova_music_reggae)] [br] [inf]{More of Reggae} [br] [inf]{Change genre} [%that_anchor="genre_reggae"]
+
+
+
+//Genre - Reggae - more
++%that_anchor="genre_reggae"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Reggae
+# I think, you must love it [br][udict(sova_music_reggae)] [br] [inf]{More of Reggae} [br] [inf]{Change genre} [%that_anchor="genre_reggae"]
+# Hope, it may impress you [br][udict(sova_music_reggae)] [br] [inf]{More of Reggae} [br] [inf]{Change genre} [%that_anchor="genre_reggae"]
+# I expect, you'll love it [br][udict(sova_music_reggae)] [br] [inf]{More of Reggae} [br] [inf]{Change genre} [%that_anchor="genre_reggae"]
+
+
+
+//Genre - Rythm-n-blues
++%that_anchor="genre"
+$ * Rythm * blues *
+# I suppose, you may find it interesting [br][udict(sova_music_rnb)] [br] [inf]{More of Rythm-n-blues} [br] [inf]{Change genre} [%that_anchor="genre_rythmnblues"]
+# I expect, you'll love it [br][udict(sova_music_rnb)] [br] [inf]{More of Rythm-n-blues} [br] [inf]{Change genre} [%that_anchor="genre_rythmnblues"]
+
+
+
+//Genre - Rythm-n-blues - more
++%that_anchor="genre_rythmnblues"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ More of Rythm * blues~
+# Hope, it may impress you [br][udict(sova_music_rnb)] [br] [inf]{More of Rythm-n-blues} [br] [inf]{Change genre} [%that_anchor="genre_rythmnblues"]
+# I suppose, you may find it interesting [br][udict(sova_music_rnb)] [br] [inf]{More of Rythm-n-blues} [br] [inf]{Change genre} [%that_anchor="genre_rythmnblues"]
+# Hope, it may impress you [br][udict(sova_music_rnb)] [br] [inf]{More of Rythm-n-blues} [br] [inf]{Change genre} [%that_anchor="genre_rythmnblues"]
+
+
+
+//Genre - Disco
++%that_anchor="genre"
+$ * disco *
+# I guess, you will appreciate it [br][udict(sova_music_disco)] [br] [inf]{More of Disco} [br] [inf]{Change genre} [%that_anchor="genre_disco"]
+
+
+
+//Genre - Disco - more
++%that_anchor="genre_disco"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ Disco
+# I expect, you'll love it  [br][udict(sova_music_disco)] [br] [inf]{More of Disco} [br] [inf]{Change genre} [%that_anchor="genre_disco"]
+# I suppose, you may find it interesting [br][udict(sova_music_disco)] [br] [inf]{More of Disco} [br] [inf]{Change genre} [%that_anchor="genre_disco"]
+# Hope, it may impress you [br][udict(sova_music_disco)] [br] [inf]{More of Disco} [br] [inf]{Change genre} [%that_anchor="genre_disco"]
+
+
+
+//Genre - Random choice
++%that_anchor="genre"
+$ * Random~ *
+# I guess, you may like it  [br][udict(sova_music_reggae)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# I hope, you will like it [br][udict(sova_music_disco)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Hope, this may suit you [br][udict(sova_music_hiphop)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Let's see, what you think of this choice [br][udict(sova_music_rock)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Hope, this will be to your liking [br][udict(sova_music_jazz)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# I've no idea, if you heard it before [br][udict(sova_music_blues)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# My forecast, you'll like it [br][udict(sova_music_electro)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# I bet, you'll like it [br][udict(sova_music_rnb)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Hope, it will turn out an appropriate choice [br][udict(sova_music_chanson)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+
+
+
+//Genre - Random choice - more
++%that_anchor="genre_random"
+$ * [@cmb({[dict(sova_eng_again)]}, {[<dict(sova_eng_thanks)>]})] *
+$ * More of Random choice *
+# I guess, you may like it  [br][udict(sova_music_reggae)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# I hope, you will like it [br][udict(sova_music_disco)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Hope, this may suit you [br][udict(sova_music_hiphop)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Let's see, what you think of this choice [br][udict(sova_music_rock)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Hope, this will be to your liking [br][udict(sova_music_jazz)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# I've no idea, if you heard it before [br][udict(sova_music_blues)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# My forecast, you'll like it [br][udict(sova_music_electro)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# I bet, you'll like it [br][udict(sova_music_rnb)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+# Hope, it will turn out an appropriate choice [br][udict(sova_music_chanson)] [br] [inf]{More of Random choice} [br] [inf]{Change genre} [%that_anchor="genre_random"]
+
+
+

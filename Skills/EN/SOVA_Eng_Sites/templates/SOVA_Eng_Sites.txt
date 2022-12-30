@@ -1,0 +1,698 @@
+//Angkor Wat, Cambodia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {cambod~})] *
+$ * Angkor Wat *
+# Angkor Wat is the world’s largest religious monument and it contains impressive remains from the 9th – 15th century Khmer Empire. Hosting more than two million visitors a year, this artistic masterpiece is one of the most-visited historical sites in the world.
+
+
+
+//Taj Mahal, India
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {indi~})] *
+$ * Ta~ Mahal *
+# One of the most renowned attractions in the world, this ivory-white mausoleum was commissioned by Mughal emperor Shah Jahan to hold the tomb of his favorite wife, Mumtaz Mahal. It’s an amazing symbol of India’s history and you’ll experience Mughal architecture at its finest when you visit the Taj Mahal.
+
+
+
+//Great Barrier Reef, Australia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {austral~})] *
+$ * Bar~ Reef *
+# The Great Barrier Reef is not only one of the most colorful places on Earth but also the planet’s largest coral reef system. This fascinating system is home to 400 kinds of coral, more than 900 islands, more than 2,000 types of plants, and even some endangered species of marine life like the sea cow. Stretching around 133,000 square miles, the massive Great Barrier Reef can even be seen from outer space.
+
+
+
+//Easter Island, Chile
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {chil~})] *
+$ * Easter Island *
+# This remote Polynesian island is famed for its 887 surviving monumental statues. With shrines dating back to the 10th century, the landscape is unlike any other you’ll ever see.
+
+
+
+//Petra, Jordan
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {jordan~})] *
+$ * {petr~/khazneh~} *
+# Petra’s rock-cut architecture has contributed to its nickname, the Rose City, based on the color of the stone it was carved from. The intricate construction of temples and tombs along with the remains of churches and temples are only a couple of reasons why this world-famous site is a must-visit destination.
+
+
+
+//Machu Picchu, Peru
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {peru~})] *
+$ * {machu pi~/inc~ ancient city/inc~ empire} *
+# Rising up from a mountain forest to almost 8,000 feet above sea level is Machu Picchu, one of the Inca Empire’s greatest masterpieces. Machu Picchu is often the highlight of a visit to South America.
+
+
+
+//Old Havana, Cuba
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{havan~/cub~\}})] *
+$ * old havan~ *
+# Once a main hub for ship-building, the extensive system of defensive fortifications in Old Havana are now some of the largest and oldest in the Americas. While there are many sights and sounds to enjoy, nothing beats the Neoclassical and Baroque architecture surrounding Old Havana’s unique plazas.
+
+
+
+//Pyramids of Giza, Egypt
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {egypt~})] *
+$ * {pyramid~/giza~/gizia~/sphinx~/cheops~/heops~/kheops~} *
+# The only lasting wonder of the ancient world, these unbelievable monuments were constructed back when Egypt was one of the world’s most powerful civilizations around 4,500 years ago. While the Great Pyramids and the Sphinx usually get the most attention, the whole monument complex contains three pyramids complexes, an industrial complex, cemeteries, and a workers’ village.
+
+
+
+//Old City of Jerusalem, Israel
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{israel~/israil~/holy city/jerusal~\}})] *
+$ * {Western Wall/ Wailing Wall/Buraq Wall} *
+# Boasting lofty 16th century walls, amazing sites like the Western Wall, unique markets, and quaint alleyways, it’s no surprise that this holy city is one of the most-visited World Heritage Sites. Packed with more than 200 historical monuments with tremendous religious significance, there’s nothing quite like the Old City of Jerusalem.
+
+
+
+//Great Wall, China
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {chin~})] *
+$ * Great Wall *
+# Stretching almost 13,171 miles, more than ten million people visit the Great Wall of China every year. Building began in the 3rd century BC, and by the time it was finished in the 17th century AD it was the largest military structure in the world and had great architectural and historic importance.
+
+
+
+//Itsukushima Shinto Shrine, Japan
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {japan~})] *
+$ * {Itsukushim~/Shinto/Shrine~} *
+# Known for its floating torii gate, the Itsukushima Shinto Shrine dates back more than 1,400 years. The shrine complex is a holy place of Shintoism and is made up of 20 structures. The impressively designed structures are connected by boardwalks, but one of the best ways to experience the complex is by taking a boat cruise around the inlet during high tide.
+
+
+
+//Acropolis, Athens, Greece
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{greec~/greek/athen~\}})] *
+$ * {acropol~/parthenon~} *
+# This ancient citadel dominates Athens as it holds the remnants of buildings that had major historic importance. Esteemed sculptors and architects designed these monuments where theatre, democracy, philosophy, speech, and freedom of expression were eventually produced. Highlighted by the Parthenon, the Acropolis is one of the most significant ancient sites in the world. Parthenon temple on a bright day.
+
+
+
+//Cinque Terre, Italy
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {ital~})] *
+$ * {Manarola Village~/Cinque Terr~} *
+# With cars being banned here, you’ll really get to feel the distinct history and character of the Cinque Terre’s centuries-old five coastal villages. Whether you’re hiking, eating, or taking a boat tour, it’s hard to deny that the Cinque Terre is among the most beautiful historical places in the world.
+
+
+
+//Historic Centre of the City of Salzburg, Austria
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Salzburg/Austri~\}})] *
+$ * {Hohensalzburg~/Getreidegass~/Mirabel~ Garden~} *
+# Italian and German cultures clashed to create the beautiful Baroque and medieval architecture that make seeing this Old Town one of the must-do activities in Salzburg. A stroll through quaint alleyways and down charming cobblestone streets will yield everything from Hohensalzburg Castle and domes and spires to unique exhibits and the Getreidegasse, Salzburg’s most famous shopping street. Beautiful view of famous Mirabell Gardens with the old historic Fortress Hohensalzburg is astonishing.
+
+
+
+//Works of Antoni Gaudi, Spain
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{barcelon~/spain/spanish\}})] *
+$ * {Sagrada Familia/Güell/Guell~/Gaudí} *
+# Synonymous with the city of Barcelona, Antoni Gaudí brought a creativity and style to architecture that people are still raving about. His modernista pieces were heavily influenced by nature, religion, and architecture, and he even introduced new treatment techniques like trencadís. When you plan your list of things to do in Barcelona, you should definitely include some of Gaudí’s most famous works like La Sagrada Familia and Park Güell.
+
+
+
+//Vatican City
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{vatican/ital~/rome/roma\}})] *
+$ * {Peter~ Basilic~/Castle of Holy Angel} *
+# The world’s smallest country has huge significance. Not only is the Catholic holy city home to the pope, but it also houses countless pieces of prized art and many years of great history. Baroque and Renaissance art and architecture characterize Vatican City, and are displayed perfectly at one of the world’s largest religious buildings, St. Peter’s Basilica.
+
+
+
+//Rila Monastery, Bulgaria
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {bulgar~})] *
+$ * Rila Monaster~ *
+# This 10th century fortress-like complex was the dwelling and tomb of St. John of Rila and is now Bulgaria’s largest and most famous Eastern Orthodox monastery. Housing around 60 monks, the inside will prove to be just as impressive as the outside as it boasts colorful domes, stylish colonnades, unique frescoes, and exceptional architecture.
+
+
+
+//Giant’s Causeway, UK
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{uk/united kingdom/ireland/irish\}})] *
+$ * Giant~ Causeway *
+# One of Ireland’s top attractions, we can thank the many years of volcanic activity for producing this remarkable rock formation. The striking scene of 40,000 ginormous basalt columns rising from the sea isn’t one you’ll soon forget.
+
+
+
+//Abu Simbel, Egypt
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {egypt~})] *
+$ * {Abu Simbel~/Ramses/ramzes} *
+# A small village with beautiful views of the desert and lake, Abu Simbel’s claims to fame are its two enormous temples that were rescued from Lake Nasser’s rising waters. Each temple is impressive in its own right with the Temple of Ramses II containing four statues of Ramses that are more than 20 meters tall and the Temple of Hathor being one of Egypt’s best-preserved complexes.
+
+
+
+//Chichen Itza, Mexico
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{maya/mayan~/mexic~/yucatan~\}})] *
+$ * {Chichen Itza/Kukulkan~} *
+# The center of pilgrimage for more than 1,000 years and previously the Yucatán’s most powerful city, the Mayans really did us a favor by creating Chichen Itza. One of the greatest places to visit in Mexico, there’s still so much to enjoy here from ancient carvings in the structures to sound and light shows in the evenings. Highlighted by El Castillo, the striking 30-meter step pyramid makes Chichen Itza stand out among Mexico’s best ruins. The Kukulcán step-pyramid (Temple of Kukulcán) dominates the center of the archaeological site.
+
+
+
+//Cultural Landscape of Bali, Indonesia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{bali/indone~\}})] *
+$ * {rice terrac~/water templ~} *
+# While Bali is typically famous for its beaches and mountains, UNESCO draws our attention to its five rice terraces and their water temples, including the 18th-century Royal Water Temple of Pura Taman Ayun. One of the reasons why it’s so significant is because of the use of the 9th century farming practice called subak, which helped the Balinese become effective rice growers.
+
+
+
+//Leshan Giant Buddha, China
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {chin~})] *
+$ * Giant {Buddha/Buddah} *
+# Back in the 8th century, Hai Tong led the charge to carve the Leshan Giant Buddha out of a cliff face. The result was a 71-meter Buddha statue that is both the tallest and largest in the world.
+
+
+
+//Yellowstone National Park, USA
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{united states/us/usa/america~\}})] *
+$ * {National Park~/Yellowston~} *
+# The world’s first national park sits on top of a volcanic hot spot and offers everything from great views to fun activities and wildlife sightings. Home to lush forests, hot springs, alpine rivers, geyers, and more, it’s not hard to see why it’s one of the greatest parks in the USA.
+
+
+
+//Cappadocia, Turkey
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {turk~})] *
+$ * {Cappadocia/fairy chimney~} *
+# Cappadocia is a fascinating geological wonderland of “fairy chimneys”, or large, cone-shaped rock formations. But that’s not all…it’s also full of caves, cave churches, fantastical landscapes, and underground cities. To take in Cappadocia at its best, book a hot air balloon ride so you can see all of the unique landscape and enjoy one of the best sunrises in the world. The great tourist attraction of Cappadocia - balloon flight. Cappadocia is known around the world as one of the best places to fly with hot air balloons.
+
+
+
+//Galapagos Islands, Ecuador
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {ecuador~})] *
+$ * {Galápagos~/Galapagos/giant tortois~/sea lion~} *
+# Maybe the best place on Earth to view wildlife, the Galápagos Islands are the second largest marine reserve on the planet and home to 500 endemic species and more than 700 plant species. You’ll even have the chance to get up close and personal with penguins, giant tortoises, and other fascinating animals. In addition, its beaches and volcanic landscapes make it one of the world’s most beautiful islands.
+
+
+
+//Los Glaciares National Park, Argentina
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/Glaciar~/Glacier~/National Park\}}, {{Argentin~/Patagoni~\}})] *
+$ * {Glaciar~ National Park/Perito Moreno Glacier~} *
+# Highlighting the list of the most beautiful places in the world, glacial lakes and rugged mountains are only the beginning of one of South America’s best parks. With 1/3 of the park being covered in ice, the glaciers are some of the most accessible in the world. Wildlife viewing, hiking, and climbing are super popular here along with helicopter rides over the park.
+
+
+
+//Venice, Italy
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {ital~})] *
+$ * {Saint Mark~/san marc~/Doge~/Rialto/Venice} *
+# Venice is a dream destination that’s made up of more than 118 islands. It’s filled with stunning canals, art, and architecture that are sure to capture your heart as you explore renowned sites like Saint Mark’s Basilica, Doge’s Palace, and the Rialto Bridge and market. The only pedestrian-only city in the world, you’ll have to rely on your feet or a boat to experience the captivating atmosphere in Venice.
+
+
+
+//Plitvice Lakes National Park, Croatia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {croatia~})] *
+$ * Plitvic~ *
+# Waterfalls, lakes, and caves highlight one of Europe’s best national parks. Other than their natural beauty, its 16 lakes are known for their variety of colors that change based on the angle of the sun and organisms and minerals in the water. Because Plitvice Lakes National Park is heavily forested, you’ll have the chance to check out many different types of animals, birds, and trees.
+
+
+
+//Ha Long Bay, Vietnam
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/marvel~/Floating villag~\}}, {vietnam~})] *
+$ * {Halong Bay~/Ha long Bay~} *
+# Known for its limestone pillars and rainforests, Ha Long Bay is made up of nearly 2,000 islands. While most of the islands are uninhabited, the large caves and trees on many of them make for stunning landscapes. Floating villages and rock islands leave a lasting impression on a visitor.
+
+
+
+//Iguazu National Park, Brazil/Argentina
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {{Brazil~/Argentin~\}})] *
+$ * Iguazu~ *
+# The crown jewel of this national park is one of the world’s most impressive waterfalls which spans almost 9,000 feet. Sitting in both Argentina and Brazil, the spray from the waterfall contributes to lush vegetation and more than 2,000 types of vascular plants within the rainforest.
+
+
+
+//Hampi, India
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{india/indian/hindu\}})] *
+$ * {hampi/Virupaksha/Vijayanagar} *
+# This majestic city contains the remains of the last great Hindu kingdom. Created during the Vijayanagara Empire, more than 1,600 pieces still remain and include temples, gateways, forts, and more. With a landscape defined by hill ranges, open plains, and the Tungabhadra River, the city has a rocky topography that’s perfect for those who enjoy climbing. Virupaksha Temple is located in the ruins of ancient city Vijayanagar at Hampi.
+
+
+
+//Bagan, Myanmar
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Myanma~/Burma~\}})] *
+$ * bagan~ *
+# The Myanmar Kingdom’s first capital city houses the world’s largest concentration of Buddhist monuments. Its more than 2,500 structures include monasteries, pagodas, ruins, temples, stupas, etc. dating back to between the 10th and 14th centuries AD. Sunrise landscape view with silhouettes of old temples is truly fascinating.
+
+
+
+//Mont Saint Michel, France
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{franc~/normand~\}})] *
+$ * Saint Michel~ *
+# Initially founded by a hermit from Ireland, this medieval town is characterized by intricate architecture and curvy streets and is most known for having one of France’s best attractions, the Mont Saint Michel Abbey. Started in the 10th century, this Benedictine abbey is a great example of Gothic and Romanesque architecture, and it was one of the first UNESCO World Heritage Sites. The rocky isle of Mont Saint Michel is also home to more than 60 buildings that are protected as French national heritage sites.
+
+
+
+//Serengeti National Park, Tanzania
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {{Tanzani~/africa~/safari\}})] *
+$ * Serengeti *
+# Visit Serengeti National Park to get a peek at the most magnificent natural event in the world, the great wildebeest migration. Every year between October and November two million wildebeest and hundreds of thousands of zebras and gazelles migrate south to search for water and grazing land. The park also has the highest concentration of large mammals on the planet, including the Big Five – lion, Cape buffalo, leopard, elephant, and rhinoceros, and around 500 species of birds. If you’re looking for a perfect safari experience, look no further than Serengeti National Park.
+
+
+
+//Al-Hijr Archaeological Site (Madâin Sâlih), Saudi Arabia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {Saud~ Arab~})] *
+$ * {Mada~ * Saleh~/Nabat~/Al-Hijr~} *
+# A remarkable site from the Nabataean civilisation, the archaeological site of Al-Hijr is Saudi Arabia’s first UNESCO World Heritage Site. With pieces dating back to the 1st century BC, façades, cave drawings, and water walls are some of the site’s most fascinating features. The antiquity and architectural expertise of Al-Hijr is shown at its best in its 131 rock-cut monumental tombs.
+
+
+
+//Pergamon, Turkey
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {turk~})] *
+$ * {Pergamon~/Bergam~} *
+# Dating back to the 3rd century BC, Pergamon was one of the ancient world’s major learning hubs. Its most renowned site was Pergamon Altar, a monumental construction that was likely dedicated to Greek gods Zeus and Athena. As the capital of the Attalid dynasty, it was also home to exceptional theatres, temples, porticoes, and many other types of monuments that you can still visit today. Surviving through many civilizations, the acropolis even houses remains from the Byzantine, Ottoman, and Roman empires.
+
+
+
+//Rani-ki-Vav, India
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{india/indian/hindu\}})] *
+# Rani-ki-Vav, or the Queen’s Stepwell, was constructed in the 11th century AD to memorialize King Bhimdev I. The water resource and storage system was built using the complex and intricate Maru-Gurjara architectural style. Designed as an inverted temple, Rani-ki-Vav has seven levels and more than 1,000 sculptures to explore. Ornate stone carved walls lining the 11th century Rav-Ki-Vav stepwell at Patan, Gujarat, India. Selected as a UNESCO world Heritage Site
+
+
+
+//Grand Canyon National Park, USA
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {{united states/us/usa/america~\}})] *
+$ * Grand Canyon~ *
+# Thanks to the erosion from the Colorado River, the Grand Canyon is among the best spectacles on the planet. Stretching almost 300 miles, this magnificent gorge is almost a mile deep and the width varies between less than a half mile to almost 19 miles.
+
+
+
+//Dolomites, Italy
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {ital~})] *
+$ * {Dolomit~/Pale Mountain~/Antorn~} *
+# This mountain range, also known as the Pale Mountains, is famed for their 18 peaks reaching to more than 3,000 meters. Its gorgeous mountain landscapes include everything from spires to crags, and are complemented by karst systems and glacial landforms. Due to the composition of the dolomite rock, we can enjoy the impressive sight of alpenglow; if you visit around sunrise or sunset, the mountains will appear to be a pink/purple color or an orange/red color. Majestic landscapes, alpine glacier lakes and yellow pine trees, Antorno lake with famous Tre Cime di Lavaredo peaks in background are waiting for admirers.
+
+
+
+//Schönbrunn Palace and Gardens, Austria
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Austria~/Vienn~\}})] *
+$ * {Schönbrun~/Schonbrun~/Schoenbrun~/Habsburg~} *
+# Previously housing the Habsburg emperors, this 1,441-room palace and its gardens are a remarkable example of Baroque art and Gesamtkunstwerk, art that fuses many forms. Familiar names like Wolfgang Amadeus Mozart and Napoléon Bonaparte have graced the interior of the palace which you can tour too as you admire the Rococo style. One of Vienna’s best attractions, the palace is also home to the world’s first zoo built in 1752.
+
+
+
+//Cesky Krumlov, Czech Republic
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{czech~/chechi\}})] *
+$ * Krumlov~ *
+# Český Krumlov was named after and built to surround one of the Czech Republic’s most beautiful castles. Construction began in 1240 and the finished castle boasts Renaissance, Gothic, and Baroque features. In 1766 the castle became a residence and a theatre, garden, pavilion, and winter riding school were added. This medieval town has retained its architectural history for more than five centuries, and its river views, cobblestone streets, and frequent cultural events put Český Krumlov among the best places to visit in the Czech Republic.
+
+
+
+//Forbidden City, China
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {chin~})] *
+$ * Forbidden City *
+# Behind the ten-meter defensive wall is the unbelievable Forbidden City. Comprised of 90 palaces and courtyards, 980 buildings and 8,704 rooms, this palace complex was the Chinese imperial palace for more than 500 years, beginning with Ming dynasty and ending with the Qing dynasty. Built between 1406 and 1420 and epitomizing Chinese palatial architecture, it is the largest of its kind in the world. Today, the Forbidden City is home to the Palace Museum which houses an extensive collection of paintings, ceramics, jade, and other historic and cultural artifacts.
+
+
+
+//Uluru-Kata Tjuta National Park, Australia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {Austral~})] *
+$ * Uluru-Kata Tjuta *
+# Named by the local Anangu people, this park is an icon that recognizes Australia’s indigenous people. Uluru is a massive domed rock and Kata Tjuta is a group of 36 rock domes ranging in size, and together they create amazing formations that define central Australia’s red, sandy plain. Other than its two major features, this arid ecosystem houses hundreds of plant species and around 73 reptile species and 27 types of mammals.
+
+
+
+//Tikal National Park, Guatemala
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {{Guatemal~/maya/mayan~\}})] *
+$ * {Tikal~/Peten~} *
+# One of the highlights of Guatemala, this archeological site was one of the most significant Mayan cities during the Classic Period. The park is surrounded by jungle as well as wetlands, tropical forests, and savannah, so don’t be surprised if you see monkeys, toucans, or wild turkeys. Dominated by the 70-meter-tall Temple IV, some of the thousands of ancient structures have been excavated, so there’s a lot to see from palaces and residences to terraces and ball courts, but there are many others yet to be discovered. Come to see the legendary temples of the Maya.
+
+
+
+//Statue of Liberty, USA
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{united states/us/usa/america~/newyork~/new york~/manhattan~\}})] *
+$ * [@cmb({Liberty}, {statu~})] *
+# Gifted to the USA by France on its 100th anniversary of independence and built by the same engineer responsible for the Eiffel Tower, the Statue of Liberty is a neoclassical sculpture that stands proudly on Liberty Island. Lady Liberty has become a symbol of freedom as she raises a torch in her right hand and holds a tablet with the date of the U.S. Declaration of Independence in her left hand while a broken chain rests at her feet.
+
+
+
+//The Eiffel Tower, France
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{franc~/paris~\}})] *
+$ * [@cmb({{Eiffel~/Eifel~/efel~/effel~\}}, {{tower~/tour~\}})] *
+# The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed "La dame de fer", it was constructed from 1887 to 1889 as the centerpiece of the 1889 World's Fair.
+
+
+
+//Canadian Rocky Mountain Parks, Canada
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {canad~})] *
+$ * {Rocky Mountain~/Yoho/Kootenay/Jasper/Banff/Spirit Island/Maligne Lake} *
+# Four national parks (Yoho, Kootenay, Jasper, and Banff) and three provincial parks (Hamber, Mount Assiniboine, and Mount Robson) combined to create some of the best natural beauty in the world. Icefields, limestone caves, and waterfalls are only the start of what you’ll see throughout the mountain landscape. Acting a divider between Alberta and British Columbia, the area is known for its diverse wildlife (you’re probably most likely to see bighorn sheep, deer, and elk) and the Burgess Shale fossil site. Picturesque Spirit Island in Maligne Lake is a part of Jasper National Park.
+
+
+
+//Hierapolis-Pamukkale, Turkey
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {turk~})] *
+$ * {Hierapolis/Pamukkale/Pamukale} *
+# Comprised of mineral forests, terraced basins, and petrified waterfalls, we can thank mineral-infused water from Cürüksu for the amazing site that we call Pamukkale, or the Cotton Palace. This area shares its fame with the well-preserved city of Hierapolis. At the end of the 2nd century BC, the Attalid kings of Pergamon decided to create the thermal spa of Hierapolis and use its hot springs. Previously a significant religious center for the Eastern Roman Empire, today we can still see the ruins of temples, baths, a theatre, and other Greek structures. History, views, and relaxation mix to create an epic trip to Hierapolis-Pamukkale. The enchanting pools of Pamukkale in Turkey. Pamukkale contains hot springs and travertines, terraces of carbonate minerals left by the flowing water. The site is a UNESCO World Heritage Site.
+
+
+
+//Bam, Iran
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {iran~})] *
+$ * {Bam/Achaemenid} *
+# Dating back to the 6th-century Achaemenid Empire, Bam used to be famous for creating cotton and silk garments. Because it’s in an oasis, their lives depended on underground irrigation canals, and these preserved canals have proven to be some of the oldest in Iran. While it’s home to many historical structures, its crown jewel is Arg-e Bam. Arg-e Bam is the world’s biggest adobe building, and it’s the best example we have of something being built with the vernacular technique of mud layering. Ancient ruins of islamic iranian citadel attract crowds of tourists.
+
+
+
+//Ayutthaya Historical Park, Thailand
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {Thai~})] *
+$ * {Ayutthaya/Wat Mahathat/Wat Phra Sri Sanphet/Wat Ratchaburana} *
+# Among the best places to visit in Thailand, the island city of Ayutthaya was established in 1351 by King Ramathibodi I and became Siam’s second capital. Today, the Ayutthaya Historical Park covers its ruins and 289 hectares of the park have been given UNESCO status because of the exemplary Thai art that’s on display. With many buildings to see, some of the highlights include the Buddhist temples of Wat Mahathat, Wat Phra Sri Sanphet, and Wat Ratchaburana.
+
+
+
+//Historic Centre of Rome, Italy
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{ital~/rome/roma\}})] *
+$ * {Centre of Rome/Colosseum} *
+# Founded in 753 BC according to Roman mythology, the Eternal City was the capital of the Roman Empire, a major center of the Italian Renaissance, and the birthplace of Neoclassicism and the Baroque style. This ancient city has so many great things to see and do that it’s nearly impossible to see them all in one trip. Don't miss the precious moments of watching Colosseum in the morning sun.
+
+
+
+//St. Kilda, Scotland
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {scot~})] *
+$ * {kilda/hirta/Puffin/Fulmar/Gannet} *
+# Created from the rim of a volcano, this breathtaking archipelago has some of Europe’s most dramatic views and highest sea cliffs. Holding UNESCO status for both its cultural and natural aspects, St. Kilda is uninhabited by humans, but it’s home to almost one million seabirds, mainly Atlantic Puffin, Northern Fulmar, and Northern Gannet. Cleitean are another thing that makes St. Kilda unique. There are almost 1,500 of these stone storage huts throughout St. Kilda, and you won’t find them anywhere else in the world.
+
+
+
+//La Grand-Place, Belgium
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{brussel~/belgi~\}})] *
+$ * {Grand Place/GrandPlace/Grand-Place} *
+# Representing the success and prosperity of Brussels, La Grand-Place is one of Europe’s most beautiful central market squares. Wanting to communicate its vitality and significance after the bombardment of Louis XIV and the French in 1695, several artistic styles were blended together to make La Grand-Place an architectural gem. Highlighting the square is its only remaining medieval building, the Brabantine Gothic Town Hall and other opulent guildhouses, but there are many other magnificent Baroque and Gothic pieces to admire.
+
+
+
+//Tongariro National Park, New Zealand
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/national park~\}}, {new zealand~})] *
+$ * Tongariro *
+# New Zealand’s oldest national park has natural, cultural, and religious significance. Several of the summits are considered sacred and there are many Māori religious sites within the park. There are a variety of views, ecosystems, and volcanoes (both extinct and active) throughout Tongariro National Park that make for a perfect afternoon of hiking, picnicking, and taking pictures. It’s even home to Tongariro Alpine Crossing, one of the most popular hikes in the world.
+
+
+
+//Socotra Archipelago, Yemen
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {yemen~})] *
+$ * Socotra *
+# Made up of four islands and two islets, Socotra is more about the animals than it is about people. Famed for its biodiversity, there are almost 700 species of flora and fauna that can’t be found anywhere else in the world. With species including 192 types of birds, 253 types of reef-building coral, 300 types of crab, lobster, and shrimp, 730 types of coastal fish, 825 plant types, and much more, Socotra is the ideal place for nature lovers and those who support eco-tourism.
+
+
+
+//Wulingyuan, China
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {chin~})] *
+$ * {Wulingyuan/Zhangjiajie} *
+# While Wulingyuan is mainly famed for its more than 3,000 narrow quartzite sandstone peaks and pillars, many standing more than 200 meters tall, you’ll absolutely love what you’ll find in between them. Between the lofty peaks are lakes, pools, streams, rivers, and waterfalls along with gorges, ravines, two natural bridges, and 40 caves. In addition to the epic landscape, Wulingyuan is also known for having many endangered animal and plants species.
+
+
+
+//Historic Centre of Florence, Italy
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {ital~})] *
+$ * {Florence~/Michelangelo/Giotto/Brunelleschi/Santa Maria del Fiore} *
+# Stunning art and architecture will surround you as you walk past buildings, museums, and churches displaying the greatness of Michelangelo, Giotto, Brunelleschi, and many other artistic legends. With world-famous attractions like the Galleria dell’Accademia, where you can see Michelangelo’s David statue, and the Uffizi Gallery, one of the largest museums in the world, it’s best to book skip-the-line tickets in advance so you don’t have to wait in line for hours. The largest concentration of world-renowned works of art is found here, so it should come as no surprise that Florence’s historic centre is one of the most popular UNESCO World Heritage Sites.
+
+
+
+//Yosemite National Park, USA
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/national park~\}}, {{united states/us/usa/america~\}})] *
+$ * Yosemite *
+# Yosemite’s glacial topology secures its spot among the best parks in the USA. This amazing park is also typically recognized because of its huge sequoias and granite cliffs. In addition, you’ll find all sorts of picture-worthy meadows, waterfalls, streams, mountains, and a variety of plants and animals.
+
+
+
+//Old City of Dubrovnik, Croatia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {croatia~})] *
+$ * Dubrovnik~ *
+# If you’re road tripping through Croatia, Dubrovnik is an absolute must-see destination, and not just because of Game of Thrones. Located on the Dalmatian coast, Dubrovnik was beautifully restored and preserved after a 17th-century earthquake. Now, churches, fountains, monasteries, and palaces decorate the medieval city, and the Baroque, Gothic, and Renaissance architecture are definitely something you’ll rave about while you’re wandering the bustling streets checking out everything from local restaurants to markets.
+
+
+
+//Timbuktu, Mali
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{mali/africa~/sahara~\}})] *
+$ * Timbuktu *
+# Located at the gateway to the Sahara Desert, this 5th-century city is known as the hub for spreading Islam throughout Africa. Reminiscent of Timbuktu’s golden age are its three landmark mosques, the 14th century Sankore, the 14th century Djinguereber, and the 15th century Sidi Yahya. Timbuktu’s esteemed past and earthen architecture are impressively displayed throughout the city, mainly in its 16 mausoleums and public holy places.
+
+
+
+//Old Town of Ghadames, Libya
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {libia~})] *
+$ * {Ghadam~/pearl * desert~/desert~ * pearl} *
+# With archaeological evidence dating it back to the 4th century BC, this Berber town is one of the oldest pre-Saharan settlements. The walled Old Town is located in an oasis and perfectly exemplifies a traditional settlement. Another thing the town is known for is its domestic architecture, which was practically and functionally divided into four levels that included a nearly underground system of passageways, supplies stored on the ground floor, families living on the next floor up, and open-air terraces on the roof.
+
+
+
+//Carlsbad Caverns National Park, USA
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/national park~\}}, {{united states/us/usa/america~\}})] *
+$ * {Carlsbad~/Guadalup~/Lechuguilla~} *
+# A karst landscape defines Carlsbad Caverns National Park which houses more than 119 caves. Its two main standouts are the namesake Carlsbad Cavern and Lechuguilla Cave. Both are known for their natural beauty, reef formations, and geologic features, but Carlsbad Cavern is renowned for having one of the largest limestone cave chambers in the country at 4,000 feet long while Lechuguilla Cave owes its fame to its rare speleothems, or secondary mineral deposits, that provide a natural laboratory to study biological and geological processes. Carlsbad Caverns National Park is a United States National Park located in the Guadalupe Mountains in southeastern New Mexico.
+
+
+
+//China Danxia, China
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {chin~})] *
+$ * Danxia *
+# China Danxia is characterized by red cliffs, natural pillars, waterfalls, ravines, and other striking landscapes. The distinct red color of the cliffs is due to tectonic uplift, erosion, and weathering that has been present since the Neogene. These beautiful landforms help to preserve the evergreen forest where many plants and animals find their homes, of which about 400 species are rare and possibly endangered.
+
+
+
+//Old Walled City of Shibam, Yemen
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {Yemen~})] *
+$ * {Shibam~/Hadramawt~/Hadramaut~} *
+# Also known as the “Manhattan of the Desert”, this 16th-century city was the capital of the Hadramawt Kingdom and is famous for its building construction and gridded streets. Rising from the cliffs are its mud brick tower blocks, some built up to 11 levels high. The rectangular plan of the squares and streets are said to be the most successful example of traditional Hadrami urban architecture. A visit to Shibam will show how much it reflects the Wadi Hadramaut people and their former traditional way of life while also exuding traditional Muslim and Arab culture.
+
+
+
+//Mostar, Bosnia & Herzegovina
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Bosnia~/Herzegovin~\}})] *
+$ * {Mostar/Old Bridge/Stari Most} *
+# Mainly known for the Old Bridge, or Stari Most, there’s so much more to Mostar. Other than the smells of delicious cuisine and the sounds of traditional live music, there are several popular sites to see that include the remains of Cim Early Christian Basilica, Bishop’s Ordinariate, and the Tara and Halebija Towers. Beautiful view on Mostar city with old bridge and ancient buildings on Neretva river in Bosnia and Herzegovina are well-deserving of the honor of being among Europe’s best cities.
+
+
+
+//Meteora, Greece
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{greec~/greek/orthodox\}})] *
+$ * {Meteora/Kastraki} *
+# This nearly inaccessible sandstone rock formation dates back to the 11th century. Meteora is a breathtaking phenomenon that’s home to one of the biggest and most steeply built complexes, containing 24 Eastern Orthodox monasteries. In addition to the history, architecture, and views on display here, you’re sure to appreciate the 16th-century, post-Byzantine frescoes within the monasteries. The nature here, along with the example of bravery in building the monasteries despite the danger, create an experience that must be seen to be believed. For more information check out our guide to visiting Meteora. Enjoy a beautiful view on Monastery of the Holy Trinity placed on the edge of high rock covered of the morning at sun rises.
+
+
+
+//Dorset and East Devon Coast, UK
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{united kingdom/brit~/uk/engl~\}})] *
+$ * {Dorset/East Devon/Durdle Door/Jurassic Coast} *
+# Frequently called the Jurassic Coast, it’s made up of nearly continuous rock formations that stretch back to the Mesozoic Era. Renowned for its geomorphological and geological features, you’ll be able to see coves, arches, stack rocks, and pinnacles. The Dorset and East Devon Coast include a variety of important fossil localities, both terrestrial and marine, which also makes this impressive geological feature a great contributor to paleontology.
+
+
+
+//Historic Centre of Bukhara, Uzbekistan
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {uzbek~})] *
+$ * {bukhar~/Sassanid~/Samani~} *
+# More than 2,000 years old, the city of Bukhara was an important stop on the Silk Road trade route as well as being a medieval hub for Islamic culture and theology. Home to around 140 well-preserved architectural monuments, there are still many mosques, caravanserais, bazaars, and madrassas to be seen. Bukhara is a nearly perfect example of a central Asian medieval city, and it’s highlighted by the Samanid Mausoleum. Not only is the 10th-century tomb a great example of Sassanides architecture, but it’s also the resting place of Ismail Samani, an influential leader during the Samanid Empire.
+
+
+
+//Białowieża Forest, Poland/Belarus
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{poland/polish/belarus\}})] *
+$ * {Białowież~/belovez~/bialovez~/bialowez~} *
+# The magnificent forest complex is probably most famous for housing 1/4 of the world’s European Bison, Europe’s heaviest land animal. The diverse ecosystems mean that in addition to the lowland forests, there are also wetlands, wet meadows, and river valleys. Among Białowieża Forest are seven reptile, 3 amphibian, 59 mammal, more than 250 bird, and over 12,000 invertebrate species.
+
+
+
+//Lut Desert, Iran
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {iran~})] *
+$ * lut *
+# Among the world’s largest deserts, Lut Desert is one of the hottest and driest places on Earth. Thanks to the strong winds it endures, it’s home to some of the best aeolian yardang landforms, or huge corrugated ridges, on the planet, as well as substantial dune fields and stony deserts. 1/3 of the desert is covered with yardangs that have ridges stretching up to 155 meters high and more than 40 kilometers long, and its dunes are among the world’s tallest, reaching up to 300 meters.
+
+
+
+//Mount Etna, Italy
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{sicil~/ital~\}})] *
+$ * etna *
+# The most active stratovolcano in the world is also the Mediterranean’s highest island mountain. The volcano features cinder cones, lava flows, and summit craters as well as orchards and vineyards. In addition, many endemic plant and animal species call Mount Etna home. Here we are, collapsed volcano cone, Mount Etna, Sicily, Italy.
+
+
+
+//Geirangerfjord and Nærøyfjord, Norway
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{norway~/norweg~/fjord~\}})] *
+$ * {Geirangerfjord/Nærøyfjord} *
+# Making up part of the west Norwegian fjord landscape, Geirangerfjord and Nærøyfjord are among the deepest and longest in the world. The two fjords are 120 kilometers from each other, have a width of up to 2.5 kilometers, and they stretch from 500 meters below sea level to up to 1,400 meters above the Norwegian Sea. The natural beauty of the landscape is truly stunning as you’ll find forests, glacial lakes, waterfalls, and more.
+
+
+
+//Agra Fort, India
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{india/indian/hindu\}})] *
+$ * Agra *
+# Often overshadowed by the nearby Taj Mahal, the Agra Fort is a massive 380,000 m² and definitely deserves your time. Until the capital was moved to Delhi in 1638, the Red Fort of Agra housed the emperors of the Mughal Empire. While visitors enter through the impressive, red sandstone Lahore Gate, the star of the show is the Delhi Gate. This 16th-century gate was considered to be a masterpiece during the time of Akbar I. Not only is it inlaid with white marble, but across the drawbridge are two life-size stone elephants that guard the inner gateway. Within the 2.5-kilometer walls there are also palaces, mosques, and halls to see. Agra Red Fort is a Unesco World Heritage site, and one of the biggest tourist highlights, just 2 km of Taj Mahal, built by several Mughal emperors from XV to XVI centuries.
+
+
+
+//Silk Roads, China/Kazakhstan/Kyrgyzstan
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Chin~/Kazakhstan~/Kyrgyzstan~\}})] *
+$ * Silk~ Road~ *
+# The Silk Roads is a 5,000-kilometer stretch of the network that has been connecting civilizations for thousands of years, beginning in the 2nd century BC. Not only did the system of trade routes allow for the exchange of goods, but also for the exchange of cultures, languages, and ideas. The passage includes 33 locations, but along the way you’ll also find other previously assigned World Heritage Sites. The Silk Roads have everything from capital cities and Buddhist cave temples to palace complexes and parts of the Great Wall of China. Follow the beautiful Curvy roads on Old Silk Route, for instance, Silk trading route between China and India, Sikkim.
+
+
+
+//Delphi, Greece
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{greec~/greek~\}})] *
+$ * {Delphi~/Temple of Apollo} *
+# Believed by the Greeks to be the center of the world, Delphi is a substantial archaeological site that had a huge impact on the ancient world. It’s also known for the Pythia, the most famous oracle of Ancient Greece. With many ruins dating back to the 6th century BC, there are plenty of things to see like athletic statues, a theatre, and the Temple of Apollo.
+
+
+
+//Antigua Guatemala, Guatemala
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {Guatemal~})] *
+$ * Antigua *
+# The former Guatemalan capital is an amazingly well-preserved colonial city known for its colonial church ruins and Spanish Baroque architecture. In 1773, the earthquake-prone area was majorly damaged by an earthquake, which led to its main structures being preserved as ruins and the capital being moved to Guatemala City. Agua volcano is behind Santa Catalina Arch in the colonial town of Antigua.
+
+
+
+//Hawaii Volcanoes National Park, USA
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/National Park~\}}, {{united states/us/usa/america~/hawai~\}})] *
+$ * {Hawai~ Volcano~/Mauna Loa/Kilauea} *
+# Home to two of the most active volcanoes in the world, Mauna Loa and Kilauea, Hawaii Volcanoes National Park was added to the UNESCO World Heritage List in 1987 in recognition of its outstanding natural values. The park is one of the biggest attractions in Hawaii as it offers visitors dramatic volcanic landscapes and glimpses of rare flora and fauna.
+
+
+
+//Neuschwanstein Castle, Germany
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{German~/bavar~\}})] *
+$ * Neuschwanstein~ *
+# One of Germany’s most beautiful castles, Ludwig II of Bavaria ordered this castle to be built as his own personal lavish hideaway. Construction was completed on the Romanesque Revival building in 1886; shortly after that Ludwig II died and soon after the castle was opened to the public. The palace and its surroundings are so stunning that Neuschwanstein Castle was the inspiration for the iconic Disneyland castle as well as the castle in the Disney film Sleeping Beauty.
+
+
+
+//Budapest, Hungary
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{hungar~/Budapest\}})] *
+# While Buda is renowned for its Baroque castle and Pest is known for being the first medieval urban centre, UNESCO brags on Budapest saying it’s, “one of the world’s outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital”. The ancient city of Aquincum was the beginning of Budapest’s history, and today it’s a leading city showing its strengths in research, education, commerce, and more. Hungarian Parliament is one of the most beautiful buildings in the Hungarian capital.
+
+
+
+//Historic Centre of Prague, Czech Republic
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {czech~/chechi/prague\}})] *
+# Prague’s historic centre contains fascinating culture and architecture that date back to the Middle Ages. The beautiful landscape includes palaces, towers, burgher houses, and more where Gothic, Baroque, and modernist works are on display. While it’s difficult to decide what to see in Prague first, we recommend starting with Prague Castle, Charles Bridge, or St. Vitus Cathedral.
+
+
+
+//Saint Petersburg, Russia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{rus~/Petersburg~/spb\}})] *
+# Picturesque landscapes, architecture, and culture characterize this port city. We can thank its founder, Peter the Great, for beginning a project in 1703 that led to more than 400 bridges and several canals beautifying its waterscape. Neoclassical and Baroque styles combine to create a lovely architectural culture that can be viewed in the Hermitage, the world’s second largest culture and art museum, the Marble Palace, and the Winter Palace.
+
+
+
+//Hoi An Ancient Town, Vietnam
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {vietnam~})] *
+$ * Hoi An *
+# This extraordinary town is sure to surpass your expectations. A prominent trading port between the 15th and 19th centuries, Hoi An has been excellently preserved and displays a lovely combination of foreign and native cultures. Even though the town is small, there are plenty of exciting things to do in Hoi An, from relaxing on the beach to getting tailor-made clothing.
+
+
+
+//Rio de Janeiro, Brazil
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{brazil~/Rio de Janeir~\}})] *
+$ * {Christ * Reedemer/Tijuca/Sugar Loaf} *
+# While Rio is known for many things, its carioca landscapes definitely take the cake. The landscapes encompass major natural elements that have molded the development of the city and stretch from the top of Tijuca National Park’s highest peak at 1,021 meters down to the sea. Some of its key sites are the Rio de Janeiro Botanical Garden, hills around Guanabara Bay, and the renowned Christ the Redeemer statue. Aerial view of Christ The Reedemer Statue and Sugar Loaf Mountain is unforgetable.
+
+
+
+//Palace and Park of Versailles, France
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {franc~})] *
+$ * Versail~ *
+# Once King Louis XIV moved the royal court here from Paris in 1682, it became known as the ideal royal residence at the time and continues to be one of France’s most visited sites. Maintained as the royal residence only until the reign of Louis XVI 107 years later, there continued to be a range of additions and embellishments added by a variety of decorators, sculptors, and architects. The symmetrical gardens designed by landscape architect André Le Nôtre are said to be among the best surviving examples of the French formal garden style. Don't miss to visit the hall of Mirrors in the palace of Versailles.
+
+
+
+//Stonehenge, England
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{united kingdom/brit~/uk/engl~\}})] *
+$ * Stonehenge *
+# Believed to be constructed from 3000 BC to 2000 BC, Stonehenge is one of the world’s most awe-inspiring prehistoric megalithic monuments. Each megalith weighs around 25 tons and stands about 7 feet wide and 13 feet high. Because of its unmatched design and sophistication, it draws visitors from all over the world and its significance continues to be explored. Stonehenge is a prehistoric monument 8 miles north from Salisbury, in the place called Wiltshire in South West England. It is under protection of UNESCO.
+
+
+
+//Historic Centre of Tallinn, Estonia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Estonia~/tallin~\}})] *
+# Established in the 13th century and developed as a central hub of the Hanseatic League, Tallinn gives us more than enough reasons to travel to Estonia. Strong enough to survive war and fires, impressive architecture is demonstrated in the design of merchant houses as well as lavish churches and buildings. When the medieval lower town highlighted by church spires contrasts with the upper town which houses Toompea Castle and St. Mary’s Cathedral, it makes for a dramatic skyline and a perfect picture opportunity from land and water.
+
+
+
+//Ancient Kyoto, Japan
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{japan~/kioto/kyoto\}})] *
+# Established in 794 AD, Kyoto was the capital of Japan until the mid-19th century. Its UNESCO status includes 17 locations made up of 198 buildings and 12 gardens that date back between the 10th – 17th centuries. Some of the most popular sites include the Zen Buddhist temple Kinkaku-ji and Kamigamo Shrine, one of Japan’s oldest Shinto shrines. Kyoto has also had a huge impact on landscape gardening worldwide, and a visit here will show the impressive development of both Japanese gardens and wooden architecture.
+
+
+
+//Bryggen, Norway
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{norway~/norweg~\}})] *
+$ * Bryggen *
+# Bryggen is an old wharf that houses around 62 buildings on Bergen’s Vågen harbour. It represents the significance of the town during the Hanseatic League’s trading empire between the 14th and mid-16th centuries. The wooden buildings have fallen victim to several fires throughout the years, but they are always rebuilt with the old patterns in an attempt to preserve the authenticity of the original main structures. Bryggen is currently home to museums, restaurants, and shops, and is highlighted by the 300-year-old Bellgården building.
+
+
+
+//Mount Fuji, Japan
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {japan~})] *
+$ * Fuji *
+# Japan’s highest mountain is quite the sight to see. This active stratovolcano rises to around 3,776 meters and is snow-capped for nearly half of the year. UNESCO named 25 locations of interest in this designation, the main sight being the Shintō shrine Fujisan Hongū Sengen Taisha. Throughout the site you’ll see gorgeous waterfalls and springs, Oshi lodging houses, Sengen-jinja shrines, and more. Mount Fuji with cherry blossom at Lake kawaguchiko gives a marvelous view.
+
+
+
+//Historic Centre of Bruges, Belgium
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{belgi~/bruge~/brugge~\}})] *
+# Bruges has remained true to its historic fabric and continues to be an impressive representation of a medieval historic settlement. Its Gothic buildings define part of its identity, and almost all of its medieval architecture is still intact. Bruges is one of Europe’s cultural and commercial capitals, and you’ll find many renowned structures here, including the Belfry of Bruges, Church of Our Lady (one of the highest brick buildings in the world), and the marble sculpture Madonna and Child (believed to be the only one of Michelangelo’s sculptures that left Italy while he was still alive). Colorful old brick houses in the Market Square in the UNESCO World Heritage Old Town of Bruges, Belgium
+
+
+
+//Kremlin and Red Square, Moscow
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{rus~/moscow~\}})] *
+$ * {Basil~ cathedral~/Red Square~/Lenin~ Mausol~/kremlin~} *
+# United in their connection to significant Russian events since the 13th century, the Kremlin and the Red Square are two of Russia’s most popular sites. Designed to be Moscow’s main marketplace, the Red Square is a plaza that runs between the Kremlin and the cultural area Kitay-gorod. No matter where you look from the Red Square you’ll see a significant building, whether it be the vibrant Saint Basil’s Cathedral or Lenin’s Mausoleum. The fortified Kremlin complex is the president’s official residence and includes five palaces, four cathedrals, several towers, and a host of other things guests can see. St. Basils cathedral and monument to Minin and Pozharsky are situated on Red Square in Moscow, Russia
+
+
+
+//Loire Valley, France
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {franc~})] *
+$ * {Loire Valley/Chateau de Chenonceau/Château de Chambord} *
+# This stunning area is defined by historic towns, impressive architecture, and fine wines. If you take a trip to its river banks, you’ll find fruit orchards, vineyards, and asparagus and artichoke fields. While everything in the Loire Valley is beautiful, its highlight is the Château de Chambord, which is one of the world’s most distinct châteaux because of its French Renaissance architectural style. Chateau de Chenonceau is another site on the Cher River in Loire Valley.
+
+
+
+//Erbil Citadel, Iraq
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {iraq~})] *
+$ * {Erbil/Afandi} *
+# Erbil Citadel is a rare example of a fortified city built on a dramatic tell, an artificial mound formed from the accumulated refuse of people living on the same site for hundreds or thousands of years. Even though there’s no continuous fortification wall, 100 façades of tall, 19th-century homes built against each other give the impression of an impenetrable fortress, and they’re quite a sight to see. While its only remaining religious structure is the Mulla Afandi Mosque, its UNESCO submission boasts, “The Citadel is today one of the most dramatic and visually exciting cultural sites not only in the Middle East but also in the world.”
+
+
+
+//Pantanal, Brazil/Bolivia/Paraguay
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Brazil~/Bolivia~/Paraguay~\}})] *
+$ * Pantanal *
+# This conservation area is home to the largest tropical wetland area in the world. Mainly located in Brazil, its estimated area is between 54,000 and 75,000 square miles and it spreads into parts of Paraguay and Bolivia. Thanks to its variety of ecosystems, a lot of flora and fauna thrive here. Home to several threatened species like the giant armadillo, marsh deer, and giant otter, it’s also believed that there are around 300 mammalian species, 400 fish species, 480 reptile species, 1,000 bird species, 3,500 plant species, and more than 9,000 invertebrate subspecies within the Pantanal.
+
+
+
+//Old and New Towns of Edinburgh, Scotland
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{scot/edinburgh~\}})] *
+# The wonderful contrast happening within Scotland’s capital city is what keeps people coming back again and again. The medieval Old Town, highlighted by Edinburgh Castle, shows off many 16th and 17th-century merchant and noble homes like the Gladstone’s Land mansion house; while the neoclassical New Town, which was established starting in 1767, is characterized by its sophisticated Georgian style and its large green spaces. These two distinct but equally great areas make for a ton of fun things to do in Edinburgh.
+
+
+
+//Swiss Alps Jungfrau-Aletsch, Switzerland
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{Switzerland~/swiss\}})] *
+$ * {Swiss Alp~/Aletsch Glacier~/Jungfrau} *
+# The Alps’ first World Natural Heritage Site, this mountainous region has been instrumental in alpine tourism, mountaineering, European art, and literature. Swiss Alps Jungfrau-Aletsch is the most glaciated part of the European Alps and it’s home to the Aletsch Glacier, Europe’s largest glacier. Many different plant and animal species are found throughout the area, with around 1,250 animal, 1,800 vascular plant, and 700 moss types being identified. Famous mount Jungfrau is here, in the swiss alps.
+
+
+
+//Notre Dame Cathedral, France
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {franc~})] *
+$ * Notre Dame *
+# One of the largest and most famous church buildings in the world, the Notre Dame Cathedral is a must-see Parisian attraction. Completed in 1345, its largely believed that this medieval cathedral is one of the greatest examples of French Gothic architecture on the planet.
+
+
+
+//Sydney Opera House, Australia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{austral~/sydney\}})] *
+$ * Sydney Opera *
+# Inaugurated in 1973, this performing arts center has been labeled an architectural masterpiece. With an expressionist style and an unrivaled design that draws our attention to the vaulted shell structures on the roof, it’s had a great impact on the architectural field. The building has several performance venues and puts on more than 1,500 performances per year. Along with the impressive design, the building is set on the end of a peninsula going into the Sydney Harbour, which gives it a majestic waterscape. Sydney Opera house is close up with office buildings of Sydney Central Business District, Circular Quay, Sydney Harbour.
+
+
+
+//Prambanan, Indonesia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {indone~})] *
+$ * {Prambanan/sewu temple} *
+# Prambanan is the largest Hindu temple complex in Indonesia and is dedicated to the deities Vishnu, Shiva, and Brahma. The Prambanan Temple itself contains 240 temples, while the compound contains more than 500. The pointed structures are traditional in Hindu architecture, and the complex is highlighted by the lofty 47-meter-tall central building. In some of the temples you can even admire the narrative panels of bas-reliefs. The Sewu temple is the second largest Buddhist temple of Indonesia and is located near the famous Prambanan temple.
+
+
+
+//Blue Mountains, Australia
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~/national park~\}}, {austral~})] *
+$ * {Blue Mountains/Sisters Rock~} *
+# Eucalypt forest defines the Blue Mountains where we get to admire beautiful sandstone plateaux, gorges, waterfalls, slot canyons, and more. There’s great diversity with its flora and fauna species, as the Blue Mountains are home to around 1,500 plant species and over 400 types of animals, including many rare species like the spotted-tailed quoll and the Blue Mountain water skink. Three Sisters Rocks are located in Blue Mountains National Park, Katoomba, Australia
+
+
+
+//Valletta, Malta
+$ * [@cmb({{landmark~/site~/interest~/famous~/wonder~/miracl~/marvel~/highlight~\}}, {{malta/valletta\}})] *
+# This fortified city is one of the world’s most concentrated historic areas. Malta’s capital city Vallella is home to 320 monuments that date back to the 16th century and tell the story of artistic, civil, military, and religious history. While Malta has been ruled by a variety of civilizations from the Phoenicians to the Byzantines, many of these buildings were created during the rule of the Order of St. John. You’ll see mainly Baroque architecture when you walk around the city, with a few neoclassical, modernist, and Mannerist pieces along the way.
+
+
+
